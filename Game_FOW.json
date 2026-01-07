@@ -1,0 +1,191 @@
+{
+    "name": "Force of Will",
+    "menuBackgroundImage": "https://i.ibb.co/ZzKYNswJ/z-V2lc-ZW-Imgur.jpg",
+    "deckBuilding": {
+        "mainFilters": ["type", "Attributes", "cost"],
+        "formats": [
+            {
+                "title": "Wanderer",
+                "gameplay": "Wanderer",
+                "compatibility": "Wanderer"
+            },
+            {
+                "title": "Paradox",
+                "gameplay": "Wanderer",
+                "compatibility": "Wanderer"
+            },
+			{
+                "title": "ABC",
+                "gameplay": "Wanderer",
+                "compatibility": "Wanderer"
+            },
+			{
+                "title": "ABC:D",
+                "gameplay": "Wanderer",
+                "compatibility": "Wanderer"
+            }
+        ]
+    },
+    "gameplay": {
+        "Wanderer": {
+            "mulligan": {
+                "info": "Draw 5 cards then put any of those cards on bottom. Once satisfied, shuffle and draw back up to 5 (click those cards).",
+                "startingHandSize": 5,                
+                "putSelectionAtBottom": true
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": false
+            },
+            "countersStartingValues": [4000, 0],
+            "sections": {
+                "customSections": ["Field", "Magic_Stone_Deck", "Mana", "Other", "Ruler", "Expel"],
+                "layout": {
+                    "direction": "column",
+                    "content": [
+                        {
+                            "direction": "row",
+                            "content": [
+                                {
+                                    "section": "Ruler",
+                                    "style": { "width": "15vh" }
+                                },
+								{
+                                    "section": "Magic_Stone_Deck",
+                                    "style": { "width": "15vh" }
+                                },
+                                {
+                                    "section": "Field"
+                                }
+                            ]
+                        },
+                        {
+                            "direction": "row",
+                            "content": [
+                                {
+                                    "section": "Mana"
+                                },
+                                {
+                                    "section": "Other"
+                                },
+								{
+                                    "section": "Expel",
+									"style": { "width": "15vh" }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "categoriesAlreadyOnBoard": ["Ruler","Magic_Stone_Deck"],
+                "autoPlayFromHand": {
+                    "Resonator": "Field",
+                    "Regalia": "Other",
+                    "Addition": "Other",
+                    "Chant": "Stack",
+                    "Magic Stone": "Mana",
+                    "Warden": "Ruler",
+                    "Card": "Other"
+                },
+                "autoPlayFromStack": {
+                    "Creature": "Field",
+                    "Regalia": "Other",
+                    "Addition": "Other",
+                    "Chant": "Stack",
+                    "Magic Stone": "Mana",
+                    "Warden": "Ruler",
+                    "Card": "Other"
+                },
+                "sectionsDict": {
+                    "Creatures": {
+                        "title": "Field",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true
+                    },
+                    "Mana": {
+                        "title": "Mana",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "isHorizontalAllowed": false
+                    },
+                    "Other": {
+                        "title": "Other",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "END",
+                        "isHorizontalAllowed": true
+                    },
+                    "Ruler": {
+                        "title": "Ruler",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Legend",
+                        "noQuickActions": true,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+					"Magic_Stone_Deck": {
+                        "title": "Magic_Stone_Deck",
+                        "isHidden": "yes",
+                        "height": "SMALL",
+                        "alignment": "END",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": false,
+						"displayedTitle": "Magic Stone Deck",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+					"Expel":{
+						"title": "Expel",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "END",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": false,
+						"displayedTitle": "Expel",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+					},
+                }
+            }
+        },
+    },
+    "defaultRessources": {
+        "backgrounds": [
+            "https://i.ibb.co/ZzKYNswJ/z-V2lc-ZW-Imgur.jpg",
+            "https://cdn.imgchest.com/files/a8d13f7db74f.jpeg",
+            "https://cdn.imgchest.com/files/7a25910deab5.jpeg",
+            "https://cdn.imgchest.com/files/e1877d36db68.jpeg",
+            "https://cdn.imgchest.com/files/41d419bedd0b.jpeg",
+            "https://cdn.imgchest.com/files/0959bcceaf01.jpeg",
+            "https://cdn.imgchest.com/files/6aff77db6dbd.jpeg",
+            "https://cdn.imgchest.com/files/197d2805c940.jpeg",
+            "https://cdn.imgchest.com/files/911b1558c5ea.jpeg"
+        ],
+        "decksUrl": "https://valcur.github.io/TCG-Arena-MTG/MTGDecks.json"
+    },
+    "customHelp": "The app will tap cards in your mana section without looking at colors when paying the cost of cards. It will consider all cards in the resource section like a card that produce 1 mana (artifacts producing mana can be put in this section to be used automatically when paying mana costs). If you are expecting reactions from a permanent you play, remember that all cards can be put in the stack to resolve interactions.",
+    "cards": {
+        "dataUrl": "https://valcur.github.io/TCG-Arena-MTG/MTGCards.json" ,
+        "cardBack": "https://backs.scryfall.io/large/2/2/222b7a3b-2321-4d4c-af19-19338b134971.jpg"
+    }
+}
