@@ -67,9 +67,15 @@
                   }
                 },
                 {
-                  "section": "Magic_Stone_Deck",
+                  "section": "Extension_Rule",
                   "style": {
                     "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Magic_Stone_Deck",
+                  "style": {
+                    "width": "10vh"
                   }
                 },
                 {
@@ -93,6 +99,23 @@
                   }
                 }
               ]
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Extra_Deck",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Face_Down",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
@@ -184,6 +207,22 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
+          "Extension_Rule": {
+            "title": "Ruler",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Ruler",
+            "noQuickActions": true,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
           "Magic_Stone_Deck": {
             "title": "Magic_Stone_Deck",
             "isHidden": "yes",
@@ -215,6 +254,38 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+          },
+          "Extra_Deck": {
+            "title": "Extra Deck",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Face_Down": {
+            "title": "Face Down",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       },
@@ -232,7 +303,7 @@
   },
   "customHelp": "The app will tap cards in your mana section without looking at colors when paying the cost of cards. It will consider all cards in the resource section like a card that produce 1 mana (artifacts producing mana can be put in this section to be used automatically when paying mana costs). If you are expecting reactions from a permanent you play, remember that all cards can be put in the stack to resolve interactions.",
   "cards": {
-    "dataUrl": "https://valcur.github.io/TCG-Arena-MTG/MTGCards.json",
+    "dataUrl": "https://github.com/Niebvelungen/TCG-Arena-FoW/blob/main/cards_fow.json",
     "cardBack": "https://fowsim.s3.amazonaws.com/static/img/pack/card_back.fd17635728de.png"
   }
 }
