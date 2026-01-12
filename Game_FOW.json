@@ -38,7 +38,6 @@
           "Other",
           "Ruler",
           "Extension_Rule",
-          "RFG",
           "Standby",
           "Extra_Deck",
           "Expel"
@@ -86,12 +85,6 @@
                 },
                 {
                   "section": "Other"
-                },
-                {
-                  "section": "RFG",
-                  "style": {
-                    "width": "10vh"
-                  }
                 },
                 {
                   "section": "Expel",
@@ -218,7 +211,7 @@
             "title": "Magic_Stones",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "END",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -234,27 +227,11 @@
             "title": "Expel",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "END",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Expel",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "RFG": {
-            "title": "RFG",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Removed From Game",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
