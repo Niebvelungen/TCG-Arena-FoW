@@ -11,7 +11,10 @@
       {
         "title": "Wanderer",
         "gameplay": "Wanderer",
-        "compatibility": "Wanderer"
+        "compatibility": "Wanderer",
+        "customCategories": [
+          "Extra deck"
+        ]
       }
     ]
   },
@@ -106,7 +109,7 @@
           "Ruler",
           "Magic_Stones",
           "Extension_Rule",
-          "Extra_Deck"
+          "Extra deck->Extra_Deck"
         ],
         "autoPlayFromHand": {
           "Resonator": "Field",
