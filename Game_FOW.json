@@ -37,6 +37,10 @@
           "Mana",
           "Other",
           "Ruler",
+          "Extension_Rule",
+          "RFG",
+          "Face_down",
+          "Extra_Deck",
           "Expel"
         ],
         "layout": {
@@ -256,7 +260,7 @@
             "showHiddenCardInHistory": false
           },
           "Extra_Deck": {
-            "title": "Extra Deck",
+            "title": "Extra_Deck",
             "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "CENTER",
