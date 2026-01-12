@@ -39,7 +39,7 @@
           "Ruler",
           "Extension_Rule",
           "RFG",
-          "Face_down",
+          "Standby",
           "Extra_Deck",
           "Expel"
         ],
@@ -100,7 +100,7 @@
                   }
                 },
                 {
-                  "section": "Face_Down",
+                  "section": "Standby",
                   "style": false
                 }
               ]
@@ -275,15 +275,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Face_Down": {
-            "title": "Face Down",
+          "Standby": {
+            "title": "Standby",
             "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Standby",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
