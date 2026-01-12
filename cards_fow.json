@@ -2525,11 +2525,11 @@
   "CMF-096": {
     "id": "CMF-096",
     "name": "Magic Stone of Black Silence",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Black Silence",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-096.jpg"
@@ -2549,11 +2549,11 @@
   "CMF-097": {
     "id": "CMF-097",
     "name": "Magic Stone of Deep Wood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Deep Wood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-097.jpg"
@@ -2573,11 +2573,11 @@
   "CMF-098": {
     "id": "CMF-098",
     "name": "Magic Stone of Hearth's Core",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Hearth's Core",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-098.jpg"
@@ -2597,11 +2597,11 @@
   "CMF-099": {
     "id": "CMF-099",
     "name": "Magic Stone of Heat Ray",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heat Ray",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-099.jpg"
@@ -2621,11 +2621,11 @@
   "CMF-100": {
     "id": "CMF-100",
     "name": "Magic Stone of Heaven's Rift",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heaven's Rift",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-100.jpg"
@@ -2645,11 +2645,11 @@
   "CMF-101": {
     "id": "CMF-101",
     "name": "Magic Stone of Darkness",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Darkness",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-101.jpg"
@@ -2669,11 +2669,11 @@
   "CMF-102": {
     "id": "CMF-102",
     "name": "Magic Stone of Flame",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Flame",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-102.jpg"
@@ -2693,11 +2693,11 @@
   "CMF-103": {
     "id": "CMF-103",
     "name": "Magic Stone of Light",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Light",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-103.jpg"
@@ -2717,11 +2717,11 @@
   "CMF-104": {
     "id": "CMF-104",
     "name": "Magic Stone of Water",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Water",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-104.jpg"
@@ -2741,11 +2741,11 @@
   "CMF-105": {
     "id": "CMF-105",
     "name": "Magic Stone of Wind",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Wind",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-105.jpg"
@@ -5140,11 +5140,11 @@
   "TAT-091": {
     "id": "TAT-091",
     "name": "Almerius, the Levitating Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Almerius, the Levitating Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-091.jpg"
@@ -5164,11 +5164,11 @@
   "TAT-092": {
     "id": "TAT-092",
     "name": "Feethsing, the Holy Wind Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Feethsing, the Holy Wind Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-092.jpg"
@@ -5188,11 +5188,11 @@
   "TAT-093": {
     "id": "TAT-093",
     "name": "Grusbalesta, the Sealing Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Grusbalesta, the Sealing Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-093.jpg"
@@ -5212,11 +5212,11 @@
   "TAT-094": {
     "id": "TAT-094",
     "name": "Magic Stone of Blasting Waves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Blasting Waves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-094.jpg"
@@ -5236,11 +5236,11 @@
   "TAT-095": {
     "id": "TAT-095",
     "name": "Magic Stone of Dark Depth",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Dark Depth",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-095.jpg"
@@ -5260,11 +5260,11 @@
   "TAT-096": {
     "id": "TAT-096",
     "name": "Magic Stone of Gusting Skies",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Gusting Skies",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-096.jpg"
@@ -5284,11 +5284,11 @@
   "TAT-097": {
     "id": "TAT-097",
     "name": "Magic Stone of Light Vapors",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Light Vapors",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-097.jpg"
@@ -5308,11 +5308,11 @@
   "TAT-098": {
     "id": "TAT-098",
     "name": "Magic Stone of Scorched Bales",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Scorched Bales",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-098.jpg"
@@ -5332,11 +5332,11 @@
   "TAT-099": {
     "id": "TAT-099",
     "name": "Milest, the Ghostly Flame Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Milest, the Ghostly Flame Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-099.jpg"
@@ -5356,11 +5356,11 @@
   "TAT-100": {
     "id": "TAT-100",
     "name": "Moojdart, the Fantasy Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Moojdart, the Fantasy Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-100.jpg"
@@ -5380,11 +5380,11 @@
   "TAT-101": {
     "id": "TAT-101",
     "name": "Magic Stone of Light",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Light",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-101.jpg"
@@ -5404,11 +5404,11 @@
   "TAT-102": {
     "id": "TAT-102",
     "name": "Magic Stone of Flame",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Flame",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-102.jpg"
@@ -5428,11 +5428,11 @@
   "TAT-103": {
     "id": "TAT-103",
     "name": "Magic Stone of Water",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Water",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-103.jpg"
@@ -5452,11 +5452,11 @@
   "TAT-104": {
     "id": "TAT-104",
     "name": "Magic Stone of Wind",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Wind",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-104.jpg"
@@ -5476,11 +5476,11 @@
   "TAT-105": {
     "id": "TAT-105",
     "name": "Magic Stone of Darkness",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Darkness",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-105.jpg"
@@ -8077,11 +8077,11 @@
   "MPR-098": {
     "id": "MPR-098",
     "name": "Little Red, the Pure Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Little Red, the Pure Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-098.jpg"
@@ -8101,11 +8101,11 @@
   "MPR-099": {
     "id": "MPR-099",
     "name": "Magic Stone of Moon Light",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Moon Light",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-099.jpg"
@@ -8125,11 +8125,11 @@
   "MPR-100": {
     "id": "MPR-100",
     "name": "Magic Stone of Moon Shade",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Moon Shade",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-100.jpg"
@@ -8149,11 +8149,11 @@
   "MPR-101": {
     "id": "MPR-101",
     "name": "Magic Stone of Darkness",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Darkness",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-101.jpg"
@@ -8173,11 +8173,11 @@
   "MPR-102": {
     "id": "MPR-102",
     "name": "Magic Stone of Flame",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Flame",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-102.jpg"
@@ -8197,11 +8197,11 @@
   "MPR-103": {
     "id": "MPR-103",
     "name": "Magic Stone of Light",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Light",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-103.jpg"
@@ -8221,11 +8221,11 @@
   "MPR-104": {
     "id": "MPR-104",
     "name": "Magic Stone of Water",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Water",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-104.jpg"
@@ -8245,11 +8245,11 @@
   "MPR-105": {
     "id": "MPR-105",
     "name": "Magic Stone of Wind",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Wind",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-105.jpg"
@@ -11716,11 +11716,11 @@
   "VIN001-080": {
     "id": "VIN001-080",
     "name": "Magic Stone of Black Silence",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Black Silence",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-080.jpg"
@@ -11740,11 +11740,11 @@
   "VIN001-081": {
     "id": "VIN001-081",
     "name": "Magic Stone of Blasting Waves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Blasting Waves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-081.jpg"
@@ -11764,11 +11764,11 @@
   "VIN001-082": {
     "id": "VIN001-082",
     "name": "Magic Stone of Dark Depth",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Dark Depth",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-082.jpg"
@@ -11788,11 +11788,11 @@
   "VIN001-083": {
     "id": "VIN001-083",
     "name": "Magic Stone of Deep Wood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Deep Wood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-083.jpg"
@@ -11812,11 +11812,11 @@
   "VIN001-084": {
     "id": "VIN001-084",
     "name": "Magic Stone of Gusting Skies",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Gusting Skies",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-084.jpg"
@@ -11836,11 +11836,11 @@
   "VIN001-085": {
     "id": "VIN001-085",
     "name": "Magic Stone of Hearth's Core",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Hearth's Core",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-085.jpg"
@@ -11860,11 +11860,11 @@
   "VIN001-086": {
     "id": "VIN001-086",
     "name": "Magic Stone of Heat Ray",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heat Ray",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-086.jpg"
@@ -11884,11 +11884,11 @@
   "VIN001-087": {
     "id": "VIN001-087",
     "name": "Magic Stone of Heaven's Rift",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heaven's Rift",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-087.jpg"
@@ -11908,11 +11908,11 @@
   "VIN001-088": {
     "id": "VIN001-088",
     "name": "Magic Stone of Light Vapors",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Light Vapors",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-088.jpg"
@@ -11932,11 +11932,11 @@
   "VIN001-089": {
     "id": "VIN001-089",
     "name": "Magic Stone of Scorched Bales",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Scorched Bales",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-089.jpg"
@@ -11956,11 +11956,11 @@
   "VIN001-090": {
     "id": "VIN001-090",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-090.jpg"
@@ -11980,11 +11980,11 @@
   "VIN001-091": {
     "id": "VIN001-091",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-091.jpg"
@@ -12004,11 +12004,11 @@
   "VIN001-092": {
     "id": "VIN001-092",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-092.jpg"
@@ -12028,11 +12028,11 @@
   "VIN001-093": {
     "id": "VIN001-093",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-093.jpg"
@@ -12052,11 +12052,11 @@
   "VIN001-094": {
     "id": "VIN001-094",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-094.jpg"
@@ -12938,11 +12938,11 @@
   "VS01-033": {
     "id": "VS01-033",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-033.jpg"
@@ -12962,11 +12962,11 @@
   "VS01-034": {
     "id": "VS01-034",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-034.jpg"
@@ -15662,11 +15662,11 @@
   "SKL-101": {
     "id": "SKL-101",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-101.jpg"
@@ -15686,11 +15686,11 @@
   "SKL-102": {
     "id": "SKL-102",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-102.jpg"
@@ -15710,11 +15710,11 @@
   "SKL-103": {
     "id": "SKL-103",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-103.jpg"
@@ -15734,11 +15734,11 @@
   "SKL-104": {
     "id": "SKL-104",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-104.jpg"
@@ -15758,11 +15758,11 @@
   "SKL-105": {
     "id": "SKL-105",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-105.jpg"
@@ -18488,11 +18488,11 @@
   "TTW-101": {
     "id": "TTW-101",
     "name": "Fairy's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fairy's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-101.jpg"
@@ -18512,11 +18512,11 @@
   "TTW-102": {
     "id": "TTW-102",
     "name": "Ruler's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ruler's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-102.jpg"
@@ -18536,11 +18536,11 @@
   "TTW-103": {
     "id": "TTW-103",
     "name": "Sacred Beast's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Sacred Beast's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-103.jpg"
@@ -18560,11 +18560,11 @@
   "TTW-104": {
     "id": "TTW-104",
     "name": "Shadow's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Shadow's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-104.jpg"
@@ -18584,11 +18584,11 @@
   "TTW-105": {
     "id": "TTW-105",
     "name": "Unyielding Flame's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Unyielding Flame's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-105.jpg"
@@ -18608,11 +18608,11 @@
   "TTW-106": {
     "id": "TTW-106",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-106.jpg"
@@ -18632,11 +18632,11 @@
   "TTW-107": {
     "id": "TTW-107",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-107.jpg"
@@ -18656,11 +18656,11 @@
   "TTW-108": {
     "id": "TTW-108",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-108.jpg"
@@ -18680,11 +18680,11 @@
   "TTW-109": {
     "id": "TTW-109",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-109.jpg"
@@ -18704,11 +18704,11 @@
   "TTW-110": {
     "id": "TTW-110",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-110.jpg"
@@ -21283,11 +21283,11 @@
   "TMS-096": {
     "id": "TMS-096",
     "name": "Black Moon's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Black Moon's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-096.jpg"
@@ -21307,11 +21307,11 @@
   "TMS-097": {
     "id": "TMS-097",
     "name": "Disaster's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Disaster's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-097.jpg"
@@ -21331,11 +21331,11 @@
   "TMS-098": {
     "id": "TMS-098",
     "name": "Hymnal's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Hymnal's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-098.jpg"
@@ -21355,11 +21355,11 @@
   "TMS-099": {
     "id": "TMS-099",
     "name": "Moonbreeze's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Moonbreeze's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-099.jpg"
@@ -21379,11 +21379,11 @@
   "TMS-100": {
     "id": "TMS-100",
     "name": "Yggdrasil's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Yggdrasil's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-100.jpg"
@@ -21403,11 +21403,11 @@
   "TMS-101": {
     "id": "TMS-101",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-101.jpg"
@@ -21427,11 +21427,11 @@
   "TMS-102": {
     "id": "TMS-102",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-102.jpg"
@@ -21451,11 +21451,11 @@
   "TMS-103": {
     "id": "TMS-103",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-103.jpg"
@@ -21475,11 +21475,11 @@
   "TMS-104": {
     "id": "TMS-104",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-104.jpg"
@@ -21499,11 +21499,11 @@
   "TMS-105": {
     "id": "TMS-105",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-105.jpg"
@@ -24137,11 +24137,11 @@
   "BFA-096": {
     "id": "BFA-096",
     "name": "Call to Action's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Call to Action's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-096.jpg"
@@ -24161,11 +24161,11 @@
   "BFA-097": {
     "id": "BFA-097",
     "name": "Brutal Conqueror's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Brutal Conqueror's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-097.jpg"
@@ -24185,11 +24185,11 @@
   "BFA-098": {
     "id": "BFA-098",
     "name": "Aloof Researcher's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Aloof Researcher's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-098.jpg"
@@ -24209,11 +24209,11 @@
   "BFA-099": {
     "id": "BFA-099",
     "name": "First Flight's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "First Flight's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-099.jpg"
@@ -24233,11 +24233,11 @@
   "BFA-100": {
     "id": "BFA-100",
     "name": "Sorrowful Necromancy's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Sorrowful Necromancy's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-100.jpg"
@@ -24257,11 +24257,11 @@
   "BFA-101": {
     "id": "BFA-101",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-101.jpg"
@@ -24281,11 +24281,11 @@
   "BFA-102": {
     "id": "BFA-102",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-102.jpg"
@@ -24305,11 +24305,11 @@
   "BFA-103": {
     "id": "BFA-103",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-103.jpg"
@@ -24329,11 +24329,11 @@
   "BFA-104": {
     "id": "BFA-104",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-104.jpg"
@@ -24353,11 +24353,11 @@
   "BFA-105": {
     "id": "BFA-105",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-105.jpg"
@@ -26827,11 +26827,11 @@
   "SDL1-012": {
     "id": "SDL1-012",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDL1-012.jpg"
@@ -27146,11 +27146,11 @@
   "SDL2-012": {
     "id": "SDL2-012",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDL2-012.jpg"
@@ -27465,11 +27465,11 @@
   "SDL3-012": {
     "id": "SDL3-012",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDL3-012.jpg"
@@ -27784,11 +27784,11 @@
   "SDL4-012": {
     "id": "SDL4-012",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDL4-012.jpg"
@@ -28103,11 +28103,11 @@
   "SDL5-012": {
     "id": "SDL5-012",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDL5-012.jpg"
@@ -30402,11 +30402,11 @@
   "CFC-086": {
     "id": "CFC-086",
     "name": "Magic Stone of Black Silence",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Black Silence",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-086.jpg"
@@ -30426,11 +30426,11 @@
   "CFC-087": {
     "id": "CFC-087",
     "name": "Magic Stone of Blasting Waves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Blasting Waves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-087.jpg"
@@ -30450,11 +30450,11 @@
   "CFC-088": {
     "id": "CFC-088",
     "name": "Magic Stone of Dark Depth",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Dark Depth",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-088.jpg"
@@ -30474,11 +30474,11 @@
   "CFC-089": {
     "id": "CFC-089",
     "name": "Magic Stone of Deep Wood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Deep Wood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-089.jpg"
@@ -30498,11 +30498,11 @@
   "CFC-090": {
     "id": "CFC-090",
     "name": "Magic Stone of Gusting Skies",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Gusting Skies",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-090.jpg"
@@ -30522,11 +30522,11 @@
   "CFC-091": {
     "id": "CFC-091",
     "name": "Magic Stone of Hearth's Core",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Hearth's Core",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-091.jpg"
@@ -30546,11 +30546,11 @@
   "CFC-092": {
     "id": "CFC-092",
     "name": "Magic Stone of Heat Ray",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heat Ray",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-092.jpg"
@@ -30570,11 +30570,11 @@
   "CFC-093": {
     "id": "CFC-093",
     "name": "Magic Stone of Heaven's Rift",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heaven's Rift",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-093.jpg"
@@ -30594,11 +30594,11 @@
   "CFC-094": {
     "id": "CFC-094",
     "name": "Magic Stone of Light Vapors",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Light Vapors",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-094.jpg"
@@ -30618,11 +30618,11 @@
   "CFC-095": {
     "id": "CFC-095",
     "name": "Magic Stone of Scorched Bales",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Scorched Bales",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-095.jpg"
@@ -30642,11 +30642,11 @@
   "CFC-096": {
     "id": "CFC-096",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-096.jpg"
@@ -30666,11 +30666,11 @@
   "CFC-097": {
     "id": "CFC-097",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-097.jpg"
@@ -30690,11 +30690,11 @@
   "CFC-098": {
     "id": "CFC-098",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-098.jpg"
@@ -30714,11 +30714,11 @@
   "CFC-099": {
     "id": "CFC-099",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-099.jpg"
@@ -30738,11 +30738,11 @@
   "CFC-100": {
     "id": "CFC-100",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-100.jpg"
@@ -33405,11 +33405,11 @@
   "LEL-096": {
     "id": "LEL-096",
     "name": "Awakened Magic Stone, the Earth",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Awakened Magic Stone, the Earth",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-096.jpg"
@@ -33429,11 +33429,11 @@
   "LEL-097": {
     "id": "LEL-097",
     "name": "Killing Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Killing Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-097.jpg"
@@ -33453,11 +33453,11 @@
   "LEL-098": {
     "id": "LEL-098",
     "name": "Magic Stone of Vaporization",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Vaporization",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-098.jpg"
@@ -33477,11 +33477,11 @@
   "LEL-099": {
     "id": "LEL-099",
     "name": "Pricia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Pricia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-099.jpg"
@@ -33501,11 +33501,11 @@
   "LEL-100": {
     "id": "LEL-100",
     "name": "Remains of Attoractia",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Remains of Attoractia",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-100.jpg"
@@ -33525,11 +33525,11 @@
   "LEL-101": {
     "id": "LEL-101",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-101.jpg"
@@ -33549,11 +33549,11 @@
   "LEL-102": {
     "id": "LEL-102",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-102.jpg"
@@ -33573,11 +33573,11 @@
   "LEL-103": {
     "id": "LEL-103",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-103.jpg"
@@ -33597,11 +33597,11 @@
   "LEL-104": {
     "id": "LEL-104",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-104.jpg"
@@ -33621,11 +33621,11 @@
   "LEL-105": {
     "id": "LEL-105",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/LEL-105.jpg"
@@ -35958,11 +35958,11 @@
   "VIN003-086": {
     "id": "VIN003-086",
     "name": "Burning Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Burning Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-086.jpg"
@@ -35982,11 +35982,11 @@
   "VIN003-087": {
     "id": "VIN003-087",
     "name": "Gusting Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Gusting Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-087.jpg"
@@ -36006,11 +36006,11 @@
   "VIN003-088": {
     "id": "VIN003-088",
     "name": "Magic Stone of Murky Waters",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Murky Waters",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-088.jpg"
@@ -36030,11 +36030,11 @@
   "VIN003-089": {
     "id": "VIN003-089",
     "name": "Magic Stone of Nature's Beauty",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Nature's Beauty",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-089.jpg"
@@ -36054,11 +36054,11 @@
   "VIN003-090": {
     "id": "VIN003-090",
     "name": "Magic Stone of Purgatory",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Purgatory",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-090.jpg"
@@ -36078,11 +36078,11 @@
   "VIN003-091": {
     "id": "VIN003-091",
     "name": "Magic Stone of Radiant Waves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Radiant Waves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-091.jpg"
@@ -36102,11 +36102,11 @@
   "VIN003-092": {
     "id": "VIN003-092",
     "name": "Magic Stone of Summer's Breeze",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Summer's Breeze",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-092.jpg"
@@ -36126,11 +36126,11 @@
   "VIN003-093": {
     "id": "VIN003-093",
     "name": "Misty Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Misty Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-093.jpg"
@@ -36150,11 +36150,11 @@
   "VIN003-094": {
     "id": "VIN003-094",
     "name": "Shadowy Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Shadowy Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-094.jpg"
@@ -36174,11 +36174,11 @@
   "VIN003-095": {
     "id": "VIN003-095",
     "name": "Sparkling Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Sparkling Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-095.jpg"
@@ -36198,11 +36198,11 @@
   "VIN003-096": {
     "id": "VIN003-096",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-096.jpg"
@@ -36222,11 +36222,11 @@
   "VIN003-097": {
     "id": "VIN003-097",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-097.jpg"
@@ -36246,11 +36246,11 @@
   "VIN003-098": {
     "id": "VIN003-098",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-098.jpg"
@@ -36270,11 +36270,11 @@
   "VIN003-099": {
     "id": "VIN003-099",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-099.jpg"
@@ -36294,11 +36294,11 @@
   "VIN003-100": {
     "id": "VIN003-100",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN003-100.jpg"
@@ -38963,11 +38963,11 @@
   "RDE-096": {
     "id": "RDE-096",
     "name": "Ancient Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ancient Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-096.jpg"
@@ -38987,11 +38987,11 @@
   "RDE-097": {
     "id": "RDE-097",
     "name": "Kaguya's Stone of Sorrow",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Kaguya's Stone of Sorrow",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-097.jpg"
@@ -39011,11 +39011,11 @@
   "RDE-098": {
     "id": "RDE-098",
     "name": "Magic Stone of the Ebon Home",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of the Ebon Home",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-098.jpg"
@@ -39035,11 +39035,11 @@
   "RDE-099": {
     "id": "RDE-099",
     "name": "Memoria of Reincarnation",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Memoria of Reincarnation",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-099.jpg"
@@ -39059,11 +39059,11 @@
   "RDE-100": {
     "id": "RDE-100",
     "name": "Stone of the Dragonoids",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Stone of the Dragonoids",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-100.jpg"
@@ -39083,11 +39083,11 @@
   "RDE-101": {
     "id": "RDE-101",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-101.jpg"
@@ -39107,11 +39107,11 @@
   "RDE-102": {
     "id": "RDE-102",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-102.jpg"
@@ -39131,11 +39131,11 @@
   "RDE-103": {
     "id": "RDE-103",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-103.jpg"
@@ -39155,11 +39155,11 @@
   "RDE-104": {
     "id": "RDE-104",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-104.jpg"
@@ -39179,11 +39179,11 @@
   "RDE-105": {
     "id": "RDE-105",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/RDE-105.jpg"
@@ -41847,11 +41847,11 @@
   "ENW-099": {
     "id": "ENW-099",
     "name": "Star Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Star Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ENW-099.jpg"
@@ -41871,11 +41871,11 @@
   "ENW-100": {
     "id": "ENW-100",
     "name": "Time Altering Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Time Altering Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ENW-100.jpg"
@@ -41895,11 +41895,11 @@
   "ENW-101": {
     "id": "ENW-101",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ENW-101.jpg"
@@ -41919,11 +41919,11 @@
   "ENW-102": {
     "id": "ENW-102",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ENW-102.jpg"
@@ -41943,11 +41943,11 @@
   "ENW-103": {
     "id": "ENW-103",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ENW-103.jpg"
@@ -41967,11 +41967,11 @@
   "ENW-104": {
     "id": "ENW-104",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ENW-104.jpg"
@@ -41991,11 +41991,11 @@
   "ENW-105": {
     "id": "ENW-105",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ENW-105.jpg"
@@ -42314,11 +42314,11 @@
   "SDR1-012": {
     "id": "SDR1-012",
     "name": "Ore From the Treasure Mountain",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ore From the Treasure Mountain",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR1-012.jpg"
@@ -42338,11 +42338,11 @@
   "SDR1-013": {
     "id": "SDR1-013",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR1-013.jpg"
@@ -42661,11 +42661,11 @@
   "SDR2-012": {
     "id": "SDR2-012",
     "name": "Dragon Ore",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Dragon Ore",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR2-012.jpg"
@@ -42685,11 +42685,11 @@
   "SDR2-013": {
     "id": "SDR2-013",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR2-013.jpg"
@@ -43008,11 +43008,11 @@
   "SDR3-012": {
     "id": "SDR3-012",
     "name": "Shoal Coral Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Shoal Coral Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR3-012.jpg"
@@ -43032,11 +43032,11 @@
   "SDR3-013": {
     "id": "SDR3-013",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR3-013.jpg"
@@ -43355,11 +43355,11 @@
   "SDR4-012": {
     "id": "SDR4-012",
     "name": "Spirit Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Spirit Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR4-012.jpg"
@@ -43379,11 +43379,11 @@
   "SDR4-013": {
     "id": "SDR4-013",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR4-013.jpg"
@@ -43702,11 +43702,11 @@
   "SDR5-012": {
     "id": "SDR5-012",
     "name": "Stone from the Dark Castle",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Stone from the Dark Castle",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR5-012.jpg"
@@ -43726,11 +43726,11 @@
   "SDR5-013": {
     "id": "SDR5-013",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR5-013.jpg"
@@ -47619,11 +47619,11 @@
   "ACN-148": {
     "id": "ACN-148",
     "name": "Demonic Soulstone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Demonic Soulstone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ACN-148.jpg"
@@ -47643,11 +47643,11 @@
   "ACN-149": {
     "id": "ACN-149",
     "name": "Mysterious Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Mysterious Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ACN-149.jpg"
@@ -47667,11 +47667,11 @@
   "ACN-150": {
     "id": "ACN-150",
     "name": "Saintly Elven Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Saintly Elven Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ACN-150.jpg"
@@ -47831,11 +47831,11 @@
   "ACN-156": {
     "id": "ACN-156",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ACN-156.jpg"
@@ -47855,11 +47855,11 @@
   "ACN-157": {
     "id": "ACN-157",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ACN-157.jpg"
@@ -47879,11 +47879,11 @@
   "ACN-158": {
     "id": "ACN-158",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ACN-158.jpg"
@@ -47903,11 +47903,11 @@
   "ACN-159": {
     "id": "ACN-159",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ACN-159.jpg"
@@ -47927,11 +47927,11 @@
   "ACN-160": {
     "id": "ACN-160",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ACN-160.jpg"
@@ -52033,11 +52033,11 @@
   "ADK-149": {
     "id": "ADK-149",
     "name": "Majin Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Majin Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ADK-149.jpg"
@@ -52057,11 +52057,11 @@
   "ADK-150": {
     "id": "ADK-150",
     "name": "Possession Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Possession Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ADK-150.jpg"
@@ -56124,11 +56124,11 @@
   "TSW-148": {
     "id": "TSW-148",
     "name": "Magic Stone of Hope // Magic Stone of Despair",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Hope",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-148.jpg"
@@ -56148,11 +56148,11 @@
   "TSW-149": {
     "id": "TSW-149",
     "name": "Null Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Null Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-149.jpg"
@@ -56172,11 +56172,11 @@
   "TSW-150": {
     "id": "TSW-150",
     "name": "Speaking Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Speaking Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-150.jpg"
@@ -56643,11 +56643,11 @@
   "SDR6-012": {
     "id": "SDR6-012",
     "name": "Alhama'at's Ultra Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Alhama'at's Ultra Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR6-012.jpg"
@@ -56667,11 +56667,11 @@
   "SDR6-013": {
     "id": "SDR6-013",
     "name": "Historical Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Historical Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR6-013.jpg"
@@ -56691,11 +56691,11 @@
   "SDR6-014": {
     "id": "SDR6-014",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR6-014.jpg"
@@ -56715,11 +56715,11 @@
   "SDR6-015": {
     "id": "SDR6-015",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR6-015.jpg"
@@ -56739,11 +56739,11 @@
   "SDR6-016": {
     "id": "SDR6-016",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR6-016.jpg"
@@ -56763,11 +56763,11 @@
   "SDR6-017": {
     "id": "SDR6-017",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR6-017.jpg"
@@ -56787,11 +56787,11 @@
   "SDR6-018": {
     "id": "SDR6-018",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDR6-018.jpg"
@@ -59936,11 +59936,11 @@
   "WOM-119": {
     "id": "WOM-119",
     "name": "Ethereal Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ethereal Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/WOM-119.jpg"
@@ -59960,11 +59960,11 @@
   "WOM-120": {
     "id": "WOM-120",
     "name": "Magic Stone of Time",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Time",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/WOM-120.jpg"
@@ -60706,11 +60706,11 @@
   "SDV1-023": {
     "id": "SDV1-023",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV1-023.jpg"
@@ -61312,11 +61312,11 @@
   "SDV2-023": {
     "id": "SDV2-023",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV2-023.jpg"
@@ -61918,11 +61918,11 @@
   "SDV3-023": {
     "id": "SDV3-023",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV3-023.jpg"
@@ -62524,11 +62524,11 @@
   "SDV4-023": {
     "id": "SDV4-023",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV4-023.jpg"
@@ -63130,11 +63130,11 @@
   "SDV5-023": {
     "id": "SDV5-023",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV5-023.jpg"
@@ -65794,11 +65794,11 @@
   "NDR-101": {
     "id": "NDR-101",
     "name": "Magic Stone of Adventure",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Adventure",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-101.jpg"
@@ -65818,11 +65818,11 @@
   "NDR-102": {
     "id": "NDR-102",
     "name": "Magic Stone of Chaos",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Chaos",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-102.jpg"
@@ -65842,11 +65842,11 @@
   "NDR-103": {
     "id": "NDR-103",
     "name": "Magic Stone of Corruption",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Corruption",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-103.jpg"
@@ -65866,11 +65866,11 @@
   "NDR-104": {
     "id": "NDR-104",
     "name": "Magic Stone of Dramaturgy",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Dramaturgy",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-104.jpg"
@@ -65890,11 +65890,11 @@
   "NDR-105": {
     "id": "NDR-105",
     "name": "Magic Stone of Dueling",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Dueling",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-105.jpg"
@@ -65914,11 +65914,11 @@
   "NDR-106": {
     "id": "NDR-106",
     "name": "Magic Stone of Faith",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Faith",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-106.jpg"
@@ -65938,11 +65938,11 @@
   "NDR-107": {
     "id": "NDR-107",
     "name": "Magic Stone of Omniscience",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Omniscience",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-107.jpg"
@@ -65962,11 +65962,11 @@
   "NDR-108": {
     "id": "NDR-108",
     "name": "Magic Stone of the Hermit",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of the Hermit",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-108.jpg"
@@ -65986,11 +65986,11 @@
   "NDR-109": {
     "id": "NDR-109",
     "name": "Magic Stone of the Undead",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of the Undead",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-109.jpg"
@@ -66010,11 +66010,11 @@
   "NDR-110": {
     "id": "NDR-110",
     "name": "Magic Stone of Tranquility",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Tranquility",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-110.jpg"
@@ -75029,11 +75029,11 @@
   "SDAO1-033": {
     "id": "SDAO1-033",
     "name": "Attoractia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Attoractia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO1-033.jpg"
@@ -75053,11 +75053,11 @@
   "SDAO1-034": {
     "id": "SDAO1-034",
     "name": "Magic Stone of Light Vapors",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Light Vapors",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO1-034.jpg"
@@ -75077,11 +75077,11 @@
   "SDAO1-035": {
     "id": "SDAO1-035",
     "name": "Magic Stone of Scorched Bales",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Scorched Bales",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO1-035.jpg"
@@ -75101,11 +75101,11 @@
   "SDAO1-036": {
     "id": "SDAO1-036",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO1-036.jpg"
@@ -75125,11 +75125,11 @@
   "SDAO1-037": {
     "id": "SDAO1-037",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO1-037.jpg"
@@ -76909,11 +76909,11 @@
   "AO1-067": {
     "id": "AO1-067",
     "name": "Magic Stone of Heat Ray",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heat Ray",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AO1-067.jpg"
@@ -77915,11 +77915,11 @@
   "SDAO2-033": {
     "id": "SDAO2-033",
     "name": "Attoractia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Attoractia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO2-033.jpg"
@@ -77939,11 +77939,11 @@
   "SDAO2-034": {
     "id": "SDAO2-034",
     "name": "Magic Stone of Blasting Waves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Blasting Waves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO2-034.jpg"
@@ -77963,11 +77963,11 @@
   "SDAO2-035": {
     "id": "SDAO2-035",
     "name": "Magic Stone of Dark Depth",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Dark Depth",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO2-035.jpg"
@@ -77987,11 +77987,11 @@
   "SDAO2-036": {
     "id": "SDAO2-036",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO2-036.jpg"
@@ -78011,11 +78011,11 @@
   "SDAO2-037": {
     "id": "SDAO2-037",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDAO2-037.jpg"
@@ -79671,11 +79671,11 @@
   "AO2-063": {
     "id": "AO2-063",
     "name": "Attoractia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Attoractia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AO2-063.jpg"
@@ -79695,11 +79695,11 @@
   "AO2-064": {
     "id": "AO2-064",
     "name": "Magic Stone of Deep Wood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Deep Wood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AO2-064.jpg"
@@ -80015,11 +80015,11 @@
   "GITS2045SD-012": {
     "id": "GITS2045SD-012",
     "name": "Beverly Hills",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Beverly Hills",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GITS2045SD-012.jpg"
@@ -80039,11 +80039,11 @@
   "GITS2045SD-013": {
     "id": "GITS2045SD-013",
     "name": "Gated Town",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Gated Town",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GITS2045SD-013.jpg"
@@ -80063,11 +80063,11 @@
   "GITS2045SD-014": {
     "id": "GITS2045SD-014",
     "name": "Palm Springs",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Palm Springs",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GITS2045SD-014.jpg"
@@ -82067,11 +82067,11 @@
   "GITS2045-074": {
     "id": "GITS2045-074",
     "name": "Edwards Air Force Base",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Edwards Air Force Base",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GITS2045-074.jpg"
@@ -82091,11 +82091,11 @@
   "GITS2045-075": {
     "id": "GITS2045-075",
     "name": "Home Ministry",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Home Ministry",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GITS2045-075.jpg"
@@ -82115,11 +82115,11 @@
   "GITS2045-076": {
     "id": "GITS2045-076",
     "name": "NSA Headquarters",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "NSA Headquarters",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GITS2045-076.jpg"
@@ -82139,11 +82139,11 @@
   "GITS2045-077": {
     "id": "GITS2045-077",
     "name": "Prime Minister's Office",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Prime Minister's Office",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GITS2045-077.jpg"
@@ -82163,11 +82163,11 @@
   "GITS2045-078": {
     "id": "GITS2045-078",
     "name": "Section 9 New Headquarters",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Section 9 New Headquarters",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GITS2045-078.jpg"
@@ -84531,11 +84531,11 @@
   "AO3-089": {
     "id": "AO3-089",
     "name": "Attoractia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Attoractia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AO3-089.jpg"
@@ -84555,11 +84555,11 @@
   "AO3-090": {
     "id": "AO3-090",
     "name": "Magic Stone of Black Silence",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Black Silence",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AO3-090.jpg"
@@ -84579,11 +84579,11 @@
   "AO3-091": {
     "id": "AO3-091",
     "name": "Magic Stone of Gusting Skies",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Gusting Skies",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AO3-091.jpg"
@@ -84603,11 +84603,11 @@
   "AO3-092": {
     "id": "AO3-092",
     "name": "Magic Stone of Hearth's Core",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Hearth's Core",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AO3-092.jpg"
@@ -87937,11 +87937,11 @@
   "PofA-122": {
     "id": "PofA-122",
     "name": "Black Moon's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Black Moon's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/PofA-122.jpg"
@@ -87961,11 +87961,11 @@
   "PofA-123": {
     "id": "PofA-123",
     "name": "Magic Stone of Heaven's Rift",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heaven's Rift",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/PofA-123.jpg"
@@ -87985,11 +87985,11 @@
   "PofA-124": {
     "id": "PofA-124",
     "name": "Ruler's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ruler's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/PofA-124.jpg"
@@ -88009,11 +88009,11 @@
   "PofAMS-001": {
     "id": "PofAMS-001",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/PofAMS-001.jpg"
@@ -88033,11 +88033,11 @@
   "PofAMS-002": {
     "id": "PofAMS-002",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/PofAMS-002.jpg"
@@ -88057,11 +88057,11 @@
   "PofAMS-003": {
     "id": "PofAMS-003",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/PofAMS-003.jpg"
@@ -88081,11 +88081,11 @@
   "PofAMS-004": {
     "id": "PofAMS-004",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/PofAMS-004.jpg"
@@ -88105,11 +88105,11 @@
   "PofAMS-005": {
     "id": "PofAMS-005",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/PofAMS-005.jpg"
@@ -90767,11 +90767,11 @@
   "EDL-097": {
     "id": "EDL-097",
     "name": "Epic Stone of the Blood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Epic Stone of the Blood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/EDL-097.jpg"
@@ -90791,11 +90791,11 @@
   "EDL-098": {
     "id": "EDL-098",
     "name": "Epic Stone of the Dragon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Epic Stone of the Dragon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/EDL-098.jpg"
@@ -90815,11 +90815,11 @@
   "EDL-099": {
     "id": "EDL-099",
     "name": "Epic Stone of the Elements",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Epic Stone of the Elements",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/EDL-099.jpg"
@@ -90839,11 +90839,11 @@
   "EDL-100": {
     "id": "EDL-100",
     "name": "Epic Stone of the Star",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Epic Stone of the Star",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/EDL-100.jpg"
@@ -90863,11 +90863,11 @@
   "EDL-101": {
     "id": "EDL-101",
     "name": "Epic Stone of the Treasure",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Epic Stone of the Treasure",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/EDL-101.jpg"
@@ -93545,11 +93545,11 @@
   "MSW-100": {
     "id": "MSW-100",
     "name": "Moonbreeze's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Moonbreeze's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MSW-100.jpg"
@@ -93569,11 +93569,11 @@
   "MSW-101": {
     "id": "MSW-101",
     "name": "The Magic Stone of the Demonic World",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "The Magic Stone of the Demonic World",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MSW-101.jpg"
@@ -93593,11 +93593,11 @@
   "MSW-102": {
     "id": "MSW-102",
     "name": "The Magic Stone of the Six Sages",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "The Magic Stone of the Six Sages",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MSW-102.jpg"
@@ -94273,11 +94273,11 @@
   "ROL-025": {
     "id": "ROL-025",
     "name": "Ragnarok's Fiery Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ragnarok's Fiery Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ROL-025.jpg"
@@ -96804,11 +96804,11 @@
   "ADW-096": {
     "id": "ADW-096",
     "name": "Magic Stone of Atoms",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Atoms",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ADW-096.jpg"
@@ -96828,11 +96828,11 @@
   "ADW-097": {
     "id": "ADW-097",
     "name": "Magic Stone of Guidance",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Guidance",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ADW-097.jpg"
@@ -96852,11 +96852,11 @@
   "ADW-098": {
     "id": "ADW-098",
     "name": "Magic Stone of Knowledge",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Knowledge",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ADW-098.jpg"
@@ -96876,11 +96876,11 @@
   "ADW-099": {
     "id": "ADW-099",
     "name": "Magic Stone of the Kingdom",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of the Kingdom",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ADW-099.jpg"
@@ -96900,11 +96900,11 @@
   "ADW-100": {
     "id": "ADW-100",
     "name": "Magic Stone of Tides",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Tides",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ADW-100.jpg"
@@ -99446,11 +99446,11 @@
   "TST-095": {
     "id": "TST-095",
     "name": "Amadeus, Holy Crystal",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Amadeus, Holy Crystal",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TST-095.jpg"
@@ -99470,11 +99470,11 @@
   "TST-096": {
     "id": "TST-096",
     "name": "Erythropia, Blood Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Erythropia, Blood Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TST-096.jpg"
@@ -99494,11 +99494,11 @@
   "TST-097": {
     "id": "TST-097",
     "name": "Imaginary Satan, Magic Crystal",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Imaginary Satan, Magic Crystal",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TST-097.jpg"
@@ -99817,11 +99817,11 @@
   "DSD-023": {
     "id": "DSD-023",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DSD-023.jpg"
@@ -102448,11 +102448,11 @@
   "GOG-087": {
     "id": "GOG-087",
     "name": "The Tales' Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "The Tales' Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GOG-087.jpg"
@@ -102472,11 +102472,11 @@
   "GOG-088": {
     "id": "GOG-088",
     "name": "The Villains' Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "The Villains' Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GOG-088.jpg"
@@ -102496,11 +102496,11 @@
   "GOG-089": {
     "id": "GOG-089",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GOG-089.jpg"
@@ -102520,11 +102520,11 @@
   "GOG-090": {
     "id": "GOG-090",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GOG-090.jpg"
@@ -102544,11 +102544,11 @@
   "GOG-091": {
     "id": "GOG-091",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GOG-091.jpg"
@@ -102568,11 +102568,11 @@
   "GOG-092": {
     "id": "GOG-092",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GOG-092.jpg"
@@ -102592,11 +102592,11 @@
   "GOG-093": {
     "id": "GOG-093",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GOG-093.jpg"
@@ -107300,11 +107300,11 @@
   "GRV-088": {
     "id": "GRV-088",
     "name": "Magic Stone of Infinity",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Infinity",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GRV-088.jpg"
@@ -107324,11 +107324,11 @@
   "GRV-089": {
     "id": "GRV-089",
     "name": "The One Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "The One Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GRV-089.jpg"
@@ -107348,11 +107348,11 @@
   "GRV-090": {
     "id": "GRV-090",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GRV-090.jpg"
@@ -107372,11 +107372,11 @@
   "GRV-091": {
     "id": "GRV-091",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GRV-091.jpg"
@@ -107396,11 +107396,11 @@
   "GRV-092": {
     "id": "GRV-092",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GRV-092.jpg"
@@ -107420,11 +107420,11 @@
   "GRV-093": {
     "id": "GRV-093",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GRV-093.jpg"
@@ -107444,11 +107444,11 @@
   "GRV-094": {
     "id": "GRV-094",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/GRV-094.jpg"
@@ -107795,11 +107795,11 @@
   "HSD-025": {
     "id": "HSD-025",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/HSD-025.jpg"
@@ -107819,11 +107819,11 @@
   "HSD-026": {
     "id": "HSD-026",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/HSD-026.jpg"
@@ -108172,11 +108172,11 @@
   "HSD-027": {
     "id": "HSD-027",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/HSD-027.jpg"
@@ -108196,11 +108196,11 @@
   "HSD-028": {
     "id": "HSD-028",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/HSD-028.jpg"
@@ -110897,11 +110897,11 @@
   "NWE-101": {
     "id": "NWE-101",
     "name": "Darkness Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-101.jpg"
@@ -110921,11 +110921,11 @@
   "NWE-102": {
     "id": "NWE-102",
     "name": "Fire Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-102.jpg"
@@ -110945,11 +110945,11 @@
   "NWE-103": {
     "id": "NWE-103",
     "name": "Light Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-103.jpg"
@@ -110969,11 +110969,11 @@
   "NWE-104": {
     "id": "NWE-104",
     "name": "Satellite Crystal",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Satellite Crystal",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-104.jpg"
@@ -110993,11 +110993,11 @@
   "NWE-105": {
     "id": "NWE-105",
     "name": "Water Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-105.jpg"
@@ -111017,11 +111017,11 @@
   "NWE-106": {
     "id": "NWE-106",
     "name": "Wind Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-106.jpg"
@@ -111041,11 +111041,11 @@
   "NWE-107": {
     "id": "NWE-107",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-107.jpg"
@@ -111065,11 +111065,11 @@
   "NWE-108": {
     "id": "NWE-108",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-108.jpg"
@@ -111089,11 +111089,11 @@
   "NWE-109": {
     "id": "NWE-109",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-109.jpg"
@@ -111113,11 +111113,11 @@
   "NWE-110": {
     "id": "NWE-110",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-110.jpg"
@@ -111137,11 +111137,11 @@
   "NWE-111": {
     "id": "NWE-111",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NWE-111.jpg"
@@ -114053,11 +114053,11 @@
   "TUS-103": {
     "id": "TUS-103",
     "name": "Secret Stone of the Cat Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Cat Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TUS-103.jpg"
@@ -114077,11 +114077,11 @@
   "TUS-104": {
     "id": "TUS-104",
     "name": "Secret Stone of the Chaos Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Chaos Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TUS-104.jpg"
@@ -114101,11 +114101,11 @@
   "TUS-105": {
     "id": "TUS-105",
     "name": "Secret Stone of the Ethereal Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Ethereal Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TUS-105.jpg"
@@ -114125,11 +114125,11 @@
   "TUS-106": {
     "id": "TUS-106",
     "name": "Secret Stone of the Mysterious Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Mysterious Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TUS-106.jpg"
@@ -114149,11 +114149,11 @@
   "TUS-107": {
     "id": "TUS-107",
     "name": "Secret Stone of the Wanderer Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Wanderer Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TUS-107.jpg"
@@ -116659,11 +116659,11 @@
   "TWS-096": {
     "id": "TWS-096",
     "name": "Magic Stone of Famine",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Famine",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TWS-096.jpg"
@@ -116683,11 +116683,11 @@
   "TWS-097": {
     "id": "TWS-097",
     "name": "Magic Stone of War",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of War",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TWS-097.jpg"
@@ -116707,11 +116707,11 @@
   "TWS-098": {
     "id": "TWS-098",
     "name": "Magic Stone of Reign",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Reign",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TWS-098.jpg"
@@ -116731,11 +116731,11 @@
   "TWS-099": {
     "id": "TWS-099",
     "name": "Magic Stone of Progress",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Progress",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TWS-099.jpg"
@@ -116755,11 +116755,11 @@
   "TWS-100": {
     "id": "TWS-100",
     "name": "Magic Stone of Death",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Death",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TWS-100.jpg"
@@ -116779,11 +116779,11 @@
   "TWS-101": {
     "id": "TWS-101",
     "name": "Magic Stone of Eclipse",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Eclipse",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TWS-101.jpg"
@@ -119365,11 +119365,11 @@
   "CMB-099": {
     "id": "CMB-099",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-099.jpg"
@@ -119389,11 +119389,11 @@
   "CMB-100": {
     "id": "CMB-100",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-100.jpg"
@@ -119413,11 +119413,11 @@
   "CMB-101": {
     "id": "CMB-101",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-101.jpg"
@@ -119437,11 +119437,11 @@
   "CMB-102": {
     "id": "CMB-102",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-102.jpg"
@@ -119461,11 +119461,11 @@
   "CMB-103": {
     "id": "CMB-103",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-103.jpg"
@@ -124199,11 +124199,11 @@
   "JRP-083": {
     "id": "JRP-083",
     "name": "Light Solarisite",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Solarisite",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRP-083.jpg"
@@ -124223,11 +124223,11 @@
   "JRP-084": {
     "id": "JRP-084",
     "name": "Fire Solarisite",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Solarisite",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRP-084.jpg"
@@ -124247,11 +124247,11 @@
   "JRP-085": {
     "id": "JRP-085",
     "name": "Water Solarisite",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Solarisite",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRP-085.jpg"
@@ -124271,11 +124271,11 @@
   "JRP-086": {
     "id": "JRP-086",
     "name": "Wind Solarisite",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Solarisite",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRP-086.jpg"
@@ -124295,11 +124295,11 @@
   "JRP-087": {
     "id": "JRP-087",
     "name": "Darkness Solarisite",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Solarisite",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRP-087.jpg"
@@ -124319,11 +124319,11 @@
   "JRP-088": {
     "id": "JRP-088",
     "name": "Rainbow Solarisite",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Rainbow Solarisite",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRP-088.jpg"
@@ -124343,11 +124343,11 @@
   "JRP-089": {
     "id": "JRP-089",
     "name": "Ark's Gearsatellite",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ark's Gearsatellite",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRP-089.jpg"
@@ -125339,11 +125339,11 @@
   "MP01-018": {
     "id": "MP01-018",
     "name": "Magic Stone of the Wolf's Night",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of the Wolf's Night",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-018.jpg"
@@ -125439,11 +125439,11 @@
   "MP01-022": {
     "id": "MP01-022",
     "name": "Little Red, the Pure Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Little Red, the Pure Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-022.jpg"
@@ -126752,11 +126752,11 @@
   "MP01-071": {
     "id": "MP01-071",
     "name": "Almerius, the Levitating Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Almerius, the Levitating Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-071.jpg"
@@ -126939,11 +126939,11 @@
   "MP01-078": {
     "id": "MP01-078",
     "name": "Milest, the Ghostly Flame Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Milest, the Ghostly Flame Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-078.jpg"
@@ -127122,11 +127122,11 @@
   "MP01-085": {
     "id": "MP01-085",
     "name": "Moojdart, the Fantasy Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Moojdart, the Fantasy Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-085.jpg"
@@ -127177,11 +127177,11 @@
   "MP01-087": {
     "id": "MP01-087",
     "name": "Pure Heart Stone of the Six Sages",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Pure Heart Stone of the Six Sages",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-087.jpg"
@@ -127297,11 +127297,11 @@
   "MP01-092": {
     "id": "MP01-092",
     "name": "Feethsing, the Holy Wind Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Feethsing, the Holy Wind Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-092.jpg"
@@ -127484,11 +127484,11 @@
   "MP01-099": {
     "id": "MP01-099",
     "name": "Grusbalesta, the Sealing Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Grusbalesta, the Sealing Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-099.jpg"
@@ -127989,11 +127989,11 @@
   "MP01-118": {
     "id": "MP01-118",
     "name": "Magic Stone of Moon Shade",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Moon Shade",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-118.jpg"
@@ -128530,11 +128530,11 @@
   "MP01-138": {
     "id": "MP01-138",
     "name": "Fairy's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fairy's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-138.jpg"
@@ -128744,11 +128744,11 @@
   "MP01-146": {
     "id": "MP01-146",
     "name": "Possession Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Possession Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-146.jpg"
@@ -129526,11 +129526,11 @@
   "MP01-175": {
     "id": "MP01-175",
     "name": "Amadeus, Holy Crystal",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Amadeus, Holy Crystal",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-175.jpg"
@@ -129550,11 +129550,11 @@
   "MP01-176": {
     "id": "MP01-176",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-176.jpg"
@@ -129574,11 +129574,11 @@
   "MP01-177": {
     "id": "MP01-177",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-177.jpg"
@@ -129598,11 +129598,11 @@
   "MP01-178": {
     "id": "MP01-178",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-178.jpg"
@@ -129622,11 +129622,11 @@
   "MP01-179": {
     "id": "MP01-179",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-179.jpg"
@@ -129646,11 +129646,11 @@
   "MP01-180": {
     "id": "MP01-180",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-180.jpg"
@@ -130103,11 +130103,11 @@
   "TSD1-016": {
     "id": "TSD1-016",
     "name": "Epic Stone of the Treasure",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Epic Stone of the Treasure",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSD1-016.jpg"
@@ -130127,11 +130127,11 @@
   "TSD1-017": {
     "id": "TSD1-017",
     "name": "Fragment of the Emerald Tablet",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fragment of the Emerald Tablet",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSD1-017.jpg"
@@ -130534,11 +130534,11 @@
   "TSD2-015": {
     "id": "TSD2-015",
     "name": "Magic Stone of Dueling",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Dueling",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSD2-015.jpg"
@@ -130558,11 +130558,11 @@
   "TSD2-016": {
     "id": "TSD2-016",
     "name": "Magic Stone of Remnants",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Remnants",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSD2-016.jpg"
@@ -132644,11 +132644,11 @@
   "TTT-080": {
     "id": "TTT-080",
     "name": "Fool's Gold",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fool's Gold",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-080.jpg"
@@ -132668,11 +132668,11 @@
   "TTT-081": {
     "id": "TTT-081",
     "name": "Fossil of Remnants",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fossil of Remnants",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-081.jpg"
@@ -132692,11 +132692,11 @@
   "TTT-082": {
     "id": "TTT-082",
     "name": "Magic Stone of Beasts",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Beasts",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-082.jpg"
@@ -132716,11 +132716,11 @@
   "TTT-083": {
     "id": "TTT-083",
     "name": "Magic Stone of Empathy",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Empathy",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-083.jpg"
@@ -132740,11 +132740,11 @@
   "TTT-084": {
     "id": "TTT-084",
     "name": "Magic Stone of Time",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Time",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-084.jpg"
@@ -132764,11 +132764,11 @@
   "TTT-085": {
     "id": "TTT-085",
     "name": "Fragment of the Emerald Tablet",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fragment of the Emerald Tablet",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-085.jpg"
@@ -132788,11 +132788,11 @@
   "TTT-086": {
     "id": "TTT-086",
     "name": "Magic Stone of Chrysoberyl",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Chrysoberyl",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-086.jpg"
@@ -132812,11 +132812,11 @@
   "TTT-087": {
     "id": "TTT-087",
     "name": "Magic Stone of Remnants",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Remnants",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-087.jpg"
@@ -132836,11 +132836,11 @@
   "TTT-088": {
     "id": "TTT-088",
     "name": "Magic Stone of Sympathy",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Sympathy",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-088.jpg"
@@ -132860,11 +132860,11 @@
   "TTT-089": {
     "id": "TTT-089",
     "name": "Ruby of Lycan Blood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ruby of Lycan Blood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-089.jpg"
@@ -132884,11 +132884,11 @@
   "TTT-090": {
     "id": "TTT-090",
     "name": "Spirit Stone of Alexandrite",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Spirit Stone of Alexandrite",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-090.jpg"
@@ -138958,11 +138958,11 @@
   "TEU-096": {
     "id": "TEU-096",
     "name": "Black Pearl of the Water Depths",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Black Pearl of the Water Depths",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TEU-096.jpg"
@@ -138982,11 +138982,11 @@
   "TEU-097": {
     "id": "TEU-097",
     "name": "Gleaming Obsidian Skull",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Gleaming Obsidian Skull",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TEU-097.jpg"
@@ -139006,11 +139006,11 @@
   "TEU-098": {
     "id": "TEU-098",
     "name": "Gravestone of the Haunted Palace",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Gravestone of the Haunted Palace",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TEU-098.jpg"
@@ -139030,11 +139030,11 @@
   "TEU-099": {
     "id": "TEU-099",
     "name": "Prismatic Gem of the Bloody Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Prismatic Gem of the Bloody Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TEU-099.jpg"
@@ -139054,11 +139054,11 @@
   "TEU-100": {
     "id": "TEU-100",
     "name": "Resin Drop of the Fallen Tree",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Resin Drop of the Fallen Tree",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TEU-100.jpg"
@@ -139078,11 +139078,11 @@
   "T3 Buy a Box": {
     "id": "T3 Buy a Box",
     "name": "Crown Stone of Moon Glow",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Crown Stone of Moon Glow",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/T3 Buy a Box.jpg"
@@ -143107,11 +143107,11 @@
   "ABC-011": {
     "id": "ABC-011",
     "name": "Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-011.jpg"
@@ -143131,11 +143131,11 @@
   "ABC-012": {
     "id": "ABC-012",
     "name": "Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-012.jpg"
@@ -143155,11 +143155,11 @@
   "ABC-013": {
     "id": "ABC-013",
     "name": "Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-013.jpg"
@@ -143179,11 +143179,11 @@
   "ABC-014": {
     "id": "ABC-014",
     "name": "Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-014.jpg"
@@ -143203,11 +143203,11 @@
   "ABC-015": {
     "id": "ABC-015",
     "name": "Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-015.jpg"
@@ -144819,11 +144819,11 @@
   "ABC-WB-061": {
     "id": "ABC-WB-061",
     "name": "Aloof Researcher's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Aloof Researcher's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WB-061.jpg"
@@ -144843,11 +144843,11 @@
   "ABC-WB-062": {
     "id": "ABC-WB-062",
     "name": "Attoractia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Attoractia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WB-062.jpg"
@@ -144867,11 +144867,11 @@
   "ABC-WB-063": {
     "id": "ABC-WB-063",
     "name": "Magic Stone of Faith",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Faith",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WB-063.jpg"
@@ -144891,11 +144891,11 @@
   "ABC-WB-064": {
     "id": "ABC-WB-064",
     "name": "Magic Stone of Light Vapors",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Light Vapors",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WB-064.jpg"
@@ -144915,11 +144915,11 @@
   "ABC-WB-065": {
     "id": "ABC-WB-065",
     "name": "Magic Stone of Radiant Waves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Radiant Waves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WB-065.jpg"
@@ -144939,11 +144939,11 @@
   "ABC-WB-066": {
     "id": "ABC-WB-066",
     "name": "Stone of the Dragonoids",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Stone of the Dragonoids",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WB-066.jpg"
@@ -144963,11 +144963,11 @@
   "ABC-WB-067": {
     "id": "ABC-WB-067",
     "name": "Time Altering Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Time Altering Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WB-067.jpg"
@@ -144987,11 +144987,11 @@
   "ABC-WB-068": {
     "id": "ABC-WB-068",
     "name": "Water Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WB-068.jpg"
@@ -146580,11 +146580,11 @@
   "ABC-WD-061": {
     "id": "ABC-WD-061",
     "name": "Attoractia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Attoractia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WD-061.jpg"
@@ -146604,11 +146604,11 @@
   "ABC-WD-062": {
     "id": "ABC-WD-062",
     "name": "Black Moon's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Black Moon's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WD-062.jpg"
@@ -146628,11 +146628,11 @@
   "ABC-WD-063": {
     "id": "ABC-WD-063",
     "name": "Magic Stone of Heaven's Rift",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heaven's Rift",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WD-063.jpg"
@@ -146652,11 +146652,11 @@
   "ABC-WD-064": {
     "id": "ABC-WD-064",
     "name": "Magic Stone of Hope // Magic Stone of Despair",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Hope",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WD-064.jpg"
@@ -146676,11 +146676,11 @@
   "ABC-WD-065": {
     "id": "ABC-WD-065",
     "name": "Moonbreeze's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Moonbreeze's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WD-065.jpg"
@@ -146700,11 +146700,11 @@
   "ABC-WD-066": {
     "id": "ABC-WD-066",
     "name": "Shadowy Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Shadowy Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WD-066.jpg"
@@ -146724,11 +146724,11 @@
   "ABC-WD-067": {
     "id": "ABC-WD-067",
     "name": "Sorrowful Necromancy's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Sorrowful Necromancy's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-WD-067.jpg"
@@ -148352,11 +148352,11 @@
   "ABC-RG-061": {
     "id": "ABC-RG-061",
     "name": "Attoractia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Attoractia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RG-061.jpg"
@@ -148376,11 +148376,11 @@
   "ABC-RG-062": {
     "id": "ABC-RG-062",
     "name": "Epic Stone of the Dragon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Epic Stone of the Dragon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RG-062.jpg"
@@ -148400,11 +148400,11 @@
   "ABC-RG-063": {
     "id": "ABC-RG-063",
     "name": "Magic Stone of Blasting Waves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Blasting Waves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RG-063.jpg"
@@ -148424,11 +148424,11 @@
   "ABC-RG-064": {
     "id": "ABC-RG-064",
     "name": "Magic Stone of Summer's Breeze",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Summer's Breeze",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RG-064.jpg"
@@ -148448,11 +148448,11 @@
   "ABC-RG-065": {
     "id": "ABC-RG-065",
     "name": "Memoria of Reincarnation",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Memoria of Reincarnation",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RG-065.jpg"
@@ -148472,11 +148472,11 @@
   "ABC-RG-066": {
     "id": "ABC-RG-066",
     "name": "Spirit Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Spirit Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RG-066.jpg"
@@ -150064,11 +150064,11 @@
   "ABC-RD-061": {
     "id": "ABC-RD-061",
     "name": "Attoractia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Attoractia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RD-061.jpg"
@@ -150088,11 +150088,11 @@
   "ABC-RD-062": {
     "id": "ABC-RD-062",
     "name": "Brutal Conqueror's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Brutal Conqueror's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RD-062.jpg"
@@ -150112,11 +150112,11 @@
   "ABC-RD-063": {
     "id": "ABC-RD-063",
     "name": "Epic Stone of the Blood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Epic Stone of the Blood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RD-063.jpg"
@@ -150136,11 +150136,11 @@
   "ABC-RD-064": {
     "id": "ABC-RD-064",
     "name": "Magic Stone of Atoms",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Atoms",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RD-064.jpg"
@@ -150160,11 +150160,11 @@
   "ABC-RD-065": {
     "id": "ABC-RD-065",
     "name": "Magic Stone of Purgatory",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Purgatory",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RD-065.jpg"
@@ -150184,11 +150184,11 @@
   "ABC-RD-066": {
     "id": "ABC-RD-066",
     "name": "Magic Stone of Scorched Bales",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Scorched Bales",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RD-066.jpg"
@@ -150208,11 +150208,11 @@
   "ABC-RD-067": {
     "id": "ABC-RD-067",
     "name": "Magic Stone of the Ebon Home",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of the Ebon Home",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RD-067.jpg"
@@ -150232,11 +150232,11 @@
   "ABC-RD-068": {
     "id": "ABC-RD-068",
     "name": "Null Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Null Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-RD-068.jpg"
@@ -151841,11 +151841,11 @@
   "ABC-BG-061": {
     "id": "ABC-BG-061",
     "name": "Attoractia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Attoractia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-BG-061.jpg"
@@ -151865,11 +151865,11 @@
   "ABC-BG-062": {
     "id": "ABC-BG-062",
     "name": "Kaguya's Stone of Sorrow",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Kaguya's Stone of Sorrow",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-BG-062.jpg"
@@ -151889,11 +151889,11 @@
   "ABC-BG-063": {
     "id": "ABC-BG-063",
     "name": "Magic Stone of Chaos",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Chaos",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-BG-063.jpg"
@@ -151913,11 +151913,11 @@
   "ABC-BG-064": {
     "id": "ABC-BG-064",
     "name": "Magic Stone of Deep Wood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Deep Wood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-BG-064.jpg"
@@ -151937,11 +151937,11 @@
   "ABC-BG-065": {
     "id": "ABC-BG-065",
     "name": "Misty Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Misty Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-BG-065.jpg"
@@ -151961,11 +151961,11 @@
   "ABC-BG-066": {
     "id": "ABC-BG-066",
     "name": "Saintly Elven Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Saintly Elven Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-BG-066.jpg"
@@ -151985,11 +151985,11 @@
   "ABC-BG-067": {
     "id": "ABC-BG-067",
     "name": "Shoal Coral Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Shoal Coral Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-BG-067.jpg"
@@ -152009,11 +152009,11 @@
   "ABC-BG-068": {
     "id": "ABC-BG-068",
     "name": "Wind Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-BG-068.jpg"
@@ -153674,11 +153674,11 @@
   "ABC-SD01-061": {
     "id": "ABC-SD01-061",
     "name": "Awakened Magic Stone, the Earth",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Awakened Magic Stone, the Earth",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD01-061.jpg"
@@ -153698,11 +153698,11 @@
   "ABC-SD01-062": {
     "id": "ABC-SD01-062",
     "name": "Light Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Light Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD01-062.jpg"
@@ -153722,11 +153722,11 @@
   "ABC-SD01-063": {
     "id": "ABC-SD01-063",
     "name": "Magic Stone of Atoms",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Atoms",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD01-063.jpg"
@@ -153746,11 +153746,11 @@
   "ABC-SD01-064": {
     "id": "ABC-SD01-064",
     "name": "Magic Stone of Heat Ray",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heat Ray",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD01-064.jpg"
@@ -153770,11 +153770,11 @@
   "ABC-SD01-065": {
     "id": "ABC-SD01-065",
     "name": "Sparkling Fire Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Sparkling Fire Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD01-065.jpg"
@@ -155443,11 +155443,11 @@
   "ABC-SD02-061": {
     "id": "ABC-SD02-061",
     "name": "Magic Stone of Light Vapors",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Light Vapors",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD02-061.jpg"
@@ -155467,11 +155467,11 @@
   "ABC-SD02-062": {
     "id": "ABC-SD02-062",
     "name": "Magic Stone of Radiant Waves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Radiant Waves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD02-062.jpg"
@@ -155491,11 +155491,11 @@
   "ABC-SD02-063": {
     "id": "ABC-SD02-063",
     "name": "Magic Stone of Reign",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Reign",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD02-063.jpg"
@@ -155515,11 +155515,11 @@
   "ABC-SD02-064": {
     "id": "ABC-SD02-064",
     "name": "Stone of the Dragonoids",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Stone of the Dragonoids",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD02-064.jpg"
@@ -155539,11 +155539,11 @@
   "ABC-SD02-065": {
     "id": "ABC-SD02-065",
     "name": "Water Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Water Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD02-065.jpg"
@@ -157192,11 +157192,11 @@
   "ABC-SD03-061": {
     "id": "ABC-SD03-061",
     "name": "Magic Stone of Gusting Skies",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Gusting Skies",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD03-061.jpg"
@@ -157216,11 +157216,11 @@
   "ABC-SD03-062": {
     "id": "ABC-SD03-062",
     "name": "Magic Stone of Nature's Beauty",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Nature's Beauty",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD03-062.jpg"
@@ -157240,11 +157240,11 @@
   "ABC-SD03-063": {
     "id": "ABC-SD03-063",
     "name": "Pricia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Pricia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD03-063.jpg"
@@ -157264,11 +157264,11 @@
   "ABC-SD03-064": {
     "id": "ABC-SD03-064",
     "name": "Secret Stone of the Wanderer Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Wanderer Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD03-064.jpg"
@@ -157288,11 +157288,11 @@
   "ABC-SD03-065": {
     "id": "ABC-SD03-065",
     "name": "Spirit Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Spirit Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD03-065.jpg"
@@ -158966,11 +158966,11 @@
   "ABC-SD04-061": {
     "id": "ABC-SD04-061",
     "name": "Ancient Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ancient Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD04-061.jpg"
@@ -158990,11 +158990,11 @@
   "ABC-SD04-062": {
     "id": "ABC-SD04-062",
     "name": "Magic Stone of Heaven's Rift",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Heaven's Rift",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD04-062.jpg"
@@ -159014,11 +159014,11 @@
   "ABC-SD04-063": {
     "id": "ABC-SD04-063",
     "name": "Magic Stone of Hope // Magic Stone of Despair",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Hope",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD04-063.jpg"
@@ -159038,11 +159038,11 @@
   "ABC-SD04-064": {
     "id": "ABC-SD04-064",
     "name": "Secret Stone of the Cat Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Cat Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD04-064.jpg"
@@ -159062,11 +159062,11 @@
   "ABC-SD04-065": {
     "id": "ABC-SD04-065",
     "name": "Shadowy Light Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Shadowy Light Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD04-065.jpg"
@@ -160723,11 +160723,11 @@
   "ABC-SD05-061": {
     "id": "ABC-SD05-061",
     "name": "Burning Water Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Burning Water Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD05-061.jpg"
@@ -160747,11 +160747,11 @@
   "ABC-SD05-062": {
     "id": "ABC-SD05-062",
     "name": "Magic Stone of Hearth's Core",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Hearth's Core",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD05-062.jpg"
@@ -160771,11 +160771,11 @@
   "ABC-SD05-063": {
     "id": "ABC-SD05-063",
     "name": "Magic Stone of Vaporization",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Vaporization",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD05-063.jpg"
@@ -160795,11 +160795,11 @@
   "ABC-SD05-064": {
     "id": "ABC-SD05-064",
     "name": "Secret Stone of the Mysterious Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Mysterious Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD05-064.jpg"
@@ -160819,11 +160819,11 @@
   "ABC-SD05-065": {
     "id": "ABC-SD05-065",
     "name": "Time Altering Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Time Altering Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD05-065.jpg"
@@ -162502,11 +162502,11 @@
   "ABC-SD06-061": {
     "id": "ABC-SD06-061",
     "name": "Magic Stone of Blasting Waves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Blasting Waves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD06-061.jpg"
@@ -162526,11 +162526,11 @@
   "ABC-SD06-062": {
     "id": "ABC-SD06-062",
     "name": "Magic Stone of Summer's Breeze",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Summer's Breeze",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD06-062.jpg"
@@ -162550,11 +162550,11 @@
   "ABC-SD06-063": {
     "id": "ABC-SD06-063",
     "name": "Memoria of Reincarnation",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Memoria of Reincarnation",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD06-063.jpg"
@@ -162574,11 +162574,11 @@
   "ABC-SD06-064": {
     "id": "ABC-SD06-064",
     "name": "Milest, the Ghostly Flame Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Milest, the Ghostly Flame Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD06-064.jpg"
@@ -162598,11 +162598,11 @@
   "ABC-SD06-065": {
     "id": "ABC-SD06-065",
     "name": "Secret Stone of the Chaos Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Chaos Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD06-065.jpg"
@@ -164235,11 +164235,11 @@
   "ABC-SD07-061": {
     "id": "ABC-SD07-061",
     "name": "Erythropia, Blood Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Erythropia, Blood Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD07-061.jpg"
@@ -164259,11 +164259,11 @@
   "ABC-SD07-062": {
     "id": "ABC-SD07-062",
     "name": "Fire Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fire Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD07-062.jpg"
@@ -164283,11 +164283,11 @@
   "ABC-SD07-063": {
     "id": "ABC-SD07-063",
     "name": "Magic Stone of Purgatory",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Purgatory",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD07-063.jpg"
@@ -164307,11 +164307,11 @@
   "ABC-SD07-064": {
     "id": "ABC-SD07-064",
     "name": "Magic Stone of Scorched Bales",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Scorched Bales",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD07-064.jpg"
@@ -164331,11 +164331,11 @@
   "ABC-SD07-065": {
     "id": "ABC-SD07-065",
     "name": "Magic Stone of the Ebon Home",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of the Ebon Home",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD07-065.jpg"
@@ -164355,11 +164355,11 @@
   "ABC-SD07-066": {
     "id": "ABC-SD07-066",
     "name": "Null Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Null Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD07-066.jpg"
@@ -165895,11 +165895,11 @@
   "ABC-SD08-061": {
     "id": "ABC-SD08-061",
     "name": "Kaguya's Stone of Sorrow",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Kaguya's Stone of Sorrow",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD08-061.jpg"
@@ -165919,11 +165919,11 @@
   "ABC-SD08-062": {
     "id": "ABC-SD08-062",
     "name": "Magic Stone of Deep Wood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Deep Wood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD08-062.jpg"
@@ -165943,11 +165943,11 @@
   "ABC-SD08-063": {
     "id": "ABC-SD08-063",
     "name": "Magic Stone of Knowledge",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Knowledge",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD08-063.jpg"
@@ -165967,11 +165967,11 @@
   "ABC-SD08-064": {
     "id": "ABC-SD08-064",
     "name": "Misty Wind Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Misty Wind Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD08-064.jpg"
@@ -165991,11 +165991,11 @@
   "ABC-SD08-065": {
     "id": "ABC-SD08-065",
     "name": "Wind Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Wind Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD08-065.jpg"
@@ -167558,11 +167558,11 @@
   "ABC-SD09-061": {
     "id": "ABC-SD09-061",
     "name": "Epic Stone of the Blood",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Epic Stone of the Blood",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD09-061.jpg"
@@ -167582,11 +167582,11 @@
   "ABC-SD09-062": {
     "id": "ABC-SD09-062",
     "name": "Magic Stone of Dark Depth",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Dark Depth",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD09-062.jpg"
@@ -167606,11 +167606,11 @@
   "ABC-SD09-063": {
     "id": "ABC-SD09-063",
     "name": "Magic Stone of Murky Waters",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Murky Waters",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD09-063.jpg"
@@ -167630,11 +167630,11 @@
   "ABC-SD09-064": {
     "id": "ABC-SD09-064",
     "name": "Secret Stone of the Ethereal Moon",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Secret Stone of the Ethereal Moon",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD09-064.jpg"
@@ -167654,11 +167654,11 @@
   "ABC-SD09-065": {
     "id": "ABC-SD09-065",
     "name": "Remains of Attoractia",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Remains of Attoractia",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD09-065.jpg"
@@ -169320,11 +169320,11 @@
   "ABC-SD10-061": {
     "id": "ABC-SD10-061",
     "name": "Darkness Moon Fragment",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Darkness Moon Fragment",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD10-061.jpg"
@@ -169344,11 +169344,11 @@
   "ABC-SD10-062": {
     "id": "ABC-SD10-062",
     "name": "Gusting Darkness Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Gusting Darkness Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD10-062.jpg"
@@ -169368,11 +169368,11 @@
   "ABC-SD10-063": {
     "id": "ABC-SD10-063",
     "name": "Killing Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Killing Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD10-063.jpg"
@@ -169392,11 +169392,11 @@
   "ABC-SD10-064": {
     "id": "ABC-SD10-064",
     "name": "Magic Stone of Black Silence",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Black Silence",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD10-064.jpg"
@@ -169416,11 +169416,11 @@
   "ABC-SD10-065": {
     "id": "ABC-SD10-065",
     "name": "Magic Stone of the Undead",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of the Undead",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD10-065.jpg"
@@ -171054,11 +171054,11 @@
   "ABC-SD11-061": {
     "id": "ABC-SD11-061",
     "name": "Magic Stone of Moon Light",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Moon Light",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD11-061.jpg"
@@ -171078,11 +171078,11 @@
   "ABC-SD11-062": {
     "id": "ABC-SD11-062",
     "name": "Ragnarok's Fiery Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ragnarok's Fiery Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD11-062.jpg"
@@ -171102,11 +171102,11 @@
   "ABC-SD11-063": {
     "id": "ABC-SD11-063",
     "name": "Satellite Crystal",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Satellite Crystal",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD11-063.jpg"
@@ -171126,11 +171126,11 @@
   "ABC-SD11-067": {
     "id": "ABC-SD11-067",
     "name": "Void Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Void Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD11-067.jpg"
@@ -172631,11 +172631,11 @@
   "MP02-056": {
     "id": "MP02-056",
     "name": "Awakened Magic Stone, the Earth",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Awakened Magic Stone, the Earth",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-056.jpg"
@@ -172963,11 +172963,11 @@
   "MP02-068": {
     "id": "MP02-068",
     "name": "Stone of the Dragonoids",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Stone of the Dragonoids",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-068.jpg"
@@ -173299,11 +173299,11 @@
   "MP02-080": {
     "id": "MP02-080",
     "name": "Pricia's Memoria",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Pricia's Memoria",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-080.jpg"
@@ -173486,11 +173486,11 @@
   "MP02-087": {
     "id": "MP02-087",
     "name": "Ancient Magic Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ancient Magic Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-087.jpg"
@@ -173915,11 +173915,11 @@
   "MP02-103": {
     "id": "MP02-103",
     "name": "Magic Stone of Vaporization",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of Vaporization",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-103.jpg"
@@ -174114,11 +174114,11 @@
   "MP02-110": {
     "id": "MP02-110",
     "name": "Memoria of Reincarnation",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Memoria of Reincarnation",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-110.jpg"
@@ -174333,11 +174333,11 @@
   "MP02-118": {
     "id": "MP02-118",
     "name": "Magic Stone of the Ebon Home",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Magic Stone of the Ebon Home",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-118.jpg"
@@ -174524,11 +174524,11 @@
   "MP02-125": {
     "id": "MP02-125",
     "name": "Kaguya's Stone of Sorrow",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Kaguya's Stone of Sorrow",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-125.jpg"
@@ -174715,11 +174715,11 @@
   "MP02-132": {
     "id": "MP02-132",
     "name": "Remains of Attoractia",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Remains of Attoractia",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-132.jpg"
@@ -174918,11 +174918,11 @@
   "MP02-139": {
     "id": "MP02-139",
     "name": "Killing Stone",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Killing Stone",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-139.jpg"
@@ -179014,11 +179014,11 @@
   "DRC-096": {
     "id": "DRC-096",
     "name": "Abyssal Pit, Maw of the Void",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Abyssal Pit, Maw of the Void",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-096.jpg"
@@ -179038,11 +179038,11 @@
   "DRC-097": {
     "id": "DRC-097",
     "name": "Eternal Infestation, the Fungal Caves",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Eternal Infestation, the Fungal Caves",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-097.jpg"
@@ -179062,11 +179062,11 @@
   "DRC-098": {
     "id": "DRC-098",
     "name": "Fumaroles of Infernal Bloodlava",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Fumaroles of Infernal Bloodlava",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-098.jpg"
@@ -179086,11 +179086,11 @@
   "DRC-099": {
     "id": "DRC-099",
     "name": "Tar Swamp, the Petrified Statue Garden",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Tar Swamp, the Petrified Statue Garden",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-099.jpg"
@@ -179110,11 +179110,11 @@
   "DRC-100": {
     "id": "DRC-100",
     "name": "Velmardia's Threefold Plateau",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Velmardia's Threefold Plateau",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-100.jpg"
@@ -179240,11 +179240,11 @@
   "DRC Video-03": {
     "id": "DRC Video-03",
     "name": "Raven's Order's Ominous Hall",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Raven's Order's Ominous Hall",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC Video-03.jpg"
@@ -179946,11 +179946,11 @@
   "ATD-009": {
     "id": "ATD-009",
     "name": "Crystal Pinnacles, Refuge of the Sidhe",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Crystal Pinnacles, Refuge of the Sidhe",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ATD-009.jpg"
@@ -179970,11 +179970,11 @@
   "ATD-010": {
     "id": "ATD-010",
     "name": "External Wall of Avalon, Junkyard VLT-9",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "External Wall of Avalon, Junkyard VLT-9",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ATD-010.jpg"
@@ -182757,11 +182757,11 @@
   "JRV-099": {
     "id": "JRV-099",
     "name": "Ravidra, the Forgotten City",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Ravidra, the Forgotten City",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-099.jpg"
@@ -182781,11 +182781,11 @@
   "JRV-100": {
     "id": "JRV-100",
     "name": "Sacred Columns of Uruk",
-    "type": "Magic Stone",
+    "type": "Magic_Stones",
     "face": {
       "front": {
         "name": "Sacred Columns of Uruk",
-        "type": "Magic Stone",
+        "type": "Magic_Stones",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-100.jpg"

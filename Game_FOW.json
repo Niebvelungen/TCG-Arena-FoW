@@ -33,7 +33,7 @@
       "sections": {
         "customSections": [
           "Field",
-          "Magic_Stone_Deck",
+          "Magic_Stones",
           "Mana",
           "Other",
           "Ruler",
@@ -58,7 +58,7 @@
                   }
                 },
                 {
-                  "section": "Magic_Stone_Deck",
+                  "section": "Magic_Stones",
                   "style": {
                     "width": "10vh"
                   }
@@ -106,7 +106,7 @@
         },
         "categoriesAlreadyOnBoard": [
           "Ruler",
-          "Magic_Stone_Deck"
+          "Magic_Stones"
         ],
         "autoPlayFromHand": {
           "Resonator": "Field",
@@ -208,8 +208,8 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Magic_Stone_Deck": {
-            "title": "Magic_Stone_Deck",
+          "Magic_Stones": {
+            "title": "Magic_Stones",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "END",
