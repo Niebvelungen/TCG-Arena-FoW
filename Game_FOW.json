@@ -106,10 +106,10 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Ruler",
-          "Magic_Stones",
-          "Extension_Rule",
-          "Extra deck->Extra_Deck"
+          "Extra deck->Extra_Deck",
+          "Ruler->Ruler",
+          "Magic_Stones->Magic_Stones",
+          "Extension_Rule->Extension_Rule"
         ],
         "autoPlayFromHand": {
           "Resonator": "Field",
