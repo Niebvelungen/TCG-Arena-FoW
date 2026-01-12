@@ -69,6 +69,12 @@
                 },
                 {
                   "section": "Field"
+                },
+                {
+                  "section": "Extra_Deck",
+                  "style": {
+                    "width": "10vh"
+                  }
                 }
               ]
             },
@@ -94,14 +100,10 @@
                   }
                 },
                 {
-                  "section": "Extra_Deck",
+                  "section": "Standby",
                   "style": {
                     "width": "10vh"
                   }
-                },
-                {
-                  "section": "Standby",
-                  "style": false
                 }
               ]
             }
@@ -263,11 +265,11 @@
             "title": "Extra_Deck",
             "isHidden": "opponent-only",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Extra Deck",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
