@@ -105,7 +105,8 @@
         "categoriesAlreadyOnBoard": [
           "Ruler",
           "Magic_Stones",
-          "Extension_Rule"
+          "Extension_Rule",
+          "Extra_Deck"
         ],
         "autoPlayFromHand": {
           "Resonator": "Field",
