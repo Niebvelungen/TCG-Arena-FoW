@@ -247,7 +247,6 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "isDefaultSection": true,
             "displayedTitle": "Extra Deck",
             "noQuickActions": false,
             "enterTapped": false,
