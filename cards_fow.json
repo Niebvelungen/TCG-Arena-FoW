@@ -116803,11 +116803,11 @@
   "CMB-000": {
     "id": "CMB-000",
     "name": "Crimson Moon's Battleground",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Crimson Moon's Battleground",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-000.jpg"
@@ -119485,11 +119485,11 @@
   "CST-000": {
     "id": "CST-000",
     "name": "Clash of the Star Trees",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Clash of the Star Trees",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CST-000.jpg"
@@ -121910,11 +121910,11 @@
   "CST-LVW": {
     "id": "CST-LVW",
     "name": "Legacy: The Virtuous of the World Tree",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Legacy: The Virtuous of the World Tree",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CST-LVW.jpg"
@@ -121934,11 +121934,11 @@
   "CST-Λ&∀": {
     "id": "CST-Λ&∀",
     "name": "Seven Lands' Fairy Tale: A Chapter of Betrayal",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Seven Lands' Fairy Tale: A Chapter of Betrayal",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CST-Λ&∀.jpg"
@@ -121958,11 +121958,11 @@
   "JRP-000": {
     "id": "JRP-000",
     "name": "Return of Judgment",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Return of Judgment",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRP-000.jpg"
@@ -125122,11 +125122,11 @@
   "MP01-010": {
     "id": "MP01-010",
     "name": "Mirror of Chaos",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Mirror of Chaos",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-010.jpg"
@@ -128482,11 +128482,11 @@
   "MP01-136": {
     "id": "MP01-136",
     "name": "Return of the Guardian",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Return of the Guardian",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-136.jpg"
@@ -128587,11 +128587,11 @@
   "MP01-140": {
     "id": "MP01-140",
     "name": "Return of the Usurper",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Return of the Usurper",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-140.jpg"
@@ -128696,11 +128696,11 @@
   "MP01-144": {
     "id": "MP01-144",
     "name": "Return of the Shaman",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Return of the Shaman",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-144.jpg"
@@ -128799,11 +128799,11 @@
   "MP01-148": {
     "id": "MP01-148",
     "name": "Return of the Conjurer",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Return of the Conjurer",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-148.jpg"
@@ -128906,11 +128906,11 @@
   "MP01-152": {
     "id": "MP01-152",
     "name": "Return of the Blood",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Return of the Blood",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-152.jpg"
@@ -135746,11 +135746,11 @@
   "TSR-089": {
     "id": "TSR-089",
     "name": "Battle at the Sacred Ruins: HANADA Group",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Battle at the Sacred Ruins: HANADA Group",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSR-089.jpg"
@@ -135770,11 +135770,11 @@
   "TSR-090": {
     "id": "TSR-090",
     "name": "Battle at the Sacred Ruins: The Coalition",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Battle at the Sacred Ruins: The Coalition",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSR-090.jpg"
@@ -138910,11 +138910,11 @@
   "TEU-094": {
     "id": "TEU-094",
     "name": "Moonless Night's Crossing Point",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Moonless Night's Crossing Point",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TEU-094.jpg"
@@ -138934,11 +138934,11 @@
   "TEU-095": {
     "id": "TEU-095",
     "name": "Timeless Eclipse's Parhelion",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Timeless Eclipse's Parhelion",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TEU-095.jpg"
@@ -142677,11 +142677,11 @@
   "TOP-099": {
     "id": "TOP-099",
     "name": "Ancient Reinforcements of the HANADA Group",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Ancient Reinforcements of the HANADA Group",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-099.jpg"
@@ -142701,11 +142701,11 @@
   "TOP-100": {
     "id": "TOP-100",
     "name": "Those who Observe the Inevitable",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Those who Observe the Inevitable",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-100.jpg"
@@ -172383,11 +172383,11 @@
   "MP02-047": {
     "id": "MP02-047",
     "name": "Crimson Frenemies at the Farmlands of R'lyeh",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Crimson Frenemies at the Farmlands of R'lyeh",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-047.jpg"
@@ -173051,11 +173051,11 @@
   "MP02-071": {
     "id": "MP02-071",
     "name": "Glorian Bond of the Sacred Spirit",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Glorian Bond of the Sacred Spirit",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-071.jpg"
@@ -173605,11 +173605,11 @@
   "MP02-091": {
     "id": "MP02-091",
     "name": "Those who Betrayed Laurite",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Those who Betrayed Laurite",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-091.jpg"
@@ -174171,11 +174171,11 @@
   "MP02-112": {
     "id": "MP02-112",
     "name": "Conquerors of All Dimensions",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Conquerors of All Dimensions",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-112.jpg"
@@ -178918,11 +178918,11 @@
   "DRC-092": {
     "id": "DRC-092",
     "name": "Eternal Pact with Barust",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Eternal Pact with Barust",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-092.jpg"
@@ -178942,11 +178942,11 @@
   "DRC-093": {
     "id": "DRC-093",
     "name": "Eternal Pact with Belphegor",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Eternal Pact with Belphegor",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-093.jpg"
@@ -178966,11 +178966,11 @@
   "DRC-094": {
     "id": "DRC-094",
     "name": "Eternal Pact with Diabolos",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Eternal Pact with Diabolos",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-094.jpg"
@@ -178990,11 +178990,11 @@
   "DRC-095": {
     "id": "DRC-095",
     "name": "Eternal Pact with Python",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Eternal Pact with Python",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-095.jpg"
@@ -182661,11 +182661,11 @@
   "JRV-095": {
     "id": "JRV-095",
     "name": "Eternal Pact with Amon",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Eternal Pact with Amon",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-095.jpg"
@@ -182685,11 +182685,11 @@
   "JRV-096": {
     "id": "JRV-096",
     "name": "Eternal Pact with Beelzebub",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Eternal Pact with Beelzebub",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-096.jpg"
@@ -182709,11 +182709,11 @@
   "JRV-097": {
     "id": "JRV-097",
     "name": "Eternal Pact with Lilith",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Eternal Pact with Lilith",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-097.jpg"
@@ -182733,11 +182733,11 @@
   "JRV-098": {
     "id": "JRV-098",
     "name": "Eternal Pact with Moloch",
-    "type": "Extension Rule",
+    "type": "Extension_Rule",
     "face": {
       "front": {
         "name": "Eternal Pact with Moloch",
-        "type": "Extension Rule",
+        "type": "Extension_Rule",
         "cost": 0,
         "isHorizontal": true,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-098.jpg"

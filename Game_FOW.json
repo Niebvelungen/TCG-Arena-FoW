@@ -78,29 +78,28 @@
                   "section": "Other"
                 },
                 {
+                  "section": "RFG",
+                  "style": {
+                    "width": "10vh"
+                  }
+                },
+                {
                   "section": "Expel",
                   "style": {
-                    "width": "15vh"
+                    "width": "10vh"
                   }
-                }
-              ]
-            },
-            {
-              "direction": "row",
-              "style": false,
-              "content": [
+                },
                 {
                   "section": "Extra_Deck",
                   "style": {
-                    "width": "15vh"
+                    "width": "10vh"
                   }
                 },
                 {
                   "section": "Face_Down",
                   "style": false
                 }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             }
           ]
         },
@@ -193,14 +192,14 @@
             "showHiddenCardInHistory": false
           },
           "Extension_Rule": {
-            "title": "Ruler",
+            "title": "Extension_Rule",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Ruler",
+            "displayedTitle": "Extension Rule",
             "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
@@ -233,6 +232,22 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Expel",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "RFG": {
+            "title": "RFG",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Removed From Game",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
