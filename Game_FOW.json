@@ -327,7 +327,7 @@
       "https://i.ibb.co/ZzKYNswJ/z-V2lc-ZW-Imgur.jpg",
       "https://cdn.imgchest.com/files/a8d13f7db74f.jpeg"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://niebvelungen.github.io/TCG-Arena-FoW/decks.json"
   },
   "customHelp": "The app will tap cards in your mana section without looking at colors when paying the cost of cards. It will consider all cards in the resource section like a card that produce 1 mana (artifacts producing mana can be put in this section to be used automatically when paying mana costs). If you are expecting reactions from a permanent you play, remember that all cards can be put in the stack to resolve interactions.",
   "cards": {

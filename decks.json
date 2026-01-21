@@ -1,0 +1,273 @@
+[
+    {
+        "title": "Matelda Starter Deck",
+        "id": "f08b0bc9-bc65-470a-bdf2-dadcf82fd7db",
+        "game": "Force of Will",
+        "format": [
+            "Wanderer",
+            "Paradox"
+        ],
+        "cardCount": 56,
+        "createdAt": "2026-01-21T18:35:26.813Z",
+        "lastModifiedAt": "2026-01-21T18:44:31.048Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Extra deck",
+                "Resonator",
+                "Rune",
+                "Regalia",
+                "Warden",
+                "Ruler",
+                "Magic_Stones"
+            ],
+            "Sideboard": [],
+            "Resonator": [
+                {
+                    "count": 4,
+                    "id": "ESD2-002"
+                },
+                {
+                    "count": 3,
+                    "id": "AO3-013"
+                },
+                {
+                    "count": 4,
+                    "id": "ESD2-004"
+                },
+                {
+                    "count": 3,
+                    "id": "ESD2-005"
+                },
+                {
+                    "count": 3,
+                    "id": "ESD2-006"
+                },
+                {
+                    "count": 2,
+                    "id": "ESD2-007"
+                },
+                {
+                    "count": 2,
+                    "id": "ESD2-008"
+                }
+            ],
+            "Rune": [
+                {
+                    "count": 3,
+                    "id": "ESD2-009"
+                },
+                {
+                    "count": 3,
+                    "id": "ESD2-010"
+                },
+                {
+                    "count": 2,
+                    "id": "ESD2-011"
+                },
+                {
+                    "count": 4,
+                    "id": "ESD2-012"
+                }
+            ],
+            "Regalia": [
+                {
+                    "count": 2,
+                    "id": "ESD2-013"
+                },
+                {
+                    "count": 3,
+                    "id": "ESD2-014"
+                }
+            ],
+            "Warden": [
+                {
+                    "count": 2,
+                    "id": "ESD2-015"
+                }
+            ],
+            "Ruler": [
+                {
+                    "count": 1,
+                    "id": "ESD2-001"
+                }
+            ],
+            "Magic_Stones": [
+                {
+                    "count": 2,
+                    "id": "NDR-106"
+                },
+                {
+                    "count": 3,
+                    "id": "ESD1-022"
+                },
+                {
+                    "count": 2,
+                    "id": "NWE-108"
+                },
+                {
+                    "count": 3,
+                    "id": "SDR6-016"
+                }
+            ],
+            "Extra deck": [
+                {
+                    "count": 1,
+                    "id": "ESD2-019"
+                },
+                {
+                    "count": 1,
+                    "id": "SDV2-006"
+                },
+                {
+                    "count": 1,
+                    "id": "SDV1-015"
+                },
+                {
+                    "count": 1,
+                    "id": "ESD2-016"
+                },
+                {
+                    "count": 1,
+                    "id": "ESD2-020"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Valgott Starter Deck",
+        "id": "b7a24c45-2232-4c54-b09e-65d92d887d90",
+        "game": "Force of Will",
+        "format": [
+            "Paradox",
+            "Wanderer"
+        ],
+        "cardCount": 56,
+        "createdAt": "2026-01-21T18:42:12.346Z",
+        "lastModifiedAt": "2026-01-21T18:44:11.756Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Extra deck",
+                "Resonator",
+                "Rune",
+                "Addition",
+                "Regalia",
+                "Warden",
+                "Ruler",
+                "Magic_Stones"
+            ],
+            "Sideboard": [],
+            "Resonator": [
+                {
+                    "count": 4,
+                    "id": "ESD1-002"
+                },
+                {
+                    "count": 4,
+                    "id": "ESD1-003"
+                },
+                {
+                    "count": 3,
+                    "id": "SNV-087"
+                },
+                {
+                    "count": 3,
+                    "id": "ESD1-005"
+                },
+                {
+                    "count": 3,
+                    "id": "ESD1-006"
+                },
+                {
+                    "count": 2,
+                    "id": "ESD1-007"
+                },
+                {
+                    "count": 2,
+                    "id": "ESD1-008"
+                }
+            ],
+            "Rune": [
+                {
+                    "count": 3,
+                    "id": "ESD1-009"
+                },
+                {
+                    "count": 3,
+                    "id": "ESD1-010"
+                },
+                {
+                    "count": 2,
+                    "id": "ESD1-011"
+                },
+                {
+                    "count": 4,
+                    "id": "ESD1-012"
+                }
+            ],
+            "Addition": [
+                {
+                    "count": 3,
+                    "id": "ESD1-013"
+                }
+            ],
+            "Regalia": [
+                {
+                    "count": 2,
+                    "id": "ESD1-014"
+                }
+            ],
+            "Warden": [
+                {
+                    "count": 2,
+                    "id": "ESD1-015"
+                }
+            ],
+            "Ruler": [
+                {
+                    "count": 1,
+                    "id": "ESD1-001"
+                }
+            ],
+            "Magic_Stones": [
+                {
+                    "count": 2,
+                    "id": "NDR-103"
+                },
+                {
+                    "count": 3,
+                    "id": "ESD1-022"
+                },
+                {
+                    "count": 2,
+                    "id": "HSD-026"
+                },
+                {
+                    "count": 3,
+                    "id": "NWE-111"
+                }
+            ],
+            "Extra deck": [
+                {
+                    "count": 1,
+                    "id": "ESD1-019"
+                },
+                {
+                    "count": 1,
+                    "id": "SDV5-004"
+                },
+                {
+                    "count": 1,
+                    "id": "ESD1-017"
+                },
+                {
+                    "count": 1,
+                    "id": "SDV3-016"
+                },
+                {
+                    "count": 1,
+                    "id": "ESD1-020"
+                }
+            ]
+        }
+    }
+]
