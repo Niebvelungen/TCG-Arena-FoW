@@ -148,7 +148,7 @@
           "Regalia": "Other",
           "Addition": "Other",
           "Chant": "Stack",
-          "Magic_Stone": "Mana",
+          "Magic_Stones": "Mana",
           "Warden": "Ruler",
           "Card": "Other"
         },
@@ -157,7 +157,7 @@
           "Regalia": "Other",
           "Addition": "Other",
           "Chant": "Stack",
-          "Magic_Stone": "Mana",
+          "Magic_Stones": "Mana",
           "Warden": "Ruler",
           "J-Ruler": "Other",
           "Card": "Other"
