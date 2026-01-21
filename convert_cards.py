@@ -37,7 +37,7 @@ def get_card_type(types):
 
     # Check if any type contains "Magic Stone"
     if any("Magic Stone" in t for t in types):
-        return "Magic_Stone"
+        return "Magic_Stones"
     
     # Check if any type contains "Magic Stone"
     if any("Extension Rule" in t for t in types):

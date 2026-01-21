@@ -189172,12 +189172,64 @@
 								"artist": "hatarisu",
 								"rarity": "R",
 								"fowID": ""
+							},
+							{
+								"id": "ESD1-021",
+								"name": "Magic Stone of Corruption",
+								"type": [
+									"Special Magic Stone"
+								],
+								"race": [],
+								"cost": "",
+								"colour": [
+									"V"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"{Rest}: Produce {B}.",
+									"{Rest}, {B}{B}, banish this card: Your opponent discards a card. Play this ability only during main timing. (Main timing is anytime you can play a non-[Quickcast] card.)"
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "The world corrupts the pure.",
+								"artist": "moopic",
+								"rarity": "R",
+								"fowID": ""
+							},
+							{
+								"id": "ESD1-022",
+								"name": "Vestige of Velmardia's Grace",
+								"type": [
+									"Special Magic Stone"
+								],
+								"race": [
+									"Overworld"
+								],
+								"cost": "",
+								"colour": [
+									"V"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"If you already control an Overworld magic stone, this card enters the field rested.",
+									"{Rest}: Produce one will of any attribute shared with a J/ruler you control.",
+									"[Solo Mode]",
+									"God's Art \"Silent Prayer\" {Rest}: Produce two wills of an attribute shared with a J/ruler you control. Spend this will only to play warden processes."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "There are still sacred places in Yomidgard far from Velmardia.",
+								"artist": "mita kura",
+								"rarity": "N",
+								"fowID": ""
 							}
 						]
 					},
 					{
 						"name": "Evil Cluster Starter Deck 2",
-						"code": "ESD1",
+						"code": "ESD2",
 						"cards": [
 							{
 								"id": "ESD2-001",
@@ -189808,6 +189860,57 @@
 								"flavour": "\"May my light be the guide for all those who stand against the darkness!\" -Queen Matelda",
 								"artist": "Nagi-nyan",
 								"rarity": "R",
+								"fowID": ""
+							},
+							{
+								"id": "ESD2-021",
+								"name": "Magic Stone of Faith",
+								"type": [
+									"Special Magic Stone"
+								],
+								"race": [],
+								"cost": "",
+								"colour": [
+									"V"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"{Rest}: Produce {W}. If you spend this will to play a Human spell or a Valkyrie spell, it cannot be canceled."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "The goddess Velmar takes care of all her believers.",
+								"artist": "Sa-Dui",
+								"rarity": "R",
+								"fowID": ""
+							},
+							{
+								"id": "ESD2-022",
+								"name": "Vestige of Velmardia's Grace",
+								"type": [
+									"Special Magic Stone"
+								],
+								"race": [
+									"Overworld"
+								],
+								"cost": "",
+								"colour": [
+									"V"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"If you already control an Overworld magic stone, this card enters the field rested.",
+									"{Rest}: Produce one will of any attribute shared with a J/ruler you control.",
+									"[Solo Mode]",
+									"God's Art \"Silent Prayer\" {Rest}: Produce two wills of an attribute shared with a J/ruler you control. Spend this will only to play warden processes."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "There are still sacred places in Yomidgard far from Velmardia.",
+								"artist": "mita kura",
+								"rarity": "N",
 								"fowID": ""
 							}
 						]

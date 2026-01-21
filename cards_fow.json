@@ -175905,6 +175905,54 @@
     "isHorizontal": false,
     "cost": 4
   },
+  "ESD1-021": {
+    "id": "ESD1-021",
+    "name": "Magic Stone of Corruption",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Magic Stone of Corruption",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD1-021.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "esd1",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "ESD1-022": {
+    "id": "ESD1-022",
+    "name": "Vestige of Velmardia's Grace",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Vestige of Velmardia's Grace",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD1-022.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "esd1",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "ESD2-001": {
     "id": "ESD2-001",
     "name": "Queen of Velmardia, Matelda",
@@ -175934,7 +175982,7 @@
       "W",
       "R"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 0
   },
@@ -175960,7 +176008,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 1,
     "ATK": "200",
@@ -175988,7 +176036,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 1,
     "ATK": "400",
@@ -176016,7 +176064,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 2,
     "ATK": "500",
@@ -176046,7 +176094,7 @@
       "W",
       "R"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 2,
     "ATK": "700",
@@ -176076,7 +176124,7 @@
       "W",
       "R"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 2,
     "ATK": "500",
@@ -176104,7 +176152,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 1,
     "ATK": "400",
@@ -176132,7 +176180,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 4,
     "ATK": "1200",
@@ -176158,7 +176206,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 2
   },
@@ -176182,7 +176230,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 2
   },
@@ -176206,7 +176254,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 3
   },
@@ -176230,7 +176278,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 2
   },
@@ -176254,7 +176302,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 2
   },
@@ -176278,7 +176326,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 1
   },
@@ -176309,7 +176357,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 2
   },
@@ -176333,7 +176381,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 2
   },
@@ -176357,7 +176405,7 @@
     "Color identity": [
       "W"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 1
   },
@@ -176381,7 +176429,7 @@
     "Color identity": [
       "R"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 1
   },
@@ -176405,7 +176453,7 @@
     "Color identity": [
       "R"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 3
   },
@@ -176431,9 +176479,57 @@
       "W",
       "R"
     ],
-    "set": "esd1",
+    "set": "esd2",
     "isHorizontal": false,
     "cost": 4
+  },
+  "ESD2-021": {
+    "id": "ESD2-021",
+    "name": "Magic Stone of Faith",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Magic Stone of Faith",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD2-021.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "esd2",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "ESD2-022": {
+    "id": "ESD2-022",
+    "name": "Vestige of Velmardia's Grace",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Vestige of Velmardia's Grace",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD2-022.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "esd2",
+    "isHorizontal": false,
+    "cost": 0
   },
   "DRC-001": {
     "id": "DRC-001",
