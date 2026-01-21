@@ -1,6 +1,6 @@
 {
   "name": "Force of Will",
-  "menuBackgroundImage": "https://www.fowtcg.com/images/common/logo.png",
+  "menuBackgroundImage": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/menu_background.png",
   "deckBuilding": {
     "mainFilters": [
       "type",
