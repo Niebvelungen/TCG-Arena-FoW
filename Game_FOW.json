@@ -82,6 +82,12 @@
                   }
                 },
                 {
+                  "section": "Sub_Ruler",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
                   "section": "Extension_Rule",
                   "style": {
                     "width": "15vh"
@@ -132,6 +138,7 @@
         "categoriesAlreadyOnBoard": [
           "Extra deck->Extra_Deck",
           "Ruler",
+          "Sub_Ruler",
           "Magic_Stones",
           "Extension_Rule"
         ],
@@ -212,6 +219,22 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Ruler",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sub_Ruler": {
+            "title": "Sub_Ruler",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Sub Ruler",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,

@@ -119029,11 +119029,11 @@
   "CMB-085": {
     "id": "CMB-085",
     "name": "Bow and Arrows",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Bow and Arrows",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-085.jpg"
@@ -119053,11 +119053,11 @@
   "CMB-086": {
     "id": "CMB-086",
     "name": "Chain-Sickle",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Chain-Sickle",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-086.jpg"
@@ -119077,11 +119077,11 @@
   "CMB-087": {
     "id": "CMB-087",
     "name": "Flame Earrings",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Flame Earrings",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-087.jpg"
@@ -119101,11 +119101,11 @@
   "CMB-088": {
     "id": "CMB-088",
     "name": "Longsword",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Longsword",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-088.jpg"
@@ -119125,11 +119125,11 @@
   "CMB-089": {
     "id": "CMB-089",
     "name": "Rapier",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Rapier",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-089.jpg"
@@ -119149,11 +119149,11 @@
   "CMB-090": {
     "id": "CMB-090",
     "name": "Devil Spear",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Devil Spear",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-090.jpg"
@@ -119173,11 +119173,11 @@
   "CMB-091": {
     "id": "CMB-091",
     "name": "Dragon Armor of the God of War",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Dragon Armor of the God of War",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-091.jpg"
@@ -119197,11 +119197,11 @@
   "CMB-092": {
     "id": "CMB-092",
     "name": "Amulet Orb",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Amulet Orb",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-092.jpg"
@@ -119221,11 +119221,11 @@
   "CMB-093": {
     "id": "CMB-093",
     "name": "Battle Flag",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Battle Flag",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-093.jpg"
@@ -119245,11 +119245,11 @@
   "CMB-094": {
     "id": "CMB-094",
     "name": "Headband",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Headband",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-094.jpg"
@@ -119269,11 +119269,11 @@
   "CMB-095": {
     "id": "CMB-095",
     "name": "Rough Magic Stone",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Rough Magic Stone",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-095.jpg"
@@ -119293,11 +119293,11 @@
   "CMB-096": {
     "id": "CMB-096",
     "name": "War Horn",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "War Horn",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-096.jpg"
@@ -119317,11 +119317,11 @@
   "CMB-097": {
     "id": "CMB-097",
     "name": "Cursed Sword",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Cursed Sword",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-097.jpg"
@@ -119341,11 +119341,11 @@
   "CMB-098": {
     "id": "CMB-098",
     "name": "Horror Armor of the God of Death",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Horror Armor of the God of Death",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMB-098.jpg"
@@ -125494,11 +125494,11 @@
   "MP01-024": {
     "id": "MP01-024",
     "name": "Basket of Apples",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Basket of Apples",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-024.jpg"
@@ -125866,11 +125866,11 @@
   "MP01-038": {
     "id": "MP01-038",
     "name": "Trials from Kaguya",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Trials from Kaguya",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-038.jpg"
@@ -126994,11 +126994,11 @@
   "MP01-080": {
     "id": "MP01-080",
     "name": "Alice's Friends in Wonderland",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Alice's Friends in Wonderland",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-080.jpg"
@@ -127716,11 +127716,11 @@
   "MP01-108": {
     "id": "MP01-108",
     "name": "Bandolier of Envy",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Bandolier of Envy",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-108.jpg"
@@ -128092,11 +128092,11 @@
   "MP01-122": {
     "id": "MP01-122",
     "name": "Alf Laylah",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Alf Laylah",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-122.jpg"
@@ -131359,11 +131359,11 @@
   "TTT-033": {
     "id": "TTT-033",
     "name": "Test Tubes of Spirits",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Test Tubes of Spirits",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-033.jpg"
@@ -132321,11 +132321,11 @@
   "TTT-068": {
     "id": "TTT-068",
     "name": "A∵A∵A∵",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "A∵A∵A∵",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-068.jpg"
@@ -138886,11 +138886,11 @@
   "TEU-093": {
     "id": "TEU-093",
     "name": "Wu Xiaohu, Kidnapped Royal Pet",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Wu Xiaohu, Kidnapped Royal Pet",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TEU-093.jpg"
@@ -142653,11 +142653,11 @@
   "TOP-098": {
     "id": "TOP-098",
     "name": "Wu Xiaohu, Motorized Cat",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Wu Xiaohu, Motorized Cat",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-098.jpg"
@@ -171495,11 +171495,11 @@
   "MP02-014": {
     "id": "MP02-014",
     "name": "Released Seal of Infinity",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Released Seal of Infinity",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-014.jpg"
@@ -172719,11 +172719,11 @@
   "MP02-059": {
     "id": "MP02-059",
     "name": "Ryula, Princess of a New Generation",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Ryula, Princess of a New Generation",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-059.jpg"
@@ -175198,11 +175198,11 @@
   "MP02-149": {
     "id": "MP02-149",
     "name": "The Library of Neverending Stories",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "The Library of Neverending Stories",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP02-149.jpg"
@@ -180090,11 +180090,11 @@
   "ATD-011": {
     "id": "ATD-011",
     "name": "Scrivener of the Ten Oaths",
-    "type": "Sub-Ruler",
+    "type": "Sub_Ruler",
     "face": {
       "front": {
         "name": "Scrivener of the Ten Oaths",
-        "type": "Sub-Ruler",
+        "type": "Sub_Ruler",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ATD-011.jpg"

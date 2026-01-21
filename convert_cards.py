@@ -35,14 +35,15 @@ def get_card_type(types):
     if not types:
         return "Unknown"
 
-    # Check if any type contains "Magic Stone"
+    if any("Sub-Ruler" in t for t in types):
+        return "Sub_Ruler"
+    
     if any("Magic Stone" in t for t in types):
         return "Magic_Stones"
     
-    # Check if any type contains "Magic Stone"
     if any("Extension Rule" in t for t in types):
         return "Extension_Rule"
-
+    
     if "Rune" in types:
         return "Rune"
 
