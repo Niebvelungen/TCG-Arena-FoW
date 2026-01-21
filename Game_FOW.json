@@ -15,6 +15,30 @@
         "customCategories": [
           "Extra deck"
         ]
+      },
+      {
+        "title": "Paradox",
+        "gameplay": "Wanderer",
+        "compatibility": "Wanderer",
+        "customCategories": [
+          "Extra deck"
+        ]
+      },
+      {
+        "title": "ABC",
+        "gameplay": "Wanderer",
+        "compatibility": "Wanderer",
+        "customCategories": [
+          "Extra deck"
+        ]
+      },
+      {
+        "title": "ABC:D",
+        "gameplay": "Wanderer",
+        "compatibility": "Wanderer",
+        "customCategories": [
+          "Extra deck"
+        ]
       }
     ]
   },
