@@ -54,7 +54,7 @@
         "sharedTurn": false
       },
       "countersStartingValues": [
-        4000,
+        40,
         0
       ],
       "sections": {
