@@ -95,12 +95,6 @@
                   }
                 },
                 {
-                  "section": "Magic_Stones",
-                  "style": {
-                    "width": "10vh"
-                  }
-                },
-                {
                   "section": "Field"
                 },
                 {
@@ -114,6 +108,12 @@
             {
               "direction": "row",
               "content": [
+                {
+                  "section": "Magic_Stones",
+                  "style": {
+                    "width": "10vh"
+                  }
+                },
                 {
                   "section": "Mana"
                 },
