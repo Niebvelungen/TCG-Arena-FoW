@@ -1,4 +1,92 @@
 import json
+import requests
+import re
+import os
+import argparse
+
+CACHE_FILE = "image_cache.json"
+S3_BASE_URL = "https://fowsim.s3.amazonaws.com/media/cards/"
+FALLBACK_BASE_URL = "https://www.forceofwind.online/card/"
+PLACEHOLDER_IMAGE = "https://fowsim.s3.amazonaws.com/static/img/none.000fb66afe5c.png"
+
+def load_image_cache(cache_file):
+    """Load image cache from file"""
+    if os.path.exists(cache_file):
+        try:
+            with open(cache_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError):
+            return {}
+    return {}
+
+def save_image_cache(cache, cache_file):
+    """Save image cache to file"""
+    with open(cache_file, 'w', encoding='utf-8') as f:
+        json.dump(cache, f, indent=2, ensure_ascii=False)
+
+def find_uncached_cards(input_file, cache_file=CACHE_FILE):
+    """Find all card IDs from input file that are not in the cache"""
+    cache = load_image_cache(cache_file)
+
+    with open(input_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    uncached = []
+
+    for game_data in data.values():
+        if 'clusters' not in game_data:
+            continue
+        for cluster in game_data['clusters']:
+            if 'sets' not in cluster:
+                continue
+            for card_set in cluster['sets']:
+                if 'cards' not in card_set:
+                    continue
+                for card in card_set['cards']:
+                    card_id = card.get('id', '')
+                    if card_id and card_id not in cache:
+                        uncached.append(card_id)
+
+    return uncached
+
+def get_image_url(card_id, cache):
+    """
+    Check if image exists at S3, if not scrape from forceofwind.online.
+    Returns the valid image URL and updates cache.
+    """
+    # Check cache first
+    if card_id in cache:
+        return cache[card_id]
+
+    s3_url = f"{S3_BASE_URL}{card_id}.jpg"
+
+    # Try HEAD request to S3 URL
+    try:
+        response = requests.head(s3_url, timeout=5)
+        if response.status_code == 200:
+            cache[card_id] = s3_url
+            return s3_url
+    except requests.RequestException:
+        pass
+
+    # Fallback: scrape from forceofwind.online
+    # Replace * with %5E for the URL (site encoding)
+    url_card_id = card_id.replace('*', '%5E') if card_id.endswith('*') else card_id
+    fallback_url = f"{FALLBACK_BASE_URL}{url_card_id}/"
+    try:
+        response = requests.get(fallback_url, timeout=10)
+        if response.status_code == 200:
+            # Find first img with class="card-img"
+            match = re.search(r'<img[^>]*class="card-img"[^>]*src="([^"]+)"', response.text)
+            if match:
+                image_url = match.group(1)
+                cache[card_id] = image_url
+                return image_url
+    except requests.RequestException:
+        pass
+
+    # Not found anywhere - cache empty string
+    return ""
 
 def parse_cost(cost_str):
     """Parse cost string and return numeric value"""
@@ -59,13 +147,28 @@ def is_horizontal(types):
         return False
     return "Extension Rule" in types or any("Extension" in t for t in types)
 
-def convert_cards(input_file, output_file):
+def convert_cards(input_file, output_file, check_images=True):
     """Convert cards.json to example.json format"""
 
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     output = {}
+    missing_images = []  # Track cards without images
+
+    # Load image cache
+    image_cache = load_image_cache(CACHE_FILE) if check_images else {}
+    card_count = 0
+    total_cards = 0
+
+    # Count total cards for progress
+    for game_data in data.values():
+        if 'clusters' in game_data:
+            for cluster in game_data['clusters']:
+                if 'sets' in cluster:
+                    for card_set in cluster['sets']:
+                        if 'cards' in card_set:
+                            total_cards += len(card_set['cards'])
 
     # Process each game
     for game_key, game_data in data.items():
@@ -92,6 +195,20 @@ def convert_cards(input_file, output_file):
                     if not card_id:
                         continue
 
+                    # Progress indicator
+                    card_count += 1
+                    if card_count % 100 == 0:
+                        print(f"Processing card {card_count}/{total_cards}...")
+
+                    # Get image URL (with caching)
+                    if check_images:
+                        image_url = get_image_url(card_id, image_cache)
+                        if not image_url or image_url == PLACEHOLDER_IMAGE:
+                            missing_images.append(card_id)
+                            continue  # Skip cards without images or with placeholder
+                    else:
+                        image_url = f"{S3_BASE_URL}{card_id}.jpg"
+
                     # Check if this is a J-card (backface) or *-card (split/double-faced)
                     is_j_card = card_id.endswith('J')
                     is_star_card = card_id.endswith('*')
@@ -106,7 +223,7 @@ def convert_cards(input_file, output_file):
                                 'type': get_card_type(card_types),
                                 'cost': parse_cost(card.get('cost', '')),
                                 'isHorizontal': is_horizontal(card_types),
-                                'image': f"https://fowsim.s3.amazonaws.com/media/cards/{card_id}.jpg"
+                                'image': image_url
                             }
 
                             # Add ATK/DEF if it's a Resonator
@@ -118,15 +235,26 @@ def convert_cards(input_file, output_file):
                                 output[base_id]['ATK'] = atk if atk else ''
                                 output[base_id]['DEF'] = def_val if def_val else ''
                     elif is_star_card:
-                        # Update main entry with split card naming (no back face)
+                        # Update main entry with split card naming
                         if base_id in output:
+                            card_types = card.get('type', [])
                             card_name_1 = output[base_id]['name']
                             card_name_2 = card.get('name', '')
                             card_type_1 = output[base_id]['Card type']
-                            card_type_2 = ' - '.join(card.get('type', [])) if card.get('type') else ''
+                            card_type_2 = ' - '.join(card_types) if card_types else ''
 
                             output[base_id]['name'] = f"{card_name_1} // {card_name_2}"
                             output[base_id]['Card type'] = f"{card_type_1} // {card_type_2}"
+
+                            # Add back face if it's a Sub-Ruler
+                            if any("Sub-Ruler" in t for t in card_types):
+                                output[base_id]['face']['back'] = {
+                                    'name': card.get('name', ''),
+                                    'type': get_card_type(card_types),
+                                    'cost': parse_cost(card.get('cost', '')),
+                                    'isHorizontal': is_horizontal(card_types),
+                                    'image': image_url
+                                }
                     else:
                         # Create new card entry
                         card_types = card.get('type', [])
@@ -144,7 +272,7 @@ def convert_cards(input_file, output_file):
                                     'type': card_type,
                                     'cost': parse_cost(card.get('cost', '')),
                                     'isHorizontal': horizontal,
-                                    'image': f"https://fowsim.s3.amazonaws.com/media/cards/{card_id}.jpg"
+                                    'image': image_url
                                 }
                             },
                             'Colors': colours,
@@ -166,12 +294,45 @@ def convert_cards(input_file, output_file):
 
                         output[card_id] = card_entry
 
+    # Save image cache
+    if check_images:
+        save_image_cache(image_cache, CACHE_FILE)
+        print(f"Image cache saved to: {CACHE_FILE}")
+
+        # Export missing images list
+        if missing_images:
+            missing_file = "missing_images.txt"
+            with open(missing_file, 'w', encoding='utf-8') as f:
+                for card_id in missing_images:
+                    f.write(f"{card_id}\n")
+            print(f"Cards without images ({len(missing_images)}): {missing_file}")
+
     # Write output
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
     print(f"Conversion complete! Processed {len(output)} cards.")
+    if check_images and missing_images:
+        print(f"Excluded {len(missing_images)} cards without images.")
     print(f"Output written to: {output_file}")
 
 if __name__ == "__main__":
-    convert_cards('cards.json', 'cards_fow.json')
+    parser = argparse.ArgumentParser(description='Convert FoW cards.json to output format')
+    parser.add_argument('--uncached', action='store_true',
+                        help='Output card IDs that are not in the image cache')
+    parser.add_argument('--no-images', action='store_true',
+                        help='Skip image checking (faster)')
+    parser.add_argument('--input', default='cards.json',
+                        help='Input file (default: cards.json)')
+    parser.add_argument('--output', default='cards_fow.json',
+                        help='Output file (default: cards_fow.json)')
+
+    args = parser.parse_args()
+
+    if args.uncached:
+        uncached = find_uncached_cards(args.input)
+        print(f"Found {len(uncached)} uncached card IDs:")
+        for card_id in uncached:
+            print(card_id)
+    else:
+        convert_cards(args.input, args.output, check_images=not args.no_images)
