@@ -129,6 +129,12 @@ def get_card_type(types):
     if any("Magic Stone" in t for t in types):
         return "Magic_Stones"
     
+    if any("Chant" in t for t in types):
+        return "Chant"
+    
+    if any("Master Rune" in t for t in types):
+        return "Master_Rune"
+    
     if any("Extension Rule" in t for t in types):
         return "Extension_Rule"
     
@@ -247,7 +253,7 @@ def convert_cards(input_file, output_file, check_images=True):
                             output[base_id]['Card type'] = f"{card_type_1} // {card_type_2}"
 
                             # Add back face if it's a Sub-Ruler
-                            if any("Sub-Ruler" in t for t in card_types):
+                            if any("Sub-Ruler" in t for t in card_types) or any("Resonator" in t for t in card_types) or any("Addition" in t for t in card_types) or any("Regalia" in t for t in card_types):
                                 output[base_id]['face']['back'] = {
                                     'name': card.get('name', ''),
                                     'type': get_card_type(card_types),

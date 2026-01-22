@@ -148,6 +148,8 @@
           "Regalia": "Other",
           "Addition": "Other",
           "Chant": "Stack",
+          "Rune": "Stack",
+          "Master_Rune": "Stack",
           "Magic_Stones": "Mana",
           "Warden": "Ruler",
           "Card": "Other"
@@ -156,10 +158,13 @@
           "Resonator": "Field",
           "Regalia": "Other",
           "Addition": "Other",
-          "Chant": "Stack",
+          "Chant": "Discard",
+          "Rune": "Discard",
+          "Master_Rune": "Discard",
           "Magic_Stones": "Mana",
           "Warden": "Ruler",
-          "J-Ruler": "Other",
+          "J-Ruler": "Field",
+          "Sub-Ruler": "Sub_Ruler",
           "Card": "Other"
         },
         "sectionsDict": {

@@ -86,11 +86,11 @@
   "CMF-004": {
     "id": "CMF-004",
     "name": "Dream of Juliet",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Dream of Juliet",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-004.jpg"
@@ -266,11 +266,11 @@
   "CMF-011": {
     "id": "CMF-011",
     "name": "Light of Hope",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Light of Hope",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-011.jpg"
@@ -373,11 +373,11 @@
   "CMF-015": {
     "id": "CMF-015",
     "name": "Return to Stories",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Return to Stories",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-015.jpg"
@@ -421,11 +421,11 @@
   "CMF-017": {
     "id": "CMF-017",
     "name": "Tell a Fairy Tale",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Tell a Fairy Tale",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-017.jpg"
@@ -549,11 +549,11 @@
   "CMF-022": {
     "id": "CMF-022",
     "name": "Clockwork Apple Bomb",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Clockwork Apple Bomb",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-022.jpg"
@@ -800,11 +800,11 @@
   "CMF-031": {
     "id": "CMF-031",
     "name": "Poison Apple",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Poison Apple",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-031.jpg"
@@ -824,11 +824,11 @@
   "CMF-032": {
     "id": "CMF-032",
     "name": "Purifying Fire",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Purifying Fire",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-032.jpg"
@@ -983,11 +983,11 @@
   "CMF-038": {
     "id": "CMF-038",
     "name": "Thunder",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Thunder",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-038.jpg"
@@ -1091,11 +1091,11 @@
   "CMF-042": {
     "id": "CMF-042",
     "name": "Five Challenges",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Five Challenges",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-042.jpg"
@@ -1167,11 +1167,11 @@
   "CMF-045": {
     "id": "CMF-045",
     "name": "Inquisition",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Inquisition",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-045.jpg"
@@ -1302,11 +1302,11 @@
   "CMF-050": {
     "id": "CMF-050",
     "name": "Rabbit Kick",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Rabbit Kick",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-050.jpg"
@@ -1489,11 +1489,11 @@
   "CMF-057": {
     "id": "CMF-057",
     "name": "Voice of the False God",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Voice of the False God",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-057.jpg"
@@ -1513,11 +1513,11 @@
   "CMF-058": {
     "id": "CMF-058",
     "name": "Absolute Cake Zone",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Absolute Cake Zone",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-058.jpg"
@@ -1864,11 +1864,11 @@
   "CMF-071": {
     "id": "CMF-071",
     "name": "Law of Silence",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Law of Silence",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-071.jpg"
@@ -1971,11 +1971,11 @@
   "CMF-075": {
     "id": "CMF-075",
     "name": "Siege Warfare",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Siege Warfare",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-075.jpg"
@@ -1995,11 +1995,11 @@
   "CMF-076": {
     "id": "CMF-076",
     "name": "Silver Bullet",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Silver Bullet",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-076.jpg"
@@ -2098,11 +2098,11 @@
   "CMF-080": {
     "id": "CMF-080",
     "name": "Bloodsucking Impulse",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Bloodsucking Impulse",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-080.jpg"
@@ -2258,11 +2258,11 @@
   "CMF-086": {
     "id": "CMF-086",
     "name": "Midnight Bell",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Midnight Bell",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-086.jpg"
@@ -2341,11 +2341,11 @@
   "CMF-089": {
     "id": "CMF-089",
     "name": "Resurrection of Vampire",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Resurrection of Vampire",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-089.jpg"
@@ -2445,11 +2445,11 @@
   "CMF-093": {
     "id": "CMF-093",
     "name": "Spiral of Despair",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Spiral of Despair",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-093.jpg"
@@ -2765,11 +2765,11 @@
   "TAT-001": {
     "id": "TAT-001",
     "name": "Breath of the God",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Breath of the God",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-001.jpg"
@@ -2929,11 +2929,11 @@
   "TAT-007": {
     "id": "TAT-007",
     "name": "Jump to the Sky",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Jump to the Sky",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-007.jpg"
@@ -2953,11 +2953,11 @@
   "TAT-008": {
     "id": "TAT-008",
     "name": "Light of Lumia",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Light of Lumia",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-008.jpg"
@@ -3025,11 +3025,11 @@
   "TAT-011": {
     "id": "TAT-011",
     "name": "March of Saints",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "March of Saints",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-011.jpg"
@@ -3268,11 +3268,11 @@
   "TAT-020": {
     "id": "TAT-020",
     "name": "Big-Bang Revolution",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Big-Bang Revolution",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-020.jpg"
@@ -3348,11 +3348,11 @@
   "TAT-023": {
     "id": "TAT-023",
     "name": "Dragon King's Flame",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Dragon King's Flame",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-023.jpg"
@@ -3372,11 +3372,11 @@
   "TAT-024": {
     "id": "TAT-024",
     "name": "Duel of Truth",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Duel of Truth",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-024.jpg"
@@ -3583,11 +3583,11 @@
   "TAT-032": {
     "id": "TAT-032",
     "name": "Rapid Decay",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Rapid Decay",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-032.jpg"
@@ -3798,11 +3798,11 @@
   "TAT-040": {
     "id": "TAT-040",
     "name": "Crossroad of Worlds",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Crossroad of Worlds",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-040.jpg"
@@ -3822,11 +3822,11 @@
   "TAT-041": {
     "id": "TAT-041",
     "name": "Destructive Flow",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Destructive Flow",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-041.jpg"
@@ -3846,11 +3846,11 @@
   "TAT-042": {
     "id": "TAT-042",
     "name": "Dreams of Wonderland",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Dreams of Wonderland",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-042.jpg"
@@ -4142,11 +4142,11 @@
   "TAT-053": {
     "id": "TAT-053",
     "name": "Whirlpool of Knowledge",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Whirlpool of Knowledge",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-053.jpg"
@@ -4329,11 +4329,11 @@
   "TAT-060": {
     "id": "TAT-060",
     "name": "Evolution of Limits",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Evolution of Limits",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-060.jpg"
@@ -4493,11 +4493,11 @@
   "TAT-066": {
     "id": "TAT-066",
     "name": "Oz's Magic",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Oz's Magic",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-066.jpg"
@@ -4517,11 +4517,11 @@
   "TAT-067": {
     "id": "TAT-067",
     "name": "Portal of Truth",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Portal of Truth",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-067.jpg"
@@ -4641,11 +4641,11 @@
   "TAT-072": {
     "id": "TAT-072",
     "name": "Xeex the Ancient Magic",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Xeex the Ancient Magic",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-072.jpg"
@@ -4745,11 +4745,11 @@
   "TAT-076": {
     "id": "TAT-076",
     "name": "Death Sentence from the Queen",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Death Sentence from the Queen",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-076.jpg"
@@ -5068,11 +5068,11 @@
   "TAT-088": {
     "id": "TAT-088",
     "name": "Stoning to Death",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Stoning to Death",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-088.jpg"
@@ -5092,11 +5092,11 @@
   "TAT-089": {
     "id": "TAT-089",
     "name": "Summoning Art of Alhazred",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Summoning Art of Alhazred",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-089.jpg"
@@ -5116,11 +5116,11 @@
   "TAT-090": {
     "id": "TAT-090",
     "name": "Whisper from the Abyss",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Whisper from the Abyss",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-090.jpg"
@@ -5556,11 +5556,11 @@
   "MPR-003": {
     "id": "MPR-003",
     "name": "Accede the Light",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Accede the Light",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-003.jpg"
@@ -5632,11 +5632,11 @@
   "MPR-006": {
     "id": "MPR-006",
     "name": "Genesis Creation",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Genesis Creation",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-006.jpg"
@@ -5795,11 +5795,11 @@
   "MPR-012": {
     "id": "MPR-012",
     "name": "Savior of Splendor",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Savior of Splendor",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-012.jpg"
@@ -5843,11 +5843,11 @@
   "MPR-014": {
     "id": "MPR-014",
     "name": "Sign to the Future",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Sign to the Future",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-014.jpg"
@@ -6138,11 +6138,11 @@
   "MPR-025": {
     "id": "MPR-025",
     "name": "Cain Complex",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Cain Complex",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-025.jpg"
@@ -6162,11 +6162,11 @@
   "MPR-026": {
     "id": "MPR-026",
     "name": "Crime and Punishment",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Crime and Punishment",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-026.jpg"
@@ -6374,11 +6374,11 @@
   "MPR-034": {
     "id": "MPR-034",
     "name": "Split Heaven and Earth",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Split Heaven and Earth",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-034.jpg"
@@ -6398,11 +6398,11 @@
   "MPR-035": {
     "id": "MPR-035",
     "name": "The First Lie",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The First Lie",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-035.jpg"
@@ -6582,11 +6582,11 @@
   "MPR-042": {
     "id": "MPR-042",
     "name": "Fallen Comet",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Fallen Comet",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-042.jpg"
@@ -6606,11 +6606,11 @@
   "MPR-043": {
     "id": "MPR-043",
     "name": "Glimpse of Kaguya",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Glimpse of Kaguya",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-043.jpg"
@@ -6773,11 +6773,11 @@
   "MPR-049": {
     "id": "MPR-049",
     "name": "Shooting Star",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Shooting Star",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-049.jpg"
@@ -6821,11 +6821,11 @@
   "MPR-051": {
     "id": "MPR-051",
     "name": "Total Eclipse",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Total Eclipse",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-051.jpg"
@@ -6977,11 +6977,11 @@
   "MPR-057": {
     "id": "MPR-057",
     "name": "Art of Sinbad",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Art of Sinbad",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-057.jpg"
@@ -7053,11 +7053,11 @@
   "MPR-060": {
     "id": "MPR-060",
     "name": "Exceed, the Ancient Magic",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Exceed, the Ancient Magic",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-060.jpg"
@@ -7216,11 +7216,11 @@
   "MPR-066": {
     "id": "MPR-066",
     "name": "Open Sesame",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Open Sesame",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-066.jpg"
@@ -7296,11 +7296,11 @@
   "MPR-069": {
     "id": "MPR-069",
     "name": "Stories Told in 1001 Nights",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Stories Told in 1001 Nights",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-069.jpg"
@@ -7428,11 +7428,11 @@
   "MPR-074": {
     "id": "MPR-074",
     "name": "Awakening at the End",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Awakening at the End",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-074.jpg"
@@ -7476,11 +7476,11 @@
   "MPR-076": {
     "id": "MPR-076",
     "name": "Black Miasma",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Black Miasma",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-076.jpg"
@@ -7552,11 +7552,11 @@
   "MPR-079": {
     "id": "MPR-079",
     "name": "Call of Cthulhu",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Call of Cthulhu",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-079.jpg"
@@ -7771,11 +7771,11 @@
   "MPR-087": {
     "id": "MPR-087",
     "name": "Void Blast",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Void Blast",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-087.jpg"
@@ -7905,11 +7905,11 @@
   "MPR-092": {
     "id": "MPR-092",
     "name": "Apollobreak, the Moon Blast",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Apollobreak, the Moon Blast",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-092.jpg"
@@ -7931,11 +7931,11 @@
   "MPR-093": {
     "id": "MPR-093",
     "name": "Flame of Outer World",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Flame of Outer World",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-093.jpg"
@@ -8297,11 +8297,11 @@
   "MOA-002": {
     "id": "MOA-002",
     "name": "Duet of Light",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Duet of Light",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-002.jpg"
@@ -8481,11 +8481,11 @@
   "MOA-009": {
     "id": "MOA-009",
     "name": "Temporal Spell of Millennia",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Temporal Spell of Millennia",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-009.jpg"
@@ -8641,11 +8641,11 @@
   "MOA-015": {
     "id": "MOA-015",
     "name": "Fetal Movement in Outer World",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Fetal Movement in Outer World",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-015.jpg"
@@ -8665,11 +8665,11 @@
   "MOA-016": {
     "id": "MOA-016",
     "name": "Ghostflame",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Ghostflame",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-016.jpg"
@@ -8797,11 +8797,11 @@
   "MOA-021": {
     "id": "MOA-021",
     "name": "Alice's Pursuit",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Alice's Pursuit",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-021.jpg"
@@ -8957,11 +8957,11 @@
   "MOA-027": {
     "id": "MOA-027",
     "name": "Moon Incarnation",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Moon Incarnation",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-027.jpg"
@@ -9197,11 +9197,11 @@
   "MOA-036": {
     "id": "MOA-036",
     "name": "Liberate the World",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Liberate the World",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-036.jpg"
@@ -9301,11 +9301,11 @@
   "MOA-040": {
     "id": "MOA-040",
     "name": "Wind of Gods",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Wind of Gods",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-040.jpg"
@@ -9377,11 +9377,11 @@
   "MOA-043": {
     "id": "MOA-043",
     "name": "Dark Pulse",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Dark Pulse",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-043.jpg"
@@ -9565,11 +9565,11 @@
   "MOA-050": {
     "id": "MOA-050",
     "name": "Ritual of Millennia",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Ritual of Millennia",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-050.jpg"
@@ -9645,11 +9645,11 @@
   "VIN001-003": {
     "id": "VIN001-003",
     "name": "Breath of the God",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Breath of the God",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-003.jpg"
@@ -9669,11 +9669,11 @@
   "VIN001-004": {
     "id": "VIN001-004",
     "name": "Duet of Light",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Duet of Light",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-004.jpg"
@@ -9836,11 +9836,11 @@
   "VIN001-010": {
     "id": "VIN001-010",
     "name": "March of Saints",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "March of Saints",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-010.jpg"
@@ -9860,11 +9860,11 @@
   "VIN001-011": {
     "id": "VIN001-011",
     "name": "Pride of Knights",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Pride of Knights",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-011.jpg"
@@ -10023,11 +10023,11 @@
   "VIN001-017": {
     "id": "VIN001-017",
     "name": "Banzai Attack",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Banzai Attack",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-017.jpg"
@@ -10075,11 +10075,11 @@
   "VIN001-019": {
     "id": "VIN001-019",
     "name": "Crime and Punishment",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Crime and Punishment",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-019.jpg"
@@ -10263,11 +10263,11 @@
   "VIN001-026": {
     "id": "VIN001-026",
     "name": "Rapid Decay",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Rapid Decay",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-026.jpg"
@@ -10343,11 +10343,11 @@
   "VIN001-029": {
     "id": "VIN001-029",
     "name": "Thunder",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Thunder",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-029.jpg"
@@ -10395,11 +10395,11 @@
   "VIN001-031": {
     "id": "VIN001-031",
     "name": "Aqua Magic -Tempest-",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Aqua Magic -Tempest-",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-031.jpg"
@@ -10618,11 +10618,11 @@
   "VIN001-039": {
     "id": "VIN001-039",
     "name": "Dreams of Wonderland",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Dreams of Wonderland",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-039.jpg"
@@ -10642,11 +10642,11 @@
   "VIN001-040": {
     "id": "VIN001-040",
     "name": "Glimpse of Kaguya",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Glimpse of Kaguya",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-040.jpg"
@@ -10750,11 +10750,11 @@
   "VIN001-044": {
     "id": "VIN001-044",
     "name": "Whirlpool of Knowledge",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Whirlpool of Knowledge",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-044.jpg"
@@ -10826,11 +10826,11 @@
   "VIN001-047": {
     "id": "VIN001-047",
     "name": "Art of Sinbad",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Art of Sinbad",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-047.jpg"
@@ -10934,11 +10934,11 @@
   "VIN001-051": {
     "id": "VIN001-051",
     "name": "Evolution of Limits",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Evolution of Limits",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-051.jpg"
@@ -11014,11 +11014,11 @@
   "VIN001-054": {
     "id": "VIN001-054",
     "name": "Law of Silence",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Law of Silence",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-054.jpg"
@@ -11177,11 +11177,11 @@
   "VIN001-060": {
     "id": "VIN001-060",
     "name": "Wind of Gods",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Wind of Gods",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-060.jpg"
@@ -11201,11 +11201,11 @@
   "VIN001-061": {
     "id": "VIN001-061",
     "name": "Binding Chain",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Binding Chain",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-061.jpg"
@@ -11473,11 +11473,11 @@
   "VIN001-071": {
     "id": "VIN001-071",
     "name": "Ritual of Millennia",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Ritual of Millennia",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-071.jpg"
@@ -11525,11 +11525,11 @@
   "VIN001-073": {
     "id": "VIN001-073",
     "name": "Stoning to Death",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Stoning to Death",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-073.jpg"
@@ -11549,11 +11549,11 @@
   "VIN001-074": {
     "id": "VIN001-074",
     "name": "Tunnel Vision",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Tunnel Vision",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-074.jpg"
@@ -12295,11 +12295,11 @@
   "VS01-009": {
     "id": "VS01-009",
     "name": "Justice of God's Sword",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Justice of God's Sword",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-009.jpg"
@@ -12319,11 +12319,11 @@
   "VS01-010": {
     "id": "VS01-010",
     "name": "Order of Sacred Queen",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Order of Sacred Queen",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-010.jpg"
@@ -12371,11 +12371,11 @@
   "VS01-012": {
     "id": "VS01-012",
     "name": "Pride of Knights",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Pride of Knights",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-012.jpg"
@@ -12531,11 +12531,11 @@
   "VS01-018": {
     "id": "VS01-018",
     "name": "Demonflame",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Demonflame",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-018.jpg"
@@ -12611,11 +12611,11 @@
   "VS01-021": {
     "id": "VS01-021",
     "name": "Flame King's Shout",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Flame King's Shout",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-021.jpg"
@@ -12663,11 +12663,11 @@
   "VS01-023": {
     "id": "VS01-023",
     "name": "Flash of Demon Sword",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Flash of Demon Sword",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-023.jpg"
@@ -13188,11 +13188,11 @@
   "SKL-008": {
     "id": "SKL-008",
     "name": "Give Wings",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Give Wings",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-008.jpg"
@@ -13292,11 +13292,11 @@
   "SKL-012": {
     "id": "SKL-012",
     "name": "Invigoration of the Winged Lord",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Invigoration of the Winged Lord",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-012.jpg"
@@ -13344,11 +13344,11 @@
   "SKL-014": {
     "id": "SKL-014",
     "name": "Order of the Sacred Queen",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Order of the Sacred Queen",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-014.jpg"
@@ -13392,11 +13392,11 @@
   "SKL-016": {
     "id": "SKL-016",
     "name": "Protective Barrier",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Protective Barrier",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-016.jpg"
@@ -13632,11 +13632,11 @@
   "SKL-025": {
     "id": "SKL-025",
     "name": "Flame King's Shout",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Flame King's Shout",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-025.jpg"
@@ -13743,11 +13743,11 @@
   "SKL-029": {
     "id": "SKL-029",
     "name": "Phantom of Primogenitor",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Phantom of Primogenitor",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-029.jpg"
@@ -13767,11 +13767,11 @@
   "SKL-030": {
     "id": "SKL-030",
     "name": "Shadow Flame",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Shadow Flame",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-030.jpg"
@@ -13819,11 +13819,11 @@
   "SKL-032": {
     "id": "SKL-032",
     "name": "War Dance of the Valkyries",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "War Dance of the Valkyries",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-032.jpg"
@@ -13871,11 +13871,11 @@
   "SKL-034": {
     "id": "SKL-034",
     "name": "Alice's Castling",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Alice's Castling",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-034.jpg"
@@ -13923,11 +13923,11 @@
   "SKL-036": {
     "id": "SKL-036",
     "name": "Charm of the Princess",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Charm of the Princess",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-036.jpg"
@@ -14003,11 +14003,11 @@
   "SKL-039": {
     "id": "SKL-039",
     "name": "Foresee",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Foresee",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-039.jpg"
@@ -14079,11 +14079,11 @@
   "SKL-042": {
     "id": "SKL-042",
     "name": "Petrifying Gaze",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Petrifying Gaze",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-042.jpg"
@@ -14382,11 +14382,11 @@
   "SKL-053": {
     "id": "SKL-053",
     "name": "Blessing of Yggdrasil",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Blessing of Yggdrasil",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-053.jpg"
@@ -14514,11 +14514,11 @@
   "SKL-058": {
     "id": "SKL-058",
     "name": "Keen Sense",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Keen Sense",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-058.jpg"
@@ -14597,11 +14597,11 @@
   "SKL-061": {
     "id": "SKL-061",
     "name": "Rapid Growth",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Rapid Growth",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-061.jpg"
@@ -14673,11 +14673,11 @@
   "SKL-064": {
     "id": "SKL-064",
     "name": "Sprint of the Beast Lady",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Sprint of the Beast Lady",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-064.jpg"
@@ -14753,11 +14753,11 @@
   "SKL-067": {
     "id": "SKL-067",
     "name": "Dark Purge",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Dark Purge",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-067.jpg"
@@ -14777,11 +14777,11 @@
   "SKL-068": {
     "id": "SKL-068",
     "name": "Endless Night",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Endless Night",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-068.jpg"
@@ -14801,11 +14801,11 @@
   "SKL-069": {
     "id": "SKL-069",
     "name": "Forbidden Spell of the Undead Lord",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Forbidden Spell of the Undead Lord",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-069.jpg"
@@ -15072,11 +15072,11 @@
   "SKL-079": {
     "id": "SKL-079",
     "name": "Soulhunt",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Soulhunt",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-079.jpg"
@@ -15319,11 +15319,11 @@
   "SKL-088": {
     "id": "SKL-088",
     "name": "March of the Machine Lord",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "March of the Machine Lord",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-088.jpg"
@@ -16036,11 +16036,11 @@
   "TTW-009": {
     "id": "TTW-009",
     "name": "Grand Cross",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Grand Cross",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-009.jpg"
@@ -16060,11 +16060,11 @@
   "TTW-010": {
     "id": "TTW-010",
     "name": "Justice of God's Sword",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Justice of God's Sword",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-010.jpg"
@@ -16168,11 +16168,11 @@
   "TTW-014": {
     "id": "TTW-014",
     "name": "Pride of Knights",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Pride of Knights",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-014.jpg"
@@ -16216,11 +16216,11 @@
   "TTW-016": {
     "id": "TTW-016",
     "name": "The Final Word",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Final Word",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-016.jpg"
@@ -16320,11 +16320,11 @@
   "TTW-020": {
     "id": "TTW-020",
     "name": "Beat of the Phoenix Wings",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Beat of the Phoenix Wings",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-020.jpg"
@@ -16344,11 +16344,11 @@
   "TTW-021": {
     "id": "TTW-021",
     "name": "Burn to Cinders",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Burn to Cinders",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-021.jpg"
@@ -16480,11 +16480,11 @@
   "TTW-026": {
     "id": "TTW-026",
     "name": "Flash of Demon Sword",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Flash of Demon Sword",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-026.jpg"
@@ -16699,11 +16699,11 @@
   "TTW-034": {
     "id": "TTW-034",
     "name": "Sylvia's Roar",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Sylvia's Roar",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-034.jpg"
@@ -16911,11 +16911,11 @@
   "TTW-042": {
     "id": "TTW-042",
     "name": "Laying the Foundation",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Laying the Foundation",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-042.jpg"
@@ -17050,11 +17050,11 @@
   "TTW-047": {
     "id": "TTW-047",
     "name": "Send Back",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Send Back",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-047.jpg"
@@ -17130,11 +17130,11 @@
   "TTW-050": {
     "id": "TTW-050",
     "name": "The Overlord's Baptism",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Overlord's Baptism",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-050.jpg"
@@ -17210,11 +17210,11 @@
   "TTW-053": {
     "id": "TTW-053",
     "name": "Wall of Ideas",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Wall of Ideas",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-053.jpg"
@@ -17262,11 +17262,11 @@
   "TTW-055": {
     "id": "TTW-055",
     "name": "Beastly Attack",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Beastly Attack",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-055.jpg"
@@ -17338,11 +17338,11 @@
   "TTW-058": {
     "id": "TTW-058",
     "name": "Final Forfeit",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Final Forfeit",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-058.jpg"
@@ -17501,11 +17501,11 @@
   "TTW-064": {
     "id": "TTW-064",
     "name": "Rewriting Laws",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Rewriting Laws",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-064.jpg"
@@ -17609,11 +17609,11 @@
   "TTW-068": {
     "id": "TTW-068",
     "name": "The Beast Queen's Counterattack",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Beast Queen's Counterattack",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-068.jpg"
@@ -17793,11 +17793,11 @@
   "TTW-075": {
     "id": "TTW-075",
     "name": "Dance of the Shadows",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Dance of the Shadows",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-075.jpg"
@@ -18100,11 +18100,11 @@
   "TTW-086": {
     "id": "TTW-086",
     "name": "Recollection of Dystopia",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Recollection of Dystopia",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-086.jpg"
@@ -18180,11 +18180,11 @@
   "TTW-089": {
     "id": "TTW-089",
     "name": "The Scorn of Dark Alice",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Scorn of Dark Alice",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-089.jpg"
@@ -18204,11 +18204,11 @@
   "TTW-090": {
     "id": "TTW-090",
     "name": "Unseen Pressure",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Unseen Pressure",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-090.jpg"
@@ -18900,11 +18900,11 @@
   "TMS-006": {
     "id": "TMS-006",
     "name": "Kaguya's Premonition",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Kaguya's Premonition",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-006.jpg"
@@ -18952,11 +18952,11 @@
   "TMS-008": {
     "id": "TMS-008",
     "name": "Luminescent Bamboo Bullet",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Luminescent Bamboo Bullet",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-008.jpg"
@@ -19032,11 +19032,11 @@
   "TMS-011": {
     "id": "TMS-011",
     "name": "Pale Savior",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Pale Savior",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-011.jpg"
@@ -19080,11 +19080,11 @@
   "TMS-013": {
     "id": "TMS-013",
     "name": "Shining Strike",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Shining Strike",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-013.jpg"
@@ -19292,11 +19292,11 @@
   "TMS-021": {
     "id": "TMS-021",
     "name": "Demonflame",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Demonflame",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-021.jpg"
@@ -19428,11 +19428,11 @@
   "TMS-026": {
     "id": "TMS-026",
     "name": "Memory of Disappearance",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Memory of Disappearance",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-026.jpg"
@@ -19452,11 +19452,11 @@
   "TMS-027": {
     "id": "TMS-027",
     "name": "Memory of Flame",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Memory of Flame",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-027.jpg"
@@ -19619,11 +19619,11 @@
   "TMS-033": {
     "id": "TMS-033",
     "name": "Torching the Timeline",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Torching the Timeline",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-033.jpg"
@@ -19671,11 +19671,11 @@
   "TMS-035": {
     "id": "TMS-035",
     "name": "Dance of Inspiration",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Dance of Inspiration",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-035.jpg"
@@ -19935,11 +19935,11 @@
   "TMS-045": {
     "id": "TMS-045",
     "name": "Shion's Hymn",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Shion's Hymn",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-045.jpg"
@@ -20074,11 +20074,11 @@
   "TMS-050": {
     "id": "TMS-050",
     "name": "Valentina's Resistance",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Valentina's Resistance",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-050.jpg"
@@ -20126,11 +20126,11 @@
   "TMS-052": {
     "id": "TMS-052",
     "name": "Ambush!",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Ambush!",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-052.jpg"
@@ -20206,11 +20206,11 @@
   "TMS-055": {
     "id": "TMS-055",
     "name": "Foment of the World Tree",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Foment of the World Tree",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-055.jpg"
@@ -20342,11 +20342,11 @@
   "TMS-060": {
     "id": "TMS-060",
     "name": "Pricia's Call to Action",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Pricia's Call to Action",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-060.jpg"
@@ -20446,11 +20446,11 @@
   "TMS-064": {
     "id": "TMS-064",
     "name": "Wall of Wind",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Wall of Wind",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-064.jpg"
@@ -20630,11 +20630,11 @@
   "TMS-071": {
     "id": "TMS-071",
     "name": "Call of the Primogenitor",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Call of the Primogenitor",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-071.jpg"
@@ -20825,11 +20825,11 @@
   "TMS-078": {
     "id": "TMS-078",
     "name": "Izanami's Curse",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Izanami's Curse",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-078.jpg"
@@ -20877,11 +20877,11 @@
   "TMS-080": {
     "id": "TMS-080",
     "name": "Nighttime Raiders",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Nighttime Raiders",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-080.jpg"
@@ -20949,11 +20949,11 @@
   "TMS-083": {
     "id": "TMS-083",
     "name": "Space-Time Collapse",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Space-Time Collapse",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-083.jpg"
@@ -21111,11 +21111,11 @@
   "TMS-089": {
     "id": "TMS-089",
     "name": "Seal of Wind and Light",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Seal of Wind and Light",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-089.jpg"
@@ -21137,11 +21137,11 @@
   "TMS-090": {
     "id": "TMS-090",
     "name": "Space-Time Anomaly",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Space-Time Anomaly",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-090.jpg"
@@ -21606,11 +21606,11 @@
   "BFA-003": {
     "id": "BFA-003",
     "name": "Circle of Trust",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Circle of Trust",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-003.jpg"
@@ -21658,11 +21658,11 @@
   "BFA-005": {
     "id": "BFA-005",
     "name": "Gathering of Fairies",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Gathering of Fairies",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-005.jpg"
@@ -21710,11 +21710,11 @@
   "BFA-007": {
     "id": "BFA-007",
     "name": "Interdimensional Escape",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Interdimensional Escape",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-007.jpg"
@@ -21846,11 +21846,11 @@
   "BFA-012": {
     "id": "BFA-012",
     "name": "Rabbit Trap",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Rabbit Trap",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-012.jpg"
@@ -21978,11 +21978,11 @@
   "BFA-017": {
     "id": "BFA-017",
     "name": "Battle for Attoractia",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Battle for Attoractia",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-017.jpg"
@@ -22002,11 +22002,11 @@
   "BFA-018": {
     "id": "BFA-018",
     "name": "Blood Boil",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Blood Boil",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-018.jpg"
@@ -22134,11 +22134,11 @@
   "BFA-023": {
     "id": "BFA-023",
     "name": "Flame Trap",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Flame Trap",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-023.jpg"
@@ -22214,11 +22214,11 @@
   "BFA-026": {
     "id": "BFA-026",
     "name": "Ring of Fate",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Ring of Fate",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-026.jpg"
@@ -22426,11 +22426,11 @@
   "BFA-034": {
     "id": "BFA-034",
     "name": "Disassembly Line",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Disassembly Line",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-034.jpg"
@@ -22450,11 +22450,11 @@
   "BFA-035": {
     "id": "BFA-035",
     "name": "Down the Drain",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Down the Drain",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-035.jpg"
@@ -22582,11 +22582,11 @@
   "BFA-040": {
     "id": "BFA-040",
     "name": "Separation of Body and Soul",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Separation of Body and Soul",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-040.jpg"
@@ -22606,11 +22606,11 @@
   "BFA-041": {
     "id": "BFA-041",
     "name": "Set Free",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Set Free",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-041.jpg"
@@ -22854,11 +22854,11 @@
   "BFA-050": {
     "id": "BFA-050",
     "name": "High Speed Dash",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "High Speed Dash",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-050.jpg"
@@ -22982,11 +22982,11 @@
   "BFA-055": {
     "id": "BFA-055",
     "name": "Song of the Fairy King",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Song of the Fairy King",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-055.jpg"
@@ -23034,11 +23034,11 @@
   "BFA-057": {
     "id": "BFA-057",
     "name": "The Last Drop",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Last Drop",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-057.jpg"
@@ -23086,11 +23086,11 @@
   "BFA-059": {
     "id": "BFA-059",
     "name": "Wing Trap",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Wing Trap",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-059.jpg"
@@ -23138,11 +23138,11 @@
   "BFA-061": {
     "id": "BFA-061",
     "name": "Black Moonbeam",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Black Moonbeam",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-061.jpg"
@@ -23238,11 +23238,11 @@
   "BFA-065": {
     "id": "BFA-065",
     "name": "Death Trap",
-    "type": "Spell:Chant-Standby",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Death Trap",
-        "type": "Spell:Chant-Standby",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-065.jpg"
@@ -23262,11 +23262,11 @@
   "BFA-066": {
     "id": "BFA-066",
     "name": "Eyes in the Darkness",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Eyes in the Darkness",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-066.jpg"
@@ -23370,11 +23370,11 @@
   "BFA-070": {
     "id": "BFA-070",
     "name": "Lapis' Dark Storm",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Lapis' Dark Storm",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-070.jpg"
@@ -23544,6 +23544,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-076.jpg",
         "ATK": "700",
         "DEF": "700"
+      },
+      "back": {
+        "name": "Alice of Shadow",
+        "type": "Resonator (Shift)",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-076%5E.jpg"
       }
     },
     "Colors": [
@@ -23572,6 +23579,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-077.jpg",
         "ATK": "600",
         "DEF": "600"
+      },
+      "back": {
+        "name": "Glorian Princess of Water, Charlotte",
+        "type": "Resonator (Shift)",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-077%5E.jpg"
       }
     },
     "Colors": [
@@ -23600,6 +23614,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-078.jpg",
         "ATK": "0",
         "DEF": "200"
+      },
+      "back": {
+        "name": "Refrain, the End of Ages",
+        "type": "Resonator (Shift)",
+        "cost": 5,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-078%5E.jpg"
       }
     },
     "Colors": [
@@ -23628,6 +23649,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-079.jpg",
         "ATK": "400",
         "DEF": "500"
+      },
+      "back": {
+        "name": "Possessor Princess of Love, Valentina",
+        "type": "Resonator (Shift)",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-079%5E.jpg"
       }
     },
     "Colors": [
@@ -23656,6 +23684,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-080.jpg",
         "ATK": "600",
         "DEF": "700"
+      },
+      "back": {
+        "name": "Space-Time Pursuer, Gill Lapis",
+        "type": "Resonator (Shift)",
+        "cost": 4,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-080%5E.jpg"
       }
     },
     "Colors": [
@@ -23682,6 +23717,13 @@
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-081.jpg"
+      },
+      "back": {
+        "name": "Illusory Demonic Globe, Attoractia",
+        "type": "Regalia (Shift)",
+        "cost": 7,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-081%5E.jpg"
       }
     },
     "Colors": [
@@ -23778,11 +23820,11 @@
   "BFA-085": {
     "id": "BFA-085",
     "name": "Mariabella's Work",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Mariabella's Work",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-085.jpg"
@@ -24464,11 +24506,11 @@
   "VIN002-004": {
     "id": "VIN002-004",
     "name": "Elshan Flower",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Elshan Flower",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-004.jpg"
@@ -24488,11 +24530,11 @@
   "VIN002-005": {
     "id": "VIN002-005",
     "name": "First-Aid",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "First-Aid",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-005.jpg"
@@ -24732,11 +24774,11 @@
   "VIN002-014": {
     "id": "VIN002-014",
     "name": "Symbol of Peace",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Symbol of Peace",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-014.jpg"
@@ -24840,11 +24882,11 @@
   "VIN002-018": {
     "id": "VIN002-018",
     "name": "Bombardment",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Bombardment",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-018.jpg"
@@ -24920,11 +24962,11 @@
   "VIN002-021": {
     "id": "VIN002-021",
     "name": "Courageous Stand",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Courageous Stand",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-021.jpg"
@@ -25056,11 +25098,11 @@
   "VIN002-026": {
     "id": "VIN002-026",
     "name": "Large Explosion",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Large Explosion",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-026.jpg"
@@ -25470,11 +25512,11 @@
   "VIN002-041": {
     "id": "VIN002-041",
     "name": "Momentary Respite",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Momentary Respite",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-041.jpg"
@@ -25494,11 +25536,11 @@
   "VIN002-042": {
     "id": "VIN002-042",
     "name": "Sniping from the Blind Spot",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Sniping from the Blind Spot",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-042.jpg"
@@ -25518,11 +25560,11 @@
   "VIN002-043": {
     "id": "VIN002-043",
     "name": "The Carefree Three",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Carefree Three",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-043.jpg"
@@ -25737,11 +25779,11 @@
   "VIN002-051": {
     "id": "VIN002-051",
     "name": "Bulletproof Barrier",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Bulletproof Barrier",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-051.jpg"
@@ -25789,11 +25831,11 @@
   "VIN002-053": {
     "id": "VIN002-053",
     "name": "Destructive Assault",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Destructive Assault",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-053.jpg"
@@ -25925,11 +25967,11 @@
   "VIN002-058": {
     "id": "VIN002-058",
     "name": "Power of Unity",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Power of Unity",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-058.jpg"
@@ -26173,11 +26215,11 @@
   "VIN002-067": {
     "id": "VIN002-067",
     "name": "Hammer of the Valkyrur",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Hammer of the Valkyrur",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-067.jpg"
@@ -26281,11 +26323,11 @@
   "VIN002-071": {
     "id": "VIN002-071",
     "name": "Ragnide Gas",
-    "type": "Spell:Chant-Instant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Ragnide Gas",
-        "type": "Spell:Chant-Instant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-071.jpg"
@@ -26305,11 +26347,11 @@
   "VIN002-072": {
     "id": "VIN002-072",
     "name": "Schemes of the Empire",
-    "type": "Spell:Chant",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Schemes of the Empire",
-        "type": "Spell:Chant",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-072.jpg"
@@ -29266,6 +29308,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-043.jpg",
         "ATK": "0",
         "DEF": "1000"
+      },
+      "back": {
+        "name": "Lumia, Saint of World Awakening",
+        "type": "Resonator (Shift)",
+        "cost": 10,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/CFC-043%5E.jpg"
       }
     },
     "Colors": [
@@ -52231,6 +52280,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-001.jpg",
         "ATK": "600",
         "DEF": "600"
+      },
+      "back": {
+        "name": "Aimul's Twisted Beast",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-001%5E.jpg"
       }
     },
     "Colors": [
@@ -52259,6 +52315,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-002.jpg",
         "ATK": "200",
         "DEF": "300"
+      },
+      "back": {
+        "name": "Angel of Despair",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-002%5E.jpg"
       }
     },
     "Colors": [
@@ -52287,6 +52350,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-003.jpg",
         "ATK": "700",
         "DEF": "800"
+      },
+      "back": {
+        "name": "Ms. Hyde",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-003%5E.jpg"
       }
     },
     "Colors": [
@@ -52571,6 +52641,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-014.jpg",
         "ATK": "400",
         "DEF": "400"
+      },
+      "back": {
+        "name": "Knight of Despair",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-014%5E.jpg"
       }
     },
     "Colors": [
@@ -52597,6 +52674,13 @@
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-015.jpg"
+      },
+      "back": {
+        "name": "Dark Castle, Palace of Despair",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-015%5E.jpg"
       }
     },
     "Colors": [
@@ -52621,6 +52705,13 @@
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-016.jpg"
+      },
+      "back": {
+        "name": "Soul Returning Altar",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-016%5E.jpg"
       }
     },
     "Colors": [
@@ -52675,6 +52766,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-018.jpg",
         "ATK": "800",
         "DEF": "800"
+      },
+      "back": {
+        "name": "Mephistopheles [Inverse]",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-018%5E.jpg"
       }
     },
     "Colors": [
@@ -52727,6 +52825,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-020.jpg",
         "ATK": "800",
         "DEF": "800"
+      },
+      "back": {
+        "name": "Possessed Panda",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-020%5E.jpg"
       }
     },
     "Colors": [
@@ -52838,6 +52943,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-024.jpg",
         "ATK": "900",
         "DEF": "900"
+      },
+      "back": {
+        "name": "Dark Knight of Conviction",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-024%5E.jpg"
       }
     },
     "Colors": [
@@ -55527,6 +55639,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-125.jpg",
         "ATK": "600",
         "DEF": "600"
+      },
+      "back": {
+        "name": "Red Riding Hood, Recovered Hope",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-125%5E.jpg"
       }
     },
     "Colors": [
@@ -55651,6 +55770,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-130.jpg",
         "ATK": "700",
         "DEF": "700"
+      },
+      "back": {
+        "name": "Grimm, Hope from the Future",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSW-130%5E.jpg"
       }
     },
     "Colors": [
@@ -59443,6 +59569,13 @@
         "image": "https://fowsim.s3.amazonaws.com/media/cards/WOM-100.jpg",
         "ATK": "500",
         "DEF": "700"
+      },
+      "back": {
+        "name": "Zero",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/WOM-100%5E.jpg"
       }
     },
     "Colors": [
@@ -60414,11 +60547,11 @@
   "SDV1-012": {
     "id": "SDV1-012",
     "name": "Odin's Judgment",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Odin's Judgment",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV1-012.jpg"
@@ -60682,11 +60815,11 @@
   "SDV1-022": {
     "id": "SDV1-022",
     "name": "Zeus' Grand Lightning",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Zeus' Grand Lightning",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV1-022.jpg"
@@ -60906,11 +61039,11 @@
   "SDV2-008": {
     "id": "SDV2-008",
     "name": "Flame Soldier Formation",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Flame Soldier Formation",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV2-008.jpg"
@@ -61288,11 +61421,11 @@
   "SDV2-022": {
     "id": "SDV2-022",
     "name": "Whirlwind Conflagration",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Whirlwind Conflagration",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV2-022.jpg"
@@ -61336,11 +61469,11 @@
   "SDV3-001": {
     "id": "SDV3-001",
     "name": "Anti-Matter Cannon, Excalibur",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Anti-Matter Cannon, Excalibur",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV3-001.jpg"
@@ -61463,11 +61596,11 @@
   "SDV3-006": {
     "id": "SDV3-006",
     "name": "Consume",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Consume",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV3-006.jpg"
@@ -62001,11 +62134,11 @@
   "SDV4-003": {
     "id": "SDV4-003",
     "name": "Elephant Rush!!",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Elephant Rush!!",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV4-003.jpg"
@@ -62348,11 +62481,11 @@
   "SDV4-016": {
     "id": "SDV4-016",
     "name": "Sealing Scroll",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Sealing Scroll",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV4-016.jpg"
@@ -62576,11 +62709,11 @@
   "SDV5-002": {
     "id": "SDV5-002",
     "name": "Black Rosario",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Black Rosario",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV5-002.jpg"
@@ -62600,11 +62733,11 @@
   "SDV5-003": {
     "id": "SDV5-003",
     "name": "Cycle of Death",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Cycle of Death",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SDV5-003.jpg"
@@ -63234,11 +63367,11 @@
   "NDR-004": {
     "id": "NDR-004",
     "name": "Blessing of the Sun",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Blessing of the Sun",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-004.jpg"
@@ -63394,11 +63527,11 @@
   "NDR-010": {
     "id": "NDR-010",
     "name": "Light of the Moon",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Light of the Moon",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-010.jpg"
@@ -63606,11 +63739,11 @@
   "NDR-018": {
     "id": "NDR-018",
     "name": "Spear of the Valkyries",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Spear of the Valkyries",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-018.jpg"
@@ -63658,11 +63791,11 @@
   "NDR-020": {
     "id": "NDR-020",
     "name": "Whispers of an Angel",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Whispers of an Angel",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-020.jpg"
@@ -63846,11 +63979,11 @@
   "NDR-027": {
     "id": "NDR-027",
     "name": "Chain Bind",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Chain Bind",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-027.jpg"
@@ -64026,11 +64159,11 @@
   "NDR-034": {
     "id": "NDR-034",
     "name": "Sandstorm",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Sandstorm",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-034.jpg"
@@ -64050,11 +64183,11 @@
   "NDR-035": {
     "id": "NDR-035",
     "name": "Scalding Breath",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Scalding Breath",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-035.jpg"
@@ -64074,11 +64207,11 @@
   "NDR-036": {
     "id": "NDR-036",
     "name": "Scorching Winds",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Scorching Winds",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-036.jpg"
@@ -64314,11 +64447,11 @@
   "NDR-045": {
     "id": "NDR-045",
     "name": "Invitation",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Invitation",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-045.jpg"
@@ -64450,11 +64583,11 @@
   "NDR-050": {
     "id": "NDR-050",
     "name": "Massive Growth",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Massive Growth",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-050.jpg"
@@ -64558,11 +64691,11 @@
   "NDR-054": {
     "id": "NDR-054",
     "name": "Scrap and Build",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Scrap and Build",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-054.jpg"
@@ -64662,11 +64795,11 @@
   "NDR-058": {
     "id": "NDR-058",
     "name": "Thick Fog",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Thick Fog",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-058.jpg"
@@ -64686,11 +64819,11 @@
   "NDR-059": {
     "id": "NDR-059",
     "name": "Torrent of Energy",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Torrent of Energy",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-059.jpg"
@@ -64822,11 +64955,11 @@
   "NDR-064": {
     "id": "NDR-064",
     "name": "Explore the Unknown",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Explore the Unknown",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-064.jpg"
@@ -64874,11 +65007,11 @@
   "NDR-066": {
     "id": "NDR-066",
     "name": "In a Single Stroke",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "In a Single Stroke",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-066.jpg"
@@ -65118,11 +65251,11 @@
   "NDR-075": {
     "id": "NDR-075",
     "name": "Song of the Fairies",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Song of the Fairies",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-075.jpg"
@@ -65242,11 +65375,11 @@
   "NDR-080": {
     "id": "NDR-080",
     "name": "Youkai Festival",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Youkai Festival",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-080.jpg"
@@ -65430,11 +65563,11 @@
   "NDR-087": {
     "id": "NDR-087",
     "name": "Craving",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Craving",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-087.jpg"
@@ -65614,11 +65747,11 @@
   "NDR-094": {
     "id": "NDR-094",
     "name": "Miasma of the Abyss",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Miasma of the Abyss",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-094.jpg"
@@ -65694,11 +65827,11 @@
   "NDR-097": {
     "id": "NDR-097",
     "name": "Rain of Tears",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Rain of Tears",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-097.jpg"
@@ -65770,11 +65903,11 @@
   "NDR-100": {
     "id": "NDR-100",
     "name": "Whispers of the Devil",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Whispers of the Devil",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/NDR-100.jpg"
@@ -66155,11 +66288,11 @@
   "SNV-002": {
     "id": "SNV-002",
     "name": "Barrier of Faith",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Barrier of Faith",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-002.jpg"
@@ -66179,11 +66312,11 @@
   "SNV-003": {
     "id": "SNV-003",
     "name": "Blade of Faith",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Blade of Faith",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-003.jpg"
@@ -66559,11 +66692,11 @@
   "SNV-017": {
     "id": "SNV-017",
     "name": "The Battle of Sun and Moon",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Battle of Sun and Moon",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-017.jpg"
@@ -66583,11 +66716,11 @@
   "SNV-018": {
     "id": "SNV-018",
     "name": "The Stranger from Re-Earth",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Stranger from Re-Earth",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-018.jpg"
@@ -66663,11 +66796,11 @@
   "SNV-021": {
     "id": "SNV-021",
     "name": "All Under Heaven Shall Perish",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "All Under Heaven Shall Perish",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-021.jpg"
@@ -66931,11 +67064,11 @@
   "SNV-031": {
     "id": "SNV-031",
     "name": "Sand Awakening",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Sand Awakening",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-031.jpg"
@@ -66983,11 +67116,11 @@
   "SNV-033": {
     "id": "SNV-033",
     "name": "Sandora's Invasion",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Sandora's Invasion",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-033.jpg"
@@ -67115,11 +67248,11 @@
   "SNV-038": {
     "id": "SNV-038",
     "name": "The Three Kingdoms Partition Plan",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Three Kingdoms Partition Plan",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-038.jpg"
@@ -67251,11 +67384,11 @@
   "SNV-043": {
     "id": "SNV-043",
     "name": "Diverse Evolution",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Diverse Evolution",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-043.jpg"
@@ -67415,11 +67548,11 @@
   "SNV-049": {
     "id": "SNV-049",
     "name": "Mystery Box",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Mystery Box",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 7,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-049.jpg"
@@ -67623,11 +67756,11 @@
   "SNV-057": {
     "id": "SNV-057",
     "name": "Skynet",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Skynet",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-057.jpg"
@@ -67675,11 +67808,11 @@
   "SNV-059": {
     "id": "SNV-059",
     "name": "Teleport",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Teleport",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-059.jpg"
@@ -67755,11 +67888,11 @@
   "SNV-062": {
     "id": "SNV-062",
     "name": "Bullet Ball Thunder Clap",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Bullet Ball Thunder Clap",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-062.jpg"
@@ -67887,11 +68020,11 @@
   "SNV-067": {
     "id": "SNV-067",
     "name": "Friend Calling Whistle",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Friend Calling Whistle",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-067.jpg"
@@ -68155,11 +68288,11 @@
   "SNV-077": {
     "id": "SNV-077",
     "name": "Table Flip",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Table Flip",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-077.jpg"
@@ -68207,11 +68340,11 @@
   "SNV-079": {
     "id": "SNV-079",
     "name": "The Unsealing of God",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Unsealing of God",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-079.jpg"
@@ -68399,11 +68532,11 @@
   "SNV-086": {
     "id": "SNV-086",
     "name": "Chaining Hatred",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Chaining Hatred",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-086.jpg"
@@ -68635,11 +68768,11 @@
   "SNV-095": {
     "id": "SNV-095",
     "name": "Power of Immortality",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Power of Immortality",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-095.jpg"
@@ -68659,11 +68792,11 @@
   "SNV-096": {
     "id": "SNV-096",
     "name": "Ruined Earth",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Ruined Earth",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-096.jpg"
@@ -68739,11 +68872,11 @@
   "SNV-099": {
     "id": "SNV-099",
     "name": "Soul Prison",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Soul Prison",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 6,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SNV-099.jpg"
@@ -69063,11 +69196,11 @@
   "AOA-011": {
     "id": "AOA-011",
     "name": "Moonlight Nocturne",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Moonlight Nocturne",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-011.jpg"
@@ -69143,11 +69276,11 @@
   "AOA-014": {
     "id": "AOA-014",
     "name": "Shower of Light Blades",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Shower of Light Blades",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-014.jpg"
@@ -69191,11 +69324,11 @@
   "AOA-016": {
     "id": "AOA-016",
     "name": "Soul Resonance",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Soul Resonance",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-016.jpg"
@@ -69243,11 +69376,11 @@
   "AOA-018": {
     "id": "AOA-018",
     "name": "Traveler in the Sea of Clouds",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Traveler in the Sea of Clouds",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-018.jpg"
@@ -69371,11 +69504,11 @@
   "AOA-023": {
     "id": "AOA-023",
     "name": "Contract Forged in Sand",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Contract Forged in Sand",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-023.jpg"
@@ -69395,11 +69528,11 @@
   "AOA-024": {
     "id": "AOA-024",
     "name": "Flame Dragon Summoning",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Flame Dragon Summoning",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-024.jpg"
@@ -69531,11 +69664,11 @@
   "AOA-029": {
     "id": "AOA-029",
     "name": "Mind Like Still Water",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Mind Like Still Water",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-029.jpg"
@@ -69719,11 +69852,11 @@
   "AOA-036": {
     "id": "AOA-036",
     "name": "Spiral of Chaos",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Spiral of Chaos",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-036.jpg"
@@ -70123,11 +70256,11 @@
   "AOA-051": {
     "id": "AOA-051",
     "name": "Loki's Insight",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Loki's Insight",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-051.jpg"
@@ -70203,11 +70336,11 @@
   "AOA-054": {
     "id": "AOA-054",
     "name": "Ocean Beam",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Ocean Beam",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-054.jpg"
@@ -70279,11 +70412,11 @@
   "AOA-057": {
     "id": "AOA-057",
     "name": "Soldiers of the New Round Table",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Soldiers of the New Round Table",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-057.jpg"
@@ -70331,11 +70464,11 @@
   "AOA-059": {
     "id": "AOA-059",
     "name": "The Return of God",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Return of God",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-059.jpg"
@@ -70567,11 +70700,11 @@
   "AOA-068": {
     "id": "AOA-068",
     "name": "Kukunochi's Dance",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Kukunochi's Dance",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-068.jpg"
@@ -70675,11 +70808,11 @@
   "AOA-072": {
     "id": "AOA-072",
     "name": "Nature's Beauty",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Nature's Beauty",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-072.jpg"
@@ -70783,11 +70916,11 @@
   "AOA-076": {
     "id": "AOA-076",
     "name": "Shikigami Summoning",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Shikigami Summoning",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-076.jpg"
@@ -70807,11 +70940,11 @@
   "AOA-077": {
     "id": "AOA-077",
     "name": "Three Beast Conference",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Three Beast Conference",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-077.jpg"
@@ -71135,11 +71268,11 @@
   "AOA-089": {
     "id": "AOA-089",
     "name": "Freed from the Altar",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Freed from the Altar",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-089.jpg"
@@ -71187,11 +71320,11 @@
   "AOA-091": {
     "id": "AOA-091",
     "name": "Harvesting Season",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Harvesting Season",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-091.jpg"
@@ -71351,11 +71484,11 @@
   "AOA-097": {
     "id": "AOA-097",
     "name": "Perfect Matrix",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Perfect Matrix",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 6,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-097.jpg"
@@ -71399,11 +71532,11 @@
   "AOA-099": {
     "id": "AOA-099",
     "name": "Roar of Diabolos",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Roar of Diabolos",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AOA-099.jpg"
@@ -71795,11 +71928,11 @@
   "DBV-013": {
     "id": "DBV-013",
     "name": "Gungnir, the True Spear",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Gungnir, the True Spear",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-013.jpg"
@@ -71819,11 +71952,11 @@
   "DBV-014": {
     "id": "DBV-014",
     "name": "Light of Keraunos",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Light of Keraunos",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-014.jpg"
@@ -72055,11 +72188,11 @@
   "DBV-023": {
     "id": "DBV-023",
     "name": "Godly Aura",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Godly Aura",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-023.jpg"
@@ -72411,11 +72544,11 @@
   "DBV-036": {
     "id": "DBV-036",
     "name": "Wrath of the Flame God",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Wrath of the Flame God",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-036.jpg"
@@ -72763,11 +72896,11 @@
   "DBV-049": {
     "id": "DBV-049",
     "name": "Neo Ragnarok",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Neo Ragnarok",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 9,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-049.jpg"
@@ -72891,11 +73024,11 @@
   "DBV-054": {
     "id": "DBV-054",
     "name": "The Final Act",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "The Final Act",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-054.jpg"
@@ -73055,11 +73188,11 @@
   "DBV-060": {
     "id": "DBV-060",
     "name": "Chant of Tranquility",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Chant of Tranquility",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-060.jpg"
@@ -73239,11 +73372,11 @@
   "DBV-067": {
     "id": "DBV-067",
     "name": "Relief through Destruction",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Relief through Destruction",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-067.jpg"
@@ -73395,11 +73528,11 @@
   "DBV-073": {
     "id": "DBV-073",
     "name": "Athenia's Love",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Athenia's Love",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-073.jpg"
@@ -73555,11 +73688,11 @@
   "DBV-079": {
     "id": "DBV-079",
     "name": "Invitation to Purgatory",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Invitation to Purgatory",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DBV-079.jpg"
@@ -128706,11 +128839,11 @@
   "MP01-158": {
     "id": "MP01-158",
     "name": "Godly Aura",
-    "type": "Chant/Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Godly Aura",
-        "type": "Chant/Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP01-158.jpg"
@@ -146638,11 +146771,11 @@
   "ABC-SD03-011": {
     "id": "ABC-SD03-011",
     "name": "Blade of Faith",
-    "type": "Chant/Master Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Blade of Faith",
-        "type": "Chant/Master Rune",
+        "type": "Chant",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD03-011.jpg"
@@ -147210,11 +147343,11 @@
   "ABC-SD03-033": {
     "id": "ABC-SD03-033",
     "name": "Odin's Judgment",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Odin's Judgment",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD03-033.jpg"
@@ -152166,11 +152299,11 @@
   "ABC-SD06-020": {
     "id": "ABC-SD06-020",
     "name": "Elephant Rush!!",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Elephant Rush!!",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD06-020.jpg"
@@ -153788,11 +153921,11 @@
   "ABC-SD07-015": {
     "id": "ABC-SD07-015",
     "name": "Cycle of Death",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Cycle of Death",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD07-015.jpg"
@@ -157115,11 +157248,11 @@
   "ABC-SD09-013": {
     "id": "ABC-SD09-013",
     "name": "Consume",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Consume",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD09-013.jpg"
@@ -157639,11 +157772,11 @@
   "ABC-SD09-032": {
     "id": "ABC-SD09-032",
     "name": "Loki's Insight",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Loki's Insight",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD09-032.jpg"
@@ -160452,6 +160585,13 @@
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD11-009.jpg"
+      },
+      "back": {
+        "name": "Illusory Demonic Globe, Attoractia",
+        "type": "Regalia (Shift)",
+        "cost": 7,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/ABC-SD11-009%5E.jpg"
       }
     },
     "Colors": [
@@ -166423,11 +166563,11 @@
   "ESD1-009": {
     "id": "ESD1-009",
     "name": "Desperate Pact",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Desperate Pact",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD1-009.jpg"
@@ -166447,11 +166587,11 @@
   "ESD1-010": {
     "id": "ESD1-010",
     "name": "Harvesting the Crimson Essence",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Harvesting the Crimson Essence",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD1-010.jpg"
@@ -166471,11 +166611,11 @@
   "ESD1-011": {
     "id": "ESD1-011",
     "name": "Eaten Alive",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Eaten Alive",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD1-011.jpg"
@@ -166694,11 +166834,11 @@
   "ESD1-020": {
     "id": "ESD1-020",
     "name": "Bloodspoil Corruption",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Bloodspoil Corruption",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD1-020.jpg"
@@ -167001,11 +167141,11 @@
   "ESD2-009": {
     "id": "ESD2-009",
     "name": "To Arms!",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "To Arms!",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD2-009.jpg"
@@ -167025,11 +167165,11 @@
   "ESD2-010": {
     "id": "ESD2-010",
     "name": "Velmar's Blessing",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Velmar's Blessing",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD2-010.jpg"
@@ -167049,11 +167189,11 @@
   "ESD2-011": {
     "id": "ESD2-011",
     "name": "Velmar's Judgment",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Velmar's Judgment",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD2-011.jpg"
@@ -167272,11 +167412,11 @@
   "ESD2-020": {
     "id": "ESD2-020",
     "name": "Soulburst",
-    "type": "Master Rune",
+    "type": "Master_Rune",
     "face": {
       "front": {
         "name": "Soulburst",
-        "type": "Master Rune",
+        "type": "Master_Rune",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD2-020.jpg"
@@ -167481,11 +167621,11 @@
   "DRC-006": {
     "id": "DRC-006",
     "name": "Lionel's Determination",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Lionel's Determination",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-006.jpg"
@@ -167685,11 +167825,11 @@
   "DRC-014": {
     "id": "DRC-014",
     "name": "Burning Damnation",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Burning Damnation",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-014.jpg"
@@ -168212,11 +168352,11 @@
   "DRC-034": {
     "id": "DRC-034",
     "name": "Vanishing Touch",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Vanishing Touch",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-034.jpg"
@@ -168426,11 +168566,11 @@
   "DRC-042": {
     "id": "DRC-042",
     "name": "Fungal Blast",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Fungal Blast",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-042.jpg"
@@ -168761,11 +168901,11 @@
   "DRC-055": {
     "id": "DRC-055",
     "name": "Maddening Gaze of Diabolos",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Maddening Gaze of Diabolos",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-055.jpg"
@@ -168957,11 +169097,11 @@
   "DRC-062": {
     "id": "DRC-062",
     "name": "Exquisitely Flavored Baked Pie",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Exquisitely Flavored Baked Pie",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-062.jpg"
@@ -169221,11 +169361,11 @@
   "DRC-071": {
     "id": "DRC-071",
     "name": "Taking Attendance",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Taking Attendance",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-071.jpg"
@@ -169396,11 +169536,11 @@
   "DRC-077": {
     "id": "DRC-077",
     "name": "Show, Don't Tell",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Show, Don't Tell",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-077.jpg"
@@ -169452,11 +169592,11 @@
   "DRC-079": {
     "id": "DRC-079",
     "name": "Dance of the Macabre Puppet",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Dance of the Macabre Puppet",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-079.jpg"
@@ -169746,11 +169886,11 @@
   "DRC-089": {
     "id": "DRC-089",
     "name": "Thousand Fractured Reflections",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Thousand Fractured Reflections",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-089.jpg"
@@ -170066,11 +170206,11 @@
   "DRC Prerelease Party": {
     "id": "DRC Prerelease Party",
     "name": "Taking Attendance",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Taking Attendance",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC Prerelease Party.jpg"
@@ -170122,11 +170262,11 @@
   "DRC Video-02": {
     "id": "DRC Video-02",
     "name": "Confrontation with Varkuzhal",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Confrontation with Varkuzhal",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC Video-02.jpg"
@@ -170172,11 +170312,11 @@
   "DRC Video-04": {
     "id": "DRC Video-04",
     "name": "Hindered Magic Duel",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Hindered Magic Duel",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC Video-04.jpg"
@@ -170224,11 +170364,11 @@
   "DRC Video-06": {
     "id": "DRC Video-06",
     "name": "Demon's Blood",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Demon's Blood",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC Video-06.jpg"
@@ -170302,11 +170442,11 @@
   "DRC Video-09": {
     "id": "DRC Video-09",
     "name": "Nero's Studied Route",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Nero's Studied Route",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC Video-09.jpg"
@@ -171238,11 +171378,11 @@
   "JRV-009": {
     "id": "JRV-009",
     "name": "Vow of Silence",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Vow of Silence",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-009.jpg"
@@ -171525,11 +171665,11 @@
   "JRV-020": {
     "id": "JRV-020",
     "name": "Temporary Insanity",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Temporary Insanity",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-020.jpg"
@@ -171653,11 +171793,11 @@
   "JRV-025": {
     "id": "JRV-025",
     "name": "Farewell Smile",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Farewell Smile",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-025.jpg"
@@ -172183,11 +172323,11 @@
   "JRV-045": {
     "id": "JRV-045",
     "name": "Thornspine Grounds",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Thornspine Grounds",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-045.jpg"
@@ -172339,11 +172479,11 @@
   "JRV-051": {
     "id": "JRV-051",
     "name": "Feeding the Swarm",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Feeding the Swarm",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-051.jpg"
@@ -172693,11 +172833,11 @@
   "JRV-064": {
     "id": "JRV-064",
     "name": "Quadruple Draw Swordsman's Technique",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Quadruple Draw Swordsman's Technique",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-064.jpg"
@@ -172835,11 +172975,11 @@
   "JRV-069": {
     "id": "JRV-069",
     "name": "Destabilizing Shield Bash",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Destabilizing Shield Bash",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-069.jpg"
@@ -173155,11 +173295,11 @@
   "JRV-080": {
     "id": "JRV-080",
     "name": "Rhythmic Delirium of Blood",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Rhythmic Delirium of Blood",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-080.jpg"
@@ -173304,11 +173444,11 @@
   "JRV-085": {
     "id": "JRV-085",
     "name": "Cauldron of Necrotic Elixir",
-    "type": "Rune",
+    "type": "Chant",
     "face": {
       "front": {
         "name": "Cauldron of Necrotic Elixir",
-        "type": "Rune",
+        "type": "Chant",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-085.jpg"
