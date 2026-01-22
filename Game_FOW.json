@@ -348,8 +348,10 @@
   },
   "defaultRessources": {
     "backgrounds": [
-      "https://i.ibb.co/ZzKYNswJ/z-V2lc-ZW-Imgur.jpg",
-      "https://cdn.imgchest.com/files/a8d13f7db74f.jpeg"
+      "https://niebvelungen.github.io/TCG-Arena-FoW/Images/ki_lua.jpeg",
+      "https://niebvelungen.github.io/TCG-Arena-FoW/Images/edl.jpeg",
+      "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Long_tony.jpeg",
+      "https://niebvelungen.github.io/TCG-Arena-FoW/Images/fow_fest_2023.png"
     ],
     "decksUrl": "https://niebvelungen.github.io/TCG-Arena-FoW/decks.json"
   },
