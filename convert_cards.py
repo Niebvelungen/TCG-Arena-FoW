@@ -134,6 +134,9 @@ def get_card_type(types):
     
     if any("Master Rune" in t for t in types):
         return "Master_Rune"
+
+    if any("Addition" in t for t in types):
+        return "Addition"
     
     if any("Extension Rule" in t for t in types):
         return "Extension_Rule"
