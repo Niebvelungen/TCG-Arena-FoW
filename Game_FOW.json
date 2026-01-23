@@ -144,14 +144,14 @@
           "Extension_Rule"
         ],
         "autoPlayFromHand": {
-          "Resonator": "Field",
-          "Regalia": "Other",
-          "Addition": "Other",
+          "Resonator": "Stack",
+          "Regalia": "Stack",
+          "Addition": "Stack",
           "Chant": "Stack",
           "Rune": "Stack",
           "Master_Rune": "Stack",
           "Magic_Stones": "Mana",
-          "Warden": "Ruler",
+          "Warden": "Stack",
           "Card": "Other"
         },
         "autoPlayFromStack": {
