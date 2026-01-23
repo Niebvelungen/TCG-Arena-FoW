@@ -119,7 +119,6 @@ def parse_cost(cost_str):
     return total
 
 def get_card_type(types):
-    """Get the card type, prioritizing Magic Stone, then Rune, otherwise first entry"""
     if not types:
         return "Unknown"
 
