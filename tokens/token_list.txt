@@ -1,0 +1,826 @@
+=== FORCE OF WILL TOKEN LIST ===
+
+Token-001: [100/100] Wind Elf Resonator Token
+   Stats: [100/100]
+   Color: wind
+   Race: Elf
+   First appeared in: SDL4
+   Created by: Fiethsing, Six Sage of Wind, Wind Clad Elf, Portal in the Woods, Spirit Caller Elf, Tama, the Wind made Cat
+
+Token-002: [100/100] Fire Bomb Resonator Token
+   Stats: [100/100]
+   Color: fire
+   Race: Bomb
+   Effect: "At the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls."
+   First appeared in: LEL
+   Created by: Conjure Time Bomb
+
+Token-003: [X00/X00] Water/darkness Fantasy Resonator Token
+   Stats: [X00/X00]
+   Color: water/darkness
+   Race: Fantasy
+   First appeared in: LEL
+   Created by: Fishing, Jiang Ziya, the Fisherman
+
+Token-004: [400/400] Water/darkness Fantasy Resonator Token
+   Stats: [400/400]
+   Color: water/darkness
+   Race: Fantasy
+   First appeared in: LEL
+   Created by: Illusion Wizard, Illusory Projection, Muul, the Town That Never Was, Plot of Water and Darkness
+
+Token-005: [500/500] Fire/wind Dragon Resonator Token
+   Stats: [500/500]
+   Color: fire/wind
+   Race: Dragon
+   Effect: [Flying]
+   First appeared in: VIN003
+   Created by: Sylvia Gill Palarilias, Infernal Dragon
+
+Token-006: [100/100] Water Rabbit Resonator Token
+   Stats: [100/100]
+   Color: water
+   Race: Rabbit
+   First appeared in: VIN003
+   Created by: Kaguya, Guardian of the Moon
+
+Token-007: [500/500] Darkness Shadow Resonator Token
+   Stats: [500/500]
+   Color: darkness
+   Race: Shadow
+   First appeared in: RDE
+   Created by: Schrödinger, the Cat in Flux
+
+Token-008: [600/600] Light Dragon Resonator Token
+   Stats: [600/600]
+   Color: light
+   Race: Dragon
+   Effect: [Flying]
+   First appeared in: ENW
+   Created by: Light Dragon's Egg
+
+Token-009: [600/600] Light dragon Resonator Token
+   Stats: [600/600]
+   Color: light
+   Race: dragon
+   Effect: [Flying]
+   First appeared in: ENW
+   Created by: Light Dragon's Egg
+
+Token-010: [1000/1000] Fire Wall Resonator Token
+   Stats: [1000/1000]
+   Color: fire
+   Race: Wall
+   Effect: [Flying]
+   First appeared in: ENW
+   Created by: Refarth's Wall of Flames
+
+Token-011: [100/100] Darkness Shadow Resonator Token
+   Stats: [100/100]
+   Color: darkness
+   Race: Shadow
+   First appeared in: ENW
+   Created by: Dark Alice, Manifestation of Rage
+
+Token-012: [1000/1000] Fire Dragon Resonator Token
+   Stats: [1000/1000]
+   Color: fire
+   Race: Dragon
+   Effect: [Flying]
+   First appeared in: ACN
+   Created by: Environmental Researcher, Fabre, Fire Dragon's Egg
+
+Token-013: [400/400] Darkness Pig Resonator Token
+   Stats: [400/400]
+   Color: darkness
+   Race: Pig
+   Effect: "When this card is put into a graveyard from the field ⇒ It deals 400 damage to your opponent." and a [400/400] darkness Pig resonator token with "When this card is put into a graveyard from the field ⇒ You gain 400 life."
+   First appeared in: ACN
+   Created by: The Three Evil Little Pigs
+
+Token-014: [1000/1000] Light Angel Resonator Token
+   Stats: [1000/1000]
+   Color: light
+   Race: Angel
+   Effect: [Flying]
+   First appeared in: ACN
+   Created by: Statue in the Sacred Temple
+
+Token-015: [100/100] Wind Cat Resonator Token
+   Stats: [100/100]
+   Color: wind
+   Race: Cat
+   First appeared in: SDV4
+   Created by: Chiyome, the Captivating Kunoichi, Cat Ninja Scout, Caith Sith, Calico Cat Shikigami
+
+Token-016: [100/100] Darkness Skeleton Resonator Token
+   Stats: [100/100]
+   Color: darkness
+   Race: Skeleton
+   First appeared in: SDV5
+   Created by: Skeleton Horde, Bottomless Chasm of Death, the Abyss, Doubt, Priest of the Dark Truths
+
+Token-017: [X00/X00] Darkness Lich Resonator Token
+   Stats: [X00/X00]
+   Color: darkness
+   Race: Lich
+   First appeared in: NDR
+   Created by: Bottomless Chasm of Death, the Abyss
+
+Token-018: [800/800] Darkness Lich Resonator Token
+   Stats: [800/800]
+   Color: darkness
+   Race: Lich
+   First appeared in: SNV
+   Created by: Orchard of the Immortals
+
+Token-019: [200/200] Darkness Zombie Resonator Token
+   Stats: [200/200]
+   Color: darkness
+   Race: Zombie
+   First appeared in: SNV
+   Created by: Orpheus, the Immortal Player
+
+Token-020: [700/100] Fire Warrior Resonator Token
+   Stats: [700/100]
+   Color: fire
+   Race: Warrior
+   Effect: [Swiftness]
+   First appeared in: SDAO1
+   Created by: Melgis
+
+Token-021: [600/600] Wind Beast Resonator Token
+   Stats: [600/600]
+   Color: wind
+   Race: Beast
+   First appeared in: SDAO2
+   Created by: Pricia, Super Beast Burning Rush!
+
+Token-022: [200/200] Water Machine Resonator Token
+   Stats: [200/200]
+   Color: water
+   Race: Machine
+   First appeared in: AO2
+   Created by: Twin Robots, Mariabella's Recycling Robot, Titor's Gimmick
+
+Token-023: [800/400] Fire Beast Resonator Token
+   Stats: [800/400]
+   Color: fire
+   Race: Beast
+   Effect: " [Enter] ⇒ This card deals damage equal to its ATK to target resonator. Then, if you have [Passion], invert your ruler."
+   First appeared in: AO3
+   Created by: Reflect's Summoning
+
+Token-024: [400/800] Water Beast Resonator Token
+   Stats: [400/800]
+   Color: water
+   Race: Beast
+   Effect: " [Enter] ⇒ Draw three cards and put two card from your hand on top of your deck in any order. Then, if you have [Calmness], invert your ruler."
+   First appeared in: AO3
+   Created by: Refrain's Summoning
+
+Token-025: [X00/X00] Darkness Zombie Resonator Token
+   Stats: [X00/X00]
+   Color: darkness
+   Race: Zombie
+   First appeared in: AO3
+   Created by: Awakening of the Undead Lord
+
+Token-026: [0/0] Light Spirit Resonator Token
+   Stats: [0/0]
+   Color: light
+   Race: Spirit
+   Effect: [Flying] and X [+100/+100] counters on it
+   First appeared in: EDL
+   Created by: Silmeria, Summoner of Spirits
+
+Token-027: [700/700] Wind Beast Resonator Token
+   Stats: [700/700]
+   Color: wind
+   Race: Beast
+   Effect: [Pierce]
+   First appeared in: EDL
+   Created by: Monstrous Rush
+
+Token-028: [1000/1000] Wind Beast Resonator Token
+   Stats: [1000/1000]
+   Color: wind
+   Race: Beast
+   Effect: [Swiftness]
+   First appeared in: EDL
+   Created by: Monstrous Rush
+
+Token-029: [1200/1200] Wind Beast Resonator Token
+   Stats: [1200/1200]
+   Color: wind
+   Race: Beast
+   Effect: [Pierce]
+   First appeared in: EDL
+   Created by: Monstrous Rush
+
+Token-030: [400/400] Darkness Zombie Resonator Token
+   Stats: [400/400]
+   Color: darkness
+   Race: Zombie
+   First appeared in: EDL
+   Created by: Frightened Villager, Interdimensional Graveyard, Lord of the Undead, Graveyard Keeper of the Demonic World, The Essence of Athenia's Power
+
+Token-031: [600/600] Water Fish Resonator Token
+   Stats: [600/600]
+   Color: water
+   Race: Fish
+   First appeared in: ADW
+   Created by: Fish Drive
+
+Token-032: [1000/1000] Water/darkness Fish Resonator Token
+   Stats: [1000/1000]
+   Color: water/darkness
+   Race: Fish
+   Effect: [Bane]
+   First appeared in: ADW
+   Created by: Call from the Depths
+
+Token-033: [400/400] Light/darkness Fallen Angel Resonator Token
+   Stats: [400/400]
+   Color: light/darkness
+   Race: Fallen Angel
+   Effect: [Flying]
+   First appeared in: TST
+   Created by: Belial's Hymn, Belial's Messenger, Choir of Fallen Angels, Prideful Rule, Castle of Belial
+
+Token-034: [400/400] Light Angel Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Angel
+   Effect: [Flying]
+   First appeared in: TST
+   Created by: Angel of False Glory, Skadi, Evil-Piercer Spear, Velmardia's Threefold Plateau
+
+Token-035: [4000/4000] Darkness High God Resonator Token
+   Stats: [4000/4000]
+   Color: darkness
+   Race: High God
+   Effect: [Eternal], [Barrier] and "When this card leaves the field >>> You lose the game."
+   First appeared in: TST
+   Created by: Satan
+
+Token-036: [400/400] Fire Cthulhu Resonator Token
+   Stats: [400/400]
+   Color: fire
+   Race: Cthulhu
+   Effect: [Swiftness]
+   First appeared in: GOG
+   Created by: Rebirth of Flaming Disaster
+
+Token-037: [400/400] Light Phantom Beast Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Phantom Beast
+   First appeared in: GRL
+   Created by: Phantom Beastmaster of Ma'at
+
+Token-038: [600/600] Light Angel Resonator Token
+   Stats: [600/600]
+   Color: light
+   Race: Angel
+   Effect: [Flying]
+   First appeared in: GRV
+   Created by: The Essence of Alice's Power
+
+Token-039: [600/600] Light Valkyrie Resonator Token
+   Stats: [600/600]
+   Color: light
+   Race: Valkyrie
+   Effect: [Flying]
+   First appeared in: GRV
+   Created by: The Essence of Odin's Power
+
+Token-040: [600/600] Fire Dragon Resonator Token
+   Stats: [600/600]
+   Color: fire
+   Race: Dragon
+   Effect: [Flying]
+   First appeared in: GRV
+   Created by: The Essence of Dragon Flame's Power
+
+Token-041: [600/200] Fire Cthulhu Resonator Token
+   Stats: [600/200]
+   Color: fire
+   Race: Cthulhu
+   Effect: [Swiftness]
+   First appeared in: GRV
+   Created by: The Essence of Nyarlathotep's Power
+
+Token-042: [400/400] Water Machine Resonator Token
+   Stats: [400/400]
+   Color: water
+   Race: Machine
+   First appeared in: GRV
+   Created by: The Essence of Deus Ex Machina's Power
+
+Token-043: [600/600] Water Beast Resonator Token
+   Stats: [600/600]
+   Color: water
+   Race: Beast
+   First appeared in: GRV
+   Created by: The Essence of Loki's Power
+
+Token-044: [400/400] Wind Cat Resonator Token
+   Stats: [400/400]
+   Color: wind
+   Race: Cat
+   First appeared in: GRV
+   Created by: The Essence of Kaguya's Power
+
+Token-045: [500/500] Wind Mimi Tribe Resonator Token
+   Stats: [500/500]
+   Color: wind
+   Race: Mimi Tribe
+   First appeared in: GRV
+   Created by: The Essence of Shiva's Power
+
+Token-046: [400/400] Darkness Machine Resonator Token
+   Stats: [400/400]
+   Color: darkness
+   Race: Machine
+   First appeared in: GRV
+   Created by: Arena Expansion: Mount Othrys, Mechanized Children of Chronos, Mechanized Children of Gaia
+
+Token-047: [600/600] Darkness Fallen Angel Resonator Token
+   Stats: [600/600]
+   Color: darkness
+   Race: Fallen Angel
+   Effect: [Flying]
+   First appeared in: GRV
+   Created by: The Essence of Dante's Power
+
+Token-048: [800/800] Darkness Hero Resonator Token
+   Stats: [800/800]
+   Color: darkness
+   Race: Hero
+   First appeared in: HSD
+   Created by: Deathspeaker Monk, Hero Reincarnation
+
+Token-049: [400/400] Gears Resonator Token
+   Stats: [400/400]
+   Color: Gears
+   Race: 
+   Effect: no attribute
+   First appeared in: NWE
+   Created by: Typhon, Asteroid Cluster
+
+Token-050: [400/400] Fire Human Resonator Token
+   Stats: [400/400]
+   Color: fire
+   Race: Human
+   First appeared in: TWS
+   Created by: Flighter of the Underground Fighting Arena
+
+Token-051: [400/400] Light Fairy Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Fairy
+   Effect: [Flying]
+   First appeared in: CST
+   Created by: Dominatus, Star Gladius, Tina, Virtuous Stella, Girl's Staring at..., White Fairy Flower, Fairy Twins
+
+Token-052: [2000/2000] Wind Dinosaur Resonator Token
+   Stats: [2000/2000]
+   Color: wind
+   Race: Dinosaur
+   First appeared in: CST
+   Created by: Ki Lua, Shooting Star of Wind
+
+Token-053: [400/400] Darkness Ethereal Resonator Token
+   Stats: [400/400]
+   Color: darkness
+   Race: Ethereal
+   First appeared in: CST
+   Created by: Stein, Deathly Star, Purun, Fairy of Possessing Darkness, Malefic Tree Necromancer
+
+Token-054: [X/Y] Darkness Ethereal Resonator Token
+   Stats: [X/Y]
+   Color: darkness
+   Race: Ethereal
+   First appeared in: CST
+   Created by: Reinhardt, Shooting Star of Darkness
+
+Token-055: [1000/1000] Light/fire/water/wind/darkness Avatar Resonator Token
+   Stats: [1000/1000]
+   Color: light/fire/water/wind/darkness
+   Race: Avatar
+   First appeared in: CST
+   Created by: King's Hopeful Gleam
+
+Token-056: [400/400] Light Fairy/Gears Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Fairy/Gears
+   Effect: [Flying]
+   First appeared in: JRP
+   Created by: Dominatus, Solarised Gladius
+
+Token-057: [400/400] Light Fairy, Gears Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Fairy, Gears
+   Effect: [Flying]
+   First appeared in: JRP
+   Created by: Dominatus Chronogear
+
+Token-058: [500/500] Wind Beast, Gears Resonator Token
+   Stats: [500/500]
+   Color: wind
+   Race: Beast, Gears
+   First appeared in: JRP
+   Created by: Tigre Plateado Chronogear
+
+Token-059: [200/200] Gears Resonator Token
+   Stats: [200/200]
+   Color: Gears
+   Race: 
+   Effect: no attribute
+   First appeared in: JRP
+   Created by: Ark's Gearsatellite
+
+Token-060: [X00/X00] Water Human Resonator Token
+   Stats: [X00/X00]
+   Color: water
+   Race: Human
+   First appeared in: JRP
+   Created by: Song of Eternal Serenity
+
+Token-061: [2000/2000] Gears J-ruler Token
+   Stats: [2000/2000]
+   Color: Gears
+   Race: J-ruler
+   Effect: no attribute
+   First appeared in: JRP
+   Created by: Imitation: Adam
+
+Token-062: [100/100] Fire Human, Ghost Resonator Token
+   Stats: [100/100]
+   Color: fire
+   Race: Human, Ghost
+   First appeared in: MP01
+   Created by: Fate of the Girl, Ghost of Orleans, Executioner of Orleans
+
+Token-063: [100/100] Light/fire/water/wind/darkness Cthulhu, Familiar token for each will symbol in its attribute cost Token
+   Stats: [100/100]
+   Color: light/fire/water/wind/darkness
+   Race: Cthulhu, Familiar token for each will symbol in its attribute cost
+   First appeared in: MP01
+   Created by: Defiled Scripture
+
+Token-064: [400/400] Light Monk, Taoist Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Monk, Taoist
+   First appeared in: TSR
+   Created by: Om So Hum
+
+Token-065: [0/100] Darkness Automaton Resonator Token
+   Stats: [0/100]
+   Color: darkness
+   Race: Automaton
+   Effect: "Banish this card: Each player gains 100 life."
+   First appeared in: TSR
+   Created by: Aideen, the Fighting Doctor
+
+Token-066: [400/400] Light Military Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Military
+   First appeared in: TEU
+   Created by: Lunar C-38, Cruiser Tank
+
+Token-067: [1000/1000] Water/darkness Sea Monster Resonator Token
+   Stats: [1000/1000]
+   Color: water/darkness
+   Race: Sea Monster
+   Effect: [Terrifying], [Pierce] and [Barrier]
+   First appeared in: TEU
+   Created by: Claimed by the Depths
+
+Token-068: [200/200] Wind Spirit, Woodfolk Resonator Token
+   Stats: [200/200]
+   Color: wind
+   Race: Spirit, Woodfolk
+   First appeared in: TEU
+   Created by: Unfavorable Winds
+
+Token-069: [400/400] Darkness Military, Spirit Resonator Token
+   Stats: [400/400]
+   Color: darkness
+   Race: Military, Spirit
+   First appeared in: TEU
+   Created by: Dusk Knight's Brigade
+
+Token-070: [100/100] Wind/darkness Bug Resonator Token
+   Stats: [100/100]
+   Color: wind/darkness
+   Race: Bug
+   Effect: [Flying]
+   First appeared in: TEU
+   Created by: Accursed Touch of Moon Butterflies
+
+Token-071: [400/400] Light Military Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Military
+   Effect: [First Strike]
+   First appeared in: TEU
+   Created by: Lunar Throne of the Light Palace
+
+Token-072: [100/200] Light/fire Cat Resonator Token
+   Stats: [100/200]
+   Color: light/fire
+   Race: Cat
+   Effect: [Multi Strike] and [Barrier]
+   First appeared in: TEU
+   Created by: Lyka, Tigermorphed
+
+Token-073: [400/400] Light Spirit Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Spirit
+   First appeared in: TEU
+   Created by: Phasmophobia
+
+Token-074: [400/400] Light Military Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Military
+   Effect: [Flying]
+   First appeared in: TEU
+   Created by: Queen's Alabaster, Flying Bastion
+
+Token-075: [500/500] Water/darkness Sea Monster, Spirit Resonator Token
+   Stats: [500/500]
+   Color: water/darkness
+   Race: Sea Monster, Spirit
+   Effect: [Terrifying] and [Pierce]
+   First appeared in: TEU
+   Created by: Scybdis, Terrors from the Depths
+
+Token-076: [200/200] Wind Spirit, Woodfolk Resonator Token
+   Stats: [200/200]
+   Color: wind
+   Race: Spirit, Woodfolk
+   Effect: "This card gains [+X00/+X00], where X is the number of J/resonators you control multiplied by two."
+   First appeared in: TEU
+   Created by: Woewillow, Shepherd of Saplings
+
+Token-077: [200/200] Water/darkness Sea Monster Resonator Token
+   Stats: [200/200]
+   Color: water/darkness
+   Race: Sea Monster
+   Effect: [Barrier]
+   First appeared in: TOP
+   Created by: Bioluminiscent Broodmother
+
+Token-078: [900/900] Water/darkness Sea Monster Resonator Token
+   Stats: [900/900]
+   Color: water/darkness
+   Race: Sea Monster
+   Effect: [Barrier]
+   First appeared in: TOP
+   Created by: Hunter of the Maws
+
+Token-079: [200/200] Wind Woodfolk Resonator Token
+   Stats: [200/200]
+   Color: wind
+   Race: Woodfolk
+   First appeared in: TOP
+   Created by: Sinister Assimilation
+
+Token-080: [200/200] Wind Spirit, Woodfolk Resonator Token
+   Stats: [200/200]
+   Color: wind
+   Race: Spirit, Woodfolk
+   Effect: [Barrier] (Non-fire spells and non-fire abilities)
+   First appeared in: ABC
+   Created by: Quercus, the Living Oak
+
+Token-081: [0/0] Light Spirit Resonator Token
+   Stats: [0/0]
+   Color: light
+   Race: Spirit
+   Effect: [Flying] and with X [+100/+100] counters on it
+   First appeared in: ABC
+   Created by: Silmeria, Summoner of Spirits
+
+Token-082: [200/300] Fire/wind Divine Beast, Spirit Resonator Token
+   Stats: [200/300]
+   Color: fire/wind
+   Race: Divine Beast, Spirit
+   Effect: [Multi Strike]
+   First appeared in: ABC
+   Created by: Divine Beast of Re-Earth
+
+Token-083: [200/200] Darkness Dragonoid, Shadow Resonator Token
+   Stats: [200/200]
+   Color: darkness
+   Race: Dragonoid, Shadow
+   First appeared in: MP02
+   Created by: The Locked Glass Tomb
+
+Token-084: [100/100] Fire Seven Luminaries Demon Resonator Token
+   Stats: [100/100]
+   Color: fire
+   Race: Seven Luminaries Demon
+   First appeared in: MP02
+   Created by: Uranus, Arcanist of the Freedom Star
+
+Token-085: [100/100] Water Seven Luminaries Demon Resonator Token
+   Stats: [100/100]
+   Color: water
+   Race: Seven Luminaries Demon
+   First appeared in: MP02
+   Created by: Neptune, Illusionist of the Dream Star
+
+Token-086: [100/100] Fire/water Seven Luminaries Demon Resonator Token
+   Stats: [100/100]
+   Color: fire/water
+   Race: Seven Luminaries Demon
+   First appeared in: MP02
+   Created by: Pluto, Necromancer of the Destruction Star
+
+Token-087: [100/100] Fire Bomb Resonator Token
+   Stats: [100/100]
+   Color: fire
+   Race: Bomb
+   First appeared in: MP02
+   Created by: Conjure Time Bomb
+
+Token-088: [400/400] Water Rabbit Resonator Token
+   Stats: [400/400]
+   Color: water
+   Race: Rabbit
+   First appeared in: MP02
+   Created by: The Empty Throne of Millennia
+
+Token-089: [400/400] Darkness Knight Resonator Token
+   Stats: [400/400]
+   Color: darkness
+   Race: Knight
+   First appeared in: MP02
+   Created by: Valravn, Consumer of Hearts
+
+Token-090: [600/500] Darkness Demon Resonator Token
+   Stats: [600/500]
+   Color: darkness
+   Race: Demon
+   First appeared in: ESD1
+   Created by: Eaten Alive
+
+Token-091: [200/200] Darkness Demon Resonator Token
+   Stats: [200/200]
+   Color: darkness
+   Race: Demon
+   First appeared in: ESD1
+   Created by: Glyph of Neverending Sorrow
+
+Token-092: [200/200] Light Knight Resonator Token
+   Stats: [200/200]
+   Color: light
+   Race: Knight
+   First appeared in: ESD2
+   Created by: Knight-Captain of Velmardia, Knight of the Setting Sun, Lionel, Knight Blessed by the Sun
+
+Token-093: [100/300] Light Knight Token
+   Stats: [100/300]
+   Color: light
+   Race: Knight
+   Effect: [Barrier] (Total cost 1 or less) and "{Rest}: Change the target of target spell or ability with a single target to this card."
+   First appeared in: DRC
+   Created by: Defenders of the Lower Plateau Wall
+
+Token-094: [400/400] Light Knight Resonator Token
+   Stats: [400/400]
+   Color: light
+   Race: Knight
+   First appeared in: DRC
+   Created by: Envoy of the Goddess, Hutriel
+
+Token-095: [700/700] Light Angel Resonator Token
+   Stats: [700/700]
+   Color: light
+   Race: Angel
+   Effect: [Flying]
+   First appeared in: DRC
+   Created by: Envoy of the Goddess, Hutriel
+
+Token-096: [400/100] Fire Demon Resonator Token
+   Stats: [400/100]
+   Color: fire
+   Race: Demon
+   Effect: [Blood Trail]
+   First appeared in: DRC
+   Created by: Burning Book of Barust, Burning Damnation
+
+Token-097: [400/400] Water Snake Resonator Token
+   Stats: [400/400]
+   Color: water
+   Race: Snake
+   Effect: [Vileborn] (2)
+   First appeared in: DRC
+   Created by: Euryale, Bonechilling Demoness
+
+Token-098: [400/400] Wind Fungus Resonator Token
+   Stats: [400/400]
+   Color: wind
+   Race: Fungus
+   First appeared in: DRC
+   Created by: Belphegor's Rotten Skull's Censer, Fungal Blast, Mosshadow Devourer
+
+Token-099: [400/400] Wind Fungus Resonator Token
+   Stats: [400/400]
+   Color: wind
+   Race: Fungus
+   Effect: "When this card leaves the field >>> Gain a void will coin token."
+   First appeared in: DRC
+   Created by: Spore Cloud Glyph
+
+Token-100: [200/200] Darkness Raven Resonator Token
+   Stats: [200/200]
+   Color: darkness
+   Race: Raven
+   First appeared in: DRC
+   Created by: Neithardt, Guardian of Diabolos' Labyrinth
+
+Token-101: [X00/X00] Dual-attribute water/wind Singularity Resonator Token
+   Stats: [X00/X00]
+   Color: dual-attribute
+   Race: water/wind Singularity
+   First appeared in: DRC
+   Created by: The Halfblood Prodigy, Nero
+
+Token-102: [200/300] Wind Dinosaur Resonator Token
+   Stats: [200/300]
+   Color: wind
+   Race: Dinosaur
+   First appeared in: ATD
+   Created by: Crystal Pinnacles, Refuge of the Sidhe
+
+Token-103: [400/400] Fire Demon Resonator Token
+   Stats: [400/400]
+   Color: fire
+   Race: Demon
+   First appeared in: JRV
+   Created by: Amon's Collar of Punishment
+
+Token-104: [400/100] Fire Demon Resonator Token
+   Stats: [400/100]
+   Color: fire
+   Race: Demon
+   Effect: "When this card is destroyed >>> It deals 400 damage to target player."
+   First appeared in: JRV
+   Created by: Prideful One, Amon
+
+Token-105: [200/200] Wind Frog, Fungus Resonator Token
+   Stats: [200/200]
+   Color: wind
+   Race: Frog, Fungus
+   First appeared in: JRV
+   Created by: Fungibian Spawn of the Eternal Infestation
+
+Token-106: [0/0] Wind Ooze Resonator Token
+   Stats: [0/0]
+   Color: wind
+   Race: Ooze
+   Effect: four [+100/+100] counters on it
+   First appeared in: JRV
+   Created by: Sporescourge Toad
+
+Token-107: [100/100] Darkness Insect Resonator Token
+   Stats: [100/100]
+   Color: darkness
+   Race: Insect
+   Effect: [Flying]
+   First appeared in: JRV
+   Created by: Agares, Feeding Corps Demon, Eternal Pact with Beelzebub
+
+Token-108: [100/100] Darkness Cryptid, Insect Resonator Token
+   Stats: [100/100]
+   Color: darkness
+   Race: Cryptid, Insect
+   Effect: [Flying] and [Bane]
+   First appeared in: JRV
+   Created by: Scepter of the Larvae of Beelzebub
+
+Token-109: [200/200] Dual-attribute light/fire Flame Spirit Resonator Token
+   Stats: [200/200]
+   Color: dual-attribute
+   Race: light/fire Flame Spirit
+   Effect: [Blood Trail]
+   First appeared in: JRV
+   Created by: Shamhat, Exotic Dancer of White Flame
+
+Token-110: [400/400] Fire Spider, Vampire Resonator Token
+   Stats: [400/400]
+   Color: fire
+   Race: Spider, Vampire
+   First appeared in: JRV
+   Created by: Kamnaka, Bloodsilk Weaver
+

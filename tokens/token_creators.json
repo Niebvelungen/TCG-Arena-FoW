@@ -1,0 +1,2938 @@
+[
+  {
+    "card_id": "SDL4-002",
+    "card_name": "Fiethsing, Six Sage of Wind",
+    "set": "SDL4",
+    "ability_text": "Whenever you play your second card each turn ⇒ Put a [100/100] wind Elf resonator token into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Elf",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "LEL-012",
+    "card_name": "Conjure Time Bomb",
+    "set": "LEL",
+    "ability_text": "Put a [100/100] fire Bomb resonator token with \"At the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.\" into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "fire",
+        "race": "Bomb",
+        "type": "resonator token",
+        "effect": "\"At the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.\""
+      }
+    ]
+  },
+  {
+    "card_id": "LEL-019",
+    "card_name": "Fishing",
+    "set": "LEL",
+    "ability_text": "Put the top card of your deck into your graveyard. If it was put into a graveyard this way, put a [X00/X00] water/darkness Fantasy resonator token into your field, where X is that card's total cost.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[X00/X00]",
+        "attribute": "water/darkness",
+        "race": "Fantasy",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "LEL-020",
+    "card_name": "Jiang Ziya, the Fisherman",
+    "set": "LEL",
+    "ability_text": "When this card enters your field ⇒ Put the top card of your deck into your graveyard. If it was put into your graveyard this way, put a [X00/X00] water/darkness Fantasy resonator token into your field, where X is that card's total cost.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[X00/X00]",
+        "attribute": "water/darkness",
+        "race": "Fantasy",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "LEL-063",
+    "card_name": "Illusion Wizard",
+    "set": "LEL",
+    "ability_text": "When this card enters your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "water/darkness",
+        "race": "Fantasy",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "LEL-064",
+    "card_name": "Illusory Projection",
+    "set": "LEL",
+    "ability_text": "When this card is put into graveyard from your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "water/darkness",
+        "race": "Fantasy",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "LEL-077",
+    "card_name": "Muul, the Town That Never Was",
+    "set": "LEL",
+    "ability_text": "{U}{B}, remove a resonator in your graveyard from the game: Put a [400/400] water/darkness Fantasy resonator token into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "water/darkness",
+        "race": "Fantasy",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "LEL-080",
+    "card_name": "Plot of Water and Darkness",
+    "set": "LEL",
+    "ability_text": "Choose one, if you control a water J/resonator and another darkness J/resonator, you may choose both - Destroy target resonator, or put a [400/400] water/darkness Fantasy resonator token into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "water/darkness",
+        "race": "Fantasy",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "VIN003-030",
+    "card_name": "Sylvia Gill Palarilias, Infernal Dragon",
+    "set": "VIN003",
+    "ability_text": "[Awakening] {G}: When this card enters your field ⇒ Put a [500/500] fire/wind Dragon resonator token with [Flying] into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[500/500]",
+        "attribute": "fire/wind",
+        "race": "Dragon",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "VIN003-037",
+    "card_name": "Kaguya, Guardian of the Moon",
+    "set": "VIN003",
+    "ability_text": "{Rest}: Put a [100/100] water Rabbit resonator token into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "water",
+        "race": "Rabbit",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "RDE-032",
+    "card_name": "Wind Clad Elf",
+    "set": "RDE",
+    "ability_text": "When this card enters yout field ⇒ Put a [100/100] wind Elf resonator token into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Elf",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "RDE-080",
+    "card_name": "Schrödinger, the Cat in Flux",
+    "set": "RDE",
+    "ability_text": "Whenever a resonator is put into a graveyard from your opponent's field ⇒ Remove that card from the game. If you do, put a [500/500] darkness Shadow resonator token into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[500/500]",
+        "attribute": "darkness",
+        "race": "Shadow",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ENW-006",
+    "card_name": "Light Dragon's Egg",
+    "set": "ENW",
+    "ability_text": "When this card is put into a graveyard from your field ⇒ Put a [600/600] light Dragon resonator token with [Flying] into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "light",
+        "race": "Dragon",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ENW-006",
+    "card_name": "Light Dragon's Egg",
+    "set": "ENW",
+    "ability_text": "[Inheritance] {W}{2}: Put a [600/600] light dragon resonator token with [Flying] into your field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "light",
+        "race": "dragon",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ENW-030",
+    "card_name": "Refarth's Wall of Flames",
+    "set": "ENW",
+    "ability_text": "Put a [1000/1000] fire Wall resonator token with [Flying] into your field. At the next end of turn ⇒ Its controller banishes it.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[1000/1000]",
+        "attribute": "fire",
+        "race": "Wall",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ENW-073",
+    "card_name": "Dark Alice, Manifestation of Rage",
+    "set": "ENW",
+    "ability_text": "When this card leaves your field for a non-field zone ⇒ Put a [100/100] darkness Shadow resonator token into your field for each [+100/+100] counter on this card.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Shadow",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ACN-039",
+    "card_name": "Environmental Researcher, Fabre",
+    "set": "ACN",
+    "ability_text": "When this card enters the field ⇒ Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[1000/1000]",
+        "attribute": "fire",
+        "race": "Dragon",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ACN-043",
+    "card_name": "Fire Dragon's Egg",
+    "set": "ACN",
+    "ability_text": "When this card is put into a graveyard from the field ⇒ Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[1000/1000]",
+        "attribute": "fire",
+        "race": "Dragon",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ACN-105",
+    "card_name": "Portal in the Woods",
+    "set": "ACN",
+    "ability_text": "At the end of your turn ⇒ Remove a guidance counter from this card. If you do, put a [100/100] wind Elf resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Elf",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ACN-106",
+    "card_name": "Spirit Caller Elf",
+    "set": "ACN",
+    "ability_text": "When this card enters the field ⇒ Put a [100/100] wind Elf resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Elf",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ACN-137",
+    "card_name": "The Three Evil Little Pigs",
+    "set": "ACN",
+    "ability_text": "When this card enters the field ⇒ Put a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ It deals 400 damage to your opponent.\" and a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ You gain 400 life.\" into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Pig",
+        "type": "resonator token",
+        "effect": "\"When this card is put into a graveyard from the field ⇒ It deals 400 damage to your opponent.\" and a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ You gain 400 life.\""
+      }
+    ]
+  },
+  {
+    "card_id": "ACN-147",
+    "card_name": "Statue in the Sacred Temple",
+    "set": "ACN",
+    "ability_text": "{W}{R}{U}{G}{B}, banish this card: Put a [1000/1000] light Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[1000/1000]",
+        "attribute": "light",
+        "race": "Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "SDV4-002",
+    "card_name": "Chiyome, the Captivating Kunoichi",
+    "set": "SDV4",
+    "ability_text": "At the end of turn ⇒ Put a [100/100] wind Cat resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Cat",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "SDV5-016",
+    "card_name": "Skeleton Horde",
+    "set": "SDV5",
+    "ability_text": "When this card is put into a graveyard from the field ⇒ Put a [100/100] darkness Skeleton resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Skeleton",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "NDR-062",
+    "card_name": "Cat Ninja Scout",
+    "set": "NDR",
+    "ability_text": "When this card is put into a graveyard from the field ⇒ Put a [100/100] wind Cat resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Cat",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "NDR-084",
+    "card_name": "Bottomless Chasm of Death, the Abyss",
+    "set": "NDR",
+    "ability_text": "At the end of your turn ⇒ Put the top card of your deck into your graveyard. Put a [100/100] darkness Skeleton resonator token into the field. Remove an abyss counter from this card.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Skeleton",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "NDR-084",
+    "card_name": "Bottomless Chasm of Death, the Abyss",
+    "set": "NDR",
+    "ability_text": "When the last abyss counter is removed from this card ⇒ Banish it. If you do, put a [X00/X00] darkness Lich resonator token into the field, where X is the number of resonators in your graveyard.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[X00/X00]",
+        "attribute": "darkness",
+        "race": "Lich",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "SNV-093",
+    "card_name": "Orchard of the Immortals",
+    "set": "SNV",
+    "ability_text": "Remove three fruit counters from this card: Put a [800/800] darkness Lich resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[800/800]",
+        "attribute": "darkness",
+        "race": "Lich",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "SNV-094",
+    "card_name": "Orpheus, the Immortal Player",
+    "set": "SNV",
+    "ability_text": "{B}, remove a resonator in your graveyard from the game: Put a [200/200] darkness Zombie resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DBV-058",
+    "card_name": "Caith Sith",
+    "set": "DBV",
+    "ability_text": "[Enter] ⇒ Put a [100/100] wind Cat resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Cat",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DBV-058",
+    "card_name": "Caith Sith",
+    "set": "DBV",
+    "ability_text": "{G}{G}: Put a [100/100] wind Cat resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Cat",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DBV-059",
+    "card_name": "Calico Cat Shikigami",
+    "set": "DBV",
+    "ability_text": "When this card is put into a graveyard from the field ⇒ Put a [100/100] wind Cat resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Cat",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DBV-061",
+    "card_name": "Chiyome, the Captivating Kunoichi",
+    "set": "DBV",
+    "ability_text": "At the end of turn ⇒ Put a [100/100] wind Cat resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Cat",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DBV-085",
+    "card_name": "Skeleton Horde",
+    "set": "DBV",
+    "ability_text": "When this card is put into a graveyard from the field ⇒ Put a [100/100] darkness Skeleton resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Skeleton",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "SDAO1-028",
+    "card_name": "Melgis",
+    "set": "SDAO1",
+    "ability_text": "Whenever a fire regalia enters the field under your control ⇒ Choose one, if the regalia is \"Laevateinn\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or this card deals 500 damage to target player or J/resonator; or put a [700/100] fire Warrior resonator token with [Swiftness] into the field. At the end of turn ⇒ Its controller banishes it; or you may pay {0} to do judgment until end of turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[700/100]",
+        "attribute": "fire",
+        "race": "Warrior",
+        "type": "resonator token",
+        "effect": "[Swiftness]"
+      }
+    ]
+  },
+  {
+    "card_id": "SDAO2-028",
+    "card_name": "Pricia",
+    "set": "SDAO2",
+    "ability_text": "Whenever a wind regalia enters the field under your control ⇒ Choose one, if the regalia is \"Claw of the Sacred Beast\", choose up to two instead -  Choose a card from your Stranger deck at random and put it into your hand; or put a [600/600] wind Beast resonator token into the field; or put two friendship counters on this card; or you may pay {0} to do judgment until end of turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "wind",
+        "race": "Beast",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "AO2-020",
+    "card_name": "Twin Robots",
+    "set": "AO2",
+    "ability_text": "[Enter] ⇒ Put a [200/200] water Machine resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "water",
+        "race": "Machine",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "AO2-047",
+    "card_name": "Mariabella's Recycling Robot",
+    "set": "AO2",
+    "ability_text": "[Enter] ⇒ Draw two cards, then discard two cards. Put a [200/200] water Machine resonator token into the field for each Machine discarded this way. If this card was awakened, draw two cards.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "water",
+        "race": "Machine",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "AO2-052",
+    "card_name": "Super Beast Burning Rush!",
+    "set": "AO2",
+    "ability_text": "This card deals 500 damage to your opponent; or put a [600/600] wind Beast resonator token into the field. It gains [Swiftness] until end of turn; or recover up to two magic stones you control; or choose a card from your Stranger deck at random and put it into your hand.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "wind",
+        "race": "Beast",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "AO3-022",
+    "card_name": "Reflect's Summoning",
+    "set": "AO3",
+    "ability_text": "Put a [800/400] fire Beast resonator token with \" [Enter] ⇒ This card deals damage equal to its ATK to target resonator. Then, if you have [Passion], invert your ruler.\" into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[800/400]",
+        "attribute": "fire",
+        "race": "Beast",
+        "type": "resonator token",
+        "effect": "\" [Enter] ⇒ This card deals damage equal to its ATK to target resonator. Then, if you have [Passion], invert your ruler.\""
+      }
+    ]
+  },
+  {
+    "card_id": "AO3-031",
+    "card_name": "Refrain's Summoning",
+    "set": "AO3",
+    "ability_text": "Put a [400/800] water Beast resonator token with \" [Enter] ⇒ Draw three cards and put two card from your hand on top of your deck in any order. Then, if you have [Calmness], invert your ruler.\" into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/800]",
+        "attribute": "water",
+        "race": "Beast",
+        "type": "resonator token",
+        "effect": "\" [Enter] ⇒ Draw three cards and put two card from your hand on top of your deck in any order. Then, if you have [Calmness], invert your ruler.\""
+      }
+    ]
+  },
+  {
+    "card_id": "AO3-058",
+    "card_name": "Awakening of the Undead Lord",
+    "set": "AO3",
+    "ability_text": "Choose one - This card deals 400 damage to each resonator. You gain life equal to the amount of damage dealt by this card; or banish any number of resonators. Draw that many cards; or put a [X00/X00] darkness Zombie resonator token into the field, where X is the number of cards in your graveyard.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[X00/X00]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "EDL-012",
+    "card_name": "Silmeria, Summoner of Spirits",
+    "set": "EDL",
+    "ability_text": "{Rest}, remove X [+100/+100] counters from this card: Put a [0/0] light Spirit resonator token with [Flying] and X [+100/+100] counters on it into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[0/0]",
+        "attribute": "light",
+        "race": "Spirit",
+        "type": "resonator token",
+        "effect": "[Flying] and X [+100/+100] counters on it"
+      }
+    ]
+  },
+  {
+    "card_id": "EDL-066",
+    "card_name": "Monstrous Rush",
+    "set": "EDL",
+    "ability_text": "If this is the first chant you played this turn, put a [700/700] wind Beast resonator token with [Pierce] into the field. If this is the second chant you played this turn,put a [1000/1000] wind Beast resonator token with [Swiftness] into the field. If this is the third chant you played this turn, put a [1200/1200] wind Beast resonator token with [Pierce] into the field. If this is the fourth or subsequent chant you played this turn, put all three of thos tokens into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[700/700]",
+        "attribute": "wind",
+        "race": "Beast",
+        "type": "resonator token",
+        "effect": "[Pierce]"
+      },
+      {
+        "quantity": "a",
+        "statline": "[1000/1000]",
+        "attribute": "wind",
+        "race": "Beast",
+        "type": "resonator token",
+        "effect": "[Swiftness]"
+      },
+      {
+        "quantity": "a",
+        "statline": "[1200/1200]",
+        "attribute": "wind",
+        "race": "Beast",
+        "type": "resonator token",
+        "effect": "[Pierce]"
+      }
+    ]
+  },
+  {
+    "card_id": "EDL-081",
+    "card_name": "Frightened Villager",
+    "set": "EDL",
+    "ability_text": "When this card is put into a graveyard from the field ⇒ Put a [400/400] darkness Zombie resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "EDL-083",
+    "card_name": "Interdimensional Graveyard",
+    "set": "EDL",
+    "ability_text": "At end of turn ⇒ Remove target resonator in a graveyard from the game. Put a [400/400] darkness Zombie resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "EDL-086",
+    "card_name": "Lord of the Undead",
+    "set": "EDL",
+    "ability_text": "[Revenge] (If an entity you controlled was put into a graveyard from the field this turn, this card gains the following abilities until end of turn.) - [Enter] ⇒ Put a [400/400] darkness Zombie resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ADW-034",
+    "card_name": "Fish Drive",
+    "set": "ADW",
+    "ability_text": "- Put a [600/600] water Fish resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "water",
+        "race": "Fish",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ADW-079",
+    "card_name": "Call from the Depths",
+    "set": "ADW",
+    "ability_text": "- Put a [1000/1000] water/darkness Fish resonator token with [Bane] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[1000/1000]",
+        "attribute": "water/darkness",
+        "race": "Fish",
+        "type": "resonator token",
+        "effect": "[Bane]"
+      }
+    ]
+  },
+  {
+    "card_id": "TST-002",
+    "card_name": "Belial's Hymn",
+    "set": "TST",
+    "ability_text": "Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field. Then resonator tokens you control gain [+400/+400] until end of turn. Draw a card.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TST-003",
+    "card_name": "Belial's Messenger",
+    "set": "TST",
+    "ability_text": "[Enter] >>> If your life is 2000 or less, put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TST-005",
+    "card_name": "Choir of Fallen Angels",
+    "set": "TST",
+    "ability_text": "Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field. If this card was played from a graveyard, put two into the field instead.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TST-009",
+    "card_name": "Prideful Rule",
+    "set": "TST",
+    "ability_text": "Destroy target non-magic stone entity. Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TST-057",
+    "card_name": "Graveyard Keeper of the Demonic World",
+    "set": "TST",
+    "ability_text": "Whenever one or more [+100/+100] counters are put on this card >>> You gain life equal to its DEF. Put a [400/400] darkness Zombie resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "TST-065",
+    "card_name": "Angel of False Glory",
+    "set": "TST",
+    "ability_text": "[Enter] >>> Destroy up to one target addition, up to one target resonator and up to one target regalia. Put a [400/400] light Angel resonator token with [Flying] into the field for each card destroyed this way.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TST-079",
+    "card_name": "Castle of Belial",
+    "set": "TST",
+    "ability_text": "{Rest}: Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TST-082",
+    "card_name": "Fallen Angel of the Mark",
+    "set": "TST",
+    "ability_text": "{W}{B}{1}: Destroy target resonator. Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TST-094",
+    "card_name": "Satan",
+    "set": "TST",
+    "ability_text": "God's Art \"Trinity\" {0}: Non-magic stone entities your opponent controls lose all abilities until end of turn. Destroy all non-magic stone entities. All players discard their hand. Remove all cards in all graveyards from the game. Then put a [4000/4000] darkness High God resonator token with [Eternal], [Barrier] and \"When this card leaves the field >>> You lose the game.\" into the field. Play this ability only during your turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[4000/4000]",
+        "attribute": "darkness",
+        "race": "High God",
+        "type": "resonator token",
+        "effect": "[Eternal], [Barrier] and \"When this card leaves the field >>> You lose the game.\""
+      }
+    ]
+  },
+  {
+    "card_id": "GOG-027",
+    "card_name": "Rebirth of Flaming Disaster",
+    "set": "GOG",
+    "ability_text": "Destroy target J-ruler you control. Put a [400/400] fire Cthulhu resonator token with [Swiftness] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "fire",
+        "race": "Cthulhu",
+        "type": "resonator token",
+        "effect": "[Swiftness]"
+      }
+    ]
+  },
+  {
+    "card_id": "GRL-012",
+    "card_name": "Phantom Beastmaster of Ma'at",
+    "set": "GRL",
+    "ability_text": "[Enter] >>> Put a [400/400] light Phantom Beast resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Phantom Beast",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRL-037",
+    "card_name": "Titor's Gimmick",
+    "set": "GRL",
+    "ability_text": "{Rest}: Put the top two cards of your deck into your graveyard. For each Machine resonator put into your graveyard this way, put a [200/200] water Machine resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "water",
+        "race": "Machine",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-004",
+    "card_name": "The Essence of Alice's Power",
+    "set": "GRV",
+    "ability_text": "Put a [600/600] light Angel resonator token with [Flying] into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "light",
+        "race": "Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-005",
+    "card_name": "The Essence of Odin's Power",
+    "set": "GRV",
+    "ability_text": "Put a [600/600] light Valkyrie resonator token with [Flying] into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "light",
+        "race": "Valkyrie",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-022",
+    "card_name": "The Essence of Dragon Flame's Power",
+    "set": "GRV",
+    "ability_text": "Put a [600/600] fire Dragon resonator token with [Flying] into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "fire",
+        "race": "Dragon",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-023",
+    "card_name": "The Essence of Nyarlathotep's Power",
+    "set": "GRV",
+    "ability_text": "Put a [600/200] fire Cthulhu resonator token with [Swiftness] into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/200]",
+        "attribute": "fire",
+        "race": "Cthulhu",
+        "type": "resonator token",
+        "effect": "[Swiftness]"
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-034",
+    "card_name": "The Essence of Deus Ex Machina's Power",
+    "set": "GRV",
+    "ability_text": "Put a [400/400] water Machine resonator token into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "water",
+        "race": "Machine",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-035",
+    "card_name": "The Essence of Loki's Power",
+    "set": "GRV",
+    "ability_text": "Put a [600/600] water Beast resonator token into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "water",
+        "race": "Beast",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-044",
+    "card_name": "The Essence of Kaguya's Power",
+    "set": "GRV",
+    "ability_text": "Put a [400/400] wind Cat resonator token into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "wind",
+        "race": "Cat",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-045",
+    "card_name": "The Essence of Shiva's Power",
+    "set": "GRV",
+    "ability_text": "Put a [500/500] wind Mimi Tribe resonator token into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[500/500]",
+        "attribute": "wind",
+        "race": "Mimi Tribe",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-048",
+    "card_name": "Arena Expansion: Mount Othrys",
+    "set": "GRV",
+    "ability_text": "Whenever a non-token Machine resonator you control is put into a graveyard from the field >>> Put a [400/400] darkness Machine resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Machine",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-055",
+    "card_name": "Mechanized Children of Chronos",
+    "set": "GRV",
+    "ability_text": "When this card becomes revealed from outside the game >>> Put a [400/400] darkness Machine resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Machine",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-056",
+    "card_name": "Mechanized Children of Gaia",
+    "set": "GRV",
+    "ability_text": "When this card becomes revealed from outside the game >>> Put a [400/400] darkness Machine resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Machine",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-062",
+    "card_name": "The Essence of Athenia's Power",
+    "set": "GRV",
+    "ability_text": "Put a [400/400] darkness Zombie resonator token into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "GRV-063",
+    "card_name": "The Essence of Dante's Power",
+    "set": "GRV",
+    "ability_text": "Put a [600/600] darkness Fallen Angel resonator token with [Flying] into the field. If you ordered this card, put that token into the field ordered instead. At the next end of turn >>> Put the order card ordering that token into your ruler area as a ruler.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/600]",
+        "attribute": "darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "HSD-013",
+    "card_name": "Deathspeaker Monk",
+    "set": "HSD",
+    "ability_text": "[Enter] >>> Put target resonator from your graveyard into your hand, then remove another target resonator in your graveyard from the game. Put a [800/800] darkness Hero resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[800/800]",
+        "attribute": "darkness",
+        "race": "Hero",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "NWE-034",
+    "card_name": "Deathspeaker Monk",
+    "set": "NWE",
+    "ability_text": "[Enter] >>> Put target resonator from your graveyard into your hand, then remove another target resonator in your graveyard from the game. Put a [800/800] darkness Hero resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[800/800]",
+        "attribute": "darkness",
+        "race": "Hero",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "NWE-054",
+    "card_name": "Hero Reincarnation",
+    "set": "NWE",
+    "ability_text": "- Put a [800/800] darkness Hero resonator token into the field. Put the top three cards of your deck into your graveyard.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[800/800]",
+        "attribute": "darkness",
+        "race": "Hero",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "NWE-100",
+    "card_name": "Typhon, Asteroid Cluster",
+    "set": "NWE",
+    "ability_text": "- Put a [400/400] Gears resonator token with no attribute into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "Gears",
+        "race": "",
+        "type": "resonator token",
+        "effect": "no attribute"
+      }
+    ]
+  },
+  {
+    "card_id": "TWS-025",
+    "card_name": "Flighter of the Underground Fighting Arena",
+    "set": "TWS",
+    "ability_text": "{R}, reveal this card from your hand: Put a [400/400] fire Human resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "fire",
+        "race": "Human",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "CST-002",
+    "card_name": "Dominatus, Star Gladius",
+    "set": "CST",
+    "ability_text": "[Enter] >>> Draw a card. Put a [400/400] light Fairy resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "CST-002J",
+    "card_name": "Tina, Virtuous Stella",
+    "set": "CST",
+    "ability_text": "Whenever you play a Virtuous Skill spell >>> Put a [400/400] light Fairy resonator token with [Flying] into the field. Put two [+100/+100] counters on each J/resonator you control.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "CST-006",
+    "card_name": "Girl's Staring at...",
+    "set": "CST",
+    "ability_text": "When this card is put into your graveyard from your hand by an effect your opponent controls or is put into your graveyard from your deck >>> Put a [400/400] light Fairy resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "CST-010",
+    "card_name": "White Fairy Flower",
+    "set": "CST",
+    "ability_text": "[Enter] >>> Put a [400/400] light Fairy resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "CST-011",
+    "card_name": "Fairy Twins",
+    "set": "CST",
+    "ability_text": "[Enter] >>> Put a [400/400] light Fairy resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "CST-050",
+    "card_name": "Ki Lua, Shooting Star of Wind",
+    "set": "CST",
+    "ability_text": "{G}{5}: Put a [2000/2000] wind Dinosaur resonator token into the field. You pay {1} less to play this ability for each different magic stone type among basic magic stones you control.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[2000/2000]",
+        "attribute": "wind",
+        "race": "Dinosaur",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "CST-059J",
+    "card_name": "Stein, Deathly Star",
+    "set": "CST",
+    "ability_text": "Whenever you play a Deathly Skill spell >>> Put a [400/400] darkness Ethereal resonator token into the field. It gains \"At the next end of turn >>> This card's controller banishes it.\".",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Ethereal",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "CST-064",
+    "card_name": "Reinhardt, Shooting Star of Darkness",
+    "set": "CST",
+    "ability_text": "[Enter] >>> Banish any number of resonators other than this card. Put a [X/Y] darkness Ethereal resonator token into the field, where X is the total ATK of the resonators banished this way and Y is their total DEF. It gains [Swiftness] until end of turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[X/Y]",
+        "attribute": "darkness",
+        "race": "Ethereal",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "CST-066",
+    "card_name": "Purun, Fairy of Possessing Darkness",
+    "set": "CST",
+    "ability_text": "{Rest}: Put a [400/400] darkness Ethereal resonator token into the field. It gains \"At the next end of turn >>> This card's controller banishes it.\".",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Ethereal",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "CST-069",
+    "card_name": "Malefic Tree Necromancer",
+    "set": "CST",
+    "ability_text": "Remove two cards in your graveyard from the game: Put a [400/400] darkness Ethereal resonator token into the field. It gains \"At the next end of turn >>> This card's controller banishes it.\". Play this ability only once per turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Ethereal",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "CST-077",
+    "card_name": "King's Hopeful Gleam",
+    "set": "CST",
+    "ability_text": "Put a [1000/1000] light/fire/water/wind/darkness Avatar resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[1000/1000]",
+        "attribute": "light/fire/water/wind/darkness",
+        "race": "Avatar",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "CST-080",
+    "card_name": "Light of the World Tree",
+    "set": "CST",
+    "ability_text": "You may reveal a Seven Kings ruler you own from outside the game that does not share a name with other Seven Kings rulers you own revealed outside the game and keep it revealed until end of game. Put a [400/400] light Fairy resonator token with [Flying] into the field. If three or more Seven Kings rulers you own are revealed outside the game, put three [400/400] light Fairy resonator tokens with [Flying] into the field instead.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "JRP-005",
+    "card_name": "Dominatus, Solarised Gladius",
+    "set": "JRP",
+    "ability_text": "[Enter] >>> Draw a card. Put a [400/400] light Fairy/Gears resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy/Gears",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "JRP-006",
+    "card_name": "Dominatus Chronogear",
+    "set": "JRP",
+    "ability_text": "[Inheritance] {W}: Put a [400/400] light Fairy, Gears resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy, Gears",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "JRP-045",
+    "card_name": "Tigre Plateado Chronogear",
+    "set": "JRP",
+    "ability_text": "[Inheritance] {G}: Put a [500/500] wind Beast, Gears resonator token into the field. It gains \"This card has the magic stone type wind magic stone.\" until end of game.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[500/500]",
+        "attribute": "wind",
+        "race": "Beast, Gears",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "JRP-089",
+    "card_name": "Ark's Gearsatellite",
+    "set": "JRP",
+    "ability_text": "{Rest}, remove this card from the game: Remove the top card of your magic stone deck from the game. Put a [200/200] Gears resonator token with no attribute into the field. It gains \"Banish this card: Remove the top card of your deck from the game.\" until end of game. Play this ability only if you control a Gears J/ruler with \"Ark\" in its name.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "Gears",
+        "race": "",
+        "type": "resonator token",
+        "effect": "no attribute"
+      }
+    ]
+  },
+  {
+    "card_id": "JRP-102",
+    "card_name": "Song of Eternal Serenity",
+    "set": "JRP",
+    "ability_text": "Whenever you play a Music chant >>> Put a [X00/X00] water Human resonator token into the field, where X is four. This ability triggers only if the combined number of instances of «Melody» that J/rulers you control have is two or more.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[X00/X00]",
+        "attribute": "water",
+        "race": "Human",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "JRP-106",
+    "card_name": "Imitation: Adam",
+    "set": "JRP",
+    "ability_text": "God's Art \"The Gears\" {0}: Shuffle all non-magic stone cards with one or more attributes in all graveyards and all removed areas into their owner's deck. Put up to three non-magic stone, non-J/ruler cards from your removed area into your hand. Put a [2000/2000] Gears J-ruler token with no attribute into the field. It gains \"J-rulers you control gain [Eternal] and [Barrier].\" and \"If you control a J-ruler named \"Genocider\", a J-ruler named \"Prisoner\" and a J-ruler named \"Queen\", you win the game.\" until end of game. Players cannot chase to this ability. Play this ability only during your turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[2000/2000]",
+        "attribute": "Gears",
+        "race": "J-ruler",
+        "type": "token",
+        "effect": "no attribute"
+      }
+    ]
+  },
+  {
+    "card_id": "MP01-031",
+    "card_name": "Fate of the Girl",
+    "set": "MP01",
+    "ability_text": "- One or more - Put a [100/100] fire Human, Ghost resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "fire",
+        "race": "Human, Ghost",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP01-032",
+    "card_name": "Ghost of Orleans",
+    "set": "MP01",
+    "ability_text": "Remove a Human resonator in your graveyard from the game: Put a [100/100] fire Human, Ghost resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "fire",
+        "race": "Human, Ghost",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP01-033",
+    "card_name": "Executioner of Orleans",
+    "set": "MP01",
+    "ability_text": "Whenever this card destroys a resonator >>> Put a [100/100] fire Human, Ghost resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "fire",
+        "race": "Human, Ghost",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP01-129",
+    "card_name": "Defiled Scripture",
+    "set": "MP01",
+    "ability_text": "{Rest}: Reveal a Cthulhu with [Incarnation] from your hand or choose a Cthulhu with [Incarnation] from your graveyard. Put it on the bottom of your deck, then put a [100/100] light/fire/water/wind/darkness Cthulhu, Familiar token for each will symbol in its attribute cost into the field rested. They gain \"At the next end of turn >>> This card's controller banishes it.\". Play this ability only during main timing.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "light/fire/water/wind/darkness",
+        "race": "Cthulhu, Familiar token for each will symbol in its attribute cost",
+        "type": "token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP01-136",
+    "card_name": "Return of the Guardian",
+    "set": "MP01",
+    "ability_text": "- {1}, discard a card: Put a [400/400] light Fairy resonator token with [Flying] into the field. Play this ability only during main timing and only once per turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TSR-011",
+    "card_name": "Om So Hum",
+    "set": "TSR",
+    "ability_text": "If the combined number of instances of «Mantra» J/rulers you control have is 1, J/rulers with \"Mi Sung\" in their name gain one instance of «Mantra» until end of game, then put a [400/400] light Monk, Taoist resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Monk, Taoist",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "TSR-063",
+    "card_name": "Aideen, the Fighting Doctor",
+    "set": "TSR",
+    "ability_text": "Whenever you play a chant with [Torrent] >>> Put a [0/100] darkness Automaton resonator token with \"Banish this card: Each player gains 100 life.\" into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[0/100]",
+        "attribute": "darkness",
+        "race": "Automaton",
+        "type": "resonator token",
+        "effect": "\"Banish this card: Each player gains 100 life.\""
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-004",
+    "card_name": "Lunar C-38, Cruiser Tank",
+    "set": "TEU",
+    "ability_text": "Whenever this card attacks >>> Remove all non-Military resonators your opponent controls with [Eternal] and/or [Barrier] from the game. Put a [400/400] light Military resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Military",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-020",
+    "card_name": "Claimed by the Depths",
+    "set": "TEU",
+    "ability_text": "- {B}, expel this card from your graveyard: Put a [1000/1000] water/darkness Sea Monster resonator token with [Terrifying], [Pierce] and [Barrier] into the field. Play this ability only if this card is in your graveyard.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[1000/1000]",
+        "attribute": "water/darkness",
+        "race": "Sea Monster",
+        "type": "resonator token",
+        "effect": "[Terrifying], [Pierce] and [Barrier]"
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-035",
+    "card_name": "Unfavorable Winds",
+    "set": "TEU",
+    "ability_text": "Destroy up to one target J-ruler you control. Destroy target addition or regalia, then put a [200/200] wind Spirit, Woodfolk resonator token into the field. If you control two wind Spirit, Woodfolk resonator tokens, you may banish all of them. If you do, draw two cards.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "wind",
+        "race": "Spirit, Woodfolk",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-037",
+    "card_name": "Dusk Knight's Brigade",
+    "set": "TEU",
+    "ability_text": "- At end of turn >>> If this card is awakened, perform the following effect two times. Otherwise, perform the following effect one time - Put a [400/400] darkness Military, Spirit resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Military, Spirit",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-054",
+    "card_name": "Accursed Touch of Moon Butterflies",
+    "set": "TEU",
+    "ability_text": "God's Art \"Flapping of the Butterflies\" {G}, reveal this card from your hand. Put this card from your hand into the field. It gains [Barrier] until end of turn. Put a [100/100] wind/darkness Bug resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind/darkness",
+        "race": "Bug",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-069",
+    "card_name": "Lunar Throne of the Light Palace",
+    "set": "TEU",
+    "ability_text": "- Put a [400/400] light Military resonator token with [First Strike] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Military",
+        "type": "resonator token",
+        "effect": "[First Strike]"
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-070J",
+    "card_name": "Lyka, Tigermorphed",
+    "set": "TEU",
+    "ability_text": "Whenever this card deals battle damage to a player >>> Put a [100/200] light/fire Cat resonator token with [Multi Strike] and [Barrier] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/200]",
+        "attribute": "light/fire",
+        "race": "Cat",
+        "type": "resonator token",
+        "effect": "[Multi Strike] and [Barrier]"
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-074",
+    "card_name": "Phasmophobia",
+    "set": "TEU",
+    "ability_text": "Whenever you play a chant spell >>> If you don't own this card, put a [400/400] light Spirit resonator token into the field under your opponent's control.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Spirit",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-075",
+    "card_name": "Queen's Alabaster, Flying Bastion",
+    "set": "TEU",
+    "ability_text": "- Imperial General - {W}{B}{1}: Recover all Military J/resonators you control. Put a [400/400] light Military resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Military",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-079",
+    "card_name": "Scybdis, Terrors from the Depths",
+    "set": "TEU",
+    "ability_text": "At end of turn >>> Put a [500/500] water/darkness Sea Monster, Spirit resonator token with [Terrifying] and [Pierce] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[500/500]",
+        "attribute": "water/darkness",
+        "race": "Sea Monster, Spirit",
+        "type": "resonator token",
+        "effect": "[Terrifying] and [Pierce]"
+      }
+    ]
+  },
+  {
+    "card_id": "TEU-089",
+    "card_name": "Woewillow, Shepherd of Saplings",
+    "set": "TEU",
+    "ability_text": "Whenever an opponent plays a spell during a phase other than their main phase or when this card leaves the field >>> Put a [200/200] wind Spirit, Woodfolk resonator token with \"This card gains [+X00/+X00], where X is the number of J/resonators you control multiplied by two.\" into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "wind",
+        "race": "Spirit, Woodfolk",
+        "type": "resonator token",
+        "effect": "\"This card gains [+X00/+X00], where X is the number of J/resonators you control multiplied by two.\""
+      }
+    ]
+  },
+  {
+    "card_id": "TOP-063",
+    "card_name": "Bioluminiscent Broodmother",
+    "set": "TOP",
+    "ability_text": "- <Egg Hatching> {U}, expel a card in your hand: Rest target resonator. It doesn't recover during its controller's next recovery phase. Put a [200/200] water/darkness Sea Monster resonator token with [Barrier] into the field. Play this ability only during your turn and only one <Egg Hatching> ability per turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "water/darkness",
+        "race": "Sea Monster",
+        "type": "resonator token",
+        "effect": "[Barrier]"
+      }
+    ]
+  },
+  {
+    "card_id": "TOP-079",
+    "card_name": "Hunter of the Maws",
+    "set": "TOP",
+    "ability_text": "- [Enter] >>> Reveal the top three cards of your deck. You may put an addition, a chant, or a regalia from among them into your hand. If no cards were moved this way and you have achieved [Depths], put a [900/900] water/darkness Sea Monster resonator token with [Barrier] into the field. Expel the rest.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[900/900]",
+        "attribute": "water/darkness",
+        "race": "Sea Monster",
+        "type": "resonator token",
+        "effect": "[Barrier]"
+      }
+    ]
+  },
+  {
+    "card_id": "TOP-092",
+    "card_name": "Sinister Assimilation",
+    "set": "TOP",
+    "ability_text": "Put the top two cards of your deck into your graveyard. Put a [200/200] wind Woodfolk resonator token into the field. If you paid {G}{B} to play this card, put a wind/darkness card from your graveyard into your hand.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "wind",
+        "race": "Woodfolk",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-WD-015",
+    "card_name": "Castle of Belial",
+    "set": "ABC",
+    "ability_text": "{Rest}: Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-WD-016",
+    "card_name": "Choir of Fallen Angels",
+    "set": "ABC",
+    "ability_text": "Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field. If this card was played from a graveyard, put two into the field instead.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-RD-036",
+    "card_name": "Interdimensional Graveyard",
+    "set": "ABC",
+    "ability_text": "At end of turn >>> Remove target resonator in a graveyard from the game. Put a [400/400] darkness Zombie resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD01-038",
+    "card_name": "King's Hopeful Gleam",
+    "set": "ABC",
+    "ability_text": "- Put a [1000/1000] light/fire/water/wind/darkness Avatar resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[1000/1000]",
+        "attribute": "light/fire/water/wind/darkness",
+        "race": "Avatar",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD03-020",
+    "card_name": "Girl's Staring at...",
+    "set": "ABC",
+    "ability_text": "When this card is put into your graveyard from your hand by an effect your opponent controls or is put into your graveyard from your deck >>> Put a [400/400] light Fairy resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Fairy",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD03-036",
+    "card_name": "Quercus, the Living Oak",
+    "set": "ABC",
+    "ability_text": "- At end of turn >>> Put a [200/200] wind Spirit, Woodfolk resonator token with [Barrier] (Non-fire spells and non-fire abilities) into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "wind",
+        "race": "Spirit, Woodfolk",
+        "type": "resonator token",
+        "effect": "[Barrier] (Non-fire spells and non-fire abilities)"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD03-040",
+    "card_name": "Silmeria, Summoner of Spirits",
+    "set": "ABC",
+    "ability_text": "{Rest}, remove X [+100/+100] counters from this card: Put a [0/0] light Spirit resonator token with [Flying] and with X [+100/+100] counters on it into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[0/0]",
+        "attribute": "light",
+        "race": "Spirit",
+        "type": "resonator token",
+        "effect": "[Flying] and with X [+100/+100] counters on it"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD04-005",
+    "card_name": "Angel of False Glory",
+    "set": "ABC",
+    "ability_text": "[Enter] >>> Destroy up to one target addition, up to one target resonator and up to one target regalia. Put a [400/400] light Angel resonator token with [Flying] into the field for each entity destroyed this way.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD04-012",
+    "card_name": "Castle of Belial",
+    "set": "ABC",
+    "ability_text": "{Rest}: Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD04-015",
+    "card_name": "Choir of Fallen Angels",
+    "set": "ABC",
+    "ability_text": "Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field. If this card was played from a graveyard, put two into the field instead.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD04-019",
+    "card_name": "Doubt, Priest of the Dark Truths",
+    "set": "ABC",
+    "ability_text": "- At end of turn >>> Draw a card. You lose 300 life. Put a [100/100] darkness Skeleton resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Skeleton",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD04-037",
+    "card_name": "Prideful Rule",
+    "set": "ABC",
+    "ability_text": "Destroy target non-magic stone entity. Put a [400/400] light/darkness Fallen Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light/darkness",
+        "race": "Fallen Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD06-015",
+    "card_name": "Divine Beast of Re-Earth",
+    "set": "ABC",
+    "ability_text": "- Peaceful - Perform the following effect Y times, where Y is the number of players that chose Peaceful - Put a [200/300] fire/wind Divine Beast, Spirit resonator token with [Multi Strike] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/300]",
+        "attribute": "fire/wind",
+        "race": "Divine Beast, Spirit",
+        "type": "resonator token",
+        "effect": "[Multi Strike]"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD06-034",
+    "card_name": "Ki Lua, Shooting Star of Wind",
+    "set": "ABC",
+    "ability_text": "{G}{5}: Put a [2000/2000] wind Dinosaur resonator token into the field. You pay {1} less to play this ability for each different magic stone type among basic magic stones you control.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[2000/2000]",
+        "attribute": "wind",
+        "race": "Dinosaur",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD07-025",
+    "card_name": "Hero Reincarnation",
+    "set": "ABC",
+    "ability_text": "- Put a [800/800] darkness Hero resonator token into the field. Put the top three cards of your deck into your graveyard.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[800/800]",
+        "attribute": "darkness",
+        "race": "Hero",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD07-027",
+    "card_name": "Interdimensional Graveyard",
+    "set": "ABC",
+    "ability_text": "At end of turn >>> Remove target resonator in a graveyard from the game. If you do, put a [400/400] darkness Zombie resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD08-044",
+    "card_name": "Quercus, the Living Oak",
+    "set": "ABC",
+    "ability_text": "- At end of turn >>> Put a [200/200] wind Spirit, Woodfolk resonator token with [Barrier] (Non-fire spells and non-fire abilities) into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "wind",
+        "race": "Spirit, Woodfolk",
+        "type": "resonator token",
+        "effect": "[Barrier] (Non-fire spells and non-fire abilities)"
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD09-007",
+    "card_name": "Arena Expansion: Mount Othrys",
+    "set": "ABC",
+    "ability_text": "Whenever a non-token Machine resonator you control is put into a graveyard from the field >>> Put a [400/400] darkness Machine resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Machine",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD10-007",
+    "card_name": "Awakening of the Undead Lord",
+    "set": "ABC",
+    "ability_text": "- Put a [X00/X00] darkness Zombie resonator token into the field, where X is the number of cards in your graveyard.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[X00/X00]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD10-015",
+    "card_name": "Doubt, Priest of the Dark Truths",
+    "set": "ABC",
+    "ability_text": "- At end of turn >>> Draw a card. You lose 300 life. Put a [100/100] darkness Skeleton resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Skeleton",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD10-032",
+    "card_name": "Lord of the Undead",
+    "set": "ABC",
+    "ability_text": "- [Enter] >>> Put a [400/400] darkness Zombie resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD10-038",
+    "card_name": "Orpheus, the Immortal Player",
+    "set": "ABC",
+    "ability_text": "{B}, remove a resonator in your graveyard from the game: Put a [200/200] darkness Zombie resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "darkness",
+        "race": "Zombie",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD10-043",
+    "card_name": "Reinhardt, Shooting Star of Darkness",
+    "set": "ABC",
+    "ability_text": "[Enter] >>> Banish any number of resonators other than this card. Put a [X/Y] darkness Ethereal resonator token into the field, where X is the total ATK of the resonators banished this way and Y is their total DEF. It gains [Swiftness] until end of turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[X/Y]",
+        "attribute": "darkness",
+        "race": "Ethereal",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ABC-SD10-050",
+    "card_name": "Skeleton Horde",
+    "set": "ABC",
+    "ability_text": "When this card is put into a graveyard from the field >>> Put a [100/100] darkness Skeleton resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Skeleton",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-019",
+    "card_name": "Fiethsing, Six Sage of Wind",
+    "set": "MP02",
+    "ability_text": "When you play your second spell this turn >>> Put a [100/100] wind Elf resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Elf",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-020*",
+    "card_name": "Tama, the Wind made Cat",
+    "set": "MP02",
+    "ability_text": "Whenever an Elf resonator token enters the field >>> Put a [100/100] wind Elf resonator token into the field. This ability triggers only once per turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Elf",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-084",
+    "card_name": "The Locked Glass Tomb",
+    "set": "MP02",
+    "ability_text": "- <Emperor's Shadow> At the end of your turn >>> Put a [200/200] darkness Dragonoid, Shadow resonator token into the field. Each turn, only one <Emperor's Shadow> ability triggers per player and only if this card is in your graveyard.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "darkness",
+        "race": "Dragonoid, Shadow",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-092",
+    "card_name": "Uranus, Arcanist of the Freedom Star",
+    "set": "MP02",
+    "ability_text": "[Enter] >>> Put a [100/100] fire Seven Luminaries Demon resonator token into the field. If you control a water Seven Luminaries Demon entity, draw a card.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "fire",
+        "race": "Seven Luminaries Demon",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-093",
+    "card_name": "Neptune, Illusionist of the Dream Star",
+    "set": "MP02",
+    "ability_text": "[Enter] >>> Put a [100/100] water Seven Luminaries Demon resonator token into the field. If you control a fire Seven Luminaries Demon entity, draw a card.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "water",
+        "race": "Seven Luminaries Demon",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-094",
+    "card_name": "Pluto, Necromancer of the Destruction Star",
+    "set": "MP02",
+    "ability_text": "[Enter] >>> Put a [100/100] fire/water Seven Luminaries Demon resonator token into the field. Draw a card.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "fire/water",
+        "race": "Seven Luminaries Demon",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-098",
+    "card_name": "Conjure Time Bomb",
+    "set": "MP02",
+    "ability_text": "Put a [100/100] fire Bomb resonator token into the field with \"At the beginning of your turn >>> Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator they control.\". If this card was awakened, that resonator token gains \"At end of turn >>> Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator they control.\" until end of game.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "fire",
+        "race": "Bomb",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-122",
+    "card_name": "The Empty Throne of Millennia",
+    "set": "MP02",
+    "ability_text": "This card gains \"Treasury Item spells you control cannot be targeted.\" and \"[Enter] or when this card becomes rested >>> Put a [400/400] water Rabbit resonator token into the field.\" as long as this card is not added to a card.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "water",
+        "race": "Rabbit",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-130",
+    "card_name": "Muul, the Town That Never Was",
+    "set": "MP02",
+    "ability_text": "{U}{B}, remove a resonator card in your graveyard from the game: Put a [400/400] water/darkness Fantasy resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "water/darkness",
+        "race": "Fantasy",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "MP02-135",
+    "card_name": "Valravn, Consumer of Hearts",
+    "set": "MP02",
+    "ability_text": "- Whenever a J/resonator another player controls is put into a graveyard from the field >>> Put a [400/400] darkness Knight resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "darkness",
+        "race": "Knight",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ESD1-011",
+    "card_name": "Eaten Alive",
+    "set": "ESD1",
+    "ability_text": "Look at your opponent's hand and choose a light card, a fire card, or a wind card from among them. They remove the chosen card from the game. If you paid {B}{B} to play this card, put a [600/500] darkness Demon resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[600/500]",
+        "attribute": "darkness",
+        "race": "Demon",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ESD1-012",
+    "card_name": "Glyph of Neverending Sorrow",
+    "set": "ESD1",
+    "ability_text": "<Chains of Darkness> At the beginning of your turn >>> You lose 200 life, and put a [200/200] darkness Demon resonator token into the field. It gains [+X00/+X00] until end of game. Each turn, only one <Chains of Darkness> ability triggers per player.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "darkness",
+        "race": "Demon",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ESD2-002",
+    "card_name": "Knight-Captain of Velmardia",
+    "set": "ESD2",
+    "ability_text": "- [Enter] >>> Put a [200/200] light Knight resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "light",
+        "race": "Knight",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ESD2-002",
+    "card_name": "Knight-Captain of Velmardia",
+    "set": "ESD2",
+    "ability_text": "- [Enter] >>> Put a [200/200] light Knight resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "light",
+        "race": "Knight",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ESD2-013",
+    "card_name": "Skadi, Evil-Piercer Spear",
+    "set": "ESD2",
+    "ability_text": "Whenever added resonator attacks >>> Put a [400/400] light Angel resonator token with [Flying] into the field. This ability triggers only once per turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ESD2-015",
+    "card_name": "Knight of the Setting Sun, Lionel",
+    "set": "ESD2",
+    "ability_text": "+1: Put a [200/200] light Knight resonator token into the field. You gain 300 life.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "light",
+        "race": "Knight",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-002",
+    "card_name": "Defenders of the Lower Plateau Wall",
+    "set": "DRC",
+    "ability_text": "[Enter] >>> Put a [100/300] light Knight token with [Barrier] (Total cost 1 or less) and \"{Rest}: Change the target of target spell or ability with a single target to this card.\" into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/300]",
+        "attribute": "light",
+        "race": "Knight",
+        "type": "token",
+        "effect": "[Barrier] (Total cost 1 or less) and \"{Rest}: Change the target of target spell or ability with a single target to this card.\""
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-004",
+    "card_name": "Envoy of the Goddess, Hutriel",
+    "set": "DRC",
+    "ability_text": "-1: Put a [400/400] light Knight resonator token into the field. If you control a regalia with [Bestow], put a [700/700] light Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Knight",
+        "type": "resonator token",
+        "effect": ""
+      },
+      {
+        "quantity": "a",
+        "statline": "[700/700]",
+        "attribute": "light",
+        "race": "Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-005",
+    "card_name": "Knight Blessed by the Sun",
+    "set": "DRC",
+    "ability_text": "{W}, reveal this card from your hand and keep it revealed until end of turn: Put a [200/200] light Knight resonator token into the field. You gain 200 life.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "light",
+        "race": "Knight",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-013",
+    "card_name": "Burning Book of Barust",
+    "set": "DRC",
+    "ability_text": "Whenever a magic stone leave the field >>> Put a [400/100] fire Demon resonator token with [Blood Trail] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/100]",
+        "attribute": "fire",
+        "race": "Demon",
+        "type": "resonator token",
+        "effect": "[Blood Trail]"
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-014",
+    "card_name": "Burning Damnation",
+    "set": "DRC",
+    "ability_text": "- 1 - Put a [400/100] fire Demon resonator token with [Blood Trail] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/100]",
+        "attribute": "fire",
+        "race": "Demon",
+        "type": "resonator token",
+        "effect": "[Blood Trail]"
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-026",
+    "card_name": "Euryale, Bonechilling Demoness",
+    "set": "DRC",
+    "ability_text": "Whenever this card destroys a resonator, or whenever an entity is returned to a hand >>> Put a [400/400] water Snake resonator token with [Vileborn] (2) into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "water",
+        "race": "Snake",
+        "type": "resonator token",
+        "effect": "[Vileborn] (2)"
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-036",
+    "card_name": "Belphegor's Rotten Skull's Censer",
+    "set": "DRC",
+    "ability_text": "As this card enters the field, put a [400/400] wind Fungus resonator token into the field with X [+100/+100] counters on it, then add this card to that resonator.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "wind",
+        "race": "Fungus",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-042",
+    "card_name": "Fungal Blast",
+    "set": "DRC",
+    "ability_text": "This card deals 500 damage, plus X00 damage, plus an additional X00 damage to target resonator. If you played this card paying more than two will, gain a void will coin token and put a [400/400] wind Fungus resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "wind",
+        "race": "Fungus",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-044",
+    "card_name": "Mosshadow Devourer",
+    "set": "DRC",
+    "ability_text": "- At end of turn >>> Remove target resonator card in a graveyard from the game. Put a [400/400] wind Fungus resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "wind",
+        "race": "Fungus",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-047",
+    "card_name": "Spore Cloud Glyph",
+    "set": "DRC",
+    "ability_text": "When this card leaves the field >>> Put a [400/400] wind Fungus resonator token with \"When this card leaves the field >>> Gain a void will coin token.\" into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "wind",
+        "race": "Fungus",
+        "type": "resonator token",
+        "effect": "\"When this card leaves the field >>> Gain a void will coin token.\""
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-057",
+    "card_name": "Neithardt, Guardian of Diabolos' Labyrinth",
+    "set": "DRC",
+    "ability_text": "When this card is destroyed >>> Put it from a graveyard into its owner's hand. Put a [200/200] darkness Raven resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "darkness",
+        "race": "Raven",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-088",
+    "card_name": "The Halfblood Prodigy, Nero",
+    "set": "DRC",
+    "ability_text": "<Invisible Friends> Remove X nexus counters from this card. X cannot be 0 or 1: Put a [X00/X00] dual-attribute water/wind Singularity resonator token into the field. If X is 4 and you aren't the turn player, draw a card. Play only one <Invisible Friends> ability per turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[X00/X00]",
+        "attribute": "dual-attribute",
+        "race": "water/wind Singularity",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "DRC-100",
+    "card_name": "Velmardia's Threefold Plateau",
+    "set": "DRC",
+    "ability_text": "{Rest}, {W}: Put a [400/400] light Angel resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "light",
+        "race": "Angel",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "ATD-009",
+    "card_name": "Crystal Pinnacles, Refuge of the Sidhe",
+    "set": "ATD",
+    "ability_text": "{Rest}: Put a [200/300] wind Dinosaur resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/300]",
+        "attribute": "wind",
+        "race": "Dinosaur",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "ATD-014",
+    "card_name": "Lady Ane Letoliel, Runic Knight",
+    "set": "ATD",
+    "ability_text": "Whenever another non-token Elf resonator enters the field >>> Put a [100/100] wind Elf resonator token into the field, then put two [+100/+100] counters on each Elf J/resonator you control. This ability triggers only thrice per turn.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "wind",
+        "race": "Elf",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "JRV-010",
+    "card_name": "Amon's Collar of Punishment",
+    "set": "JRV",
+    "ability_text": "When you play your second spell this turn >>> Put a [400/400] fire Demon resonator token into the field, then add this card to that resonator.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "fire",
+        "race": "Demon",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "JRV-019",
+    "card_name": "Prideful One, Amon",
+    "set": "JRV",
+    "ability_text": "+1: Put a [400/100] fire Demon resonator token with \"When this card is destroyed >>> It deals 400 damage to target player.\" into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/100]",
+        "attribute": "fire",
+        "race": "Demon",
+        "type": "resonator token",
+        "effect": "\"When this card is destroyed >>> It deals 400 damage to target player.\""
+      }
+    ]
+  },
+  {
+    "card_id": "JRV-037",
+    "card_name": "Fungibian Spawn of the Eternal Infestation",
+    "set": "JRV",
+    "ability_text": "- Put a [200/200] wind Frog, Fungus resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "wind",
+        "race": "Frog, Fungus",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "JRV-044",
+    "card_name": "Sporescourge Toad",
+    "set": "JRV",
+    "ability_text": "[Enter] >>> If you paid {G}{G} to play this card, put a [0/0] wind Ooze resonator token with four [+100/+100] counters on it into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[0/0]",
+        "attribute": "wind",
+        "race": "Ooze",
+        "type": "resonator token",
+        "effect": "four [+100/+100] counters on it"
+      }
+    ]
+  },
+  {
+    "card_id": "JRV-046",
+    "card_name": "Agares, Feeding Corps Demon",
+    "set": "JRV",
+    "ability_text": "Whenever a non-token Insect resonator you control attacks >>> Put a [100/100] darkness Insect resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Insect",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  },
+  {
+    "card_id": "JRV-055",
+    "card_name": "Scepter of the Larvae of Beelzebub",
+    "set": "JRV",
+    "ability_text": "Whenever added resonator is destroyed >>> Put a [100/100] darkness Cryptid, Insect resonator token with [Flying] and [Bane] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Cryptid, Insect",
+        "type": "resonator token",
+        "effect": "[Flying] and [Bane]"
+      }
+    ]
+  },
+  {
+    "card_id": "JRV-065",
+    "card_name": "Shamhat, Exotic Dancer of White Flame",
+    "set": "JRV",
+    "ability_text": "[Enter] or whenever this card is targeted by a regalia with [Bestow] >>> Put a [200/200] dual-attribute light/fire Flame Spirit resonator token with [Blood Trail] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[200/200]",
+        "attribute": "dual-attribute",
+        "race": "light/fire Flame Spirit",
+        "type": "resonator token",
+        "effect": "[Blood Trail]"
+      }
+    ]
+  },
+  {
+    "card_id": "JRV-079",
+    "card_name": "Kamnaka, Bloodsilk Weaver",
+    "set": "JRV",
+    "ability_text": "{R}{G}: Put a [400/400] fire Spider, Vampire resonator token into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[400/400]",
+        "attribute": "fire",
+        "race": "Spider, Vampire",
+        "type": "resonator token",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "card_id": "JRV-096",
+    "card_name": "Eternal Pact with Beelzebub",
+    "set": "JRV",
+    "ability_text": "At the end of your turn >>> Put a [100/100] darkness Insect resonator token with [Flying] into the field.",
+    "tokens": [
+      {
+        "quantity": "a",
+        "statline": "[100/100]",
+        "attribute": "darkness",
+        "race": "Insect",
+        "type": "resonator token",
+        "effect": "[Flying]"
+      }
+    ]
+  }
+]
