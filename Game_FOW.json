@@ -357,11 +357,12 @@
       "https://niebvelungen.github.io/TCG-Arena-FoW/Images/ki_lua.jpeg",
       "https://niebvelungen.github.io/TCG-Arena-FoW/Images/edl.jpeg",
       "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Long_tony.jpeg",
-      "https://niebvelungen.github.io/TCG-Arena-FoW/Images/fow_fest_2023.png"
+      "https://niebvelungen.github.io/TCG-Arena-FoW/Images/fow_fest_2023.png",
+      "https://niebvelungen.github.io/TCG-Arena-FoW/Images/force_of_will_archive.png"
     ],
     "decksUrl": "https://niebvelungen.github.io/TCG-Arena-FoW/decks.json"
   },
-  "customHelp": "The app will let you play Force of Will semi manual, cards will move to their supposed area regardless of text. Visit https://www.forceofwind.online for decklists and for the Force of Will database. Current FoW Comprehensive Rules: https://www.fowtcg.com/pdf/c.pdf",
+  "customHelp": "The app will let you play Force of Will semi manual, cards will move to their supposed area regardless of text. \nVisit https://www.forceofwind.online for decklists and for the Force of Will database. \nCurrent FoW Comprehensive Rules: https://www.fowtcg.com/pdf/c.pdf.\nDiscords: Rulerschool - https://discord.com/invite/QqVGKnRbR4 Force of Will Global - https://discord.gg/NZQqqQm \rYoutube: \rhttps://www.youtube.com/@RulerSchoolTCG \rhttps://www.youtube.com/@ForceOfWillArchive \rhttps://www.youtube.com/@ForceOfWill",
   "cards": {
     "dataUrl": "https://niebvelungen.github.io/TCG-Arena-FoW/cards_fow.json",
     "cardBack": "https://fowsim.s3.amazonaws.com/static/img/pack/card_back.fd17635728de.png"
