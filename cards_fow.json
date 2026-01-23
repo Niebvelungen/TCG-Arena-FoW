@@ -134,11 +134,11 @@
   "CMF-006": {
     "id": "CMF-006",
     "name": "Holy Grail",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Holy Grail",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-006.jpg"
@@ -158,11 +158,11 @@
   "CMF-007": {
     "id": "CMF-007",
     "name": "Jeweled Branch of Horai",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Jeweled Branch of Horai",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-007.jpg"
@@ -290,11 +290,11 @@
   "CMF-012": {
     "id": "CMF-012",
     "name": "Light Palace, the King's Castle",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Light Palace, the King's Castle",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-012.jpg"
@@ -397,11 +397,11 @@
   "CMF-016": {
     "id": "CMF-016",
     "name": "Silver Stake",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Silver Stake",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-016.jpg"
@@ -501,11 +501,11 @@
   "CMF-020": {
     "id": "CMF-020",
     "name": "Basket of Little Red",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Basket of Little Red",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-020.jpg"
@@ -525,11 +525,11 @@
   "CMF-021": {
     "id": "CMF-021",
     "name": "Bloody Moon",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Bloody Moon",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-021.jpg"
@@ -848,11 +848,11 @@
   "CMF-033": {
     "id": "CMF-033",
     "name": "Red Hot Iron Shoes",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Red Hot Iron Shoes",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-033.jpg"
@@ -872,11 +872,11 @@
   "CMF-034": {
     "id": "CMF-034",
     "name": "Robe of Fire-Rat",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Robe of Fire-Rat",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-034.jpg"
@@ -1143,11 +1143,11 @@
   "CMF-044": {
     "id": "CMF-044",
     "name": "Heavenly Feathered Robe",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Heavenly Feathered Robe",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-044.jpg"
@@ -1278,11 +1278,11 @@
   "CMF-049": {
     "id": "CMF-049",
     "name": "Pale Moon",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Pale Moon",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-049.jpg"
@@ -1326,11 +1326,11 @@
   "CMF-051": {
     "id": "CMF-051",
     "name": "Rat Catcher's Pipe",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Rat Catcher's Pipe",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-051.jpg"
@@ -1437,11 +1437,11 @@
   "CMF-055": {
     "id": "CMF-055",
     "name": "Stone Bowl of Buddha",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Stone Bowl of Buddha",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-055.jpg"
@@ -1624,11 +1624,11 @@
   "CMF-062": {
     "id": "CMF-062",
     "name": "Cottage of Cakes",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Cottage of Cakes",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-062.jpg"
@@ -1648,11 +1648,11 @@
   "CMF-063": {
     "id": "CMF-063",
     "name": "Cowrie of Swallows",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Cowrie of Swallows",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-063.jpg"
@@ -1672,11 +1672,11 @@
   "CMF-064": {
     "id": "CMF-064",
     "name": "Crucifix",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Crucifix",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-064.jpg"
@@ -1888,11 +1888,11 @@
   "CMF-072": {
     "id": "CMF-072",
     "name": "Musketeer's Bayonet",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Musketeer's Bayonet",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-072.jpg"
@@ -2050,11 +2050,11 @@
   "CMF-078": {
     "id": "CMF-078",
     "name": "Alvarez, the Demon Castle",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Alvarez, the Demon Castle",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-078.jpg"
@@ -2074,11 +2074,11 @@
   "CMF-079": {
     "id": "CMF-079",
     "name": "Black Coffin of Vampires",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Black Coffin of Vampires",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-079.jpg"
@@ -2206,11 +2206,11 @@
   "CMF-084": {
     "id": "CMF-084",
     "name": "Jewels on Dragon's Neck",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Jewels on Dragon's Neck",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-084.jpg"
@@ -2421,11 +2421,11 @@
   "CMF-092": {
     "id": "CMF-092",
     "name": "Slipper of Cinderella",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Slipper of Cinderella",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/CMF-092.jpg"
@@ -2977,11 +2977,11 @@
   "TAT-009": {
     "id": "TAT-009",
     "name": "Longinus, the Holy Lance",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Longinus, the Holy Lance",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-009.jpg"
@@ -3001,11 +3001,11 @@
   "TAT-010": {
     "id": "TAT-010",
     "name": "Lumiel, the Tower of Hope",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Lumiel, the Tower of Hope",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-010.jpg"
@@ -3077,11 +3077,11 @@
   "TAT-013": {
     "id": "TAT-013",
     "name": "Realm of Pure Spirits",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Realm of Pure Spirits",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-013.jpg"
@@ -3132,11 +3132,11 @@
   "TAT-015": {
     "id": "TAT-015",
     "name": "Sacred Scepter of Exorcism",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Sacred Scepter of Exorcism",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-015.jpg"
@@ -3396,11 +3396,11 @@
   "TAT-025": {
     "id": "TAT-025",
     "name": "Endless War",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Endless War",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-025.jpg"
@@ -3451,11 +3451,11 @@
   "TAT-027": {
     "id": "TAT-027",
     "name": "Forced Growth",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Forced Growth",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-027.jpg"
@@ -3531,11 +3531,11 @@
   "TAT-030": {
     "id": "TAT-030",
     "name": "Kusanagi Sword",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Kusanagi Sword",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-030.jpg"
@@ -3607,11 +3607,11 @@
   "TAT-033": {
     "id": "TAT-033",
     "name": "Realm of the Dragon King",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Realm of the Dragon King",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-033.jpg"
@@ -3746,11 +3746,11 @@
   "TAT-038": {
     "id": "TAT-038",
     "name": "Alice's World",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Alice's World",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 8,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-038.jpg"
@@ -3954,11 +3954,11 @@
   "TAT-046": {
     "id": "TAT-046",
     "name": "Mad Tea-Party",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Mad Tea-Party",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-046.jpg"
@@ -4118,11 +4118,11 @@
   "TAT-052": {
     "id": "TAT-052",
     "name": "Star Money",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Star Money",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-052.jpg"
@@ -4166,11 +4166,11 @@
   "TAT-054": {
     "id": "TAT-054",
     "name": "Witch's Dagger",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Witch's Dagger",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-054.jpg"
@@ -4305,11 +4305,11 @@
   "TAT-059": {
     "id": "TAT-059",
     "name": "Dragonslayer",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Dragonslayer",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-059.jpg"
@@ -4541,11 +4541,11 @@
   "TAT-068": {
     "id": "TAT-068",
     "name": "Realm of Evolution",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Realm of Evolution",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-068.jpg"
@@ -4565,11 +4565,11 @@
   "TAT-069": {
     "id": "TAT-069",
     "name": "Refarth, the Castle in Heaven",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Refarth, the Castle in Heaven",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-069.jpg"
@@ -4589,11 +4589,11 @@
   "TAT-070": {
     "id": "TAT-070",
     "name": "Silver Shoes",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Silver Shoes",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-070.jpg"
@@ -4665,11 +4665,11 @@
   "TAT-073": {
     "id": "TAT-073",
     "name": "Al-Haber, the Tower of Despair",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Al-Haber, the Tower of Despair",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-073.jpg"
@@ -4769,11 +4769,11 @@
   "TAT-077": {
     "id": "TAT-077",
     "name": "Demon's Curse",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Demon's Curse",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-077.jpg"
@@ -4880,11 +4880,11 @@
   "TAT-081": {
     "id": "TAT-081",
     "name": "Joker's Suit",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Joker's Suit",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-081.jpg"
@@ -4960,11 +4960,11 @@
   "TAT-084": {
     "id": "TAT-084",
     "name": "Necronomicon",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Necronomicon",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TAT-084.jpg"
@@ -5608,11 +5608,11 @@
   "MPR-005": {
     "id": "MPR-005",
     "name": "Book of Genesis",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Book of Genesis",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-005.jpg"
@@ -5771,11 +5771,11 @@
   "MPR-011": {
     "id": "MPR-011",
     "name": "Ragnarok, the Divine Sword of Savior",
-    "type": "Addition:J/Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Ragnarok, the Divine Sword of Savior",
-        "type": "Addition:J/Resonator",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-011.jpg"
@@ -5819,11 +5819,11 @@
   "MPR-013": {
     "id": "MPR-013",
     "name": "Seal of Grimmia",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Seal of Grimmia",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-013.jpg"
@@ -5895,11 +5895,11 @@
   "MPR-016": {
     "id": "MPR-016",
     "name": "Sweet Rose",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Sweet Rose",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-016.jpg"
@@ -5975,11 +5975,11 @@
   "MPR-019": {
     "id": "MPR-019",
     "name": "Akashic Records of Eternal Flame",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Akashic Records of Eternal Flame",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-019.jpg"
@@ -6114,11 +6114,11 @@
   "MPR-024": {
     "id": "MPR-024",
     "name": "Bullet of Envy",
-    "type": "Addition:J/Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Bullet of Envy",
-        "type": "Addition:J/Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-024.jpg"
@@ -6186,11 +6186,11 @@
   "MPR-027": {
     "id": "MPR-027",
     "name": "Eden, the Crimson Garden",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Eden, the Crimson Garden",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-027.jpg"
@@ -6238,11 +6238,11 @@
   "MPR-029": {
     "id": "MPR-029",
     "name": "Glyph of Unkill",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Glyph of Unkill",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-029.jpg"
@@ -6450,11 +6450,11 @@
   "MPR-037": {
     "id": "MPR-037",
     "name": "Apollosphere, the Moon Lance",
-    "type": "Addition:J/Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Apollosphere, the Moon Lance",
-        "type": "Addition:J/Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-037.jpg"
@@ -6530,11 +6530,11 @@
   "MPR-040": {
     "id": "MPR-040",
     "name": "Elixir of Immortality",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Elixir of Immortality",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-040.jpg"
@@ -6797,11 +6797,11 @@
   "MPR-050": {
     "id": "MPR-050",
     "name": "The Milky Way",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "The Milky Way",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-050.jpg"
@@ -6845,11 +6845,11 @@
   "MPR-052": {
     "id": "MPR-052",
     "name": "Tsukuyomi, the Moon City",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Tsukuyomi, the Moon City",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-052.jpg"
@@ -6925,11 +6925,11 @@
   "MPR-055": {
     "id": "MPR-055",
     "name": "Aladdin's Lamp",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Aladdin's Lamp",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-055.jpg"
@@ -7001,11 +7001,11 @@
   "MPR-058": {
     "id": "MPR-058",
     "name": "Barrier Field",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Barrier Field",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-058.jpg"
@@ -7133,11 +7133,11 @@
   "MPR-063": {
     "id": "MPR-063",
     "name": "Flying Carpet",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Flying Carpet",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-063.jpg"
@@ -7348,11 +7348,11 @@
   "MPR-071": {
     "id": "MPR-071",
     "name": "Wind Dagger",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Wind Dagger",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-071.jpg"
@@ -7452,11 +7452,11 @@
   "MPR-075": {
     "id": "MPR-075",
     "name": "Bind of Gravity",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Bind of Gravity",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-075.jpg"
@@ -7500,11 +7500,11 @@
   "MPR-077": {
     "id": "MPR-077",
     "name": "Black Moon",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Black Moon",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-077.jpg"
@@ -7747,11 +7747,11 @@
   "MPR-086": {
     "id": "MPR-086",
     "name": "Shining Trapezohedron",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Shining Trapezohedron",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-086.jpg"
@@ -7795,11 +7795,11 @@
   "MPR-088": {
     "id": "MPR-088",
     "name": "Yellow Sign",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Yellow Sign",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MPR-088.jpg"
@@ -8433,11 +8433,11 @@
   "MOA-007": {
     "id": "MOA-007",
     "name": "Pandora's Box of Hope",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Pandora's Box of Hope",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-007.jpg"
@@ -8457,11 +8457,11 @@
   "MOA-008": {
     "id": "MOA-008",
     "name": "Shining Bamboo",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Shining Bamboo",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-008.jpg"
@@ -8533,11 +8533,11 @@
   "MOA-011": {
     "id": "MOA-011",
     "name": "Ame-no-Habakiri",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Ame-no-Habakiri",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-011.jpg"
@@ -8773,11 +8773,11 @@
   "MOA-020": {
     "id": "MOA-020",
     "name": "Wormhole",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Wormhole",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-020.jpg"
@@ -8877,11 +8877,11 @@
   "MOA-024": {
     "id": "MOA-024",
     "name": "House of the Old Man",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "House of the Old Man",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-024.jpg"
@@ -9037,11 +9037,11 @@
   "MOA-030": {
     "id": "MOA-030",
     "name": "Transparent Moon",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Transparent Moon",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-030.jpg"
@@ -9173,11 +9173,11 @@
   "MOA-035": {
     "id": "MOA-035",
     "name": "Leaves of Yggdrasil",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Leaves of Yggdrasil",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-035.jpg"
@@ -9249,11 +9249,11 @@
   "MOA-038": {
     "id": "MOA-038",
     "name": "Refarth, the Wind Castle",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Refarth, the Wind Castle",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-038.jpg"
@@ -9353,11 +9353,11 @@
   "MOA-042": {
     "id": "MOA-042",
     "name": "Book of Eibon",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Book of Eibon",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-042.jpg"
@@ -9513,11 +9513,11 @@
   "MOA-048": {
     "id": "MOA-048",
     "name": "Mount Immortal",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Mount Immortal",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MOA-048.jpg"
@@ -9912,11 +9912,11 @@
   "VIN001-013": {
     "id": "VIN001-013",
     "name": "Silver Stake",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Silver Stake",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-013.jpg"
@@ -10155,11 +10155,11 @@
   "VIN001-022": {
     "id": "VIN001-022",
     "name": "Kusanagi Sword",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Kusanagi Sword",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-022.jpg"
@@ -10774,11 +10774,11 @@
   "VIN001-045": {
     "id": "VIN001-045",
     "name": "Witch's Dagger",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Witch's Dagger",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-045.jpg"
@@ -11097,11 +11097,11 @@
   "VIN001-057": {
     "id": "VIN001-057",
     "name": "Silver Shoes",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Silver Shoes",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-057.jpg"
@@ -11253,11 +11253,11 @@
   "VIN001-063": {
     "id": "VIN001-063",
     "name": "Demon's Curse",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Demon's Curse",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN001-063.jpg"
@@ -12215,11 +12215,11 @@
   "VS01-006": {
     "id": "VS01-006",
     "name": "Gloria's Castle Town",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Gloria's Castle Town",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-006.jpg"
@@ -12507,11 +12507,11 @@
   "VS01-017": {
     "id": "VS01-017",
     "name": "Certo, the Blazing Volcano",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Certo, the Blazing Volcano",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VS01-017.jpg"
@@ -13240,11 +13240,11 @@
   "SKL-010": {
     "id": "SKL-010",
     "name": "Heavenly Garden of Armalla",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Heavenly Garden of Armalla",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-010.jpg"
@@ -13368,11 +13368,11 @@
   "SKL-015": {
     "id": "SKL-015",
     "name": "Protection of the Seraph",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Protection of the Seraph",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-015.jpg"
@@ -13472,11 +13472,11 @@
   "SKL-019": {
     "id": "SKL-019",
     "name": "Certo, the Blazing Volcano",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Certo, the Blazing Volcano",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-019.jpg"
@@ -13580,11 +13580,11 @@
   "SKL-023": {
     "id": "SKL-023",
     "name": "Fear of Battle",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Fear of Battle",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-023.jpg"
@@ -14027,11 +14027,11 @@
   "SKL-040": {
     "id": "SKL-040",
     "name": "Heat Gaze",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Heat Gaze",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-040.jpg"
@@ -14131,11 +14131,11 @@
   "SKL-044": {
     "id": "SKL-044",
     "name": "Shangri-La, the Paradise on the Ocean",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Shangri-La, the Paradise on the Ocean",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-044.jpg"
@@ -14406,11 +14406,11 @@
   "SKL-054": {
     "id": "SKL-054",
     "name": "Branch of Yggdrasil",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Branch of Yggdrasil",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-054.jpg"
@@ -14649,11 +14649,11 @@
   "SKL-063": {
     "id": "SKL-063",
     "name": "Sissei, the Ancient Forest",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Sissei, the Ancient Forest",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-063.jpg"
@@ -14909,11 +14909,11 @@
   "SKL-073": {
     "id": "SKL-073",
     "name": "Necromancy of the Undead Lord",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Necromancy of the Undead Lord",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-073.jpg"
@@ -14933,11 +14933,11 @@
   "SKL-074": {
     "id": "SKL-074",
     "name": "Niflheim, the Realm of the Dead",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Niflheim, the Realm of the Dead",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-074.jpg"
@@ -15264,11 +15264,11 @@
   "SKL-086": {
     "id": "SKL-086",
     "name": "Leginus, the Mechanical City",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Leginus, the Mechanical City",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-086.jpg"
@@ -15371,11 +15371,11 @@
   "SKL-090": {
     "id": "SKL-090",
     "name": "Special Armor",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Special Armor",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/SKL-090.jpg"
@@ -16012,11 +16012,11 @@
   "TTW-008": {
     "id": "TTW-008",
     "name": "Gloria's Castle Town",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Gloria's Castle Town",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-008.jpg"
@@ -16192,11 +16192,11 @@
   "TTW-015": {
     "id": "TTW-015",
     "name": "Protection of the Fairies",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Protection of the Fairies",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-015.jpg"
@@ -16296,11 +16296,11 @@
   "TTW-019": {
     "id": "TTW-019",
     "name": "Barrier of Flame",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Barrier of Flame",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-019.jpg"
@@ -16588,11 +16588,11 @@
   "TTW-030": {
     "id": "TTW-030",
     "name": "Magic Matchstick",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Magic Matchstick",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-030.jpg"
@@ -16807,11 +16807,11 @@
   "TTW-038": {
     "id": "TTW-038",
     "name": "All Consuming Suspicion",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "All Consuming Suspicion",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-038.jpg"
@@ -16887,11 +16887,11 @@
   "TTW-041": {
     "id": "TTW-041",
     "name": "Invasion Ship, Golden Hind",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Invasion Ship, Golden Hind",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-041.jpg"
@@ -17286,11 +17286,11 @@
   "TTW-056": {
     "id": "TTW-056",
     "name": "Drop of Yggdrasil",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Drop of Yggdrasil",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-056.jpg"
@@ -17390,11 +17390,11 @@
   "TTW-060": {
     "id": "TTW-060",
     "name": "Holy Ground of the Four Sacred Beasts",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Holy Ground of the Four Sacred Beasts",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-060.jpg"
@@ -17745,11 +17745,11 @@
   "TTW-073": {
     "id": "TTW-073",
     "name": "Barrier of Shadows",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Barrier of Shadows",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-073.jpg"
@@ -17769,11 +17769,11 @@
   "TTW-074": {
     "id": "TTW-074",
     "name": "Black Ribbon",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Black Ribbon",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TTW-074.jpg"
@@ -18848,11 +18848,11 @@
   "TMS-004": {
     "id": "TMS-004",
     "name": "Holy Moon of Pure Nights",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Holy Moon of Pure Nights",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-004.jpg"
@@ -19056,11 +19056,11 @@
   "TMS-012": {
     "id": "TMS-012",
     "name": "Seal of Shining Bamboo",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Seal of Shining Bamboo",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-012.jpg"
@@ -19244,11 +19244,11 @@
   "TMS-019": {
     "id": "TMS-019",
     "name": "Blazing Metropolis, Vell-Savaria",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Blazing Metropolis, Vell-Savaria",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-019.jpg"
@@ -19268,11 +19268,11 @@
   "TMS-020": {
     "id": "TMS-020",
     "name": "Blessing of Athena",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Blessing of Athena",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-020.jpg"
@@ -19751,11 +19751,11 @@
   "TMS-038": {
     "id": "TMS-038",
     "name": "Flower Kingdom",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Flower Kingdom",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-038.jpg"
@@ -19775,11 +19775,11 @@
   "TMS-039": {
     "id": "TMS-039",
     "name": "Magic Conductor's Baton",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Magic Conductor's Baton",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-039.jpg"
@@ -20366,11 +20366,11 @@
   "TMS-061": {
     "id": "TMS-061",
     "name": "Rhythm of Life",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Rhythm of Life",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-061.jpg"
@@ -20470,11 +20470,11 @@
   "TMS-065": {
     "id": "TMS-065",
     "name": "Wind-Secluded Refuge",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Wind-Secluded Refuge",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-065.jpg"
@@ -20901,11 +20901,11 @@
   "TMS-081": {
     "id": "TMS-081",
     "name": "Pitch Black Moon",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Pitch Black Moon",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-081.jpg"
@@ -20925,11 +20925,11 @@
   "TMS-082": {
     "id": "TMS-082",
     "name": "Silencing Spell",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Silencing Spell",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-082.jpg"
@@ -21029,11 +21029,11 @@
   "TMS-086": {
     "id": "TMS-086",
     "name": "Magic Screw",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Magic Screw",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TMS-086.jpg"
@@ -21554,11 +21554,11 @@
   "BFA-001": {
     "id": "BFA-001",
     "name": "Avalon, Illusionary Home of Knights",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Avalon, Illusionary Home of Knights",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-001.jpg"
@@ -21870,11 +21870,11 @@
   "BFA-013": {
     "id": "BFA-013",
     "name": "Reflective Water Shield",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Reflective Water Shield",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-013.jpg"
@@ -22026,11 +22026,11 @@
   "BFA-019": {
     "id": "BFA-019",
     "name": "Blood Covered War Axe",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Blood Covered War Axe",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-019.jpg"
@@ -22238,11 +22238,11 @@
   "BFA-027": {
     "id": "BFA-027",
     "name": "Sanguine Arena",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Sanguine Arena",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-027.jpg"
@@ -22402,11 +22402,11 @@
   "BFA-033": {
     "id": "BFA-033",
     "name": "Croco-Shark Crossing",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Croco-Shark Crossing",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-033.jpg"
@@ -22502,11 +22502,11 @@
   "BFA-037": {
     "id": "BFA-037",
     "name": "Fairy Flower Extract",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Fairy Flower Extract",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-037.jpg"
@@ -22878,11 +22878,11 @@
   "BFA-051": {
     "id": "BFA-051",
     "name": "Home of the Wingmen",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Home of the Wingmen",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-051.jpg"
@@ -22958,11 +22958,11 @@
   "BFA-054": {
     "id": "BFA-054",
     "name": "Protection of Alice",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Protection of Alice",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-054.jpg"
@@ -23162,11 +23162,11 @@
   "BFA-062": {
     "id": "BFA-062",
     "name": "Collapsing World",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Collapsing World",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 5,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-062.jpg"
@@ -23186,11 +23186,11 @@
   "BFA-063": {
     "id": "BFA-063",
     "name": "Corrosion",
-    "type": "Addition:Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Corrosion",
-        "type": "Addition:Resonator",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-063.jpg"
@@ -23709,11 +23709,11 @@
   "BFA-081": {
     "id": "BFA-081",
     "name": "Attoractia, Dimension of the Seven Kings // Illusory Demonic Globe, Attoractia",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Attoractia, Dimension of the Seven Kings",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-081.jpg"
@@ -23796,11 +23796,11 @@
   "BFA-084": {
     "id": "BFA-084",
     "name": "Machine Lab of Leginus",
-    "type": "Addition:Field",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Machine Lab of Leginus",
-        "type": "Addition:Field",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/BFA-084.jpg"
@@ -24554,11 +24554,11 @@
   "VIN002-006": {
     "id": "VIN002-006",
     "name": "Flak Jacket",
-    "type": "Addition:J/Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Flak Jacket",
-        "type": "Addition:J/Resonator",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-006.jpg"
@@ -25209,11 +25209,11 @@
   "VIN002-030": {
     "id": "VIN002-030",
     "name": "Riela's Lance",
-    "type": "Addition:J/Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Riela's Lance",
-        "type": "Addition:J/Resonator",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-030.jpg"
@@ -25264,11 +25264,11 @@
   "VIN002-032": {
     "id": "VIN002-032",
     "name": "Alicia's Lance",
-    "type": "Addition:J/Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Alicia's Lance",
-        "type": "Addition:J/Resonator",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-032.jpg"
@@ -25699,11 +25699,11 @@
   "VIN002-048": {
     "id": "VIN002-048",
     "name": "Aliasse's Lance",
-    "type": "Addition:J/Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Aliasse's Lance",
-        "type": "Addition:J/Resonator",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-048.jpg"
@@ -26402,11 +26402,11 @@
   "VIN002-074": {
     "id": "VIN002-074",
     "name": "Selvaria's Lance",
-    "type": "Addition:J/Resonator",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Selvaria's Lance",
-        "type": "Addition:J/Resonator",
+        "type": "Addition",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/VIN002-074.jpg"
@@ -140428,11 +140428,11 @@
   "TOP-023": {
     "id": "TOP-023",
     "name": "Runic Witchcraft: Nº4",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Runic Witchcraft: Nº4",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-023.jpg"
@@ -140452,11 +140452,11 @@
   "TOP-024": {
     "id": "TOP-024",
     "name": "Runic Witchcraft: Nº6",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Runic Witchcraft: Nº6",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-024.jpg"
@@ -140532,11 +140532,11 @@
   "TOP-027": {
     "id": "TOP-027",
     "name": "Symbol of Magical Fraying",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Symbol of Magical Fraying",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-027.jpg"
@@ -140580,11 +140580,11 @@
   "TOP-029": {
     "id": "TOP-029",
     "name": "Runic Witchcraft: Nº3",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Runic Witchcraft: Nº3",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-029.jpg"
@@ -140604,11 +140604,11 @@
   "TOP-030": {
     "id": "TOP-030",
     "name": "Runic Witchcraft: Nº8",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Runic Witchcraft: Nº8",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-030.jpg"
@@ -140628,11 +140628,11 @@
   "TOP-031": {
     "id": "TOP-031",
     "name": "Runic Witchcraft: Nº12",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Runic Witchcraft: Nº12",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-031.jpg"
@@ -141208,11 +141208,11 @@
   "TOP-053": {
     "id": "TOP-053",
     "name": "Putrid Symbol of the Lord of Flies",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Putrid Symbol of the Lord of Flies",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-053.jpg"
@@ -142568,11 +142568,11 @@
   "T4 Prerelease Party": {
     "id": "T4 Prerelease Party",
     "name": "Symbol of Magical Fraying",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Symbol of Magical Fraying",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/TOP-T4%20Pre%20release%20Party.jpg"
@@ -166635,11 +166635,11 @@
   "ESD1-012": {
     "id": "ESD1-012",
     "name": "Glyph of Neverending Sorrow",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Glyph of Neverending Sorrow",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD1-012.jpg"
@@ -167213,11 +167213,11 @@
   "ESD2-012": {
     "id": "ESD2-012",
     "name": "Barrier of Unsullied Hope",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Barrier of Unsullied Hope",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/ESD2-012.jpg"
@@ -167538,11 +167538,11 @@
   "DRC-003": {
     "id": "DRC-003",
     "name": "Engraved Rune of the Setting Sun",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of the Setting Sun",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 1,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-003.jpg"
@@ -167960,11 +167960,11 @@
   "DRC-019": {
     "id": "DRC-019",
     "name": "Engraved Rune of Scorching Death",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of Scorching Death",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-019.jpg"
@@ -168040,11 +168040,11 @@
   "DRC-022": {
     "id": "DRC-022",
     "name": "Reverberating Glyph",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Reverberating Glyph",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-022.jpg"
@@ -168116,11 +168116,11 @@
   "DRC-025": {
     "id": "DRC-025",
     "name": "Engraved Rune of Motionless Freeze",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of Motionless Freeze",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-025.jpg"
@@ -168168,11 +168168,11 @@
   "DRC-027": {
     "id": "DRC-027",
     "name": "Glyph of Scarring Divination",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Glyph of Scarring Divination",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-027.jpg"
@@ -168542,11 +168542,11 @@
   "DRC-041": {
     "id": "DRC-041",
     "name": "Engraved Rune of Parasitic Healing",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of Parasitic Healing",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-041.jpg"
@@ -168698,11 +168698,11 @@
   "DRC-047": {
     "id": "DRC-047",
     "name": "Spore Cloud Glyph",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Spore Cloud Glyph",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-047.jpg"
@@ -168794,11 +168794,11 @@
   "DRC-051": {
     "id": "DRC-051",
     "name": "Engraved Rune of Hopeless Return",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of Hopeless Return",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-051.jpg"
@@ -168818,11 +168818,11 @@
   "DRC-052": {
     "id": "DRC-052",
     "name": "Glyph of Neverending Hatred",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Glyph of Neverending Hatred",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-052.jpg"
@@ -169156,11 +169156,11 @@
   "DRC-064": {
     "id": "DRC-064",
     "name": "Grandma Carlina's Culinary Glyph",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Grandma Carlina's Culinary Glyph",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-064.jpg"
@@ -169335,11 +169335,11 @@
   "DRC-070": {
     "id": "DRC-070",
     "name": "Scholarly Glyph of Prestigious Pride",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Scholarly Glyph of Prestigious Pride",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-070.jpg"
@@ -169387,11 +169387,11 @@
   "DRC-072": {
     "id": "DRC-072",
     "name": "Arrogant Glyph of Elite Haughtiness",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Arrogant Glyph of Elite Haughtiness",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-072.jpg"
@@ -169678,11 +169678,11 @@
   "DRC-082": {
     "id": "DRC-082",
     "name": "Striking Glyph of Burning Shame",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Striking Glyph of Burning Shame",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-082.jpg"
@@ -169827,11 +169827,11 @@
   "DRC-087": {
     "id": "DRC-087",
     "name": "Sealed Glyph of Infinite Loop",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Sealed Glyph of Infinite Loop",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC-087.jpg"
@@ -170338,11 +170338,11 @@
   "DRC Video-05": {
     "id": "DRC Video-05",
     "name": "Forbidden Experimentation",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Forbidden Experimentation",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC Video-05.jpg"
@@ -170390,11 +170390,11 @@
   "DRC Video-07": {
     "id": "DRC Video-07",
     "name": "Grandma Carlina's Essential Ingredients",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Grandma Carlina's Essential Ingredients",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC Video-07.jpg"
@@ -170416,11 +170416,11 @@
   "DRC Video-08": {
     "id": "DRC Video-08",
     "name": "Valgott's Secret Surveillance",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Valgott's Secret Surveillance",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/DRC Video-08.jpg"
@@ -171166,11 +171166,11 @@
   "JRV-001": {
     "id": "JRV-001",
     "name": "Ambrosia, Plant of Life",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Ambrosia, Plant of Life",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-001.jpg"
@@ -171558,11 +171558,11 @@
   "JRV-016": {
     "id": "JRV-016",
     "name": "Engraved Rune of Unstoppable Anger",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of Unstoppable Anger",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-016.jpg"
@@ -171610,11 +171610,11 @@
   "JRV-018": {
     "id": "JRV-018",
     "name": "Prideflame Glyph",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Prideflame Glyph",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-018.jpg"
@@ -171769,11 +171769,11 @@
   "JRV-024": {
     "id": "JRV-024",
     "name": "Engraved Rune of Mind Control",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of Mind Control",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-024.jpg"
@@ -171848,11 +171848,11 @@
   "JRV-027": {
     "id": "JRV-027",
     "name": "Glyph of Split Personality",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Glyph of Split Personality",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 4,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-027.jpg"
@@ -172087,11 +172087,11 @@
   "JRV-036": {
     "id": "JRV-036",
     "name": "Engraved Rune of Sudden Aggressiveness",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of Sudden Aggressiveness",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-036.jpg"
@@ -172139,11 +172139,11 @@
   "JRV-038": {
     "id": "JRV-038",
     "name": "Glyph of Uncontrolled Growth",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Glyph of Uncontrolled Growth",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-038.jpg"
@@ -172455,11 +172455,11 @@
   "JRV-050": {
     "id": "JRV-050",
     "name": "Engraved Rune of Paulatine Solitude",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of Paulatine Solitude",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-050.jpg"
@@ -172503,11 +172503,11 @@
   "JRV-052": {
     "id": "JRV-052",
     "name": "Holometabolous Hatching Glyph",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Holometabolous Hatching Glyph",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-052.jpg"
@@ -172688,11 +172688,11 @@
   "JRV-059": {
     "id": "JRV-059",
     "name": "Engraved Rune of Shared Bonds",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Engraved Rune of Shared Bonds",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-059.jpg"
@@ -172949,11 +172949,11 @@
   "JRV-068": {
     "id": "JRV-068",
     "name": "Velmardian's Sacred Glyph of Rejection",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Velmardian's Sacred Glyph of Rejection",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-068.jpg"
@@ -173064,11 +173064,11 @@
   "JRV-072": {
     "id": "JRV-072",
     "name": "Protective Glyph of Unbreakable Bulwark",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Protective Glyph of Unbreakable Bulwark",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-072.jpg"
@@ -173209,11 +173209,11 @@
   "JRV-077": {
     "id": "JRV-077",
     "name": "Bloodwritten Agonic Glyph",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Bloodwritten Agonic Glyph",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 3,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-077.jpg"
@@ -173500,11 +173500,11 @@
   "JRV-087": {
     "id": "JRV-087",
     "name": "Distillation Glyph of Apotheosic Nectar",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Distillation Glyph of Apotheosic Nectar",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV-087.jpg"
@@ -173853,11 +173853,11 @@
   "JRV Buy a Box": {
     "id": "JRV Buy a Box",
     "name": "Resting Bonfire",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Resting Bonfire",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV Buy a Box.jpg"
@@ -173877,11 +173877,11 @@
   "JRV Prerelease Party": {
     "id": "JRV Prerelease Party",
     "name": "Ambrosia, Plant of Life",
-    "type": "Rune",
+    "type": "Addition",
     "face": {
       "front": {
         "name": "Ambrosia, Plant of Life",
-        "type": "Rune",
+        "type": "Addition",
         "cost": 2,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/JRV Prerelease Party.jpg"
