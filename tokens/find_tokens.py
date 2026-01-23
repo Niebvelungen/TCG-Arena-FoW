@@ -180,7 +180,8 @@ def find_token_creators(input_file, output_file='token_creators.json'):
                                     'card_name': card_name,
                                     'set': set_code,
                                     'ability_text': ability,
-                                    'tokens': tokens
+                                    'tokens': tokens,
+                                    'card_info': {'id': card_id, 'name': card_name}
                                 })
 
     # Write results
@@ -204,6 +205,9 @@ def find_token_creators(input_file, output_file='token_creators.json'):
                 for token in existing_summary:
                     effect = token.get('effect', 'none') if token.get('effect') else 'none'
                     key = f"{token['stats']}|{token['attribute']}|{token['race']}|{token['type']}|{effect}"
+                    # Migrate old string format to new object format
+                    if token.get('created_by') and len(token['created_by']) > 0 and isinstance(token['created_by'][0], str):
+                        token['created_by'] = [{'id': '', 'name': name} for name in token['created_by']]
                     existing_tokens[key] = token
             print(f"Loaded {len(existing_summary)} existing tokens from token_summary.json")
         except (json.JSONDecodeError, IOError):
@@ -228,7 +232,7 @@ def find_token_creators(input_file, output_file='token_creators.json'):
                     'first_set': result['set'],
                     'first_set_index': set_order.index(result['set']) if result['set'] in set_order else 999
                 }
-            unique_tokens[key]['created_by'].append(result['card_name'])
+            unique_tokens[key]['created_by'].append({'id': result['card_id'], 'name': result['card_name']})
 
     # Sort unique tokens by set order (first appearance)
     sorted_tokens = sorted(unique_tokens.items(), key=lambda x: x[1]['first_set_index'])
@@ -258,8 +262,9 @@ def find_token_creators(input_file, output_file='token_creators.json'):
             seen = set()
             unique_created_by = []
             for card in token_data['created_by']:
-                if card not in seen:
-                    seen.add(card)
+                card_id = card['id']
+                if card_id not in seen:
+                    seen.add(card_id)
                     unique_created_by.append(card)
 
             existing['created_by_count'] = len(unique_created_by)
@@ -288,8 +293,9 @@ def find_token_creators(input_file, output_file='token_creators.json'):
             seen = set()
             unique_created_by = []
             for card in token_data['created_by']:
-                if card not in seen:
-                    seen.add(card)
+                card_id = card['id']
+                if card_id not in seen:
+                    seen.add(card_id)
                     unique_created_by.append(card)
 
             entry = {
@@ -332,7 +338,14 @@ def find_token_creators(input_file, output_file='token_creators.json'):
             if 'effect' in entry:
                 f.write(f"   Effect: {entry['effect']}\n")
             f.write(f"   First appeared in: {entry['first_set']}\n")
-            f.write(f"   Created by: {', '.join(entry['created_by'])}\n")
+            # Handle both old format (strings) and new format (objects)
+            created_by_names = []
+            for card in entry['created_by']:
+                if isinstance(card, dict):
+                    created_by_names.append(card['name'])
+                else:
+                    created_by_names.append(card)
+            f.write(f"   Created by: {', '.join(created_by_names)}\n")
             f.write("\n")
 
     print("Human-readable list written to: token_list.txt")

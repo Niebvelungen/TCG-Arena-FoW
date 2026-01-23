@@ -5,7 +5,7 @@ Token-001: [100/100] Wind Elf Resonator Token
    Color: wind
    Race: Elf
    First appeared in: SDL4
-   Created by: Fiethsing, Six Sage of Wind, Wind Clad Elf, Portal in the Woods, Spirit Caller Elf, Tama, the Wind made Cat
+   Created by: Fiethsing, Six Sage of Wind, Wind Clad Elf, Portal in the Woods, Spirit Caller Elf, Fiethsing, Six Sage of Wind
 
 Token-002: [100/100] Fire Bomb Resonator Token
    Stats: [100/100]
@@ -27,7 +27,7 @@ Token-004: [400/400] Water/darkness Fantasy Resonator Token
    Color: water/darkness
    Race: Fantasy
    First appeared in: LEL
-   Created by: Illusion Wizard, Illusory Projection, Muul, the Town That Never Was, Plot of Water and Darkness
+   Created by: Illusion Wizard, Illusory Projection, Muul, the Town That Never Was, Plot of Water and Darkness, Muul, the Town That Never Was
 
 Token-005: [500/500] Fire/wind Dragon Resonator Token
    Stats: [500/500]
@@ -111,14 +111,14 @@ Token-015: [100/100] Wind Cat Resonator Token
    Color: wind
    Race: Cat
    First appeared in: SDV4
-   Created by: Chiyome, the Captivating Kunoichi, Cat Ninja Scout, Caith Sith, Calico Cat Shikigami
+   Created by: Chiyome, the Captivating Kunoichi, Cat Ninja Scout, Caith Sith, Calico Cat Shikigami, Chiyome, the Captivating Kunoichi
 
 Token-016: [100/100] Darkness Skeleton Resonator Token
    Stats: [100/100]
    Color: darkness
    Race: Skeleton
    First appeared in: SDV5
-   Created by: Skeleton Horde, Bottomless Chasm of Death, the Abyss, Doubt, Priest of the Dark Truths
+   Created by: Skeleton Horde, Bottomless Chasm of Death, the Abyss, Skeleton Horde, Doubt, Priest of the Dark Truths, Doubt, Priest of the Dark Truths
 
 Token-017: [X00/X00] Darkness Lich Resonator Token
    Stats: [X00/X00]
@@ -139,7 +139,7 @@ Token-019: [200/200] Darkness Zombie Resonator Token
    Color: darkness
    Race: Zombie
    First appeared in: SNV
-   Created by: Orpheus, the Immortal Player
+   Created by: Orpheus, the Immortal Player, Orpheus, the Immortal Player
 
 Token-020: [700/100] Fire Warrior Resonator Token
    Stats: [700/100]
@@ -184,7 +184,7 @@ Token-025: [X00/X00] Darkness Zombie Resonator Token
    Color: darkness
    Race: Zombie
    First appeared in: AO3
-   Created by: Awakening of the Undead Lord
+   Created by: Awakening of the Undead Lord, Awakening of the Undead Lord
 
 Token-026: [0/0] Light Spirit Resonator Token
    Stats: [0/0]
@@ -254,7 +254,7 @@ Token-034: [400/400] Light Angel Resonator Token
    Race: Angel
    Effect: [Flying]
    First appeared in: TST
-   Created by: Angel of False Glory, Skadi, Evil-Piercer Spear, Velmardia's Threefold Plateau
+   Created by: Angel of False Glory, Angel of False Glory, Skadi, Evil-Piercer Spear, Velmardia's Threefold Plateau
 
 Token-035: [4000/4000] Darkness High God Resonator Token
    Stats: [4000/4000]
@@ -344,7 +344,7 @@ Token-046: [400/400] Darkness Machine Resonator Token
    Color: darkness
    Race: Machine
    First appeared in: GRV
-   Created by: Arena Expansion: Mount Othrys, Mechanized Children of Chronos, Mechanized Children of Gaia
+   Created by: Arena Expansion: Mount Othrys, Mechanized Children of Chronos, Mechanized Children of Gaia, Arena Expansion: Mount Othrys
 
 Token-047: [600/600] Darkness Fallen Angel Resonator Token
    Stats: [600/600]
@@ -359,7 +359,7 @@ Token-048: [800/800] Darkness Hero Resonator Token
    Color: darkness
    Race: Hero
    First appeared in: HSD
-   Created by: Deathspeaker Monk, Hero Reincarnation
+   Created by: Deathspeaker Monk, Deathspeaker Monk, Hero Reincarnation, Hero Reincarnation
 
 Token-049: [400/400] Gears Resonator Token
    Stats: [400/400]
@@ -389,7 +389,7 @@ Token-052: [2000/2000] Wind Dinosaur Resonator Token
    Color: wind
    Race: Dinosaur
    First appeared in: CST
-   Created by: Ki Lua, Shooting Star of Wind
+   Created by: Ki Lua, Shooting Star of Wind, Ki Lua, Shooting Star of Wind
 
 Token-053: [400/400] Darkness Ethereal Resonator Token
    Stats: [400/400]
@@ -403,14 +403,14 @@ Token-054: [X/Y] Darkness Ethereal Resonator Token
    Color: darkness
    Race: Ethereal
    First appeared in: CST
-   Created by: Reinhardt, Shooting Star of Darkness
+   Created by: Reinhardt, Shooting Star of Darkness, Reinhardt, Shooting Star of Darkness
 
 Token-055: [1000/1000] Light/fire/water/wind/darkness Avatar Resonator Token
    Stats: [1000/1000]
    Color: light/fire/water/wind/darkness
    Race: Avatar
    First appeared in: CST
-   Created by: King's Hopeful Gleam
+   Created by: King's Hopeful Gleam, King's Hopeful Gleam
 
 Token-056: [400/400] Light Fairy/Gears Resonator Token
    Stats: [400/400]
@@ -600,7 +600,7 @@ Token-080: [200/200] Wind Spirit, Woodfolk Resonator Token
    Race: Spirit, Woodfolk
    Effect: [Barrier] (Non-fire spells and non-fire abilities)
    First appeared in: ABC
-   Created by: Quercus, the Living Oak
+   Created by: Quercus, the Living Oak, Quercus, the Living Oak
 
 Token-081: [0/0] Light Spirit Resonator Token
    Stats: [0/0]

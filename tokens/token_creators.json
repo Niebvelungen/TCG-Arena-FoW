@@ -13,7 +13,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "SDL4-002",
+      "name": "Fiethsing, Six Sage of Wind"
+    }
   },
   {
     "card_id": "LEL-012",
@@ -29,7 +33,11 @@
         "type": "resonator token",
         "effect": "\"At the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "LEL-012",
+      "name": "Conjure Time Bomb"
+    }
   },
   {
     "card_id": "LEL-019",
@@ -45,7 +53,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "LEL-019",
+      "name": "Fishing"
+    }
   },
   {
     "card_id": "LEL-020",
@@ -61,7 +73,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "LEL-020",
+      "name": "Jiang Ziya, the Fisherman"
+    }
   },
   {
     "card_id": "LEL-063",
@@ -77,7 +93,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "LEL-063",
+      "name": "Illusion Wizard"
+    }
   },
   {
     "card_id": "LEL-064",
@@ -93,7 +113,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "LEL-064",
+      "name": "Illusory Projection"
+    }
   },
   {
     "card_id": "LEL-077",
@@ -109,7 +133,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "LEL-077",
+      "name": "Muul, the Town That Never Was"
+    }
   },
   {
     "card_id": "LEL-080",
@@ -125,7 +153,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "LEL-080",
+      "name": "Plot of Water and Darkness"
+    }
   },
   {
     "card_id": "VIN003-030",
@@ -141,7 +173,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "VIN003-030",
+      "name": "Sylvia Gill Palarilias, Infernal Dragon"
+    }
   },
   {
     "card_id": "VIN003-037",
@@ -157,7 +193,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "VIN003-037",
+      "name": "Kaguya, Guardian of the Moon"
+    }
   },
   {
     "card_id": "RDE-032",
@@ -173,7 +213,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "RDE-032",
+      "name": "Wind Clad Elf"
+    }
   },
   {
     "card_id": "RDE-080",
@@ -189,7 +233,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "RDE-080",
+      "name": "Schrödinger, the Cat in Flux"
+    }
   },
   {
     "card_id": "ENW-006",
@@ -205,7 +253,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ENW-006",
+      "name": "Light Dragon's Egg"
+    }
   },
   {
     "card_id": "ENW-006",
@@ -221,7 +273,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ENW-006",
+      "name": "Light Dragon's Egg"
+    }
   },
   {
     "card_id": "ENW-030",
@@ -237,7 +293,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ENW-030",
+      "name": "Refarth's Wall of Flames"
+    }
   },
   {
     "card_id": "ENW-073",
@@ -253,7 +313,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ENW-073",
+      "name": "Dark Alice, Manifestation of Rage"
+    }
   },
   {
     "card_id": "ACN-039",
@@ -269,7 +333,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ACN-039",
+      "name": "Environmental Researcher, Fabre"
+    }
   },
   {
     "card_id": "ACN-043",
@@ -285,7 +353,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ACN-043",
+      "name": "Fire Dragon's Egg"
+    }
   },
   {
     "card_id": "ACN-105",
@@ -301,7 +373,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ACN-105",
+      "name": "Portal in the Woods"
+    }
   },
   {
     "card_id": "ACN-106",
@@ -317,7 +393,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ACN-106",
+      "name": "Spirit Caller Elf"
+    }
   },
   {
     "card_id": "ACN-137",
@@ -333,7 +413,11 @@
         "type": "resonator token",
         "effect": "\"When this card is put into a graveyard from the field ⇒ It deals 400 damage to your opponent.\" and a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ You gain 400 life.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ACN-137",
+      "name": "The Three Evil Little Pigs"
+    }
   },
   {
     "card_id": "ACN-147",
@@ -349,7 +433,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ACN-147",
+      "name": "Statue in the Sacred Temple"
+    }
   },
   {
     "card_id": "SDV4-002",
@@ -365,7 +453,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "SDV4-002",
+      "name": "Chiyome, the Captivating Kunoichi"
+    }
   },
   {
     "card_id": "SDV5-016",
@@ -381,7 +473,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "SDV5-016",
+      "name": "Skeleton Horde"
+    }
   },
   {
     "card_id": "NDR-062",
@@ -397,7 +493,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "NDR-062",
+      "name": "Cat Ninja Scout"
+    }
   },
   {
     "card_id": "NDR-084",
@@ -413,7 +513,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "NDR-084",
+      "name": "Bottomless Chasm of Death, the Abyss"
+    }
   },
   {
     "card_id": "NDR-084",
@@ -429,7 +533,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "NDR-084",
+      "name": "Bottomless Chasm of Death, the Abyss"
+    }
   },
   {
     "card_id": "SNV-093",
@@ -445,7 +553,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "SNV-093",
+      "name": "Orchard of the Immortals"
+    }
   },
   {
     "card_id": "SNV-094",
@@ -461,7 +573,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "SNV-094",
+      "name": "Orpheus, the Immortal Player"
+    }
   },
   {
     "card_id": "DBV-058",
@@ -477,7 +593,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DBV-058",
+      "name": "Caith Sith"
+    }
   },
   {
     "card_id": "DBV-058",
@@ -493,7 +613,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DBV-058",
+      "name": "Caith Sith"
+    }
   },
   {
     "card_id": "DBV-059",
@@ -509,7 +633,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DBV-059",
+      "name": "Calico Cat Shikigami"
+    }
   },
   {
     "card_id": "DBV-061",
@@ -525,7 +653,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DBV-061",
+      "name": "Chiyome, the Captivating Kunoichi"
+    }
   },
   {
     "card_id": "DBV-085",
@@ -541,7 +673,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DBV-085",
+      "name": "Skeleton Horde"
+    }
   },
   {
     "card_id": "SDAO1-028",
@@ -557,7 +693,11 @@
         "type": "resonator token",
         "effect": "[Swiftness]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "SDAO1-028",
+      "name": "Melgis"
+    }
   },
   {
     "card_id": "SDAO2-028",
@@ -573,7 +713,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "SDAO2-028",
+      "name": "Pricia"
+    }
   },
   {
     "card_id": "AO2-020",
@@ -589,7 +733,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "AO2-020",
+      "name": "Twin Robots"
+    }
   },
   {
     "card_id": "AO2-047",
@@ -605,7 +753,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "AO2-047",
+      "name": "Mariabella's Recycling Robot"
+    }
   },
   {
     "card_id": "AO2-052",
@@ -621,7 +773,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "AO2-052",
+      "name": "Super Beast Burning Rush!"
+    }
   },
   {
     "card_id": "AO3-022",
@@ -637,7 +793,11 @@
         "type": "resonator token",
         "effect": "\" [Enter] ⇒ This card deals damage equal to its ATK to target resonator. Then, if you have [Passion], invert your ruler.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "AO3-022",
+      "name": "Reflect's Summoning"
+    }
   },
   {
     "card_id": "AO3-031",
@@ -653,7 +813,11 @@
         "type": "resonator token",
         "effect": "\" [Enter] ⇒ Draw three cards and put two card from your hand on top of your deck in any order. Then, if you have [Calmness], invert your ruler.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "AO3-031",
+      "name": "Refrain's Summoning"
+    }
   },
   {
     "card_id": "AO3-058",
@@ -669,7 +833,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "AO3-058",
+      "name": "Awakening of the Undead Lord"
+    }
   },
   {
     "card_id": "EDL-012",
@@ -685,7 +853,11 @@
         "type": "resonator token",
         "effect": "[Flying] and X [+100/+100] counters on it"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "EDL-012",
+      "name": "Silmeria, Summoner of Spirits"
+    }
   },
   {
     "card_id": "EDL-066",
@@ -717,7 +889,11 @@
         "type": "resonator token",
         "effect": "[Pierce]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "EDL-066",
+      "name": "Monstrous Rush"
+    }
   },
   {
     "card_id": "EDL-081",
@@ -733,7 +909,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "EDL-081",
+      "name": "Frightened Villager"
+    }
   },
   {
     "card_id": "EDL-083",
@@ -749,7 +929,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "EDL-083",
+      "name": "Interdimensional Graveyard"
+    }
   },
   {
     "card_id": "EDL-086",
@@ -765,7 +949,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "EDL-086",
+      "name": "Lord of the Undead"
+    }
   },
   {
     "card_id": "ADW-034",
@@ -781,7 +969,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ADW-034",
+      "name": "Fish Drive"
+    }
   },
   {
     "card_id": "ADW-079",
@@ -797,7 +989,11 @@
         "type": "resonator token",
         "effect": "[Bane]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ADW-079",
+      "name": "Call from the Depths"
+    }
   },
   {
     "card_id": "TST-002",
@@ -813,7 +1009,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TST-002",
+      "name": "Belial's Hymn"
+    }
   },
   {
     "card_id": "TST-003",
@@ -829,7 +1029,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TST-003",
+      "name": "Belial's Messenger"
+    }
   },
   {
     "card_id": "TST-005",
@@ -845,7 +1049,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TST-005",
+      "name": "Choir of Fallen Angels"
+    }
   },
   {
     "card_id": "TST-009",
@@ -861,7 +1069,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TST-009",
+      "name": "Prideful Rule"
+    }
   },
   {
     "card_id": "TST-057",
@@ -877,7 +1089,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TST-057",
+      "name": "Graveyard Keeper of the Demonic World"
+    }
   },
   {
     "card_id": "TST-065",
@@ -893,7 +1109,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TST-065",
+      "name": "Angel of False Glory"
+    }
   },
   {
     "card_id": "TST-079",
@@ -909,7 +1129,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TST-079",
+      "name": "Castle of Belial"
+    }
   },
   {
     "card_id": "TST-082",
@@ -925,7 +1149,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TST-082",
+      "name": "Fallen Angel of the Mark"
+    }
   },
   {
     "card_id": "TST-094",
@@ -941,7 +1169,11 @@
         "type": "resonator token",
         "effect": "[Eternal], [Barrier] and \"When this card leaves the field >>> You lose the game.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TST-094",
+      "name": "Satan"
+    }
   },
   {
     "card_id": "GOG-027",
@@ -957,7 +1189,11 @@
         "type": "resonator token",
         "effect": "[Swiftness]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GOG-027",
+      "name": "Rebirth of Flaming Disaster"
+    }
   },
   {
     "card_id": "GRL-012",
@@ -973,7 +1209,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRL-012",
+      "name": "Phantom Beastmaster of Ma'at"
+    }
   },
   {
     "card_id": "GRL-037",
@@ -989,7 +1229,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRL-037",
+      "name": "Titor's Gimmick"
+    }
   },
   {
     "card_id": "GRV-004",
@@ -1005,7 +1249,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-004",
+      "name": "The Essence of Alice's Power"
+    }
   },
   {
     "card_id": "GRV-005",
@@ -1021,7 +1269,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-005",
+      "name": "The Essence of Odin's Power"
+    }
   },
   {
     "card_id": "GRV-022",
@@ -1037,7 +1289,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-022",
+      "name": "The Essence of Dragon Flame's Power"
+    }
   },
   {
     "card_id": "GRV-023",
@@ -1053,7 +1309,11 @@
         "type": "resonator token",
         "effect": "[Swiftness]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-023",
+      "name": "The Essence of Nyarlathotep's Power"
+    }
   },
   {
     "card_id": "GRV-034",
@@ -1069,7 +1329,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-034",
+      "name": "The Essence of Deus Ex Machina's Power"
+    }
   },
   {
     "card_id": "GRV-035",
@@ -1085,7 +1349,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-035",
+      "name": "The Essence of Loki's Power"
+    }
   },
   {
     "card_id": "GRV-044",
@@ -1101,7 +1369,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-044",
+      "name": "The Essence of Kaguya's Power"
+    }
   },
   {
     "card_id": "GRV-045",
@@ -1117,7 +1389,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-045",
+      "name": "The Essence of Shiva's Power"
+    }
   },
   {
     "card_id": "GRV-048",
@@ -1133,7 +1409,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-048",
+      "name": "Arena Expansion: Mount Othrys"
+    }
   },
   {
     "card_id": "GRV-055",
@@ -1149,7 +1429,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-055",
+      "name": "Mechanized Children of Chronos"
+    }
   },
   {
     "card_id": "GRV-056",
@@ -1165,7 +1449,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-056",
+      "name": "Mechanized Children of Gaia"
+    }
   },
   {
     "card_id": "GRV-062",
@@ -1181,7 +1469,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-062",
+      "name": "The Essence of Athenia's Power"
+    }
   },
   {
     "card_id": "GRV-063",
@@ -1197,7 +1489,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "GRV-063",
+      "name": "The Essence of Dante's Power"
+    }
   },
   {
     "card_id": "HSD-013",
@@ -1213,7 +1509,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "HSD-013",
+      "name": "Deathspeaker Monk"
+    }
   },
   {
     "card_id": "NWE-034",
@@ -1229,7 +1529,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "NWE-034",
+      "name": "Deathspeaker Monk"
+    }
   },
   {
     "card_id": "NWE-054",
@@ -1245,7 +1549,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "NWE-054",
+      "name": "Hero Reincarnation"
+    }
   },
   {
     "card_id": "NWE-100",
@@ -1261,7 +1569,11 @@
         "type": "resonator token",
         "effect": "no attribute"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "NWE-100",
+      "name": "Typhon, Asteroid Cluster"
+    }
   },
   {
     "card_id": "TWS-025",
@@ -1277,7 +1589,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TWS-025",
+      "name": "Flighter of the Underground Fighting Arena"
+    }
   },
   {
     "card_id": "CST-002",
@@ -1293,7 +1609,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-002",
+      "name": "Dominatus, Star Gladius"
+    }
   },
   {
     "card_id": "CST-002J",
@@ -1309,7 +1629,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-002J",
+      "name": "Tina, Virtuous Stella"
+    }
   },
   {
     "card_id": "CST-006",
@@ -1325,7 +1649,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-006",
+      "name": "Girl's Staring at..."
+    }
   },
   {
     "card_id": "CST-010",
@@ -1341,7 +1669,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-010",
+      "name": "White Fairy Flower"
+    }
   },
   {
     "card_id": "CST-011",
@@ -1357,7 +1689,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-011",
+      "name": "Fairy Twins"
+    }
   },
   {
     "card_id": "CST-050",
@@ -1373,7 +1709,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-050",
+      "name": "Ki Lua, Shooting Star of Wind"
+    }
   },
   {
     "card_id": "CST-059J",
@@ -1389,7 +1729,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-059J",
+      "name": "Stein, Deathly Star"
+    }
   },
   {
     "card_id": "CST-064",
@@ -1405,7 +1749,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-064",
+      "name": "Reinhardt, Shooting Star of Darkness"
+    }
   },
   {
     "card_id": "CST-066",
@@ -1421,7 +1769,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-066",
+      "name": "Purun, Fairy of Possessing Darkness"
+    }
   },
   {
     "card_id": "CST-069",
@@ -1437,7 +1789,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-069",
+      "name": "Malefic Tree Necromancer"
+    }
   },
   {
     "card_id": "CST-077",
@@ -1453,7 +1809,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-077",
+      "name": "King's Hopeful Gleam"
+    }
   },
   {
     "card_id": "CST-080",
@@ -1469,7 +1829,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "CST-080",
+      "name": "Light of the World Tree"
+    }
   },
   {
     "card_id": "JRP-005",
@@ -1485,7 +1849,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRP-005",
+      "name": "Dominatus, Solarised Gladius"
+    }
   },
   {
     "card_id": "JRP-006",
@@ -1501,7 +1869,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRP-006",
+      "name": "Dominatus Chronogear"
+    }
   },
   {
     "card_id": "JRP-045",
@@ -1517,7 +1889,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRP-045",
+      "name": "Tigre Plateado Chronogear"
+    }
   },
   {
     "card_id": "JRP-089",
@@ -1533,7 +1909,11 @@
         "type": "resonator token",
         "effect": "no attribute"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRP-089",
+      "name": "Ark's Gearsatellite"
+    }
   },
   {
     "card_id": "JRP-102",
@@ -1549,7 +1929,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRP-102",
+      "name": "Song of Eternal Serenity"
+    }
   },
   {
     "card_id": "JRP-106",
@@ -1565,7 +1949,11 @@
         "type": "token",
         "effect": "no attribute"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRP-106",
+      "name": "Imitation: Adam"
+    }
   },
   {
     "card_id": "MP01-031",
@@ -1581,7 +1969,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP01-031",
+      "name": "Fate of the Girl"
+    }
   },
   {
     "card_id": "MP01-032",
@@ -1597,7 +1989,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP01-032",
+      "name": "Ghost of Orleans"
+    }
   },
   {
     "card_id": "MP01-033",
@@ -1613,7 +2009,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP01-033",
+      "name": "Executioner of Orleans"
+    }
   },
   {
     "card_id": "MP01-129",
@@ -1629,7 +2029,11 @@
         "type": "token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP01-129",
+      "name": "Defiled Scripture"
+    }
   },
   {
     "card_id": "MP01-136",
@@ -1645,7 +2049,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP01-136",
+      "name": "Return of the Guardian"
+    }
   },
   {
     "card_id": "TSR-011",
@@ -1661,7 +2069,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TSR-011",
+      "name": "Om So Hum"
+    }
   },
   {
     "card_id": "TSR-063",
@@ -1677,7 +2089,11 @@
         "type": "resonator token",
         "effect": "\"Banish this card: Each player gains 100 life.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TSR-063",
+      "name": "Aideen, the Fighting Doctor"
+    }
   },
   {
     "card_id": "TEU-004",
@@ -1693,7 +2109,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-004",
+      "name": "Lunar C-38, Cruiser Tank"
+    }
   },
   {
     "card_id": "TEU-020",
@@ -1709,7 +2129,11 @@
         "type": "resonator token",
         "effect": "[Terrifying], [Pierce] and [Barrier]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-020",
+      "name": "Claimed by the Depths"
+    }
   },
   {
     "card_id": "TEU-035",
@@ -1725,7 +2149,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-035",
+      "name": "Unfavorable Winds"
+    }
   },
   {
     "card_id": "TEU-037",
@@ -1741,7 +2169,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-037",
+      "name": "Dusk Knight's Brigade"
+    }
   },
   {
     "card_id": "TEU-054",
@@ -1757,7 +2189,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-054",
+      "name": "Accursed Touch of Moon Butterflies"
+    }
   },
   {
     "card_id": "TEU-069",
@@ -1773,7 +2209,11 @@
         "type": "resonator token",
         "effect": "[First Strike]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-069",
+      "name": "Lunar Throne of the Light Palace"
+    }
   },
   {
     "card_id": "TEU-070J",
@@ -1789,7 +2229,11 @@
         "type": "resonator token",
         "effect": "[Multi Strike] and [Barrier]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-070J",
+      "name": "Lyka, Tigermorphed"
+    }
   },
   {
     "card_id": "TEU-074",
@@ -1805,7 +2249,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-074",
+      "name": "Phasmophobia"
+    }
   },
   {
     "card_id": "TEU-075",
@@ -1821,7 +2269,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-075",
+      "name": "Queen's Alabaster, Flying Bastion"
+    }
   },
   {
     "card_id": "TEU-079",
@@ -1837,7 +2289,11 @@
         "type": "resonator token",
         "effect": "[Terrifying] and [Pierce]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-079",
+      "name": "Scybdis, Terrors from the Depths"
+    }
   },
   {
     "card_id": "TEU-089",
@@ -1853,7 +2309,11 @@
         "type": "resonator token",
         "effect": "\"This card gains [+X00/+X00], where X is the number of J/resonators you control multiplied by two.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TEU-089",
+      "name": "Woewillow, Shepherd of Saplings"
+    }
   },
   {
     "card_id": "TOP-063",
@@ -1869,7 +2329,11 @@
         "type": "resonator token",
         "effect": "[Barrier]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TOP-063",
+      "name": "Bioluminiscent Broodmother"
+    }
   },
   {
     "card_id": "TOP-079",
@@ -1885,7 +2349,11 @@
         "type": "resonator token",
         "effect": "[Barrier]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TOP-079",
+      "name": "Hunter of the Maws"
+    }
   },
   {
     "card_id": "TOP-092",
@@ -1901,7 +2369,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "TOP-092",
+      "name": "Sinister Assimilation"
+    }
   },
   {
     "card_id": "ABC-WD-015",
@@ -1917,7 +2389,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-WD-015",
+      "name": "Castle of Belial"
+    }
   },
   {
     "card_id": "ABC-WD-016",
@@ -1933,7 +2409,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-WD-016",
+      "name": "Choir of Fallen Angels"
+    }
   },
   {
     "card_id": "ABC-RD-036",
@@ -1949,7 +2429,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-RD-036",
+      "name": "Interdimensional Graveyard"
+    }
   },
   {
     "card_id": "ABC-SD01-038",
@@ -1965,7 +2449,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD01-038",
+      "name": "King's Hopeful Gleam"
+    }
   },
   {
     "card_id": "ABC-SD03-020",
@@ -1981,7 +2469,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD03-020",
+      "name": "Girl's Staring at..."
+    }
   },
   {
     "card_id": "ABC-SD03-036",
@@ -1997,7 +2489,11 @@
         "type": "resonator token",
         "effect": "[Barrier] (Non-fire spells and non-fire abilities)"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD03-036",
+      "name": "Quercus, the Living Oak"
+    }
   },
   {
     "card_id": "ABC-SD03-040",
@@ -2013,7 +2509,11 @@
         "type": "resonator token",
         "effect": "[Flying] and with X [+100/+100] counters on it"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD03-040",
+      "name": "Silmeria, Summoner of Spirits"
+    }
   },
   {
     "card_id": "ABC-SD04-005",
@@ -2029,7 +2529,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD04-005",
+      "name": "Angel of False Glory"
+    }
   },
   {
     "card_id": "ABC-SD04-012",
@@ -2045,7 +2549,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD04-012",
+      "name": "Castle of Belial"
+    }
   },
   {
     "card_id": "ABC-SD04-015",
@@ -2061,7 +2569,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD04-015",
+      "name": "Choir of Fallen Angels"
+    }
   },
   {
     "card_id": "ABC-SD04-019",
@@ -2077,7 +2589,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD04-019",
+      "name": "Doubt, Priest of the Dark Truths"
+    }
   },
   {
     "card_id": "ABC-SD04-037",
@@ -2093,7 +2609,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD04-037",
+      "name": "Prideful Rule"
+    }
   },
   {
     "card_id": "ABC-SD06-015",
@@ -2109,7 +2629,11 @@
         "type": "resonator token",
         "effect": "[Multi Strike]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD06-015",
+      "name": "Divine Beast of Re-Earth"
+    }
   },
   {
     "card_id": "ABC-SD06-034",
@@ -2125,7 +2649,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD06-034",
+      "name": "Ki Lua, Shooting Star of Wind"
+    }
   },
   {
     "card_id": "ABC-SD07-025",
@@ -2141,7 +2669,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD07-025",
+      "name": "Hero Reincarnation"
+    }
   },
   {
     "card_id": "ABC-SD07-027",
@@ -2157,7 +2689,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD07-027",
+      "name": "Interdimensional Graveyard"
+    }
   },
   {
     "card_id": "ABC-SD08-044",
@@ -2173,7 +2709,11 @@
         "type": "resonator token",
         "effect": "[Barrier] (Non-fire spells and non-fire abilities)"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD08-044",
+      "name": "Quercus, the Living Oak"
+    }
   },
   {
     "card_id": "ABC-SD09-007",
@@ -2189,7 +2729,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD09-007",
+      "name": "Arena Expansion: Mount Othrys"
+    }
   },
   {
     "card_id": "ABC-SD10-007",
@@ -2205,7 +2749,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD10-007",
+      "name": "Awakening of the Undead Lord"
+    }
   },
   {
     "card_id": "ABC-SD10-015",
@@ -2221,7 +2769,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD10-015",
+      "name": "Doubt, Priest of the Dark Truths"
+    }
   },
   {
     "card_id": "ABC-SD10-032",
@@ -2237,7 +2789,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD10-032",
+      "name": "Lord of the Undead"
+    }
   },
   {
     "card_id": "ABC-SD10-038",
@@ -2253,7 +2809,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD10-038",
+      "name": "Orpheus, the Immortal Player"
+    }
   },
   {
     "card_id": "ABC-SD10-043",
@@ -2269,7 +2829,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD10-043",
+      "name": "Reinhardt, Shooting Star of Darkness"
+    }
   },
   {
     "card_id": "ABC-SD10-050",
@@ -2285,7 +2849,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ABC-SD10-050",
+      "name": "Skeleton Horde"
+    }
   },
   {
     "card_id": "MP02-019",
@@ -2301,7 +2869,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-019",
+      "name": "Fiethsing, Six Sage of Wind"
+    }
   },
   {
     "card_id": "MP02-020*",
@@ -2317,7 +2889,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-020*",
+      "name": "Tama, the Wind made Cat"
+    }
   },
   {
     "card_id": "MP02-084",
@@ -2333,7 +2909,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-084",
+      "name": "The Locked Glass Tomb"
+    }
   },
   {
     "card_id": "MP02-092",
@@ -2349,7 +2929,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-092",
+      "name": "Uranus, Arcanist of the Freedom Star"
+    }
   },
   {
     "card_id": "MP02-093",
@@ -2365,7 +2949,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-093",
+      "name": "Neptune, Illusionist of the Dream Star"
+    }
   },
   {
     "card_id": "MP02-094",
@@ -2381,7 +2969,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-094",
+      "name": "Pluto, Necromancer of the Destruction Star"
+    }
   },
   {
     "card_id": "MP02-098",
@@ -2397,7 +2989,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-098",
+      "name": "Conjure Time Bomb"
+    }
   },
   {
     "card_id": "MP02-122",
@@ -2413,7 +3009,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-122",
+      "name": "The Empty Throne of Millennia"
+    }
   },
   {
     "card_id": "MP02-130",
@@ -2429,7 +3029,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-130",
+      "name": "Muul, the Town That Never Was"
+    }
   },
   {
     "card_id": "MP02-135",
@@ -2445,7 +3049,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "MP02-135",
+      "name": "Valravn, Consumer of Hearts"
+    }
   },
   {
     "card_id": "ESD1-011",
@@ -2461,7 +3069,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ESD1-011",
+      "name": "Eaten Alive"
+    }
   },
   {
     "card_id": "ESD1-012",
@@ -2477,7 +3089,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ESD1-012",
+      "name": "Glyph of Neverending Sorrow"
+    }
   },
   {
     "card_id": "ESD2-002",
@@ -2493,7 +3109,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ESD2-002",
+      "name": "Knight-Captain of Velmardia"
+    }
   },
   {
     "card_id": "ESD2-002",
@@ -2509,7 +3129,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ESD2-002",
+      "name": "Knight-Captain of Velmardia"
+    }
   },
   {
     "card_id": "ESD2-013",
@@ -2525,7 +3149,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ESD2-013",
+      "name": "Skadi, Evil-Piercer Spear"
+    }
   },
   {
     "card_id": "ESD2-015",
@@ -2541,7 +3169,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ESD2-015",
+      "name": "Knight of the Setting Sun, Lionel"
+    }
   },
   {
     "card_id": "DRC-002",
@@ -2557,7 +3189,11 @@
         "type": "token",
         "effect": "[Barrier] (Total cost 1 or less) and \"{Rest}: Change the target of target spell or ability with a single target to this card.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-002",
+      "name": "Defenders of the Lower Plateau Wall"
+    }
   },
   {
     "card_id": "DRC-004",
@@ -2581,7 +3217,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-004",
+      "name": "Envoy of the Goddess, Hutriel"
+    }
   },
   {
     "card_id": "DRC-005",
@@ -2597,7 +3237,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-005",
+      "name": "Knight Blessed by the Sun"
+    }
   },
   {
     "card_id": "DRC-013",
@@ -2613,7 +3257,11 @@
         "type": "resonator token",
         "effect": "[Blood Trail]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-013",
+      "name": "Burning Book of Barust"
+    }
   },
   {
     "card_id": "DRC-014",
@@ -2629,7 +3277,11 @@
         "type": "resonator token",
         "effect": "[Blood Trail]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-014",
+      "name": "Burning Damnation"
+    }
   },
   {
     "card_id": "DRC-026",
@@ -2645,7 +3297,11 @@
         "type": "resonator token",
         "effect": "[Vileborn] (2)"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-026",
+      "name": "Euryale, Bonechilling Demoness"
+    }
   },
   {
     "card_id": "DRC-036",
@@ -2661,7 +3317,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-036",
+      "name": "Belphegor's Rotten Skull's Censer"
+    }
   },
   {
     "card_id": "DRC-042",
@@ -2677,7 +3337,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-042",
+      "name": "Fungal Blast"
+    }
   },
   {
     "card_id": "DRC-044",
@@ -2693,7 +3357,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-044",
+      "name": "Mosshadow Devourer"
+    }
   },
   {
     "card_id": "DRC-047",
@@ -2709,7 +3377,11 @@
         "type": "resonator token",
         "effect": "\"When this card leaves the field >>> Gain a void will coin token.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-047",
+      "name": "Spore Cloud Glyph"
+    }
   },
   {
     "card_id": "DRC-057",
@@ -2725,7 +3397,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-057",
+      "name": "Neithardt, Guardian of Diabolos' Labyrinth"
+    }
   },
   {
     "card_id": "DRC-088",
@@ -2741,7 +3417,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-088",
+      "name": "The Halfblood Prodigy, Nero"
+    }
   },
   {
     "card_id": "DRC-100",
@@ -2757,7 +3437,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "DRC-100",
+      "name": "Velmardia's Threefold Plateau"
+    }
   },
   {
     "card_id": "ATD-009",
@@ -2773,7 +3457,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ATD-009",
+      "name": "Crystal Pinnacles, Refuge of the Sidhe"
+    }
   },
   {
     "card_id": "ATD-014",
@@ -2789,7 +3477,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "ATD-014",
+      "name": "Lady Ane Letoliel, Runic Knight"
+    }
   },
   {
     "card_id": "JRV-010",
@@ -2805,7 +3497,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRV-010",
+      "name": "Amon's Collar of Punishment"
+    }
   },
   {
     "card_id": "JRV-019",
@@ -2821,7 +3517,11 @@
         "type": "resonator token",
         "effect": "\"When this card is destroyed >>> It deals 400 damage to target player.\""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRV-019",
+      "name": "Prideful One, Amon"
+    }
   },
   {
     "card_id": "JRV-037",
@@ -2837,7 +3537,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRV-037",
+      "name": "Fungibian Spawn of the Eternal Infestation"
+    }
   },
   {
     "card_id": "JRV-044",
@@ -2853,7 +3557,11 @@
         "type": "resonator token",
         "effect": "four [+100/+100] counters on it"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRV-044",
+      "name": "Sporescourge Toad"
+    }
   },
   {
     "card_id": "JRV-046",
@@ -2869,7 +3577,11 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRV-046",
+      "name": "Agares, Feeding Corps Demon"
+    }
   },
   {
     "card_id": "JRV-055",
@@ -2885,7 +3597,11 @@
         "type": "resonator token",
         "effect": "[Flying] and [Bane]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRV-055",
+      "name": "Scepter of the Larvae of Beelzebub"
+    }
   },
   {
     "card_id": "JRV-065",
@@ -2901,7 +3617,11 @@
         "type": "resonator token",
         "effect": "[Blood Trail]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRV-065",
+      "name": "Shamhat, Exotic Dancer of White Flame"
+    }
   },
   {
     "card_id": "JRV-079",
@@ -2917,7 +3637,11 @@
         "type": "resonator token",
         "effect": ""
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRV-079",
+      "name": "Kamnaka, Bloodsilk Weaver"
+    }
   },
   {
     "card_id": "JRV-096",
@@ -2933,6 +3657,10 @@
         "type": "resonator token",
         "effect": "[Flying]"
       }
-    ]
+    ],
+    "card_info": {
+      "id": "JRV-096",
+      "name": "Eternal Pact with Beelzebub"
+    }
   }
 ]

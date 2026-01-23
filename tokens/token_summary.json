@@ -7,13 +7,28 @@
     "race": "Elf",
     "type": "resonator token",
     "first_set": "SDL4",
-    "created_by_count": 6,
+    "created_by_count": 7,
     "created_by": [
-      "Fiethsing, Six Sage of Wind",
-      "Wind Clad Elf",
-      "Portal in the Woods",
-      "Spirit Caller Elf",
-      "Tama, the Wind made Cat"
+      {
+        "id": "SDL4-002",
+        "name": "Fiethsing, Six Sage of Wind"
+      },
+      {
+        "id": "RDE-032",
+        "name": "Wind Clad Elf"
+      },
+      {
+        "id": "ACN-105",
+        "name": "Portal in the Woods"
+      },
+      {
+        "id": "ACN-106",
+        "name": "Spirit Caller Elf"
+      },
+      {
+        "id": "MP02-019",
+        "name": "Fiethsing, Six Sage of Wind"
+      }
     ],
     "image_url": "",
     "created": false
@@ -28,7 +43,10 @@
     "first_set": "LEL",
     "created_by_count": 1,
     "created_by": [
-      "Conjure Time Bomb"
+      {
+        "id": "LEL-012",
+        "name": "Conjure Time Bomb"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -44,8 +62,14 @@
     "first_set": "LEL",
     "created_by_count": 2,
     "created_by": [
-      "Fishing",
-      "Jiang Ziya, the Fisherman"
+      {
+        "id": "LEL-019",
+        "name": "Fishing"
+      },
+      {
+        "id": "LEL-020",
+        "name": "Jiang Ziya, the Fisherman"
+      }
     ],
     "image_url": "",
     "created": false
@@ -58,12 +82,28 @@
     "race": "Fantasy",
     "type": "resonator token",
     "first_set": "LEL",
-    "created_by_count": 4,
+    "created_by_count": 5,
     "created_by": [
-      "Illusion Wizard",
-      "Illusory Projection",
-      "Muul, the Town That Never Was",
-      "Plot of Water and Darkness"
+      {
+        "id": "LEL-063",
+        "name": "Illusion Wizard"
+      },
+      {
+        "id": "LEL-064",
+        "name": "Illusory Projection"
+      },
+      {
+        "id": "LEL-077",
+        "name": "Muul, the Town That Never Was"
+      },
+      {
+        "id": "LEL-080",
+        "name": "Plot of Water and Darkness"
+      },
+      {
+        "id": "MP02-130",
+        "name": "Muul, the Town That Never Was"
+      }
     ],
     "image_url": "",
     "created": false
@@ -78,7 +118,10 @@
     "first_set": "VIN003",
     "created_by_count": 1,
     "created_by": [
-      "Sylvia Gill Palarilias, Infernal Dragon"
+      {
+        "id": "VIN003-030",
+        "name": "Sylvia Gill Palarilias, Infernal Dragon"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -94,7 +137,10 @@
     "first_set": "VIN003",
     "created_by_count": 1,
     "created_by": [
-      "Kaguya, Guardian of the Moon"
+      {
+        "id": "VIN003-037",
+        "name": "Kaguya, Guardian of the Moon"
+      }
     ],
     "image_url": "",
     "created": false
@@ -109,7 +155,10 @@
     "first_set": "RDE",
     "created_by_count": 1,
     "created_by": [
-      "Schrödinger, the Cat in Flux"
+      {
+        "id": "RDE-080",
+        "name": "Schrödinger, the Cat in Flux"
+      }
     ],
     "image_url": "",
     "created": false
@@ -124,7 +173,10 @@
     "first_set": "ENW",
     "created_by_count": 1,
     "created_by": [
-      "Light Dragon's Egg"
+      {
+        "id": "ENW-006",
+        "name": "Light Dragon's Egg"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -140,7 +192,10 @@
     "first_set": "ENW",
     "created_by_count": 1,
     "created_by": [
-      "Light Dragon's Egg"
+      {
+        "id": "ENW-006",
+        "name": "Light Dragon's Egg"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -156,7 +211,10 @@
     "first_set": "ENW",
     "created_by_count": 1,
     "created_by": [
-      "Refarth's Wall of Flames"
+      {
+        "id": "ENW-030",
+        "name": "Refarth's Wall of Flames"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -172,7 +230,10 @@
     "first_set": "ENW",
     "created_by_count": 1,
     "created_by": [
-      "Dark Alice, Manifestation of Rage"
+      {
+        "id": "ENW-073",
+        "name": "Dark Alice, Manifestation of Rage"
+      }
     ],
     "image_url": "",
     "created": false
@@ -187,8 +248,14 @@
     "first_set": "ACN",
     "created_by_count": 2,
     "created_by": [
-      "Environmental Researcher, Fabre",
-      "Fire Dragon's Egg"
+      {
+        "id": "ACN-039",
+        "name": "Environmental Researcher, Fabre"
+      },
+      {
+        "id": "ACN-043",
+        "name": "Fire Dragon's Egg"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -204,7 +271,10 @@
     "first_set": "ACN",
     "created_by_count": 1,
     "created_by": [
-      "The Three Evil Little Pigs"
+      {
+        "id": "ACN-137",
+        "name": "The Three Evil Little Pigs"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -220,7 +290,10 @@
     "first_set": "ACN",
     "created_by_count": 1,
     "created_by": [
-      "Statue in the Sacred Temple"
+      {
+        "id": "ACN-147",
+        "name": "Statue in the Sacred Temple"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -234,12 +307,28 @@
     "race": "Cat",
     "type": "resonator token",
     "first_set": "SDV4",
-    "created_by_count": 4,
+    "created_by_count": 5,
     "created_by": [
-      "Chiyome, the Captivating Kunoichi",
-      "Cat Ninja Scout",
-      "Caith Sith",
-      "Calico Cat Shikigami"
+      {
+        "id": "SDV4-002",
+        "name": "Chiyome, the Captivating Kunoichi"
+      },
+      {
+        "id": "NDR-062",
+        "name": "Cat Ninja Scout"
+      },
+      {
+        "id": "DBV-058",
+        "name": "Caith Sith"
+      },
+      {
+        "id": "DBV-059",
+        "name": "Calico Cat Shikigami"
+      },
+      {
+        "id": "DBV-061",
+        "name": "Chiyome, the Captivating Kunoichi"
+      }
     ],
     "image_url": "",
     "created": false
@@ -252,11 +341,28 @@
     "race": "Skeleton",
     "type": "resonator token",
     "first_set": "SDV5",
-    "created_by_count": 3,
+    "created_by_count": 6,
     "created_by": [
-      "Skeleton Horde",
-      "Bottomless Chasm of Death, the Abyss",
-      "Doubt, Priest of the Dark Truths"
+      {
+        "id": "SDV5-016",
+        "name": "Skeleton Horde"
+      },
+      {
+        "id": "NDR-084",
+        "name": "Bottomless Chasm of Death, the Abyss"
+      },
+      {
+        "id": "DBV-085",
+        "name": "Skeleton Horde"
+      },
+      {
+        "id": "ABC-SD04-019",
+        "name": "Doubt, Priest of the Dark Truths"
+      },
+      {
+        "id": "ABC-SD10-015",
+        "name": "Doubt, Priest of the Dark Truths"
+      }
     ],
     "image_url": "",
     "created": false
@@ -271,7 +377,10 @@
     "first_set": "NDR",
     "created_by_count": 1,
     "created_by": [
-      "Bottomless Chasm of Death, the Abyss"
+      {
+        "id": "NDR-084",
+        "name": "Bottomless Chasm of Death, the Abyss"
+      }
     ],
     "image_url": "",
     "created": false
@@ -286,7 +395,10 @@
     "first_set": "SNV",
     "created_by_count": 1,
     "created_by": [
-      "Orchard of the Immortals"
+      {
+        "id": "SNV-093",
+        "name": "Orchard of the Immortals"
+      }
     ],
     "image_url": "",
     "created": false
@@ -299,9 +411,16 @@
     "race": "Zombie",
     "type": "resonator token",
     "first_set": "SNV",
-    "created_by_count": 1,
+    "created_by_count": 2,
     "created_by": [
-      "Orpheus, the Immortal Player"
+      {
+        "id": "SNV-094",
+        "name": "Orpheus, the Immortal Player"
+      },
+      {
+        "id": "ABC-SD10-038",
+        "name": "Orpheus, the Immortal Player"
+      }
     ],
     "image_url": "",
     "created": false
@@ -316,7 +435,10 @@
     "first_set": "SDAO1",
     "created_by_count": 1,
     "created_by": [
-      "Melgis"
+      {
+        "id": "SDAO1-028",
+        "name": "Melgis"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -332,8 +454,14 @@
     "first_set": "SDAO2",
     "created_by_count": 2,
     "created_by": [
-      "Pricia",
-      "Super Beast Burning Rush!"
+      {
+        "id": "SDAO2-028",
+        "name": "Pricia"
+      },
+      {
+        "id": "AO2-052",
+        "name": "Super Beast Burning Rush!"
+      }
     ],
     "image_url": "",
     "created": false
@@ -348,9 +476,18 @@
     "first_set": "AO2",
     "created_by_count": 3,
     "created_by": [
-      "Twin Robots",
-      "Mariabella's Recycling Robot",
-      "Titor's Gimmick"
+      {
+        "id": "AO2-020",
+        "name": "Twin Robots"
+      },
+      {
+        "id": "AO2-047",
+        "name": "Mariabella's Recycling Robot"
+      },
+      {
+        "id": "GRL-037",
+        "name": "Titor's Gimmick"
+      }
     ],
     "image_url": "",
     "created": false
@@ -365,7 +502,10 @@
     "first_set": "AO3",
     "created_by_count": 1,
     "created_by": [
-      "Reflect's Summoning"
+      {
+        "id": "AO3-022",
+        "name": "Reflect's Summoning"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -381,7 +521,10 @@
     "first_set": "AO3",
     "created_by_count": 1,
     "created_by": [
-      "Refrain's Summoning"
+      {
+        "id": "AO3-031",
+        "name": "Refrain's Summoning"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -395,9 +538,16 @@
     "race": "Zombie",
     "type": "resonator token",
     "first_set": "AO3",
-    "created_by_count": 1,
+    "created_by_count": 2,
     "created_by": [
-      "Awakening of the Undead Lord"
+      {
+        "id": "AO3-058",
+        "name": "Awakening of the Undead Lord"
+      },
+      {
+        "id": "ABC-SD10-007",
+        "name": "Awakening of the Undead Lord"
+      }
     ],
     "image_url": "",
     "created": false
@@ -412,7 +562,10 @@
     "first_set": "EDL",
     "created_by_count": 1,
     "created_by": [
-      "Silmeria, Summoner of Spirits"
+      {
+        "id": "EDL-012",
+        "name": "Silmeria, Summoner of Spirits"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -428,7 +581,10 @@
     "first_set": "EDL",
     "created_by_count": 1,
     "created_by": [
-      "Monstrous Rush"
+      {
+        "id": "EDL-066",
+        "name": "Monstrous Rush"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -444,7 +600,10 @@
     "first_set": "EDL",
     "created_by_count": 1,
     "created_by": [
-      "Monstrous Rush"
+      {
+        "id": "EDL-066",
+        "name": "Monstrous Rush"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -460,7 +619,10 @@
     "first_set": "EDL",
     "created_by_count": 1,
     "created_by": [
-      "Monstrous Rush"
+      {
+        "id": "EDL-066",
+        "name": "Monstrous Rush"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -474,13 +636,28 @@
     "race": "Zombie",
     "type": "resonator token",
     "first_set": "EDL",
-    "created_by_count": 5,
+    "created_by_count": 8,
     "created_by": [
-      "Frightened Villager",
-      "Interdimensional Graveyard",
-      "Lord of the Undead",
-      "Graveyard Keeper of the Demonic World",
-      "The Essence of Athenia's Power"
+      {
+        "id": "EDL-081",
+        "name": "Frightened Villager"
+      },
+      {
+        "id": "EDL-083",
+        "name": "Interdimensional Graveyard"
+      },
+      {
+        "id": "EDL-086",
+        "name": "Lord of the Undead"
+      },
+      {
+        "id": "TST-057",
+        "name": "Graveyard Keeper of the Demonic World"
+      },
+      {
+        "id": "GRV-062",
+        "name": "The Essence of Athenia's Power"
+      }
     ],
     "image_url": "",
     "created": false
@@ -495,7 +672,10 @@
     "first_set": "ADW",
     "created_by_count": 1,
     "created_by": [
-      "Fish Drive"
+      {
+        "id": "ADW-034",
+        "name": "Fish Drive"
+      }
     ],
     "image_url": "",
     "created": false
@@ -510,7 +690,10 @@
     "first_set": "ADW",
     "created_by_count": 1,
     "created_by": [
-      "Call from the Depths"
+      {
+        "id": "ADW-079",
+        "name": "Call from the Depths"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -524,13 +707,28 @@
     "race": "Fallen Angel",
     "type": "resonator token",
     "first_set": "TST",
-    "created_by_count": 6,
+    "created_by_count": 11,
     "created_by": [
-      "Belial's Hymn",
-      "Belial's Messenger",
-      "Choir of Fallen Angels",
-      "Prideful Rule",
-      "Castle of Belial"
+      {
+        "id": "TST-002",
+        "name": "Belial's Hymn"
+      },
+      {
+        "id": "TST-003",
+        "name": "Belial's Messenger"
+      },
+      {
+        "id": "TST-005",
+        "name": "Choir of Fallen Angels"
+      },
+      {
+        "id": "TST-009",
+        "name": "Prideful Rule"
+      },
+      {
+        "id": "TST-079",
+        "name": "Castle of Belial"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -544,11 +742,24 @@
     "race": "Angel",
     "type": "resonator token",
     "first_set": "TST",
-    "created_by_count": 3,
+    "created_by_count": 4,
     "created_by": [
-      "Angel of False Glory",
-      "Skadi, Evil-Piercer Spear",
-      "Velmardia's Threefold Plateau"
+      {
+        "id": "TST-065",
+        "name": "Angel of False Glory"
+      },
+      {
+        "id": "ABC-SD04-005",
+        "name": "Angel of False Glory"
+      },
+      {
+        "id": "ESD2-013",
+        "name": "Skadi, Evil-Piercer Spear"
+      },
+      {
+        "id": "DRC-100",
+        "name": "Velmardia's Threefold Plateau"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -564,7 +775,10 @@
     "first_set": "TST",
     "created_by_count": 1,
     "created_by": [
-      "Satan"
+      {
+        "id": "TST-094",
+        "name": "Satan"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -580,7 +794,10 @@
     "first_set": "GOG",
     "created_by_count": 1,
     "created_by": [
-      "Rebirth of Flaming Disaster"
+      {
+        "id": "GOG-027",
+        "name": "Rebirth of Flaming Disaster"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -596,7 +813,10 @@
     "first_set": "GRL",
     "created_by_count": 1,
     "created_by": [
-      "Phantom Beastmaster of Ma'at"
+      {
+        "id": "GRL-012",
+        "name": "Phantom Beastmaster of Ma'at"
+      }
     ],
     "image_url": "",
     "created": false
@@ -611,7 +831,10 @@
     "first_set": "GRV",
     "created_by_count": 1,
     "created_by": [
-      "The Essence of Alice's Power"
+      {
+        "id": "GRV-004",
+        "name": "The Essence of Alice's Power"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -627,7 +850,10 @@
     "first_set": "GRV",
     "created_by_count": 1,
     "created_by": [
-      "The Essence of Odin's Power"
+      {
+        "id": "GRV-005",
+        "name": "The Essence of Odin's Power"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -643,7 +869,10 @@
     "first_set": "GRV",
     "created_by_count": 1,
     "created_by": [
-      "The Essence of Dragon Flame's Power"
+      {
+        "id": "GRV-022",
+        "name": "The Essence of Dragon Flame's Power"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -659,7 +888,10 @@
     "first_set": "GRV",
     "created_by_count": 1,
     "created_by": [
-      "The Essence of Nyarlathotep's Power"
+      {
+        "id": "GRV-023",
+        "name": "The Essence of Nyarlathotep's Power"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -675,7 +907,10 @@
     "first_set": "GRV",
     "created_by_count": 1,
     "created_by": [
-      "The Essence of Deus Ex Machina's Power"
+      {
+        "id": "GRV-034",
+        "name": "The Essence of Deus Ex Machina's Power"
+      }
     ],
     "image_url": "",
     "created": false
@@ -690,7 +925,10 @@
     "first_set": "GRV",
     "created_by_count": 1,
     "created_by": [
-      "The Essence of Loki's Power"
+      {
+        "id": "GRV-035",
+        "name": "The Essence of Loki's Power"
+      }
     ],
     "image_url": "",
     "created": false
@@ -705,7 +943,10 @@
     "first_set": "GRV",
     "created_by_count": 1,
     "created_by": [
-      "The Essence of Kaguya's Power"
+      {
+        "id": "GRV-044",
+        "name": "The Essence of Kaguya's Power"
+      }
     ],
     "image_url": "",
     "created": false
@@ -720,7 +961,10 @@
     "first_set": "GRV",
     "created_by_count": 1,
     "created_by": [
-      "The Essence of Shiva's Power"
+      {
+        "id": "GRV-045",
+        "name": "The Essence of Shiva's Power"
+      }
     ],
     "image_url": "",
     "created": false
@@ -733,11 +977,24 @@
     "race": "Machine",
     "type": "resonator token",
     "first_set": "GRV",
-    "created_by_count": 3,
+    "created_by_count": 4,
     "created_by": [
-      "Arena Expansion: Mount Othrys",
-      "Mechanized Children of Chronos",
-      "Mechanized Children of Gaia"
+      {
+        "id": "GRV-048",
+        "name": "Arena Expansion: Mount Othrys"
+      },
+      {
+        "id": "GRV-055",
+        "name": "Mechanized Children of Chronos"
+      },
+      {
+        "id": "GRV-056",
+        "name": "Mechanized Children of Gaia"
+      },
+      {
+        "id": "ABC-SD09-007",
+        "name": "Arena Expansion: Mount Othrys"
+      }
     ],
     "image_url": "",
     "created": false
@@ -752,7 +1009,10 @@
     "first_set": "GRV",
     "created_by_count": 1,
     "created_by": [
-      "The Essence of Dante's Power"
+      {
+        "id": "GRV-063",
+        "name": "The Essence of Dante's Power"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -766,10 +1026,24 @@
     "race": "Hero",
     "type": "resonator token",
     "first_set": "HSD",
-    "created_by_count": 2,
+    "created_by_count": 4,
     "created_by": [
-      "Deathspeaker Monk",
-      "Hero Reincarnation"
+      {
+        "id": "HSD-013",
+        "name": "Deathspeaker Monk"
+      },
+      {
+        "id": "NWE-034",
+        "name": "Deathspeaker Monk"
+      },
+      {
+        "id": "NWE-054",
+        "name": "Hero Reincarnation"
+      },
+      {
+        "id": "ABC-SD07-025",
+        "name": "Hero Reincarnation"
+      }
     ],
     "image_url": "",
     "created": false
@@ -784,7 +1058,10 @@
     "first_set": "NWE",
     "created_by_count": 1,
     "created_by": [
-      "Typhon, Asteroid Cluster"
+      {
+        "id": "NWE-100",
+        "name": "Typhon, Asteroid Cluster"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -800,7 +1077,10 @@
     "first_set": "TWS",
     "created_by_count": 1,
     "created_by": [
-      "Flighter of the Underground Fighting Arena"
+      {
+        "id": "TWS-025",
+        "name": "Flighter of the Underground Fighting Arena"
+      }
     ],
     "image_url": "",
     "created": false
@@ -813,13 +1093,28 @@
     "race": "Fairy",
     "type": "resonator token",
     "first_set": "CST",
-    "created_by_count": 7,
+    "created_by_count": 8,
     "created_by": [
-      "Dominatus, Star Gladius",
-      "Tina, Virtuous Stella",
-      "Girl's Staring at...",
-      "White Fairy Flower",
-      "Fairy Twins"
+      {
+        "id": "CST-002",
+        "name": "Dominatus, Star Gladius"
+      },
+      {
+        "id": "CST-002J",
+        "name": "Tina, Virtuous Stella"
+      },
+      {
+        "id": "CST-006",
+        "name": "Girl's Staring at..."
+      },
+      {
+        "id": "CST-010",
+        "name": "White Fairy Flower"
+      },
+      {
+        "id": "CST-011",
+        "name": "Fairy Twins"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -833,9 +1128,16 @@
     "race": "Dinosaur",
     "type": "resonator token",
     "first_set": "CST",
-    "created_by_count": 1,
+    "created_by_count": 2,
     "created_by": [
-      "Ki Lua, Shooting Star of Wind"
+      {
+        "id": "CST-050",
+        "name": "Ki Lua, Shooting Star of Wind"
+      },
+      {
+        "id": "ABC-SD06-034",
+        "name": "Ki Lua, Shooting Star of Wind"
+      }
     ],
     "image_url": "",
     "created": false
@@ -850,9 +1152,18 @@
     "first_set": "CST",
     "created_by_count": 3,
     "created_by": [
-      "Stein, Deathly Star",
-      "Purun, Fairy of Possessing Darkness",
-      "Malefic Tree Necromancer"
+      {
+        "id": "CST-059J",
+        "name": "Stein, Deathly Star"
+      },
+      {
+        "id": "CST-066",
+        "name": "Purun, Fairy of Possessing Darkness"
+      },
+      {
+        "id": "CST-069",
+        "name": "Malefic Tree Necromancer"
+      }
     ],
     "image_url": "",
     "created": false
@@ -865,9 +1176,16 @@
     "race": "Ethereal",
     "type": "resonator token",
     "first_set": "CST",
-    "created_by_count": 1,
+    "created_by_count": 2,
     "created_by": [
-      "Reinhardt, Shooting Star of Darkness"
+      {
+        "id": "CST-064",
+        "name": "Reinhardt, Shooting Star of Darkness"
+      },
+      {
+        "id": "ABC-SD10-043",
+        "name": "Reinhardt, Shooting Star of Darkness"
+      }
     ],
     "image_url": "",
     "created": false
@@ -880,9 +1198,16 @@
     "race": "Avatar",
     "type": "resonator token",
     "first_set": "CST",
-    "created_by_count": 1,
+    "created_by_count": 2,
     "created_by": [
-      "King's Hopeful Gleam"
+      {
+        "id": "CST-077",
+        "name": "King's Hopeful Gleam"
+      },
+      {
+        "id": "ABC-SD01-038",
+        "name": "King's Hopeful Gleam"
+      }
     ],
     "image_url": "",
     "created": false
@@ -897,7 +1222,10 @@
     "first_set": "JRP",
     "created_by_count": 1,
     "created_by": [
-      "Dominatus, Solarised Gladius"
+      {
+        "id": "JRP-005",
+        "name": "Dominatus, Solarised Gladius"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -913,7 +1241,10 @@
     "first_set": "JRP",
     "created_by_count": 1,
     "created_by": [
-      "Dominatus Chronogear"
+      {
+        "id": "JRP-006",
+        "name": "Dominatus Chronogear"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -929,7 +1260,10 @@
     "first_set": "JRP",
     "created_by_count": 1,
     "created_by": [
-      "Tigre Plateado Chronogear"
+      {
+        "id": "JRP-045",
+        "name": "Tigre Plateado Chronogear"
+      }
     ],
     "image_url": "",
     "created": false
@@ -944,7 +1278,10 @@
     "first_set": "JRP",
     "created_by_count": 1,
     "created_by": [
-      "Ark's Gearsatellite"
+      {
+        "id": "JRP-089",
+        "name": "Ark's Gearsatellite"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -960,7 +1297,10 @@
     "first_set": "JRP",
     "created_by_count": 1,
     "created_by": [
-      "Song of Eternal Serenity"
+      {
+        "id": "JRP-102",
+        "name": "Song of Eternal Serenity"
+      }
     ],
     "image_url": "",
     "created": false
@@ -975,7 +1315,10 @@
     "first_set": "JRP",
     "created_by_count": 1,
     "created_by": [
-      "Imitation: Adam"
+      {
+        "id": "JRP-106",
+        "name": "Imitation: Adam"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -991,9 +1334,18 @@
     "first_set": "MP01",
     "created_by_count": 3,
     "created_by": [
-      "Fate of the Girl",
-      "Ghost of Orleans",
-      "Executioner of Orleans"
+      {
+        "id": "MP01-031",
+        "name": "Fate of the Girl"
+      },
+      {
+        "id": "MP01-032",
+        "name": "Ghost of Orleans"
+      },
+      {
+        "id": "MP01-033",
+        "name": "Executioner of Orleans"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1008,7 +1360,10 @@
     "first_set": "MP01",
     "created_by_count": 1,
     "created_by": [
-      "Defiled Scripture"
+      {
+        "id": "MP01-129",
+        "name": "Defiled Scripture"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1023,7 +1378,10 @@
     "first_set": "TSR",
     "created_by_count": 1,
     "created_by": [
-      "Om So Hum"
+      {
+        "id": "TSR-011",
+        "name": "Om So Hum"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1038,7 +1396,10 @@
     "first_set": "TSR",
     "created_by_count": 1,
     "created_by": [
-      "Aideen, the Fighting Doctor"
+      {
+        "id": "TSR-063",
+        "name": "Aideen, the Fighting Doctor"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1054,7 +1415,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Lunar C-38, Cruiser Tank"
+      {
+        "id": "TEU-004",
+        "name": "Lunar C-38, Cruiser Tank"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1069,7 +1433,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Claimed by the Depths"
+      {
+        "id": "TEU-020",
+        "name": "Claimed by the Depths"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1085,7 +1452,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Unfavorable Winds"
+      {
+        "id": "TEU-035",
+        "name": "Unfavorable Winds"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1100,7 +1470,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Dusk Knight's Brigade"
+      {
+        "id": "TEU-037",
+        "name": "Dusk Knight's Brigade"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1115,7 +1488,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Accursed Touch of Moon Butterflies"
+      {
+        "id": "TEU-054",
+        "name": "Accursed Touch of Moon Butterflies"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1131,7 +1507,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Lunar Throne of the Light Palace"
+      {
+        "id": "TEU-069",
+        "name": "Lunar Throne of the Light Palace"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1147,7 +1526,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Lyka, Tigermorphed"
+      {
+        "id": "TEU-070J",
+        "name": "Lyka, Tigermorphed"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1163,7 +1545,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Phasmophobia"
+      {
+        "id": "TEU-074",
+        "name": "Phasmophobia"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1178,7 +1563,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Queen's Alabaster, Flying Bastion"
+      {
+        "id": "TEU-075",
+        "name": "Queen's Alabaster, Flying Bastion"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1194,7 +1582,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Scybdis, Terrors from the Depths"
+      {
+        "id": "TEU-079",
+        "name": "Scybdis, Terrors from the Depths"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1210,7 +1601,10 @@
     "first_set": "TEU",
     "created_by_count": 1,
     "created_by": [
-      "Woewillow, Shepherd of Saplings"
+      {
+        "id": "TEU-089",
+        "name": "Woewillow, Shepherd of Saplings"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1226,7 +1620,10 @@
     "first_set": "TOP",
     "created_by_count": 1,
     "created_by": [
-      "Bioluminiscent Broodmother"
+      {
+        "id": "TOP-063",
+        "name": "Bioluminiscent Broodmother"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1242,7 +1639,10 @@
     "first_set": "TOP",
     "created_by_count": 1,
     "created_by": [
-      "Hunter of the Maws"
+      {
+        "id": "TOP-079",
+        "name": "Hunter of the Maws"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1258,7 +1658,10 @@
     "first_set": "TOP",
     "created_by_count": 1,
     "created_by": [
-      "Sinister Assimilation"
+      {
+        "id": "TOP-092",
+        "name": "Sinister Assimilation"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1271,9 +1674,16 @@
     "race": "Spirit, Woodfolk",
     "type": "resonator token",
     "first_set": "ABC",
-    "created_by_count": 1,
+    "created_by_count": 2,
     "created_by": [
-      "Quercus, the Living Oak"
+      {
+        "id": "ABC-SD03-036",
+        "name": "Quercus, the Living Oak"
+      },
+      {
+        "id": "ABC-SD08-044",
+        "name": "Quercus, the Living Oak"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1289,7 +1699,10 @@
     "first_set": "ABC",
     "created_by_count": 1,
     "created_by": [
-      "Silmeria, Summoner of Spirits"
+      {
+        "id": "ABC-SD03-040",
+        "name": "Silmeria, Summoner of Spirits"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1305,7 +1718,10 @@
     "first_set": "ABC",
     "created_by_count": 1,
     "created_by": [
-      "Divine Beast of Re-Earth"
+      {
+        "id": "ABC-SD06-015",
+        "name": "Divine Beast of Re-Earth"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1321,7 +1737,10 @@
     "first_set": "MP02",
     "created_by_count": 1,
     "created_by": [
-      "The Locked Glass Tomb"
+      {
+        "id": "MP02-084",
+        "name": "The Locked Glass Tomb"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1336,7 +1755,10 @@
     "first_set": "MP02",
     "created_by_count": 1,
     "created_by": [
-      "Uranus, Arcanist of the Freedom Star"
+      {
+        "id": "MP02-092",
+        "name": "Uranus, Arcanist of the Freedom Star"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1351,7 +1773,10 @@
     "first_set": "MP02",
     "created_by_count": 1,
     "created_by": [
-      "Neptune, Illusionist of the Dream Star"
+      {
+        "id": "MP02-093",
+        "name": "Neptune, Illusionist of the Dream Star"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1366,7 +1791,10 @@
     "first_set": "MP02",
     "created_by_count": 1,
     "created_by": [
-      "Pluto, Necromancer of the Destruction Star"
+      {
+        "id": "MP02-094",
+        "name": "Pluto, Necromancer of the Destruction Star"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1381,7 +1809,10 @@
     "first_set": "MP02",
     "created_by_count": 1,
     "created_by": [
-      "Conjure Time Bomb"
+      {
+        "id": "MP02-098",
+        "name": "Conjure Time Bomb"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1396,7 +1827,10 @@
     "first_set": "MP02",
     "created_by_count": 1,
     "created_by": [
-      "The Empty Throne of Millennia"
+      {
+        "id": "MP02-122",
+        "name": "The Empty Throne of Millennia"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1411,7 +1845,10 @@
     "first_set": "MP02",
     "created_by_count": 1,
     "created_by": [
-      "Valravn, Consumer of Hearts"
+      {
+        "id": "MP02-135",
+        "name": "Valravn, Consumer of Hearts"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1426,7 +1863,10 @@
     "first_set": "ESD1",
     "created_by_count": 1,
     "created_by": [
-      "Eaten Alive"
+      {
+        "id": "ESD1-011",
+        "name": "Eaten Alive"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1441,7 +1881,10 @@
     "first_set": "ESD1",
     "created_by_count": 1,
     "created_by": [
-      "Glyph of Neverending Sorrow"
+      {
+        "id": "ESD1-012",
+        "name": "Glyph of Neverending Sorrow"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1456,9 +1899,18 @@
     "first_set": "ESD2",
     "created_by_count": 3,
     "created_by": [
-      "Knight-Captain of Velmardia",
-      "Knight of the Setting Sun, Lionel",
-      "Knight Blessed by the Sun"
+      {
+        "id": "ESD2-002",
+        "name": "Knight-Captain of Velmardia"
+      },
+      {
+        "id": "ESD2-015",
+        "name": "Knight of the Setting Sun, Lionel"
+      },
+      {
+        "id": "DRC-005",
+        "name": "Knight Blessed by the Sun"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1473,7 +1925,10 @@
     "first_set": "DRC",
     "created_by_count": 1,
     "created_by": [
-      "Defenders of the Lower Plateau Wall"
+      {
+        "id": "DRC-002",
+        "name": "Defenders of the Lower Plateau Wall"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1489,7 +1944,10 @@
     "first_set": "DRC",
     "created_by_count": 1,
     "created_by": [
-      "Envoy of the Goddess, Hutriel"
+      {
+        "id": "DRC-004",
+        "name": "Envoy of the Goddess, Hutriel"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1504,7 +1962,10 @@
     "first_set": "DRC",
     "created_by_count": 1,
     "created_by": [
-      "Envoy of the Goddess, Hutriel"
+      {
+        "id": "DRC-004",
+        "name": "Envoy of the Goddess, Hutriel"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1520,8 +1981,14 @@
     "first_set": "DRC",
     "created_by_count": 2,
     "created_by": [
-      "Burning Book of Barust",
-      "Burning Damnation"
+      {
+        "id": "DRC-013",
+        "name": "Burning Book of Barust"
+      },
+      {
+        "id": "DRC-014",
+        "name": "Burning Damnation"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1537,7 +2004,10 @@
     "first_set": "DRC",
     "created_by_count": 1,
     "created_by": [
-      "Euryale, Bonechilling Demoness"
+      {
+        "id": "DRC-026",
+        "name": "Euryale, Bonechilling Demoness"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1553,9 +2023,18 @@
     "first_set": "DRC",
     "created_by_count": 3,
     "created_by": [
-      "Belphegor's Rotten Skull's Censer",
-      "Fungal Blast",
-      "Mosshadow Devourer"
+      {
+        "id": "DRC-036",
+        "name": "Belphegor's Rotten Skull's Censer"
+      },
+      {
+        "id": "DRC-042",
+        "name": "Fungal Blast"
+      },
+      {
+        "id": "DRC-044",
+        "name": "Mosshadow Devourer"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1570,7 +2049,10 @@
     "first_set": "DRC",
     "created_by_count": 1,
     "created_by": [
-      "Spore Cloud Glyph"
+      {
+        "id": "DRC-047",
+        "name": "Spore Cloud Glyph"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1586,7 +2068,10 @@
     "first_set": "DRC",
     "created_by_count": 1,
     "created_by": [
-      "Neithardt, Guardian of Diabolos' Labyrinth"
+      {
+        "id": "DRC-057",
+        "name": "Neithardt, Guardian of Diabolos' Labyrinth"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1601,7 +2086,10 @@
     "first_set": "DRC",
     "created_by_count": 1,
     "created_by": [
-      "The Halfblood Prodigy, Nero"
+      {
+        "id": "DRC-088",
+        "name": "The Halfblood Prodigy, Nero"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1616,7 +2104,10 @@
     "first_set": "ATD",
     "created_by_count": 1,
     "created_by": [
-      "Crystal Pinnacles, Refuge of the Sidhe"
+      {
+        "id": "ATD-009",
+        "name": "Crystal Pinnacles, Refuge of the Sidhe"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1631,7 +2122,10 @@
     "first_set": "JRV",
     "created_by_count": 1,
     "created_by": [
-      "Amon's Collar of Punishment"
+      {
+        "id": "JRV-010",
+        "name": "Amon's Collar of Punishment"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1646,7 +2140,10 @@
     "first_set": "JRV",
     "created_by_count": 1,
     "created_by": [
-      "Prideful One, Amon"
+      {
+        "id": "JRV-019",
+        "name": "Prideful One, Amon"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1662,7 +2159,10 @@
     "first_set": "JRV",
     "created_by_count": 1,
     "created_by": [
-      "Fungibian Spawn of the Eternal Infestation"
+      {
+        "id": "JRV-037",
+        "name": "Fungibian Spawn of the Eternal Infestation"
+      }
     ],
     "image_url": "",
     "created": false
@@ -1677,7 +2177,10 @@
     "first_set": "JRV",
     "created_by_count": 1,
     "created_by": [
-      "Sporescourge Toad"
+      {
+        "id": "JRV-044",
+        "name": "Sporescourge Toad"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1693,8 +2196,14 @@
     "first_set": "JRV",
     "created_by_count": 2,
     "created_by": [
-      "Agares, Feeding Corps Demon",
-      "Eternal Pact with Beelzebub"
+      {
+        "id": "JRV-046",
+        "name": "Agares, Feeding Corps Demon"
+      },
+      {
+        "id": "JRV-096",
+        "name": "Eternal Pact with Beelzebub"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1710,7 +2219,10 @@
     "first_set": "JRV",
     "created_by_count": 1,
     "created_by": [
-      "Scepter of the Larvae of Beelzebub"
+      {
+        "id": "JRV-055",
+        "name": "Scepter of the Larvae of Beelzebub"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1726,7 +2238,10 @@
     "first_set": "JRV",
     "created_by_count": 1,
     "created_by": [
-      "Shamhat, Exotic Dancer of White Flame"
+      {
+        "id": "JRV-065",
+        "name": "Shamhat, Exotic Dancer of White Flame"
+      }
     ],
     "image_url": "",
     "created": false,
@@ -1742,7 +2257,10 @@
     "first_set": "JRV",
     "created_by_count": 1,
     "created_by": [
-      "Kamnaka, Bloodsilk Weaver"
+      {
+        "id": "JRV-079",
+        "name": "Kamnaka, Bloodsilk Weaver"
+      }
     ],
     "image_url": "",
     "created": false

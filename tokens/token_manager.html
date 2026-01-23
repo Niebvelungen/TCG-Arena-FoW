@@ -238,6 +238,17 @@
             margin-top: 8px;
         }
 
+        .created-by a {
+            color: #60a5fa;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .created-by a:hover {
+            color: #93c5fd;
+            text-decoration: underline;
+        }
+
         .hidden {
             display: none !important;
         }
@@ -323,6 +334,22 @@
     <script>
         let tokens = [];
         let currentFilter = 'all';
+        const FOW_BASE_URL = 'https://www.forceofwind.online/card/';
+
+        function formatCreatedBy(createdBy) {
+            if (!createdBy || createdBy.length === 0) return '';
+
+            return createdBy.map(card => {
+                // Handle both old format (string) and new format (object with id/name)
+                if (typeof card === 'string') {
+                    return card;
+                } else if (card.id && card.name) {
+                    const url = FOW_BASE_URL + encodeURIComponent(card.id) + '/';
+                    return `<a href="${url}" target="_blank" title="${card.id}">${card.name}</a>`;
+                }
+                return '';
+            }).join(', ');
+        }
 
         // Load tokens from localStorage or fetch from file
         async function init() {
@@ -373,7 +400,7 @@
                         ${token.image_url ? `<img src="${token.image_url}" class="image-preview" onerror="this.style.display='none'">` : ''}
                         <input type="text" placeholder="Enter image URL..." value="${token.image_url || ''}" onchange="updateImageUrl(${index}, this.value)">
                     </div>
-                    <div class="created-by">Created by: ${token.created_by.join(', ')}</div>
+                    <div class="created-by">Created by: ${formatCreatedBy(token.created_by)}</div>
                 `;
                 list.appendChild(card);
             });
