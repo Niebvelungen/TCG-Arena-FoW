@@ -5,9 +5,20 @@ import os
 import argparse
 
 CACHE_FILE = "image_cache.json"
+CUSTOM_CARDS_FILE = "custom_cards.json"
 S3_BASE_URL = "https://fowsim.s3.amazonaws.com/media/cards/"
 FALLBACK_BASE_URL = "https://www.forceofwind.online/card/"
 PLACEHOLDER_IMAGE = "https://fowsim.s3.amazonaws.com/static/img/none.000fb66afe5c.png"
+
+def load_custom_cards(custom_file):
+    """Load custom cards from file to prepend to output"""
+    if os.path.exists(custom_file):
+        try:
+            with open(custom_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError):
+            return {}
+    return {}
 
 def load_image_cache(cache_file):
     """Load image cache from file"""
@@ -161,7 +172,11 @@ def convert_cards(input_file, output_file, check_images=True):
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    output = {}
+    # Load custom cards first (they go at the front of output)
+    output = load_custom_cards(CUSTOM_CARDS_FILE)
+    if output:
+        print(f"Loaded {len(output)} custom cards from {CUSTOM_CARDS_FILE}")
+
     missing_images = []  # Track cards without images
 
     # Load image cache

@@ -1,0 +1,27 @@
+{
+  "Will-Coin-01": {
+    "id": "Will-Coin-01",
+    "name": "Will Coin",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Will Coin",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Will-Coin-RS.png"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Token",
+    "Color identity": [
+      "V"
+    ],
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  }
+}
