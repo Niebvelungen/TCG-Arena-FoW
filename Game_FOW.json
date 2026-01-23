@@ -51,7 +51,8 @@
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": false
+        "sharedTurn": false,
+        "drawPerTurn": "0"
       },
       "countersStartingValues": [
         40,
