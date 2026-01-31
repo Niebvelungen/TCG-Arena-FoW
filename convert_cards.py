@@ -238,8 +238,8 @@ def convert_cards(input_file, output_file, check_images=True):
                     base_id = card_id[:-1] if (is_j_card or is_star_card) else card_id
 
                     if is_j_card:
-                        # Add as backface to existing card (J-Ruler back face)
                         if base_id in output:
+                            # Add as backface to existing card (J-Ruler back face)
                             card_types = card.get('type', [])
                             output[base_id]['face']['back'] = {
                                 'name': card.get('name', ''),
@@ -257,6 +257,44 @@ def convert_cards(input_file, output_file, check_images=True):
                                 output[base_id]['face']['back']['DEF'] = def_val if def_val else ''
                                 output[base_id]['ATK'] = atk if atk else ''
                                 output[base_id]['DEF'] = def_val if def_val else ''
+                        else:
+                            # J-card without a base card - add as standalone with J-card as front
+                            card_types = card.get('type', [])
+                            card_type = get_card_type(card_types)
+                            colours = card.get('colour', [])
+                            horizontal = is_horizontal(card_types)
+
+                            card_entry = {
+                                'id': card_id,
+                                'name': card.get('name', ''),
+                                'type': card_type,
+                                'face': {
+                                    'front': {
+                                        'name': card.get('name', ''),
+                                        'type': card_type,
+                                        'cost': parse_cost(card.get('cost', '')),
+                                        'isHorizontal': horizontal,
+                                        'image': image_url
+                                    }
+                                },
+                                'Colors': colours,
+                                'Card type': ' - '.join(card_types) if card_types else '',
+                                'Color identity': colours,
+                                'set': set_code,
+                                'isHorizontal': horizontal,
+                                'cost': parse_cost(card.get('cost', ''))
+                            }
+
+                            # Add ATK/DEF if it's a Resonator
+                            if is_resonator(card_types):
+                                atk = card.get('ATK', '')
+                                def_val = card.get('DEF', '')
+                                card_entry['ATK'] = atk if atk else ''
+                                card_entry['DEF'] = def_val if def_val else ''
+                                card_entry['face']['front']['ATK'] = atk if atk else ''
+                                card_entry['face']['front']['DEF'] = def_val if def_val else ''
+
+                            output[card_id] = card_entry
                     elif is_star_card:
                         # Update main entry with split card naming
                         if base_id in output:

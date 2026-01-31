@@ -130815,6 +130815,78 @@
     "isHorizontal": false,
     "cost": 0
   },
+  "TTT-017J": {
+    "id": "TTT-017J",
+    "name": "Lyka: Bearmorphed",
+    "type": "J-Ruler",
+    "face": {
+      "front": {
+        "name": "Lyka: Bearmorphed",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-017J.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "J-Ruler",
+    "Color identity": [
+      "R"
+    ],
+    "set": "ttt",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "TTT-018J": {
+    "id": "TTT-018J",
+    "name": "Lyka: Birdmorphed",
+    "type": "J-Ruler",
+    "face": {
+      "front": {
+        "name": "Lyka: Birdmorphed",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-018J.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "J-Ruler",
+    "Color identity": [
+      "R"
+    ],
+    "set": "ttt",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "TTT-019J": {
+    "id": "TTT-019J",
+    "name": "Lyka: Rabbitmorphed",
+    "type": "J-Ruler",
+    "face": {
+      "front": {
+        "name": "Lyka: Rabbitmorphed",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TTT-019J.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "J-Ruler",
+    "Color identity": [
+      "R"
+    ],
+    "set": "ttt",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "TTT-020": {
     "id": "TTT-020",
     "name": "Magic Motorized Vehicle",
@@ -135383,6 +135455,58 @@
     "ATK": "600",
     "DEF": "600"
   },
+  "TSR-081J": {
+    "id": "TSR-081J",
+    "name": "Lyka, Arachnidmorphed",
+    "type": "J-Ruler",
+    "face": {
+      "front": {
+        "name": "Lyka, Arachnidmorphed",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSR-081J.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "J-Ruler",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "tsr",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "TSR-082J": {
+    "id": "TSR-082J",
+    "name": "Lyka, Snakemorphed",
+    "type": "J-Ruler",
+    "face": {
+      "front": {
+        "name": "Lyka, Snakemorphed",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TSR-082J.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "U"
+    ],
+    "Card type": "J-Ruler",
+    "Color identity": [
+      "R",
+      "U"
+    ],
+    "set": "tsr",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "TSR-083": {
     "id": "TSR-083",
     "name": "Snake of Aradia",
@@ -138116,6 +138240,32 @@
     "set": "teu",
     "isHorizontal": false,
     "cost": 2
+  },
+  "TEU-070J": {
+    "id": "TEU-070J",
+    "name": "Lyka, Tigermorphed",
+    "type": "J-Ruler",
+    "face": {
+      "front": {
+        "name": "Lyka, Tigermorphed",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/TEU-070J.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "R"
+    ],
+    "Card type": "J-Ruler",
+    "Color identity": [
+      "W",
+      "R"
+    ],
+    "set": "teu",
+    "isHorizontal": false,
+    "cost": 0
   },
   "TEU-071": {
     "id": "TEU-071",
@@ -162291,11 +162441,11 @@
   },
   "MP02-009": {
     "id": "MP02-009",
-    "name": "Sylos en-Doutem, Adelbert's Lieutenant",
+    "name": "Xylos en-Doutem, Adelbert's Lieutenant",
     "type": "Resonator",
     "face": {
       "front": {
-        "name": "Sylos en-Doutem, Adelbert's Lieutenant",
+        "name": "Xylos en-Doutem, Adelbert's Lieutenant",
         "type": "Resonator",
         "cost": 4,
         "isHorizontal": false,
