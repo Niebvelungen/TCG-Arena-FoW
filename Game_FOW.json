@@ -4,8 +4,9 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "Attributes",
-      "cost"
+      "Colors",
+      "cost",
+      "set"
     ],
     "formats": [
       {
