@@ -34993,7 +34993,7 @@
 								],
 								"divinity": "",
 								"willpower": "",
-								"flavour": "\"Time is equitable. Except whne you're the boss.\"",
+								"flavour": "\"Time is equitable. Except when you're the boss.\"",
 								"artist": "kakotomirai",
 								"rarity": "",
 								"fowID": "538"
@@ -134203,7 +134203,7 @@
 									"This card gains [Swiftness] and [Precision] as long as you control a Moon addition.",
 									"Banish a Moon addition: Prevent the next damage that would be dealt to this card this turn.",
 									"Banish a Moon addition: This card deals 800 damage to target J/resonator.",
-									"Banish nine Moon additions: This card gains +[4000/+4000] and [Pierce] until end of turn.",
+									"Banish nine Moon additions: This card gains [+4000/+4000] and [Pierce] until end of turn.",
 									"[Awakening] {X}: [Enter] >>> Put X fire Moon addition tokens into the field."
 								],
 								"divinity": "",
@@ -189315,7 +189315,7 @@
 								"DEF": "200",
 								"abilities": [
 									"Knight resonators you control gain [Defiant] (2). (Attacking doesn't cause this card to rest and this card can attack up to two times during your main phase.)",
-									"[Rune] (1) (This card has the following text in all zone as long as there is a rune revealed in your rune area.)",
+									"[Rune] (1) (This card has the following text in all zones as long as there is a rune revealed in your rune area.)",
 									"- [Enter] >>> Put a [200/200] light Knight resonator token into the field.",
 									"[Rune] (2)",
 									"- [Enter] >>> Put a [200/200] light Knight resonator token into the field."
@@ -190300,7 +190300,7 @@
 									"You pay {X} less to play this card, where X is the number of magic stones in all graveyards.",
 									"Added resonator gains [+Y00/+Y00] and [Swiftness], where Y is the number of magic stones in all graveyards.",
 									"[Enter] >>> Add this card to target resonator you control.",
-									"Whenever you play a spell >>> Added resonator gains [+200/+200] until end of turn. If added resonator's ATK is 200 or more, you may banish all magic stones, and added resonator gains [Multi Strike] until end of game.",
+									"Whenever you play a spell >>> Added resonator gains [+200/+200] until end of turn. If added resonator's ATK is 2000 or more, you may banish all magic stones, and added resonator gains [Multi Strike] until end of game.",
 									"[Bestow] {Rest}, {R}, banish a magic stone."
 								],
 								"divinity": "",
@@ -192479,7 +192479,7 @@
 								"abilities": [
 									"[Quickcast]",
 									"You pay {R} or {U} less to play this card from a rune area if this is the first spell named \"Show, Don't Tell\" you play this game.",
-									"Reveal the top three cards of your deck and put ont of them into your hand, put one of them into your graveyard and remove one of them from the game. If you control a dual-attribute fire/water Class Rep J/ruler, remove an elite counter from a J/ruler you control. If you do, the card removed from the game this way gains \"You may play this card from your removed area.\" as long as it is in your removed area."
+									"Reveal the top three cards of your deck and put one of them into your hand, put one of them into your graveyard and remove one of them from the game. If you control a dual-attribute fire/water Class Rep J/ruler, remove an elite counter from a J/ruler you control. If you do, the card removed from the game this way gains \"You may play this card from your removed area.\" as long as it is in your removed area."
 								],
 								"divinity": 2,
 								"willpower": "",
@@ -194955,7 +194955,7 @@
 								],
 								"divinity": 8,
 								"willpower": "",
-								"flavour": "\"Prejudices are bork from the pride of believing that we are impartial.\" -Professor Morgana",
+								"flavour": "\"Prejudices are born from the pride of believing that we are impartial.\" -Professor Morgana",
 								"artist": "UncleAshes / J CREATION",
 								"rarity": "N",
 								"fowID": ""
@@ -197469,7 +197469,7 @@
 									"Resonators, additions, and regalia entering the field under your opponent's control don't cause their own [Enter] abilities to trigger.",
 									"[Reunited] (Fallen Angel J/ruler)",
 									"- You pay {1} less to play this card for each J/ruler you don't control.",
-									"- Whenever you pay life for a cost. Put a fallen counter on this card. If there are ten fallen counters on this card, swap all J/rulers you control with a ruler you own outside the game named \"Satan\"."
+									"- Whenever you pay life for a cost >>> Put a fallen counter on this card. If there are ten fallen counters on this card, swap all J/rulers you control with a ruler you own outside the game named \"Satan\"."
 								],
 								"divinity": "",
 								"willpower": "",
@@ -197822,6 +197822,1098 @@
 								"artist": "Shirono Muku",
 								"rarity": "",
 								"fowID": ""
+							}
+						]
+					},
+					{
+						"name": "Memoria Collection 10",
+						"code": "MC10",
+						"cards": [
+							{
+								"id": "MC10-001",
+								"name": "Atom Seikhart",
+								"type": [
+									"Ruler"
+								],
+								"race": [
+									"Rabbit"
+								],
+								"cost": "",
+								"colour": [
+									"W"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Divinity] 10",
+									"[Judgment] {W}{W}{1}"
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "A hundred years prior, Kaguya's influence transformed many rabbits into wererabbits. The only true rabbit remaining is he.",
+								"artist": "Saiko Takaki",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-001J",
+								"name": "Atom Seikhart, the Shimmering Rabbit",
+								"type": [
+									"J-Ruler"
+								],
+								"race": [
+									"Rabbit"
+								],
+								"cost": "",
+								"colour": [
+									"W"
+								],
+								"ATK": "800",
+								"DEF": "1200",
+								"abilities": [
+									"[Divinity] 10",
+									"Rune cards in your rune area gain [Quickcast]",
+									"Whenever you play a Rune >>> Choose one;\n- You gain 500 life.\n- Rest target resonator.\n- Target J/resonator gains [0/+500] until end of turn."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Is it finally time? It would seem my services are needed once again.\"",
+								"artist": "Saiko Takaki",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-002",
+								"name": "Zeus' Grand Lightning",
+								"type": [
+									"Master Rune"
+								],
+								"race": [],
+								"cost": "{W}{W}",
+								"colour": [
+									"W"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"Play this card only if you control a J/ruler named \"Atom Seikhart\" or \"Atom Seikhart, the Shimmering Rabbit\".",
+									"Remove target non-magic stone, non-J-ruler entity from the game. Players cannot chase to this card."
+								],
+								"divinity": 2,
+								"willpower": "",
+								"flavour": "\"Don't resent me for this!\" -Atom",
+								"artist": "Saiko Takaki",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-003",
+								"name": "Brunhild",
+								"type": [
+									"Ruler"
+								],
+								"race": [
+									"Valkyrie"
+								],
+								"cost": "",
+								"colour": [
+									"W"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Divinity] 10",
+									"[Judgment] {W}{W}{2}"
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "The leader of the Valkyries and the voice of Odin.",
+								"artist": "jugemt",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-003J",
+								"name": "Brunhild, Caller of Spirits",
+								"type": [
+									"J-Ruler"
+								],
+								"race": [
+									"Valkyrie"
+								],
+								"cost": "",
+								"colour": [
+									"W"
+								],
+								"ATK": "1200",
+								"DEF": "1200",
+								"abilities": [
+									"[Divinity] 10",
+									"[Flying]",
+									"[Enter] >>> Put target resonator from your graveyard into the field."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "Souls chosen by Brunhild return to the battlefield as heroes.",
+								"artist": "jugemt",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-004",
+								"name": "Odin's Judgment",
+								"type": [
+									"Master Rune"
+								],
+								"race": [],
+								"cost": "{W}{W}{1}",
+								"colour": [
+									"W"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"Play this card only if you control a J/ruler named \"Brunhild\" or \"Brunhild, Caller of Spirits\".",
+									"Destroy all J/resonators."
+								],
+								"divinity": 2,
+								"willpower": "",
+								"flavour": "\"Lord, grant your benevolent judgment upon these knaves.\" -Brunhild",
+								"artist": "jugemt",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-005",
+								"name": "Isis",
+								"type": [
+									"Ruler"
+								],
+								"race": [
+									"Ascendant"
+								],
+								"cost": "",
+								"colour": [
+									"R"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Divinity] 10",
+									"[Judgment] {R}{R}{2}"
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "The gods who birthed Sandora from nothing distributed their own power to a few humans, those of which would later rule as Ascendants.",
+								"artist": "Matsurika Yoko",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-005J",
+								"name": "Isis, the Hundred Weapon Master",
+								"type": [
+									"J-Ruler"
+								],
+								"race": [
+									"Ascendant"
+								],
+								"cost": "",
+								"colour": [
+									"R"
+								],
+								"ATK": "1400",
+								"DEF": "800",
+								"abilities": [
+									"[Divinity] 10",
+									"[First Strike]",
+									"{R}: This card deals 200 damage to target J/resonator.",
+									"{R}: This card gains [Precision] until end of turn.",
+									"{R}{R}: This card gains [Barrier] until end of turn."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "Her ultimate attack resembles petals scattering in the wind, earning her the title \"Flower of the Desert\".",
+								"artist": "Matsurika Yoko",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-006",
+								"name": "Whirlwind Conflagration",
+								"type": [
+									"Master Rune"
+								],
+								"race": [],
+								"cost": "{R}{R}{3}",
+								"colour": [
+									"R"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"Play this card only if you control a J/ruler named \"Isis\" or \"Isis, the Hundred Weapon Master\".",
+									"Target up to six players or J/resonators. This card deals 200 damage to the first target, 400 damage to the second target, 600 damage to the third target, 800 damage to the fourth target, 1000 damage to the fifth target, and 1200 damage to the sixth target. (You have to choose different targets.)"
+								],
+								"divinity": 2,
+								"willpower": "",
+								"flavour": "\"Shed as much blood as you like. In the end, the sand will wash it all away.\" -Isis",
+								"artist": "Matsurika Yoko",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-007",
+								"name": "Fu Xi",
+								"type": [
+									"Ruler"
+								],
+								"race": [
+									"Monarch"
+								],
+								"cost": "",
+								"colour": [
+									"R"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Divinity] 10",
+									"[Judgment] {R}{R}{3}"
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "The ruler of Kunlun is always prepared for war.",
+								"artist": "Kusanagi Tyouen",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MC10-007J",
+								"name": "Fu Xi, King of Kunlun",
+								"type": [
+									"J-Ruler"
+								],
+								"race": [
+									"Monarch"
+								],
+								"cost": "",
+								"colour": [
+									"R"
+								],
+								"ATK": "1000",
+								"DEF": "1000",
+								"abilities": [
+									"[Divinity] 10",
+									"[Flying]",
+									"[Enter] >>> Search your deck for a non-chant Dragon card with total cost 4 or less and put it into the field, then shuffle your deck."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Let me show you what it means to be king!\"",
+								"artist": "Kusanagi Tyouen",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Masterpiece 2026",
+				"sets": [
+					{
+						"name": "Masterpiece Collection 03 \"Dimensional Hope\"",
+						"code": "MP03",
+						"cards": [
+							{
+								"id": "MP03-001",
+								"name": "Hermes, Messenger of the Gods",
+								"type": [
+									"Ruler"
+								],
+								"race": [
+									"Deity",
+									"New Twelve Olympian Gods"
+								],
+								"cost": "",
+								"colour": [
+									"W",
+									"U"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Divinity] 2",
+									"[Tag] \"Atom\" or \"Avsterion\"",
+									"[Force Command] <Genesis>",
+									"Other rulers you control gain \"You may play light Deity spells by paying their specified cost rather than paying their cost.\" and [Judgment] {W}{U}.",
+									"For [Rune] effects you control, increase the number of revealed runes in your rune area to {W}{W}{W}{U}{U}{U}.",
+									"{Rest}: Target Deity or New Twelve Olympian Gods resonator gains [Pantheon] until end of turn. (At the end of your turn >>> This card deals X00 damage to target player, where X is the number of Deity cards plus the number of New Twelve Olympian Gods cards you control in public zones.)"
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"He was the first of the Gods to notice that Zeus was missing. His speed saved countless lives. The people of Olympia owe him a great deal.\" -Atom",
+								"artist": "Hachi Takashi",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-002",
+								"name": "Atom, Herald of the Olympians",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Deity",
+									"Fairy Tale",
+									"Rabbit"
+								],
+								"cost": "{W}{U}{1}",
+								"colour": [
+									"W",
+									"U"
+								],
+								"ATK": "700",
+								"DEF": "700",
+								"abilities": [
+									"[Quickcast]",
+									"[Untouchable]",
+									"[Pantheon]",
+									"[Reunited] \"Atom\"\n- If you would put a revealed addition card, regalia card, or resonator card from your deck into your hand, put it into the field instead.",
+									"[Enter] >>> Name three cards. Reveal the top seven cards of your deck. Put all light cards sharing a name with any named card from among them into your hand and remove the rest from the game.",
+									"[Rune] {W}{U}\n- God's Art \"Turn Tail\" {0}: Return this card to its owner's hand."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"In Olympia there's always so much work to do, and, sometimes, I need to take a break for a cup of tea.\"",
+								"artist": "jitari",
+								"rarity": "MR",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-003",
+								"name": "Dionysus, Olympian God of Revelry",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Deity",
+									"New Twelve Olympian Gods"
+								],
+								"cost": "{W}{U}",
+								"colour": [
+									"W",
+									"U"
+								],
+								"ATK": "500",
+								"DEF": "700",
+								"abilities": [
+									"[Reunited] \"Atom\"\n- God's Art \"Endless Party\" {0}: Trigger one of this card's [Enter] abilities.",
+									"[Enter] >>> Put target resonator on the bottom of its owner's deck. You gain life equal to its DEF. Draw X cards, where X is the total cost of the chosen target.",
+									"[Rune] {W}{U}\n- [Precision] [Drain] [Pantheon]",
+									"[Union Seven <New Twelve Olympian Gods>]\n- [Enter] >>> Choose five target entities you don't control with different types and a warden. Gain control of them. If you do, recover them."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"The party follows Dionysus wherever he goes, You never know when the party will end, or where you will end up.\" -Atom",
+								"artist": "Mayo",
+								"rarity": "SR",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-004",
+								"name": "Expelled from Elysium",
+								"type": [
+									"Chant",
+									"Master Rune"
+								],
+								"race": [],
+								"cost": "{W}{U}",
+								"colour": [
+									"W",
+									"U"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Quickcast]",
+									"[Reunited] \"Atom\"\n- Heal all astral rulers you control. Recover a ruler you control named \"Atom Seikhart\". You may perform its judgment process.\n- If this is not the first spell named \"Expelled from Elysium\" you play this game, gain two light/water will coin tokens.",
+									"Cancel target fire spell, wind spell, or darkness spell. If you do and it would be put into a graveyard, its controller expels it instead. You gain 500 life."
+								],
+								"divinity": 3,
+								"willpower": "",
+								"flavour": "\"You haven't been invited.\" -Atom",
+								"artist": "RYUEMON",
+								"rarity": "SR",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-005",
+								"name": "Ares, Knight God Emperor of the Burial Grounds",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Deity"
+								],
+								"cost": "{W}{W}{2}",
+								"colour": [
+									"W"
+								],
+								"ATK": "1000",
+								"DEF": "800",
+								"abilities": [
+									"Other light resonators you control gain [+200/+200].",
+									"[Enter] >>> Produce {W}{W}.",
+									"[Rune] (4)\n- Other light resonators you control gain [+200/+200]."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Lend me your strength, proud war god of antiquity!\" -Atom",
+								"artist": "Nekobayashi",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-006",
+								"name": "Moonlight Nocturne",
+								"type": [
+									"Chant",
+									"Rune"
+								],
+								"race": [],
+								"cost": "{W}{1}",
+								"colour": [
+									"W"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Quickcast]",
+									"You pay {W} more to play this card from a rune area.",
+									"Return target rested resonator to its owner's hand. Foresee 2."
+								],
+								"divinity": 2,
+								"willpower": "",
+								"flavour": "\"You are out of time.\" -Atom",
+								"artist": "Saiko Takaki",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-007",
+								"name": "Musician of the Moon",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Wererabbit"
+								],
+								"cost": "{W}",
+								"colour": [
+									"W"
+								],
+								"ATK": "300",
+								"DEF": "300",
+								"abilities": [
+									"[Rune] (3)\n- [Enter] >>> Draw a card."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"We were born with these large ears to enjoy music. I don't wish to lose this way of life.\" -Atom",
+								"artist": "yua",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-008",
+								"name": "Geri and Freki",
+								"type": [
+									"Ruler"
+								],
+								"race": [
+									"Wolf"
+								],
+								"cost": "",
+								"colour": [
+									"W",
+									"B"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Divinity] (3)",
+									"[Tag] \"Brunhild\" or \"Misteltein\"",
+									"[Force Command] <Faith>",
+									"Other non-Wanderer rulers you control gain [Judgment] {W}{B}.",
+									"Cards you control with [Faith] gain [Quickcast] and [Call of Valhalla] (3) in all zones. (If this card would be destroyed, expel it instead. If you do, search your deck for a Valkyrie card with total cost 3 or less and play it without paying its cost, then shuffle your deck.)",
+									"Entities named \"Messenger of Odin\" gain [Defiant] (2) and [Eternal].",
+									"{Rest}: Search your deck for a resonator card with [Faith] or a card with \"Odin\" in its name, reveal it and put it into your hand, then shuffle your deck."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Geri and Freki are bearers of a message from the Allfather: sisters, we, the Valkyries of Asgard, must rise in arms once more.\" -Brunhild",
+								"artist": "KONNO Takashi",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-009",
+								"name": "Brunhild, Radiant Dawnblade",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Valkyrie"
+								],
+								"cost": "{W}{B}",
+								"colour": [
+									"W",
+									"B"
+								],
+								"ATK": "700",
+								"DEF": "700",
+								"abilities": [
+									"«Mythic»",
+									"[Blood Trail]",
+									"[Flying]",
+									"[Call of Valhalla] (3)",
+									"[Reunited] \"Brunhild\"\n- If a card would be put into your opponent's graveyard or removed area from anywhere, remove it from the game face down instead.",
+									"[Enter] >>> Look at target player's hand and choose two cards from among them. They discard the chosen cards.",
+									"[Faith]\n- When this card leaves the field >>> Search your deck for a light card, reveal it and put it into your hand or graveyard, then shuffle your deck."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Don't forget who you are or where you come from, so you can understand where you're going and who you want to be.\"",
+								"artist": "Miko Yamazaki",
+								"rarity": "MR",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-010",
+								"name": "Godless Plea",
+								"type": [
+									"Chant",
+									"Master Rune"
+								],
+								"race": [],
+								"cost": "{W}{B}",
+								"colour": [
+									"W",
+									"B"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Reunited] \"Brunhild\"\n- You may make a J/ruler you control astral rather than pay this card's cost.\n- If this is not the first spell named \"Godless Plea\" you play this game, destroy up to one target warden or non-magic stone entity.",
+									"Search your deck for a light or darkness card without [Faith], reveal it and put it into your hand, then shuffle your deck. You lose 500 life.",
+									"[Faith]\n- Each other player loses 500 life."
+								],
+								"divinity": 3,
+								"willpower": "",
+								"flavour": "\"In the absence of the Allfather, I answered the prayers of the faithful. We'll join your fight, Scheherazade.\" -Brunhild",
+								"artist": "ainosaru",
+								"rarity": "SR",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-011",
+								"name": "Randgrid, Valkyrie of Setting Sun",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Valkyrie"
+								],
+								"cost": "{W}{W}{B}",
+								"colour": [
+									"W",
+									"B"
+								],
+								"ATK": "600",
+								"DEF": "700",
+								"abilities": [
+									"[Reunited] \"Brunhild\"\n- The cost of this card is {W}{B} instead of its printed cost in all zones.\n- At end of turn >>> Each other player loses X00 life and you gain X00 life, where X is the highest total cost among entities or wardens you control.",
+									"[Enter] >>> Put a light warden card from your graveyard into your ruler area, and a resonator with total cost 2 or less from your graveyard into the field.",
+									"[Faith]\n- {Rest}, {Y}: Put Y [400/400] light Hero resonator tokens into the field."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"You've always contained your rage. No more. Summon the Einherjar. When the sun sets today, it will be red.\"",
+								"artist": "j-peg",
+								"rarity": "SR",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-012",
+								"name": "Blessing of the Sun",
+								"type": [
+									"Chant",
+									"Rune"
+								],
+								"race": [],
+								"cost": "{W}{W}",
+								"colour": [
+									"W"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"You pay {W} less to play this card from a rune area.",
+									"J/resonators you control gain [+200/+200] and \"At end of turn >>> Recover this card.\" until end of turn."
+								],
+								"divinity": 2,
+								"willpower": "",
+								"flavour": "\"The people of Minerva believe all life comes from the sun.\" -Brunhild",
+								"artist": "Mad",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-013",
+								"name": "Eir, Valkyrie of Mercy",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Valkyrie"
+								],
+								"cost": "{W}{W}{1}",
+								"colour": [
+									"W"
+								],
+								"ATK": "600",
+								"DEF": "700",
+								"abilities": [
+									"[Enter] >>> Put target resonator with total cost 2 or less from your graveyard into the field."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"The warrior who fell in battle is given another chance at glory.\" -Brunhild",
+								"artist": "Pisuke",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-014",
+								"name": "Messenger of Odin",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Beast"
+								],
+								"cost": "{W}",
+								"colour": [
+									"W"
+								],
+								"ATK": "400",
+								"DEF": "400",
+								"abilities": [
+									"Magic stones you control with the light magic stone type have the darkness magic stone type and gain \"{Rest}: Produce {B}.\".",
+									"[Faith] (This card has the following text in all zones as long as you control an astral ruler.)\n- {Rest}: Target entity you control gains [Eternal] until end of turn."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Once again, someone attempts to rule all the dimensions. Even if all that's left to rule is ash.\" -Brunhild",
+								"artist": "AKI",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-015",
+								"name": "The Seven Children of Serqet",
+								"type": [
+									"Ruler"
+								],
+								"race": [
+									"Ascendant",
+									"Scorpion"
+								],
+								"cost": "",
+								"colour": [
+									"W",
+									"R"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Divinity] (3)",
+									"[Tag] \"Isis\" or \"Neferkapath\"",
+									"[Force Command] <Chaos>",
+									"Other rulers you control gain \"Sand resonator cards you own gain [Quickcast] and [Ibka] {W} or {R} in all zones.(You may play this card from your graveyard paying its [Ibka] cost.)\" and [Judgment] {W}{R}.",
+									"Whenever you play a Sand spell >>> Search your deck for a Sand card and put it into your graveyard, then shuffle your deck.",
+									"{Rest}, discard a Sand card: Draw a card.",
+									"God's Art \"Seven Stings\" {Rest}, {R}: This card deals 700 damage to all players."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Befen, Matet, Mestet, Mestetef, Petet, Tefen, and Tjetet... you were a gift, but also a blessing. The time has come to reclaim what is ours.\" -Isis",
+								"artist": "SO",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-016",
+								"name": "Isis, Flower of the Desert",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Ascendant",
+									"Sand"
+								],
+								"cost": "{W}{R}",
+								"colour": [
+									"W",
+									"R"
+								],
+								"ATK": "200",
+								"DEF": "700",
+								"abilities": [
+									"«Mythic»",
+									"[Quickcast]",
+									"[Ibka] {W}{R}",
+									"[Divinity] (2)",
+									"[Enraging]",
+									"[Reunited] \"Isis\"\n- Whenever you banish a Sand addition or discard a Sand card >>> Put a [400/100] fire Sand, Scorpion resonator token with [Blood Trail] into the field.",
+									"[Enter] >>> Perform the following effect two times - Draw a card, then discard a card or banish a non-Ascendant, non-J-ruler entity.",
+									"Whenever this card attacks >>> It deals 200 damage to target player or J/resonator. This card gains \"If a fire source you control would deal damage, it deals that much plus 200 instead.\" until end of game."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"My title represents my tenacity: every time I fall, I rise stronger. There's a reason I'm an ascendant.\"",
+								"artist": "Matsurika Yoko",
+								"rarity": "MR",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-017",
+								"name": "Festival Rite of Amesysia",
+								"type": [
+									"Chant",
+									"Master Rune"
+								],
+								"race": [],
+								"cost": "{W}{R}{X}",
+								"colour": [
+									"W",
+									"R"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Reunited] \"Isis\"\n- Whenever a J/ruler, or rune spell, or rune entity you control deals damage to your opponent >>> Put this card from your graveyard into your hand.\n- If this is not the first spell named \"Festival Rite of Amesysia\" you play this game, perform the following effect of this card two times.",
+									"Copy up to X+1 resonators, except that the copies have [Swiftness], \"Whenever this card attacks or blocks >>> At end of battle >>> Destroy it.\", and Sand in addition to their other races."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Every year, on my birthday, a festival is held in my honor throughout Sandora. Thanks to it, my divinity is renewed.\" -Isis",
+								"artist": "Matsurika Yoko",
+								"rarity": "SR",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-018",
+								"name": "Snake of Scorching Sand",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Sand",
+									"Snake"
+								],
+								"cost": "{W}{R}{1}",
+								"colour": [
+									"W",
+									"R"
+								],
+								"ATK": "900",
+								"DEF": "700",
+								"abilities": [
+									"[Ibka] {W}{R}",
+									"[Belligerence]",
+									"[Enraging]",
+									"[Reunited] \"Isis\"\n- [Quickcast]\n- Whenever a J/ruler, or rune spell, or rune entity you control deals damage to your opponent >>> You may put this card from your graveyard into your hand.",
+									"When this card is destroyed or discarded >>> Search your deck for a Sand resonator card and put it into your graveyard, then shuffle your deck."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"The burning sands transform at my will, but they obey not my designs, but those of Sandora itself.\" -Isis",
+								"artist": "Haruki Komai",
+								"rarity": "SR",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-019",
+								"name": "Sand Awakening",
+								"type": [
+									"Chant",
+									"Rune"
+								],
+								"race": [],
+								"cost": "{R}{1}",
+								"colour": [
+									"R"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Quickcast]",
+									"You pay {R} less to play this card from a rune area.",
+									"Choose one;\n- Target resonator gains [+200/+600] until end of turn.\n- Target fire resonator gains [+400/+800] until end of turn."
+								],
+								"divinity": 1,
+								"willpower": "",
+								"flavour": "\"Rise! It is time to retake our glory!\" -Isis",
+								"artist": "mita kura",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-020",
+								"name": "Sand Dragon",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Dragon",
+									"Sand"
+								],
+								"cost": "{R}{R}{1}",
+								"colour": [
+									"R"
+								],
+								"ATK": "1000",
+								"DEF": "1000",
+								"abilities": [
+									"[Flying]",
+									"Whenever a J/ruler, or rune spell, or rune entity you control deals damage to your opponent >>> Put this card from your graveyard into your hand.",
+									"When damage is dealt to this card >>> Destroy it."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"The needed materials are all around Sandora.\" -Isis",
+								"artist": "SO",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-021",
+								"name": "Sand Soldier",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Sand"
+								],
+								"cost": "{R}{1}",
+								"colour": [
+									"R"
+								],
+								"ATK": "800",
+								"DEF": "600",
+								"abilities": [
+									"When this card attacks or blocks >>> At end of battle >>> Destroy it.",
+									"[Rune] (3)\n- This card gains [+400/+400]."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"The only thing more fragile than sand is human life itself.\" -Isis",
+								"artist": "J CREATION/AshesBomber",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-022",
+								"name": "Lady Nüwa, Beloved Queen of Kunlun",
+								"type": [
+									"Ruler"
+								],
+								"race": [
+									"Monarch"
+								],
+								"cost": "",
+								"colour": [
+									"R",
+									"U"
+								],
+								"ATK": "",
+								"DEF": "",
+								"abilities": [
+									"[Divinity] (3)",
+									"[Tag] \"Fu Xi\" or \"Zhuge Liang\"",
+									"[Force Command] <Flame>",
+									"Other rulers you control gain [Judgment] {R}{U}{1}.",
+									"Dragon cards you own have [Draconic Tithe] (As you play this card, discard up to X regalia cards, where X is the number of magic stones and will coin tokens you control. You pay {R}{1} or {U}{1} less to play this card for each card discarded this way.) in all areas.",
+									"At end of turn >>> You gain 5 Dragon Power and a «Dragon Emblem» (Fire) or (Water) item.",
+									"{Rest}: Put target fire regalia card from your graveyard into your hand."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Her advice is always sound. Her instinct, infallible. Her courage, endless. And her beauty, unparalleled. She is a blessing, and the heart of Kunlun.\" -Fu Xi",
+								"artist": "Muraichi Suzume",
+								"rarity": "R",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-023",
+								"name": "Fu Xi, Steamforge Dragonlord",
+								"type": [
+									"Regalia",
+									"Resonator"
+								],
+								"race": [
+									"Daimyo",
+									"Dragon",
+									"Monarch",
+									"Taoist"
+								],
+								"cost": "{R}{U}{1}",
+								"colour": [
+									"R",
+									"U"
+								],
+								"ATK": "600",
+								"DEF": "700",
+								"abilities": [
+									"«Mythic»",
+									"[Untouchable]",
+									"[Aegis]",
+									"[Reunited] \"Fu Xi\"\n- Resonators you control gain [+X00/0] and [Defiant] (X), where X is the number of fire regalia you control.",
+									"Whenever this card attacks >>> You gain a «Dragon Emblem» (Fire) or (Water) item. You may banish two «Dragon Emblem» (Vermilion) items. If you do, draw a card, then put a fire Weapon regalia token into the field.",
+									"Banish two «Dragon Emblem» items with different characteristics: You gain two «Dragon Emblem» (Vermilion) items."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"Dragons and steam may be the greater power in Asakna, but... soon, the fight will lead beyond this dimension.\"",
+								"artist": "MARUYAMA RUI",
+								"rarity": "MR",
+								"fowID": "",
+								"wind_new": true
+							},
+							{
+								"id": "MP03-025",
+								"name": "Lady Nüwa's Karakuri Steam Dragons",
+								"type": [
+									"Regalia",
+									"Resonator"
+								],
+								"race": [
+									"Dragon",
+									"Karakuri"
+								],
+								"cost": "{R}{U}{U}{1}",
+								"colour": [
+									"R",
+									"U"
+								],
+								"ATK": "500",
+								"DEF": "600",
+								"abilities": [
+									"[Precision]",
+									"[Aegis]",
+									"[Reunited] \"Fu Xi\"\n- <Steamy Army> At the end of your turn >>> You gain a «Dragon Emblem» (Fire) or (Water) item. If you control a «Dragon Emblem» (Vermilion) item, copy this card. Each turn, only one <Steamy Army> ability triggers per player.",
+									"Whenever this card attacks >>> If you control a «Dragon Emblem» (Fire) item, this card gains [+200/0] until end of turn. If you control a «Dragon Emblem» (Water) item, this card gains [Flying] until end of turn.",
+									"Banish two «Dragon Emblem» items: Foresee 2."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"The karakuri were mere toys, but my wife turned them into something more. Now, we have a mechanical army.\" -Fu Xi",
+								"artist": "Hugos",
+								"rarity": "SR",
+								"fowID": "",
+								"wind_new": true
+							},
+							{
+								"id": "MP03-027",
+								"name": "Lord of Vermilion",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Dragon"
+								],
+								"cost": "{R}{R}{2}",
+								"colour": [
+									"R"
+								],
+								"ATK": "1200",
+								"DEF": "1200",
+								"abilities": [
+									"[Flying]",
+									"If a fire source you control would deal damage to a J/resonator you control, prevent that damage and that J/resonator gains [+X/+X] until end of turn instead, where X is the damage prevented this way.",
+									"[Enter] >>> If you control a «Dragon Emblem» (Fire) item and a «Dragon Emblem» (Water) item, you gain a «Dragon Emblem» (Vermilion) item.",
+									"At the beginning of the main phase >>> If you control a «Dragon Emblem» (Vermilion) item, this card deals 800 damage to each J/resonator."
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"My ambitions personified. An unwavering vermilion flame.\" -Fu Xi",
+								"artist": "Kotakan",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": false
+							},
+							{
+								"id": "MP03-028",
+								"name": "Tiny Fire and Water Dragon",
+								"type": [
+									"Resonator"
+								],
+								"race": [
+									"Dragon"
+								],
+								"cost": "{R}",
+								"colour": [
+									"R"
+								],
+								"ATK": "400",
+								"DEF": "400",
+								"abilities": [
+									"Magic stones you control with the fire magic stone type have the water magic stone type and gain \"{Rest}: Produce {U}.\".",
+									"This card has the following text based on the characteristics of the «Dragon Emblem» items you control;\n- Fire - [Swiftness]\n- Vermilion - This card gains [+300/+300].\n- Water - [Flying]"
+								],
+								"divinity": "",
+								"willpower": "",
+								"flavour": "\"There's no escaping the grasp of Genshi Tenson.\" -Fu Xi",
+								"artist": "SIE NANAHARA",
+								"rarity": "N",
+								"fowID": "",
+								"wind_new": true
 							}
 						]
 					}

@@ -174426,5 +174426,919 @@
     "set": "jrv",
     "isHorizontal": false,
     "cost": 2
+  },
+  "MC10-001": {
+    "id": "MC10-001",
+    "name": "Atom Seikhart",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Atom Seikhart",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-001.jpg"
+      },
+      "back": {
+        "name": "Atom Seikhart, the Shimmering Rabbit",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-001J.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mc10",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MC10-002": {
+    "id": "MC10-002",
+    "name": "Zeus' Grand Lightning",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Zeus' Grand Lightning",
+        "type": "Master_Rune",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-002.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mc10",
+    "isHorizontal": false,
+    "cost": 2
+  },
+  "MC10-003": {
+    "id": "MC10-003",
+    "name": "Brunhild",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Brunhild",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-003.jpg"
+      },
+      "back": {
+        "name": "Brunhild, Caller of Spirits",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-003J.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mc10",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MC10-004": {
+    "id": "MC10-004",
+    "name": "Odin's Judgment",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Odin's Judgment",
+        "type": "Master_Rune",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-004.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mc10",
+    "isHorizontal": false,
+    "cost": 3
+  },
+  "MC10-005": {
+    "id": "MC10-005",
+    "name": "Isis",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Isis",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-005.jpg"
+      },
+      "back": {
+        "name": "Isis, the Hundred Weapon Master",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-005J.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mc10",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MC10-006": {
+    "id": "MC10-006",
+    "name": "Whirlwind Conflagration",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Whirlwind Conflagration",
+        "type": "Master_Rune",
+        "cost": 5,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-006.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mc10",
+    "isHorizontal": false,
+    "cost": 5
+  },
+  "MC10-007": {
+    "id": "MC10-007",
+    "name": "Fu Xi",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Fu Xi",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-007.jpg"
+      },
+      "back": {
+        "name": "Fu Xi, King of Kunlun",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MC10-007J.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mc10",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-001": {
+    "id": "MP03-001",
+    "name": "Hermes, Messenger of the Gods",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Hermes, Messenger of the Gods",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-001.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "U"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "W",
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-002": {
+    "id": "MP03-002",
+    "name": "Atom, Herald of the Olympians",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Atom, Herald of the Olympians",
+        "type": "Resonator",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-002.jpg",
+        "ATK": "700",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W",
+      "U"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 3,
+    "ATK": "700",
+    "DEF": "700"
+  },
+  "MP03-003": {
+    "id": "MP03-003",
+    "name": "Dionysus, Olympian God of Revelry",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Dionysus, Olympian God of Revelry",
+        "type": "Resonator",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-003.jpg",
+        "ATK": "500",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W",
+      "U"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 2,
+    "ATK": "500",
+    "DEF": "700"
+  },
+  "MP03-004": {
+    "id": "MP03-004",
+    "name": "Expelled from Elysium",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Expelled from Elysium",
+        "type": "Chant",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-004.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "U"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "W",
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 2
+  },
+  "MP03-005": {
+    "id": "MP03-005",
+    "name": "Ares, Knight God Emperor of the Burial Grounds",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Ares, Knight God Emperor of the Burial Grounds",
+        "type": "Resonator",
+        "cost": 4,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-005.jpg",
+        "ATK": "1000",
+        "DEF": "800"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 4,
+    "ATK": "1000",
+    "DEF": "800"
+  },
+  "MP03-006": {
+    "id": "MP03-006",
+    "name": "Moonlight Nocturne",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Moonlight Nocturne",
+        "type": "Chant",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-006.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 2
+  },
+  "MP03-007": {
+    "id": "MP03-007",
+    "name": "Musician of the Moon",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Musician of the Moon",
+        "type": "Resonator",
+        "cost": 1,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-007.jpg",
+        "ATK": "300",
+        "DEF": "300"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 1,
+    "ATK": "300",
+    "DEF": "300"
+  },
+  "MP03-008": {
+    "id": "MP03-008",
+    "name": "Geri and Freki",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Geri and Freki",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-008.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-009": {
+    "id": "MP03-009",
+    "name": "Brunhild, Radiant Dawnblade",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Brunhild, Radiant Dawnblade",
+        "type": "Resonator",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-009.jpg",
+        "ATK": "700",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 2,
+    "ATK": "700",
+    "DEF": "700"
+  },
+  "MP03-010": {
+    "id": "MP03-010",
+    "name": "Godless Plea",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Godless Plea",
+        "type": "Chant",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-010.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 2
+  },
+  "MP03-011": {
+    "id": "MP03-011",
+    "name": "Randgrid, Valkyrie of Setting Sun",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Randgrid, Valkyrie of Setting Sun",
+        "type": "Resonator",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-011.jpg",
+        "ATK": "600",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 3,
+    "ATK": "600",
+    "DEF": "700"
+  },
+  "MP03-012": {
+    "id": "MP03-012",
+    "name": "Blessing of the Sun",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Blessing of the Sun",
+        "type": "Chant",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-012.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 2
+  },
+  "MP03-013": {
+    "id": "MP03-013",
+    "name": "Eir, Valkyrie of Mercy",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Eir, Valkyrie of Mercy",
+        "type": "Resonator",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-013.jpg",
+        "ATK": "600",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 3,
+    "ATK": "600",
+    "DEF": "700"
+  },
+  "MP03-014": {
+    "id": "MP03-014",
+    "name": "Messenger of Odin",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Messenger of Odin",
+        "type": "Resonator",
+        "cost": 1,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-014.jpg",
+        "ATK": "400",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 1,
+    "ATK": "400",
+    "DEF": "400"
+  },
+  "MP03-015": {
+    "id": "MP03-015",
+    "name": "The Seven Children of Serqet",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "The Seven Children of Serqet",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-015.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "R"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "W",
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-016": {
+    "id": "MP03-016",
+    "name": "Isis, Flower of the Desert",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Isis, Flower of the Desert",
+        "type": "Resonator",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-016.jpg",
+        "ATK": "200",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W",
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 2,
+    "ATK": "200",
+    "DEF": "700"
+  },
+  "MP03-017": {
+    "id": "MP03-017",
+    "name": "Festival Rite of Amesysia",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Festival Rite of Amesysia",
+        "type": "Chant",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-017.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "R"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "W",
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 3
+  },
+  "MP03-018": {
+    "id": "MP03-018",
+    "name": "Snake of Scorching Sand",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Snake of Scorching Sand",
+        "type": "Resonator",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-018.jpg",
+        "ATK": "900",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W",
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 3,
+    "ATK": "900",
+    "DEF": "700"
+  },
+  "MP03-019": {
+    "id": "MP03-019",
+    "name": "Sand Awakening",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Sand Awakening",
+        "type": "Chant",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-019.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 2
+  },
+  "MP03-020": {
+    "id": "MP03-020",
+    "name": "Sand Dragon",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Sand Dragon",
+        "type": "Resonator",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-020.jpg",
+        "ATK": "1000",
+        "DEF": "1000"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 3,
+    "ATK": "1000",
+    "DEF": "1000"
+  },
+  "MP03-021": {
+    "id": "MP03-021",
+    "name": "Sand Soldier",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Sand Soldier",
+        "type": "Resonator",
+        "cost": 2,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-021.jpg",
+        "ATK": "800",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 2,
+    "ATK": "800",
+    "DEF": "600"
+  },
+  "MP03-022": {
+    "id": "MP03-022",
+    "name": "Lady Nüwa, Beloved Queen of Kunlun",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Lady Nüwa, Beloved Queen of Kunlun",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-022.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "U"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "R",
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-023": {
+    "id": "MP03-023",
+    "name": "Fu Xi, Steamforge Dragonlord",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Fu Xi, Steamforge Dragonlord",
+        "type": "Regalia",
+        "cost": 3,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-023.jpg",
+        "ATK": "600",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "R",
+      "U"
+    ],
+    "Card type": "Regalia - Resonator",
+    "Color identity": [
+      "R",
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 3,
+    "ATK": "600",
+    "DEF": "700"
+  },
+  "MP03-025": {
+    "id": "MP03-025",
+    "name": "Lady Nüwa's Karakuri Steam Dragons",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Lady Nüwa's Karakuri Steam Dragons",
+        "type": "Regalia",
+        "cost": 4,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-025.jpg",
+        "ATK": "500",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "R",
+      "U"
+    ],
+    "Card type": "Regalia - Resonator",
+    "Color identity": [
+      "R",
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 4,
+    "ATK": "500",
+    "DEF": "600"
+  },
+  "MP03-027": {
+    "id": "MP03-027",
+    "name": "Lord of Vermilion",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Lord of Vermilion",
+        "type": "Resonator",
+        "cost": 4,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-027.jpg",
+        "ATK": "1200",
+        "DEF": "1200"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 4,
+    "ATK": "1200",
+    "DEF": "1200"
+  },
+  "MP03-028": {
+    "id": "MP03-028",
+    "name": "Tiny Fire and Water Dragon",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Tiny Fire and Water Dragon",
+        "type": "Resonator",
+        "cost": 1,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-028.jpg",
+        "ATK": "400",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 1,
+    "ATK": "400",
+    "DEF": "400"
   }
 }
