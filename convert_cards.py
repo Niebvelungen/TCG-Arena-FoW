@@ -6,6 +6,7 @@ import argparse
 
 CACHE_FILE = "image_cache.json"
 CUSTOM_CARDS_FILE = "custom_cards.json"
+TOKENS_FILE = "tokens/tokens.json"
 S3_BASE_URL = "https://fowsim.s3.amazonaws.com/media/cards/"
 FALLBACK_BASE_URL = "https://www.forceofwind.online/card/"
 PLACEHOLDER_IMAGE = "https://fowsim.s3.amazonaws.com/static/img/none.000fb66afe5c.png"
@@ -100,34 +101,7 @@ def get_image_url(card_id, cache):
     return ""
 
 def parse_cost(cost_str):
-    """Parse cost string and return numeric value"""
-    if not cost_str or cost_str == "":
-        return 0
-
-    # Remove braces
-    cost_str = cost_str.replace("{", "").replace("}", "")
-    total = 0
-
-    # Process each character
-    i = 0
-    while i < len(cost_str):
-        char = cost_str[i]
-
-        # Check if it's a digit - could be multi-digit number
-        if char.isdigit():
-            num_str = ""
-            while i < len(cost_str) and cost_str[i].isdigit():
-                num_str += cost_str[i]
-                i += 1
-            total += int(num_str)
-        # Count each letter as 1 (W, U, B, R, G, etc.)
-        elif char.isalpha():
-            total += 1
-            i += 1
-        else:
-            i += 1
-
-    return total
+    return 0
 
 def get_card_type(types):
     if not types:
@@ -176,6 +150,12 @@ def convert_cards(input_file, output_file, check_images=True):
     output = load_custom_cards(CUSTOM_CARDS_FILE)
     if output:
         print(f"Loaded {len(output)} custom cards from {CUSTOM_CARDS_FILE}")
+
+    # Load token cards
+    tokens = load_custom_cards(TOKENS_FILE)
+    if tokens:
+        output.update(tokens)
+        print(f"Loaded {len(tokens)} tokens from {TOKENS_FILE}")
 
     missing_images = []  # Track cards without images
 
