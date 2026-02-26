@@ -198131,12 +198131,10 @@
 				]
 			},
 			{
-				"name": "Masterpiece 2026",
-				"sets": [
-					{
-						"name": "Masterpiece Collection 03 \"Dimensional Hope\"",
-						"code": "MP03",
-						"cards": [
+                "name": "Masterpiece 2026",
+                "sets": [
+                    {
+                        "cards": [
                             {
                                 "abilities": [
                                     "[Divinity] 2",
@@ -198589,7 +198587,7 @@
                                     "\u00abMythic\u00bb",
                                     "[Quickcast]",
                                     "[Ibka] {W}{R}",
-                                    "[Divinity] (2)",
+                                    "[Defiant] (2)",
                                     "[Enraging]",
                                     "[Reunited] \"Isis\"\n- Whenever you banish a Sand addition or discard a Sand card >>> Put a [400/100] fire Sand, Scorpion resonator token with [Blood Trail] into the field.",
                                     "[Enter] >>> Perform the following effect two times - Draw a card, then discard a card or banish a non-Ascendant, non-J-ruler entity.",
@@ -199315,13 +199313,13 @@
                                 "name": "Loki's Charm",
                                 "race": [
                                 ],
-                                "rarity": "N",
+                                "rarity": "SR",
                                 "type": [
                                     "Chant",
                                     "Master Rune"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -199348,7 +199346,7 @@
                                     "Rune"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -199405,11 +199403,592 @@
                                 ],
                                 "willpower": "",
                                 "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Divinity] (2)",
+                                    "[Tag] \"Hanzo\" or \"Rikyu\"",
+                                    "[Force Command] <Moon>",
+                                    "Other rulers you control gain [Judgment] {W}{G}.",
+                                    "Yin-Yang Master resonators and Shikigami resonators you control gain [Moontide] {1} ({1}: If this card is not a token, copy it, except that the copy has \u00abMythic\u00bb. Play only one [Moontide] ability per turn.).",
+                                    "{Rest}, {G}: Reveal the top four cards of your deck and put a Yin-Yang Master card from among them into the field, then shuffle your deck.",
+                                    "{0}: Produce {G} or {T}. Spend this will only to play activate abilities of cards in all zones other than this card. Play this ability only once per turn."
+                                ],
+                                "artist": "noki",
+                                "ATK": "",
+                                "colour": [
+                                    "W",
+                                    "G"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Venerated primordial shikigami, grant me your power!\" -Hanzo",
+                                "fowID": "",
+                                "id": "MP03-043",
+                                "name": "Kuzunoha, Primordial Shikigami",
+                                "race": [
+                                    "Fox",
+                                    "Shikigami"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Quickcast]",
+                                    "[Moontide] {2}",
+                                    "[Reunited] \"Hanzo\"\n- Chant cards you control in the chase area gain [Moontide] {T}.\n- {Rest}, {W} or {G}: Put a non-chant Shikigami or Yin-Yang Master card from your hand into the field. If you do, you gain 500 life.",
+                                    "Whenever a resonator attacks >>> Target resonator gains [+X/+X], where X is the ATK of this card. This ability triggers only once per turn.",
+                                    "[Outnumber]\n- [Enter] >>> Cancel target spell."
+                                ],
+                                "artist": "ComamitsuZaki",
+                                "ATK": "600",
+                                "colour": [
+                                    "W",
+                                    "G"
+                                ],
+                                "cost": "{W}{G}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"Millennia doesn't need a new king. We'll never bow to that monkey. We'll always be loyal to Princess Yakami!\"",
+                                "fowID": "",
+                                "id": "MP03-044",
+                                "name": "Hanzo, Time-Observing Yin-Yang Master",
+                                "race": [
+                                    "Cat",
+                                    "Ninja",
+                                    "Yin-Yang Master"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "If damage would be dealt to you or a resonator you control, prevent 600 of it.",
+                                    "Shikigami resonators you control gain [Moontide] {2}, [Protect], and [Drain] as long as you control a Yin-Yang Master resonator.",
+                                    "[Reunited] \"Hanzo\"\n- Shikigami resonators you control gain \"{Rest}: Produce {W}{G} or {G}{G}.\".",
+                                    "At end of turn >>> Search your deck for a Shikigami or Yin-Yang Master card, reveal it and put it into your hand, then shuffle your deck."
+                                ],
+                                "artist": "yuuiguchi",
+                                "ATK": "1200",
+                                "colour": [
+                                    "W",
+                                    "G"
+                                ],
+                                "cost": "{W}{W}{G}{1}",
+                                "DEF": "1200",
+                                "divinity": "",
+                                "flavour": "\"The protectors of the throne have been here for thousands of years. The usurper has no idea what he's walking into.\" -Hanzo",
+                                "fowID": "",
+                                "id": "MP03-045",
+                                "name": "Jikoku-ten, Time-Guardian Shikigami",
+                                "race": [
+                                    "King",
+                                    "Shikigami",
+                                    "Warrior"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Reunited] \"Hanzo\"\n- [Moontide] {1}\n- If this is not the first spell named \"Ten Celestial Ofudas\" you play this game, this is the first spell named \"Ten Celestial Ofudas\" you play this turn, and this spell is not a copy, recover two magic stones you control.",
+                                    "Search your deck for a Yin-Yang Master card and put it into the field, then shuffle your deck. If you control a Yin-Yang Master resonator, instead search your deck for a Shikigami card and put it into the field, then shuffle your deck."
+                                ],
+                                "artist": "Shirono Muku",
+                                "ATK": "",
+                                "colour": [
+                                    "W",
+                                    "G"
+                                ],
+                                "cost": "{W}{G}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"This isn't even my secret technique!\" -Hanzo",
+                                "fowID": "",
+                                "id": "MP03-046",
+                                "name": "Ten Celestial Ofudas",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant",
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Magic stones you control with the wind magic stone type have the light magic stone type and gain \"{Rest}: Produce {W}.\".",
+                                    "When this card is put into a graveyard from the field >>> Put a [100/100] wind Cat resonator token into the field.",
+                                    "{Rest}: Put target non-magic stone card in a graveyard on the bottom of its owner's deck."
+                                ],
+                                "artist": "noki",
+                                "ATK": "400",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "\"The cats' cry is heard a second time.\" -Hanzo",
+                                "fowID": "",
+                                "id": "MP03-047",
+                                "name": "Calico Cat Shikigami",
+                                "race": [
+                                    "Cat",
+                                    "Shikigami"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "You pay {G} less to play this card from a rune area.",
+                                    "Change the target of target spell with a single target targeting a Cat ruler or entity you control."
+                                ],
+                                "artist": "Matsurika Yoko",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"Dance, along with the forgotten fragrances of Valhalla.\" -Hanzo",
+                                "fowID": "",
+                                "id": "MP03-048",
+                                "name": "Kukunochi's Dance",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enter] >>> Recover target Cat ruler or entity.",
+                                    "When this card is discarded by a spell or ability your opponent controls >>> Put this card from your graveyard into the field."
+                                ],
+                                "artist": "Matsurika Yoko",
+                                "ATK": "700",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{3}",
+                                "DEF": "1200",
+                                "divinity": "",
+                                "flavour": "\"Yes, much has happened since then. For starters, I would see your dance.\" -Hanzo",
+                                "fowID": "",
+                                "id": "MP03-049",
+                                "name": "Kukunochi, the Shikigami",
+                                "race": [
+                                    "Cat",
+                                    "Shikigami"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Divinity] (3)",
+                                    "[Tag] \"Chamimi\" or \"K. Algernon\"",
+                                    "[Primal Roar] (2) (Dinosaur J/resonators you control gain [+200/0].)",
+                                    "[Force Command] <Nature>",
+                                    "You may have up to three Master rune cards in your rune deck.",
+                                    "Other rulers you control gain [Judgment] {R}{G}.",
+                                    "You pay {3} less to play wind rune spells with divinity 2 or less.",
+                                    "Whenever you play a Mimi Tribe or wind Beast spell >>> Recover a magic stone. This ability triggers only once per turn.",
+                                    "{Rest} or {R}{G}: Put a [200/300] wind Dinosaur resonator token into the field. If you do and you control two Dinosaur entities, copy it."
+                                ],
+                                "artist": "uekino aroe",
+                                "ATK": "",
+                                "colour": [
+                                    "R",
+                                    "G"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Adventures are cooler when you have friends to live them together, mi-! Right, Fand? Let's find a new one, mi-!\" -Chamimi",
+                                "fowID": "",
+                                "id": "MP03-050",
+                                "name": "Fand, Brave Adventurer",
+                                "race": [
+                                    "Sidhe",
+                                    "Warrior"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Primal Roar] (3)",
+                                    "[Pierce]",
+                                    "[Aegis]",
+                                    "[Reunited] \"Chamimi\"\n- If damage would be dealt to a J/resonator you control that shares a race with this card, put two [+100/+100] counters on that J/resonator instead.",
+                                    "[Enter] >>> Reveal the top five cards of your deck. Put all Dinosaur or Mimi Tribe resonator cards from among them into your hand, then shuffle your deck.",
+                                    "Whenever this card is revealed from your deck or hand by the effect of a wind source you control >>> Put a [200/300] wind Dinosaur resonator token into the field. Up to one target resonator gains [Swiftness] until end of turn."
+                                ],
+                                "artist": "311taro",
+                                "ATK": "600",
+                                "colour": [
+                                    "R",
+                                    "G"
+                                ],
+                                "cost": "{R}{G}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"The jungles of Shalkai are a dangerous but fun place, mi-! Come! I'll introduce you to my friends, mi-!\"",
+                                "fowID": "",
+                                "id": "MP03-051",
+                                "name": "Chamimi, Megantereon Rider",
+                                "race": [
+                                    "Beast",
+                                    "Dinosaur",
+                                    "Mimi Tribe"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Chamimi\"\n- <Hellooo, mi-!> While this card is revealed from your deck by the effect of a wind J/resonator you control, you may play it without paying its cost. You can only apply the effect of one <Hellooo, mi-!> ability per turn.\n- If this is not the first spell named \"Jurassic Stampede\" you play this game, you may play a Dinosaur card from your hand without paying its cost.",
+                                    "Reveal cards from the top of your deck until you reveal two Dinosaur cards with different names. Put one of them with total cost 2 or less into the field and the rest into your hand, then shuffle your deck."
+                                ],
+                                "artist": "OJONPA",
+                                "ATK": "",
+                                "colour": [
+                                    "R",
+                                    "G"
+                                ],
+                                "cost": "{R}{G}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"Hey, dinosaurs! Hellooo, mi-! Don't run away, mi-! Fand, help me! Why are you making that face, mi-!\" -Chamimi",
+                                "fowID": "",
+                                "id": "MP03-052",
+                                "name": "Jurassic Stampede",
+                                "race": [
+                                    "Mimi Tribe"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant",
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Primal Roar] (2)",
+                                    "You pay {R} less to play this card for each addition or regalia you don't control.",
+                                    "[Reunited] \"Chamimi\"\n- Whenever this card is revealed from your deck or hand by the effect of a wind source you control >>> Flip a master rune card in your rune area face down.",
+                                    "[Enter] >>> If you control more resonators than any other player, you may target entities with [Barrier] with this ability. Destroy target addition or regalia you don't control. Reveal a Beast card from your hand. If you do, draw a card."
+                                ],
+                                "artist": "Seichi Naruse",
+                                "ATK": "900",
+                                "colour": [
+                                    "R",
+                                    "G"
+                                ],
+                                "cost": "{R}{R}{G}",
+                                "DEF": "900",
+                                "divinity": "",
+                                "flavour": "\"Wild dinosaurs are threatening Crystal Pinnacles, mi-? Pteromi, Tricemi, Velocmi, get ready, mi-!\" -Chamimi",
+                                "fowID": "",
+                                "id": "MP03-053",
+                                "name": "The Three Dinosaur Hunters",
+                                "race": [
+                                    "Beast",
+                                    "Dinosaur",
+                                    "Mimi Tribe"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enter] >>> Look at the top three cards of your deck. Reveal a Mimi Tribe card from among them and put it into your hand. Put the rest on the bottom of your deck in any order."
+                                ],
+                                "artist": "hatarisu",
+                                "ATK": "400",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{1}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"The explorers of the Mimi tribe aren't an organized bunch. The majority of their time is spent bickering over who will lead for that day. The rest, chasing or running away from dinosaurs.\" -Chamimi",
+                                "fowID": "",
+                                "id": "MP03-054",
+                                "name": "Mimi Tribe Explorer",
+                                "race": [
+                                    "Mimi Tribe"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enter] >>> Choose one;\n- Banish this card unless you reveal a Beast card from your hand.\n- Banish this card unless you pay {2}."
+                                ],
+                                "artist": "sasaki kounosuke",
+                                "ATK": "600",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "\"Shalkai's unique ecosystem comes with a trove of rare animals, mi-.\" -Chamimi",
+                                "fowID": "",
+                                "id": "MP03-055",
+                                "name": "Pygmy Hippo",
+                                "race": [
+                                    "Beast"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "You pay {1} more to play this card from a rune area.",
+                                    "Cancel target spell."
+                                ],
+                                "artist": "Shirono Muku",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}{1}",
+                                "DEF": "",
+                                "divinity": 1,
+                                "flavour": "\"This song invokes nostalgia in the listener, stopping them, even in the midst of battle, mi-!\" -Chamimi",
+                                "fowID": "",
+                                "id": "MP03-056",
+                                "name": "Song of the Fairies",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Divinity] (3)",
+                                    "[Tag] \"Lucifer\" or \"Orpheus\"",
+                                    "[Force Command] <Satan>",
+                                    "Other rulers you control gain [Judgment] {R}{B}{1}.",
+                                    "God's Art \"Rebellion\" {0}: You gain \"You pay {B} rather than paying the will activation cost of activate abilities of Fallen Angel cards in all areas.\" until end of game. You may discard two cards. If you do, draw a card.",
+                                    "[Anathema] (This card has the following text in all zones as long as you control cards in your graveyard with four different card types.)\n- If you would lose life by paying life, each player loses half that much instead, rounded up."
+                                ],
+                                "artist": "Kelvin",
+                                "ATK": "",
+                                "colour": [
+                                    "R",
+                                    "B"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "After the rebellion against Satan, Lucifer became the new spiritual leader of the Kathora continent, and he rebuilt the city of Amadeus, with some help.",
+                                "fowID": "",
+                                "id": "MP03-057",
+                                "name": "The Grigori, Entourage of the Fallen",
+                                "race": [
+                                    "Fallen Angel"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Blood Trail]",
+                                    "[Belligerence]",
+                                    "[Reunited] \"Lucifer\"\n- God's Art \"We are Forever Apart\" {R}, reveal this card from outside the game: Discard a card, then put this card into the field.",
+                                    "At the end of your turn >>> You may pay 400 life, If your do, draw a card.",
+                                    "[Anathema]\n- You may look at the top card of your deck at any time.\n- You may play cards from the top of your deck by paying X00 life rather than paying their cost, where X is the total cost of that card multiplied by four."
+                                ],
+                                "artist": "K2 Shoukai",
+                                "ATK": "600",
+                                "colour": [
+                                    "R",
+                                    "B"
+                                ],
+                                "cost": "{R}{B}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "\"The price of your rebellion was your lover being banished to Axbryn, while you are here, in Kathora. That's cruel.\" -Lucifer",
+                                "fowID": "",
+                                "id": "MP03-058",
+                                "name": "Eurydice, Rebel against Satan",
+                                "race": [
+                                    "Artist",
+                                    "Human",
+                                    "Songstress"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Lucifer\"\n- Pay 400 life, remove this card in your graveyard from the game: Each other player discards a card chosen at random.\n- {Rest}, {B}: Put two fallen counters on target entity with fallen counters on it.",
+                                    "{Rest}, pay 300 life: Produce {W}, {R}, {U}, {G}, {B}, or {V}.",
+                                    "[Anathema]\n- {B}{B}, pay 1000 life: Draw two cards. Put this card from your graveyard into the field. Play this ability only if this card is in your graveyard."
+                                ],
+                                "artist": "Kelvin",
+                                "ATK": "600",
+                                "colour": [
+                                    "R",
+                                    "B"
+                                ],
+                                "cost": "{R}{B}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"Here, in Kathora, pain became art.\" -Lucifer",
+                                "fowID": "",
+                                "id": "MP03-059",
+                                "name": "Chazaquiel, Fallen Angel of Pain",
+                                "race": [
+                                    "Fallen Angel"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "Magic stones you control with the darkness magic stone type have the fire magic stone type and gain \"{Rest}: Produce {R}.\".",
+                                    "{Rest}, banish this card: Search your deck for a card named \"Fallen Angel of Fiery Vengeance\", reveal it and put it into your hand, then shuffle your deck.",
+                                    "Pay 200 life, remove this card in your graveyard from the game: Target J/resonator gains [0/-400] until end of turn."
+                                ],
+                                "artist": "BANAMONS*",
+                                "ATK": "400",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "\"Chain together and fall as one.\" -Lucifer",
+                                "fowID": "",
+                                "id": "MP03-061",
+                                "name": "Fallen Angel of Fiery Vengeance",
+                                "race": [
+                                    "Fallen Angel"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Flying]",
+                                    "At the end of your turn >>> You gain life equal to the amount of life you lost in any way (e.g. loss of life, payment of life, and reduction of life due to damage) this turn.",
+                                    "Pay 1000 life: This card gains [+200/+200] until end of turn.",
+                                    "{B}{B}{1}, pay 1000 life, discard a card: Put this card from your graveyard into the field. Play this ability only if this card is in your graveyard."
+                                ],
+                                "artist": "Nekobayashi",
+                                "ATK": "700",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}{1}",
+                                "DEF": "900",
+                                "divinity": "",
+                                "flavour": "\"Leave but a drop of blood, and present the rest as an offering.\"",
+                                "fowID": "",
+                                "id": "MP03-063",
+                                "name": "Lucifer, Leader of the Fallen Angels",
+                                "race": [
+                                    "Fallen Angel"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
                             }
-                        ]
-					}
-				]
-			}
+                        ],
+                        "code": "MP03",
+                        "name": "Masterpiece Collection 03 \"Dimensional Hope\""
+                    }
+                ]
+            }
 		]
 	}
 }

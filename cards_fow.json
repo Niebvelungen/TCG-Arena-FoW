@@ -178665,5 +178665,531 @@
     "set": "mp03",
     "isHorizontal": false,
     "cost": 0
+  },
+  "MP03-043": {
+    "id": "MP03-043",
+    "name": "Kuzunoha, Primordial Shikigami",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Kuzunoha, Primordial Shikigami",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-043.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "G"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "W",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-044": {
+    "id": "MP03-044",
+    "name": "Hanzo, Time-Observing Yin-Yang Master",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Hanzo, Time-Observing Yin-Yang Master",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-044.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "W",
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
+  "MP03-045": {
+    "id": "MP03-045",
+    "name": "Jikoku-ten, Time-Guardian Shikigami",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Jikoku-ten, Time-Guardian Shikigami",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-045.jpg",
+        "ATK": "1200",
+        "DEF": "1200"
+      }
+    },
+    "Colors": [
+      "W",
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "1200",
+    "DEF": "1200"
+  },
+  "MP03-046": {
+    "id": "MP03-046",
+    "name": "Ten Celestial Ofudas",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Ten Celestial Ofudas",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-046.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "G"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "W",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-047": {
+    "id": "MP03-047",
+    "name": "Calico Cat Shikigami",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Calico Cat Shikigami",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-047.jpg",
+        "ATK": "400",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "400"
+  },
+  "MP03-048": {
+    "id": "MP03-048",
+    "name": "Kukunochi's Dance",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Kukunochi's Dance",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-048.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-049": {
+    "id": "MP03-049",
+    "name": "Kukunochi, the Shikigami",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Kukunochi, the Shikigami",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-049.jpg",
+        "ATK": "700",
+        "DEF": "1200"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "700",
+    "DEF": "1200"
+  },
+  "MP03-050": {
+    "id": "MP03-050",
+    "name": "Fand, Brave Adventurer",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Fand, Brave Adventurer",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-050.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "G"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "R",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-051": {
+    "id": "MP03-051",
+    "name": "Chamimi, Megantereon Rider",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Chamimi, Megantereon Rider",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-051.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "R",
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
+  "MP03-052": {
+    "id": "MP03-052",
+    "name": "Jurassic Stampede",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Jurassic Stampede",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-052.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "G"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "R",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-053": {
+    "id": "MP03-053",
+    "name": "The Three Dinosaur Hunters",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "The Three Dinosaur Hunters",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-053.jpg",
+        "ATK": "900",
+        "DEF": "900"
+      }
+    },
+    "Colors": [
+      "R",
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "900",
+    "DEF": "900"
+  },
+  "MP03-054": {
+    "id": "MP03-054",
+    "name": "Mimi Tribe Explorer",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Mimi Tribe Explorer",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-054.jpg",
+        "ATK": "400",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "600"
+  },
+  "MP03-055": {
+    "id": "MP03-055",
+    "name": "Pygmy Hippo",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Pygmy Hippo",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-055.jpg",
+        "ATK": "600",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "500"
+  },
+  "MP03-056": {
+    "id": "MP03-056",
+    "name": "Song of the Fairies",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Song of the Fairies",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-056.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-057": {
+    "id": "MP03-057",
+    "name": "The Grigori, Entourage of the Fallen",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "The Grigori, Entourage of the Fallen",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-057.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-058": {
+    "id": "MP03-058",
+    "name": "Eurydice, Rebel against Satan",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Eurydice, Rebel against Satan",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-058.jpg",
+        "ATK": "600",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "500"
+  },
+  "MP03-059": {
+    "id": "MP03-059",
+    "name": "Chazaquiel, Fallen Angel of Pain",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Chazaquiel, Fallen Angel of Pain",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-059.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
+  "MP03-061": {
+    "id": "MP03-061",
+    "name": "Fallen Angel of Fiery Vengeance",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Fallen Angel of Fiery Vengeance",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-061.jpg",
+        "ATK": "400",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "400"
+  },
+  "MP03-063": {
+    "id": "MP03-063",
+    "name": "Lucifer, Leader of the Fallen Angels",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Lucifer, Leader of the Fallen Angels",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-063.jpg",
+        "ATK": "700",
+        "DEF": "900"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "700",
+    "DEF": "900"
   }
 }
