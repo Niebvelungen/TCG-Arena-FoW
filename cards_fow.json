@@ -179602,6 +179602,58 @@
     "ATK": "700",
     "DEF": "500"
   },
+  "MP03-078": {
+    "id": "MP03-078",
+    "name": "Improved Sniper Robot",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Improved Sniper Robot",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-078.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
+  "MP03-079": {
+    "id": "MP03-079",
+    "name": "Thunderclam",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Thunderclam",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-079.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "MP03-080": {
     "id": "MP03-080",
     "name": "Firestorm",
@@ -179621,6 +179673,30 @@
     "Card type": "Chant",
     "Color identity": [
       "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-081": {
+    "id": "MP03-081",
+    "name": "Magic Stone of Atoms",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Magic Stone of Atoms",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-081.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
     ],
     "set": "mp03",
     "isHorizontal": false,
