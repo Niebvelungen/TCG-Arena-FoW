@@ -178300,13 +178300,11 @@
       }
     },
     "Colors": [
-      "U",
-      "G"
+      "V"
     ],
     "Card type": "Ruler",
     "Color identity": [
-      "U",
-      "G"
+      "V"
     ],
     "set": "mp03",
     "isHorizontal": false,
@@ -178328,13 +178326,11 @@
       }
     },
     "Colors": [
-      "U",
-      "G"
+      "V"
     ],
     "Card type": "Resonator",
     "Color identity": [
-      "U",
-      "G"
+      "V"
     ],
     "set": "mp03",
     "isHorizontal": false,
@@ -178356,13 +178352,11 @@
       }
     },
     "Colors": [
-      "U",
-      "G"
+      "V"
     ],
     "Card type": "Chant - Master Rune",
     "Color identity": [
-      "U",
-      "G"
+      "V"
     ],
     "set": "mp03",
     "isHorizontal": false,
@@ -178384,13 +178378,11 @@
       }
     },
     "Colors": [
-      "U",
-      "G"
+      "V"
     ],
     "Card type": "Resonator",
     "Color identity": [
-      "U",
-      "G"
+      "V"
     ],
     "set": "mp03",
     "isHorizontal": false,
@@ -179136,6 +179128,32 @@
     "ATK": "600",
     "DEF": "600"
   },
+  "MP03-060": {
+    "id": "MP03-060",
+    "name": "Dark Sacrament",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Dark Sacrament",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-060.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "MP03-061": {
     "id": "MP03-061",
     "name": "Fallen Angel of Fiery Vengeance",
@@ -179164,6 +179182,30 @@
     "ATK": "400",
     "DEF": "400"
   },
+  "MP03-062": {
+    "id": "MP03-062",
+    "name": "Freed from the Altar",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Freed from the Altar",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-062.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "MP03-063": {
     "id": "MP03-063",
     "name": "Lucifer, Leader of the Fallen Angels",
@@ -179191,5 +179233,397 @@
     "cost": 0,
     "ATK": "700",
     "DEF": "900"
+  },
+  "MP03-064": {
+    "id": "MP03-064",
+    "name": "Igor, Keeper of the Phylactery",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Igor, Keeper of the Phylactery",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-064.jpg"
+      }
+    },
+    "Colors": [
+      "G",
+      "B"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "G",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-065": {
+    "id": "MP03-065",
+    "name": "Lich, Pontiff of the Immortal Orchard",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Lich, Pontiff of the Immortal Orchard",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-065.jpg",
+        "ATK": "200",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "G",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "200",
+    "DEF": "500"
+  },
+  "MP03-066": {
+    "id": "MP03-066",
+    "name": "Deathbound Phylactery Scepter",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Deathbound Phylactery Scepter",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-066.jpg"
+      }
+    },
+    "Colors": [
+      "G",
+      "B"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "G",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-067": {
+    "id": "MP03-067",
+    "name": "Rite of Death and Rebirth",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Rite of Death and Rebirth",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-067.jpg"
+      }
+    },
+    "Colors": [
+      "G",
+      "B"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "G",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-068": {
+    "id": "MP03-068",
+    "name": "Corpse Sorcerer",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Corpse Sorcerer",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-068.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
+  "MP03-069": {
+    "id": "MP03-069",
+    "name": "Disgraced Knight",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Disgraced Knight",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-069.jpg",
+        "ATK": "800",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "800",
+    "DEF": "700"
+  },
+  "MP03-070": {
+    "id": "MP03-070",
+    "name": "Power of Immortality",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Power of Immortality",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-070.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-071": {
+    "id": "MP03-071",
+    "name": "Those Who Assaulted Yomidgard",
+    "type": "Extension_Rule",
+    "face": {
+      "front": {
+        "name": "Those Who Assaulted Yomidgard",
+        "type": "Extension_Rule",
+        "cost": 0,
+        "isHorizontal": true,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-071.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Extension Rule",
+    "Color identity": [
+      "V"
+    ],
+    "set": "mp03",
+    "isHorizontal": true,
+    "cost": 0
+  },
+  "MP03-072": {
+    "id": "MP03-072",
+    "name": "Faria, Pride of the Heroic Spirit",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Faria, Pride of the Heroic Spirit",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-072.jpg",
+        "ATK": "300",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "300",
+    "DEF": "700"
+  },
+  "MP03-073": {
+    "id": "MP03-073",
+    "name": "Glorian Armor",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Glorian Armor",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-073.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-074": {
+    "id": "MP03-074",
+    "name": "Hero of Wisdom",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Hero of Wisdom",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-074.jpg",
+        "ATK": "300",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "300",
+    "DEF": "400"
+  },
+  "MP03-075": {
+    "id": "MP03-075",
+    "name": "Excalibur Reincarnation",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Excalibur Reincarnation",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-075.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-076": {
+    "id": "MP03-076",
+    "name": "Magic Stone of Guidance",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Magic Stone of Guidance",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-076.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-077": {
+    "id": "MP03-077",
+    "name": "Violet, Envious Atomic Machine",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Violet, Envious Atomic Machine",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-077.jpg",
+        "ATK": "700",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "700",
+    "DEF": "500"
+  },
+  "MP03-080": {
+    "id": "MP03-080",
+    "name": "Firestorm",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Firestorm",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-080.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
   }
 }

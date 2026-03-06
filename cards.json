@@ -198130,7 +198130,7 @@
 					}
 				]
 			},
-			{
+			 {
                 "name": "Masterpiece 2026",
                 "sets": [
                     {
@@ -198992,8 +198992,7 @@
                                 "artist": "IWAO",
                                 "ATK": "",
                                 "colour": [
-                                    "U",
-                                    "G"
+                                    "V"
                                 ],
                                 "cost": "",
                                 "DEF": "",
@@ -199025,8 +199024,7 @@
                                 "artist": "SIGMAN",
                                 "ATK": "700",
                                 "colour": [
-                                    "U",
-                                    "G"
+                                    "V"
                                 ],
                                 "cost": "{U}{G}",
                                 "DEF": "700",
@@ -199056,8 +199054,7 @@
                                 "artist": "Matsumoto Atsuya",
                                 "ATK": "",
                                 "colour": [
-                                    "U",
-                                    "G"
+                                    "V"
                                 ],
                                 "cost": "{U}{G}{V}",
                                 "DEF": "",
@@ -199088,8 +199085,7 @@
                                 "artist": "muranako",
                                 "ATK": "900",
                                 "colour": [
-                                    "U",
-                                    "G"
+                                    "V"
                                 ],
                                 "cost": "{U}{G}{V}",
                                 "DEF": "900",
@@ -199895,7 +199891,7 @@
                                     "Resonator"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -199924,7 +199920,35 @@
                                     "Resonator"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Lucifer\"\n- [Quickcast]\n- You pay {1} less to play this card if a player lost life in any way this turn.\n- If this is not the first spell named \"Dark Sacrament\" you play this game, at end of turn >>> Each other player loses X life, where X is the amount of life you lost this turn due to loss of life effects or abilities from sources you control.",
+                                    "Perform the following effect five times - Look at the top card of your deck. You may pay 200 life. If you do, put that card into your hand. Otherwise, put it into your graveyard and this card deals 400 damage to each resonator."
+                                ],
+                                "artist": "ShiroYayoi",
+                                "ATK": "",
+                                "colour": [
+                                    "R",
+                                    "B"
+                                ],
+                                "cost": "{R}{B}{1}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"We love God, even though they do not love us.\" -Lucifer",
+                                "fowID": "",
+                                "id": "MP03-060",
+                                "name": "Dark Sacrament",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant",
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -199952,7 +199976,34 @@
                                     "Resonator"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You pay {1} less to play this card from a rune area.",
+                                    "Search your deck for a darkness resonator card, reveal it and put it into your hand, then shuffle your deck. You lose 400 life."
+                                ],
+                                "artist": "Mad",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{1}",
+                                "DEF": "",
+                                "divinity": 1,
+                                "flavour": "The thing freed from the altar can only be described as madness incarnate.",
+                                "fowID": "",
+                                "id": "MP03-062",
+                                "name": "Freed from the Altar",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -199979,6 +200030,815 @@
                                 "rarity": "N",
                                 "type": [
                                     "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Divinity] (4)",
+                                    "[Tag] \"Lich\" or \"Rehka\"",
+                                    "[Force Command] <Rebirth>",
+                                    "Other rulers you control gain [Judgment] {G}{B}.",
+                                    "J-rulers you control gain \"{Rest}: Put the top two cards of your deck into your graveyard. Put a magic stone from your graveyard into the field.\".",
+                                    "Zombie resonator cards in your graveyard gain [Necrobloom]. (Whenever you banish a magic stone >>> If you haven't played any spell with [Necrobloom] this turn, play this card from your graveyard without paying its cost.)",
+                                    "Whenever a card leaves a graveyard >>> Put two [400/400] darkness Skeleton resonator tokens into the field. This ability triggers only once per turn."
+                                ],
+                                "artist": "Kazue Saitou",
+                                "ATK": "",
+                                "colour": [
+                                    "G",
+                                    "B"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Keep the scepter safe, Igor. It will contain my soul after the ritual.\" -Lich",
+                                "fowID": "",
+                                "id": "MP03-064",
+                                "name": "Igor, Keeper of the Phylactery",
+                                "race": [
+                                    "Butler",
+                                    "Zombie"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Necrobloom]",
+                                    "[Bane]",
+                                    "[Vileborn] (3)",
+                                    "You may pay {G} rather than pay this card's cost. If you do, put the top two cards of your deck into your graveyard, then you lose 500 life.",
+                                    "[Reunited] \"Lich\"\n- When this card leaves your graveyard >>> Draw two cards.",
+                                    "{Rest}: Choose one;\n- Produce {G}. You gain 400 life.\n- Produce {B}. Put the top card of your deck into your graveyard."
+                                ],
+                                "artist": "Wednesday",
+                                "ATK": "200",
+                                "colour": [
+                                    "G",
+                                    "B"
+                                ],
+                                "cost": "{G}{B}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "\"I have mastered the rite of death and rebirth. And now, I will put it to use on myself.\"",
+                                "fowID": "",
+                                "id": "MP03-065",
+                                "name": "Lich, Pontiff of the Immortal Orchard",
+                                "race": [
+                                    "Deathless",
+                                    "Lich",
+                                    "Zombie"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Added J/resonator gains [Terrifying], [Eternal], and \"Whenever this card deals battle damage to a player >>> Recover all magic stones you control.\".",
+                                    "[Reunited] \"Lich, the Saint of Death\"\n- Added J-ruler gains [Imperishable] and \"You cannot lose the game.\"\n- [Enter] >>> Put the top three cards of your deck into your graveyard. Put a card from among them into your hand. Add this card to target J-ruler.\n- {G}, banish a magic stone: Put this card from your graveyard into the field. Play this ability only during your turn and only if this card is in your graveyard.",
+                                    "[Bestow] {Rest}. This ability can target J-rulers."
+                                ],
+                                "artist": "sasaki kounosuke",
+                                "ATK": "",
+                                "colour": [
+                                    "G",
+                                    "B"
+                                ],
+                                "cost": "{G}{B}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"As long as my phylactery endures, I would have conquered Death.\" -Lich",
+                                "fowID": "",
+                                "id": "MP03-066",
+                                "name": "Deathbound Phylactery Scepter",
+                                "race": [
+                                    "Weapon"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Lich\"\n- This card gains [Remnant] in all zones if you have played a spell named \"Rite of Death and Rebirth\" this game\n- As you play this card, remove any number of cards in your graveyard from the game. You pay {1} less to play this card for each card removed this way.",
+                                    "Your opponent reveals the top X cards of their deck. You may play any number of cards with a combined total cost of X or less from among them without paying their cost. Put all cards from your removed area into your graveyard."
+                                ],
+                                "artist": "Azami datto",
+                                "ATK": "",
+                                "colour": [
+                                    "G",
+                                    "B"
+                                ],
+                                "cost": "{G}{B}{X}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"Death and rebirth are two sides of the same coin. A circle: one couldn't exist without the other. Until now. Until me.\" -Lich",
+                                "fowID": "",
+                                "id": "MP03-067",
+                                "name": "Rite of Death and Rebirth",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant",
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enter] >>> Put target non-chant Zombie card with total cost 2 or less from your graveyard into the field."
+                                ],
+                                "artist": "Hayama Kohei",
+                                "ATK": "600",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}{1}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"A corpse gives life to another corpse.\" -Lich",
+                                "fowID": "",
+                                "id": "MP03-068",
+                                "name": "Corpse Sorcerer",
+                                "race": [
+                                    "Wizard",
+                                    "Zombie"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "{B}, remove three darkness cards in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn and only if this card is in your graveyard."
+                                ],
+                                "artist": "Nolly Tokiwa",
+                                "ATK": "800",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}{B}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"Accept this taint and rise again.\" -Lich",
+                                "fowID": "",
+                                "id": "MP03-069",
+                                "name": "Disgraced Knight",
+                                "race": [
+                                    "Knight",
+                                    "Zombie"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "You pay {1} less to play this card from a rune area.",
+                                    "Target resonator gains [+400/+0] and \"When this card is put into a graveyard from the field >>> Put it from a graveyard into the field under its owner's control rested.\" until end of turn."
+                                ],
+                                "artist": "IWAO",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{B}{1}",
+                                "DEF": "",
+                                "divinity": 1,
+                                "flavour": "Corruption only strengthens the undead.",
+                                "fowID": "",
+                                "id": "MP03-070",
+                                "name": "Power of Immortality",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Extension Rule]",
+                                    "You can start the game with this card in your extension rule area if your starting ruler was released in Assault in Assault of the Demonic World (ADW), and you have five cards with an <Amadeus' Purity> ability in your deck, and three among them share an attribute with your starting ruler.",
+                                    "If your opponent doesn't control a card named \"Those Who Assaulted Yomidgard\" in their extension rule area, and players would choose who plays first, you choose that player instead.",
+                                    "After you mulligan, expel up to two cards from your hand and draw that many cards.",
+                                    "{4}: Put a ruler you own released in Assault of the Demonic World (ADW) from outside the game into your ruler area and perform its judgment process. You pay {X} less to play this ability, where X is the number of magic stones you control. Players cannot chase to this ability. Play this ability only twice per turn."
+                                ],
+                                "artist": "OJONPA",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "They fought, won, and fell together, stopping Satan's plan and freeing Kathora from the fallen angels.",
+                                "fowID": "",
+                                "id": "MP03-071",
+                                "name": "Those Who Assaulted Yomidgard",
+                                "race": [
+                                ],
+                                "rarity": "XR",
+                                "type": [
+                                    "Extension Rule"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Defiant] (1)",
+                                    "[Protect]",
+                                    "[Reunited] \"Excalibur Genesis\"\n- [Enter] >>> Put a Hero card with total cost 1 from your hand into the field.",
+                                    "Whenever one or more guidance counters are put on this card >>> Perform the following effect;\n- [Guidance] (2): You gain \"You cannot lose the game.\" and \"Damage that would be dealt to you becomes 0 instead.\" until end of turn.",
+                                    "<Amadeus' Purity> {Rest}: Put a [400/400] light Angel resonator token with [Flying] into the field. Play only one <Amadeus' Purity> ability per turn."
+                                ],
+                                "artist": "Nekobayashi",
+                                "ATK": "300",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{1}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "Amadeus' purifying power temporarily transferred Belial's power to Faria.",
+                                "fowID": "",
+                                "id": "MP03-072",
+                                "name": "Faria, Pride of the Heroic Spirit",
+                                "race": [
+                                    "Hero",
+                                    "Heroic Spirit",
+                                    "Human"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Added resonator gains [+200/+200] and [Barrier] (J/resonator).",
+                                    "Players gain \"As an additional cost to play a non-resonator spell or an activate ability, pay {1}.\" as long as this card is recovered and added to a resonator.",
+                                    "[Reunited] \"Excalibur Genesis\"\n- God's Art \"Glorian Crusader\" {W}: Search your deck for a light resonator card with \"Faria\" in its name and put it into the field, then shuffle your deck.",
+                                    "[Bestow] {Rest}"
+                                ],
+                                "artist": "sasaki kounosuke",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"This armor represents all virtues of Gloria, my city, protecting its wearer from all evil. It also grants a name: Glorius, Masked Crusader.\" -Faria, last words",
+                                "fowID": "",
+                                "id": "MP03-073",
+                                "name": "Glorian Armor",
+                                "race": [
+                                    "Armor"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Drain]",
+                                    "[Reunited] \"Excalibur Genesis\"\n- Non-Hero J/resonators your opponent controls with ATK higher than this card's ATK enter the field rested and cannot be recovered in any way.",
+                                    "Whenever one or more guidance counters are put on this card >>> Perform the following effect;\n- [Guidance] (1): Draw a card. You gain 1000 life.",
+                                    "God's Art \"Parting Vow\" {W}: If you control a Hero resonator card in your graveyard, put a guidance counter on this card and expel this card."
+                                ],
+                                "artist": "Yuko Nagasaki",
+                                "ATK": "300",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "\"Hero, if I fall in this fight, take my mask to my sister Charlotte. Our Glorian Bond is eternal. She'll be a better me.\" -Faria",
+                                "fowID": "",
+                                "id": "MP03-074",
+                                "name": "Hero of Wisdom",
+                                "race": [
+                                    "Hero"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "Remove target attacking resonator your opponent controls from the game. Put a guidance counter on target entity you control."
+                                ],
+                                "artist": "jugemt",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Creation and reincarnation are two sides of the same coin.\" -Faria",
+                                "fowID": "",
+                                "id": "MP03-075",
+                                "name": "Excalibur Reincarnation",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "{Rest}: Produce {W}.",
+                                    "{Rest}: Produce one will of any attribute. Spend this will only to play Hero spells."
+                                ],
+                                "artist": "sasaki kounosuke",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "Providing guidance is a duty for heroes.",
+                                "fowID": "",
+                                "id": "MP03-076",
+                                "name": "Magic Stone of Guidance",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Special Magic Stone"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Blood Trail]",
+                                    "[Aegis]",
+                                    "[Reunited] \"Violet\"\n- This card has \"Violet, Atomic Automaton\" in addition to its other names.\n- When this card is discarded by the effect or as a cost of an ability of a card you control named \"Violet, Atomic Automaton\" >>> If you don't control an entity that shares a name with this card, put it from your graveyard into the field.",
+                                    "[Enter] >>> Destroy another target resonator with total cost 2 or less.",
+                                    "<Amadeus' Purity> Discard an Atom card: Draw a card. Produce {R}. Play this ability only during main timing and only one <Amadeus' Purity> ability per turn."
+                                ],
+                                "artist": "Rumie",
+                                "ATK": "700",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{1}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "Amadeus' purifying power temporarily transferred Astema's power to Violet.",
+                                "fowID": "",
+                                "id": "MP03-077",
+                                "name": "Violet, Envious Atomic Machine",
+                                "race": [
+                                    "Atom",
+                                    "Machine"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You pay {1} less to play activate abilities of this card as long as you control a card named \"Heart-to-Heart Talk\" in a public area.",
+                                    "[Reunited] \"Violet\"\n- This card has \"Violet, Atomic Automaton\" in addition to its other names.\n- When this card is discarded by the effect or as a cost of an ability of a card you control named \"Violet, Atomic Automaton\" >>> If you don't control an entity that shares a name with this card, put it from your graveyard into the field.",
+                                    "{Rest} or {2}: Your opponent banishes a regalia with total cost 2 or less.",
+                                    "{1}: Draw a card, then discard a card. Play this ability only once per turn."
+                                ],
+                                "artist": "yuuiguchi",
+                                "ATK": "600",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{R}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"The original version required aiming to shoot. This one has auto-aim, and it never misses its target.\" -Violet",
+                                "fowID": "",
+                                "id": "MP03-078",
+                                "name": "Improved Sniper Robot",
+                                "race": [
+                                    "Atom",
+                                    "Machine"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Remnant]",
+                                    "[Reunited] \"Violet\"\n- When this card is discarded by the effect or as a cost of an ability of a card you control named \"Violet, Atomic Automaton\" >>> Perform the following effect of this card.",
+                                    "Choose one;\n- This card deals 600 damage to each other player.\n- Remove two willpower counters from a warden or J-ruler."
+                                ],
+                                "artist": "Nagi-nyan",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"It's artificial, but it's identical to the sound that precedes lightning.\" -Violet",
+                                "fowID": "",
+                                "id": "MP03-079",
+                                "name": "Thunderclam",
+                                "race": [
+                                    "Atom"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "As an additional cost to play this card, remove any number of Atom cards in your graveyard from the game. You pay {1} less to play this card from each card removed this way.",
+                                    "This card deals X00 damage to target player or J/resonator, where X is the number of Atom cards with different names in your removed area multiplied by four."
+                                ],
+                                "artist": "jugemt",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{5}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"According to Master Machina's explanation, this should be used... like this.\" -Violet",
+                                "fowID": "",
+                                "id": "MP03-080",
+                                "name": "Firestorm",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "{Rest}: Produce {R}.",
+                                    "Banish this card: Draw a card."
+                                ],
+                                "artist": "sasaki kounosuke",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "Machina discovered a new type of energy, atoms.",
+                                "fowID": "",
+                                "id": "MP03-081",
+                                "name": "Magic Stone of Atoms",
+                                "race": [
+                                    "Atom"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Special Magic Stone"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Isis, the Hundred Weapon Master\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Isis\"\n- Put X fire Moon, Sand addition tokens with \"Banish this card: This card deals 800 damage to target J/resonator.\" into the field, where X is the number of Sand cards you control in public areas.",
+                                    "This card deals Y00 damage to each other player, where Y is the number of Sand entities you control plus the number of cards with [Ibka] you control in public areas, multiplied by three."
+                                ],
+                                "artist": "yua",
+                                "ATK": "",
+                                "colour": [
+                                    "W",
+                                    "R"
+                                ],
+                                "cost": "{W}{R}{R}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"The moon of Sandora can be fiery while being ascendant! Feel the chilling embrace of the desert!\" -Isis",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 01",
+                                "name": "Ascendant Full Moon",
+                                "race": [
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Atom Seikhart, the Shimmering Rabbit\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Atom\"\n- You gain \"While you are searching your deck, you may play a New Twelve Olympian Gods card from your deck without paying its cost. You can perform this effect only once per search.\" until end of turn.",
+                                    "Search your deck for a multi-attribute resonator card with total cost 4 or less and put it into the field, then shuffle your deck."
+                                ],
+                                "artist": "jitari",
+                                "ATK": "",
+                                "colour": [
+                                    "W",
+                                    "U"
+                                ],
+                                "cost": "{W}{W}{U}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"When you need to call for deities, there's nothing better than the lightning of Zeus to make them appear instantly.\" -Atom",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 02",
+                                "name": "Keraunos, the First Lightning",
+                                "race": [
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Hanzo, Chief of the Kouga\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Hanzo\"\n- If you control exactly five J/resonators, exactly seven magic stones, and there are exactly five cards in your graveyard, recover seven magic stones you control, recover five resonators you control, and draw up to seven cards.",
+                                    "J/resonators you control gain [+500/0] and [Flying] until end of game."
+                                ],
+                                "artist": "ComamitsuZaki",
+                                "ATK": "",
+                                "colour": [
+                                    "W",
+                                    "G"
+                                ],
+                                "cost": "{W}{G}{1}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"Moonlight beats slowly, I cradle time in silence, the night bows to me.\" -Hanzo",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 03",
+                                "name": "Hanzo's Time's Haiku",
+                                "race": [
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Brunhild, Caller of Spirits\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Brunhild\"\n- If you control an astral ruler and your opponent controls three magic stones, remove all magic stones you don't control from the game.",
+                                    "Put a light resonator card from your graveyard or removed area into the field. Put six [+100/+100] counters on J/resonators you control."
+                                ],
+                                "artist": "Miko Yamazaki",
+                                "ATK": "",
+                                "colour": [
+                                    "W",
+                                    "B"
+                                ],
+                                "cost": "{W}{B}{B}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"The Bifr\u00f6st is the bridge that connects all dimensions to Asgard, but it is also one of our most powerful weapons.\" -Brunhild",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 04",
+                                "name": "Radiant Blast of the Bifr\u00f6st",
+                                "race": [
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Fu Xi, King of Kunlun\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Fu Xi\"\n- As you play this card, copy it X times, where X is the number of times you banished a \u00abDragon Emblem\u00bb (Vermilion) item this game multiplied by two.",
+                                    "This card deals 800 damage to each non-Dragon J/resonator. Draw two cards. Put a Dragon resonator card from your hand into the field."
+                                ],
+                                "artist": "Yuko Nagasaki",
+                                "ATK": "",
+                                "colour": [
+                                    "R",
+                                    "U"
+                                ],
+                                "cost": "{R}{U}{1}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"There are secrets so dangerous that I am forced to keep them even from my wife. For that, I must end you here.\" -Fu Xi",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 05",
+                                "name": "Secret Eight Trigrams of the Kunlun",
+                                "race": [
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "This card cannot be canceled.",
+                                    "[Reunited] \"Chamimi, Guardian of the Sacred Bow\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Chamimi\"\n- Put five wind Weapon regalia tokens with \"Added J/resonator gains [Pierce] and \"If this card would deal damage, it deals quadruple that much instead.\".\" and \"[Bestow] {Rest}\" into the field and add them to J/resonators you control.",
+                                    "Perform the following effect three times - Choose a J/resonator you control. It deals damage equal to its ATK to a J/resonator you don't control."
+                                ],
+                                "artist": "hatarisu",
+                                "ATK": "",
+                                "colour": [
+                                    "R",
+                                    "G"
+                                ],
+                                "cost": "{R}{G}{G}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"We celebrate the arrival of summer with fire and hunting expeditions, mi-! And I definitely won't miss it, mi-!\" -Chamimi",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 06",
+                                "name": "Festival of Summer's Flame",
+                                "race": [
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Lucifer, Fallen Angel of Sorrow\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Lucifer\"\n- If you have achieved [Fallen] this turn and another player has higher life that your life, each other player loses X life, where X is their life minus your life.",
+                                    "Each other players removes the top card of their deck and a card in their hand from the game. Play any one card removed this way from any other player's removed area without paying its cost."
+                                ],
+                                "artist": "hatarisu",
+                                "ATK": "",
+                                "colour": [
+                                    "R",
+                                    "B"
+                                ],
+                                "cost": "{R}{B}{1}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"My commandments won't force anyone to serve a greater good. I want to lead with compassion, not with fear.\" -Lucifer",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 07",
+                                "name": "The Eleventh Commandment",
+                                "race": [
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Kernlos]",
+                                    "[Untouchable]",
+                                    "[Reunited] \"Arthur, King of Machines\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Arthur\"\n- Cancel up to one target spell without [Kernlos]. If you do, put a Gears resonator card from your hand or graveyard into the field.",
+                                    "You gain \"Entities you control with [Kernlos] gains [Barrier] (Sources without [Kernlos]) and \"Damage that would be dealt to this card by sources without [Kernlos] becomes 0 instead.\".\" until end of game."
+                                ],
+                                "artist": "Nagi-nyan",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "{U}{G}{V}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"We'll spread Gearsification to every dimension. Be prepared, for you have never seen anything like this.\" -King Arthur",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 08",
+                                "name": "Solaris' Infestation",
+                                "race": [
+                                    "Gears"
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Loki, the Witch of Chaos\" or \"Perfect Loki\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Loki\"\n- Rest all entities. All produced wills cease to exist. Entities you don't control rested this way don't recover during their controller's next two recovery phases.",
+                                    "Players gain \"Addition, magic stone, regalia, and resonator cards you control enter the field rested.\" until end of game."
+                                ],
+                                "artist": "UncleAshes / J CREATION",
+                                "ATK": "",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{U}{B}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"The cold of Utgard not only seeps into your bones: it also freezes your blood, and you never regain your warmth.\" -Loki",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 09",
+                                "name": "Perpetual Frost of Hnitbj\u00f6rg",
+                                "race": [
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Lich, the Saint of Death\"\n- The divinity of this card is 2 instead of its printed divinity in all areas.",
+                                    "[Reunited] \"Lich\"\n- Each player banishes all resonators. Put any number of resonator cards from all graveyards into the field under your control, then banish all resonators.",
+                                    "Put X [400/400] darkness Skeleton resonator tokens into the field, where X is the number of resonators that left the field this turn."
+                                ],
+                                "artist": "Wednesday",
+                                "ATK": "",
+                                "colour": [
+                                    "G",
+                                    "B"
+                                ],
+                                "cost": "{G}{B}{1}",
+                                "DEF": "",
+                                "divinity": 7,
+                                "flavour": "\"The last words of a living person have power. But the first words heard after death are what determine your fate.\" -Lich",
+                                "fowID": "",
+                                "id": "MP03 Buy a Box 10",
+                                "name": "Eerie Death Rattle",
+                                "race": [
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Master Rune"
                                 ],
                                 "willpower": "",
                                 "wind_new": false
