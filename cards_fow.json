@@ -179632,11 +179632,11 @@
   },
   "MP03-079": {
     "id": "MP03-079",
-    "name": "Thunderclam",
+    "name": "Thunderclap",
     "type": "Chant",
     "face": {
       "front": {
-        "name": "Thunderclam",
+        "name": "Thunderclap",
         "type": "Chant",
         "cost": 0,
         "isHorizontal": false,
@@ -179697,6 +179697,58 @@
     "Card type": "Special Magic Stone",
     "Color identity": [
       "V"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-087": {
+    "id": "MP03-087",
+    "name": "Brad, Gluttony of the Six Sages",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Brad, Gluttony of the Six Sages",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-087.jpg",
+        "ATK": "200",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "200",
+    "DEF": "400"
+  },
+  "MP03-090": {
+    "id": "MP03-090",
+    "name": "Absorbing Knowledge",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Absorbing Knowledge",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-090.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "G"
     ],
     "set": "mp03",
     "isHorizontal": false,

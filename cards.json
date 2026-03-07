@@ -200248,7 +200248,7 @@
                                     "You can start the game with this card in your extension rule area if your starting ruler was released in Assault in Assault of the Demonic World (ADW), and you have five cards with an <Amadeus' Purity> ability in your deck, and three among them share an attribute with your starting ruler.",
                                     "If your opponent doesn't control a card named \"Those Who Assaulted Yomidgard\" in their extension rule area, and players would choose who plays first, you choose that player instead.",
                                     "After you mulligan, expel up to two cards from your hand and draw that many cards.",
-                                    "{4}: Put a ruler you own released in Assault of the Demonic World (ADW) from outside the game into your ruler area and perform its judgment process. You pay {X} less to play this ability, where X is the number of magic stones you control. Players cannot chase to this ability. Play this ability only twice per turn."
+                                    "{4}: Put a ruler you own released in Assault of the Demonic World (ADW) from outside the game into your ruler area and perform its judgment process. You pay {X} less to play this ability, where X is the number of magic stones you control. Players cannot chase to this ability. Play this ability only twice per game."
                                 ],
                                 "artist": "OJONPA",
                                 "ATK": "",
@@ -200475,7 +200475,7 @@
                                     "Resonator"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -200494,7 +200494,7 @@
                                 "flavour": "\"It's artificial, but it's identical to the sound that precedes lightning.\" -Violet",
                                 "fowID": "",
                                 "id": "MP03-079",
-                                "name": "Thunderclam",
+                                "name": "Thunderclap",
                                 "race": [
                                     "Atom"
                                 ],
@@ -200555,6 +200555,65 @@
                                 "rarity": "R",
                                 "type": [
                                     "Special Magic Stone"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Pierce]",
+                                    "[Eternal]",
+                                    "If this card would deal damage, it deals double that much instead.",
+                                    "[Reunited] \"Brad\"\n- {Rest}: Search your deck for a card with \"Knowledge\" or \"Mysteries\" in its name, or with [Seal], reveal it and put it into your hand, then shuffle your deck.",
+                                    "<Amadeus' Purity> {Rest}: Produce {G}. Spend this will only to play spells with an <Amadeus' Purity> ability, with [Seal], or with total cost 3 or more. If you do, that spell cannot be targeted. Play only one <Amadeus' Purity> ability per turn."
+                                ],
+                                "artist": "fzwrAym",
+                                "ATK": "200",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "Amadeus' purifying power temporarily transferred Carlina's power to Brad.",
+                                "fowID": "",
+                                "id": "MP03-087",
+                                "name": "Brad, Gluttony of the Six Sages",
+                                "race": [
+                                    "Human",
+                                    "Six Sages",
+                                    "Wizard"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "Destroy target J-ruler you control. Draw two cards."
+                                ],
+                                "artist": "jugemt",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"I quickly found out that I learned best all by myself, left alone and undisturbed.\" -Brad",
+                                "fowID": "",
+                                "id": "MP03-090",
+                                "name": "Absorbing Knowledge",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
                                 ],
                                 "willpower": "",
                                 "wind_new": true
