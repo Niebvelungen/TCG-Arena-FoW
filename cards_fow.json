@@ -179702,6 +179702,134 @@
     "isHorizontal": false,
     "cost": 0
   },
+  "MP03-082": {
+    "id": "MP03-082",
+    "name": "Olivia, Greedy Empress of the Sea",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Olivia, Greedy Empress of the Sea",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-082.jpg",
+        "ATK": "100",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "100",
+    "DEF": "400"
+  },
+  "MP03-083": {
+    "id": "MP03-083",
+    "name": "Exa Biri-Biri Ball!",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Exa Biri-Biri Ball!",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-083.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-084": {
+    "id": "MP03-084",
+    "name": "Exa Thunderfish",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Exa Thunderfish",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-084.jpg",
+        "ATK": "600",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "700"
+  },
+  "MP03-085": {
+    "id": "MP03-085",
+    "name": "Surging Lightning",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Surging Lightning",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-085.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-086": {
+    "id": "MP03-086",
+    "name": "Magic Stone of Tides",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Magic Stone of Tides",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-086.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "MP03-087": {
     "id": "MP03-087",
     "name": "Brad, Gluttony of the Six Sages",
@@ -179730,6 +179858,54 @@
     "ATK": "200",
     "DEF": "400"
   },
+  "MP03-088": {
+    "id": "MP03-088",
+    "name": "Journal of Knowledge of the Six Sages",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Journal of Knowledge of the Six Sages",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-088.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-089": {
+    "id": "MP03-089",
+    "name": "The Mysteries of Fiethsing",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "The Mysteries of Fiethsing",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-089.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "MP03-090": {
     "id": "MP03-090",
     "name": "Absorbing Knowledge",
@@ -179749,6 +179925,250 @@
     "Card type": "Chant",
     "Color identity": [
       "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-091": {
+    "id": "MP03-091",
+    "name": "Magic Stone of Knowledge",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Magic Stone of Knowledge",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-091.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-092": {
+    "id": "MP03-092",
+    "name": "Wolfgang, Lustful Demonic Prince",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Wolfgang, Lustful Demonic Prince",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-092.jpg",
+        "ATK": "400",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "400"
+  },
+  "MP03-093": {
+    "id": "MP03-093",
+    "name": "Sea of Blood",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Sea of Blood",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-093.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Addition",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-094": {
+    "id": "MP03-094",
+    "name": "Unholy Cathedral of Amadeus",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Unholy Cathedral of Amadeus",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-094.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Addition",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-095": {
+    "id": "MP03-095",
+    "name": "Wind of the Demonic World",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Wind of the Demonic World",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-095.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-096": {
+    "id": "MP03-096",
+    "name": "Magic Stone of the Kingdom",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Magic Stone of the Kingdom",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-096.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-097": {
+    "id": "MP03-097",
+    "name": "Satan's Trifecta",
+    "type": "Extension_Rule",
+    "face": {
+      "front": {
+        "name": "Satan's Trifecta",
+        "type": "Extension_Rule",
+        "cost": 0,
+        "isHorizontal": true,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-097.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Extension Rule",
+    "Color identity": [
+      "V"
+    ],
+    "set": "mp03",
+    "isHorizontal": true,
+    "cost": 0
+  },
+  "MP03-098": {
+    "id": "MP03-098",
+    "name": "Angelic Seal of Yomidgard",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Angelic Seal of Yomidgard",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-098.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Addition",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-099": {
+    "id": "MP03-099",
+    "name": "Erythropia, Blood Stone",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Erythropia, Blood Stone",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-099.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-100": {
+    "id": "MP03-100",
+    "name": "Imaginary Satan, Magic Crystal",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Imaginary Satan, Magic Crystal",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-100.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
     ],
     "set": "mp03",
     "isHorizontal": false,

@@ -200503,7 +200503,7 @@
                                     "Chant"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -200562,6 +200562,145 @@
                             {
                                 "abilities": [
                                     "\u00abMythic\u00bb",
+                                    "[Quickcast]",
+                                    "Water resonators you control gain [+200/0] and [Precision].",
+                                    "[Reunited] \"Olivia\"\n- [Enter] >>> Search your deck fora Fish resonator card, reveal it and put it into your hand, then shuffle your deck. If you control two magic stones, put a non-chant Fish card from your hand into the field.",
+                                    "<Amadeus' Purity> {0}: If you have two or less cards in your hand, draw a card. Otherwise, discard a card. Play this ability only during each player's main phase, and only two <Amadeus' Purity> abilities per turn."
+                                ],
+                                "artist": "gekko",
+                                "ATK": "100",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "Amadeus' purifying power temporarily transferred Beatrice's power to Olivia.",
+                                "fowID": "",
+                                "id": "MP03-082",
+                                "name": "Olivia, Greedy Empress of the Sea",
+                                "race": [
+                                    "Emperor",
+                                    "Mermaid"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Reunited] \"Olivia\"\n- The cost of this card is {U}{U} instead of its printed cost in all zones.",
+                                    "Choose one, then choose another at random;\n- The weather is thunderstorm until end of game. Draw two cards.\n- Gain control of up to one target addition, regalia, resonator, or warden.\n- Double the number of willpower counters on non-fire wardens you control.\n- Spells that were in the chase area before this spell resolves gain \"If this card would resolve, expel it instead.\" as long as they are in the chase area."
+                                ],
+                                "artist": "gekko",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{U}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"My ancestor, Shaela, would be proud: this was her special technique, but improved to the eighteenth power!\" -Olivia",
+                                "fowID": "",
+                                "id": "MP03-083",
+                                "name": "Exa Biri-Biri Ball!",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Precision]",
+                                    "[Aegis]",
+                                    "[Reunited] \"Olivia\"\n- The cost of this card is {U}{U} instead of its printed cost in all zones.",
+                                    "Whenever this card attacks >>> Choose one at random;\n- Foresee 2, then draw two cards.\n- Put five [100/100] water Fish resonator tokens into the field.\n- Search your deck for a Fish resonator card and put it into the field, and for a water warden card and put it into your ruler area, then shuffle your deck."
+                                ],
+                                "artist": "douzen",
+                                "ATK": "600",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{U}{1}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"This majestic fish leads the schools of fishes like I lead the thunder: with an iron fist and a velvet glove.\" -Olivia",
+                                "fowID": "",
+                                "id": "MP03-084",
+                                "name": "Exa Thunderfish",
+                                "race": [
+                                    "Fish"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "Destroy a non-magic stone entity chosen at random."
+                                ],
+                                "artist": "yua",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Only I know where it will go! Sometimes.\" -Olivia",
+                                "fowID": "",
+                                "id": "MP03-085",
+                                "name": "Surging Lightning",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "{Rest}: Produce {U}.",
+                                    "{Rest}: Choose one at random;\n- Produce {U}.\n- Produce {W}, {R}, {G}, or {B}."
+                                ],
+                                "artist": "Takumi Sugikawa",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "For knowing the tides you have to live in the tides.",
+                                "fowID": "",
+                                "id": "MP03-086",
+                                "name": "Magic Stone of Tides",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Special Magic Stone"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
                                     "[Pierce]",
                                     "[Eternal]",
                                     "If this card would deal damage, it deals double that much instead.",
@@ -200590,7 +200729,64 @@
                                     "Resonator"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Brad\"\n- {Rest}: Draw a card, then destroy up to one J-ruler you control.\n- [Mastery] \"Brad, Immortal Sage\"",
+                                    "J/resonators you control gain [+X00/+X00] and [Pierce], where X is the number of knowledge counters on J/rulers you control multiplied by two.",
+                                    "[Enter} >>> Put the top two cards of your magic stone deck into the field.",
+                                    "[Omniresonance] (Whenever a magic stone enters the field under your control) >>> If you played this card, put two knowledge counters on a J/ruler."
+                                ],
+                                "artist": "Shirono Muku",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"To the reader of this journal: within lie the chronicles of the Six Sages; trials, triumphs, and immortal deeds. Let their memory never fade. Should your will be strong enough to take up their mantle. Gather seven new Sages and rise.\" -Brad",
+                                "fowID": "",
+                                "id": "MP03-088",
+                                "name": "Journal of Knowledge of the Six Sages",
+                                "race": [
+                                    "Six Sages"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "As you play this card, copy it X times, where X is the number of non-copied spells in the chase area plus the number of copied spells you don't control. You may choose new targets for each copy.",
+                                    "Cancel target chant spell unless its controller pays {1}. Put a knowledge counter on up to one target J/ruler.",
+                                    "Whenever another player plays a chant spell that cannot be chased >>> You may pay {G}. If you do, discard this card and cancel all spells."
+                                ],
+                                "artist": "ise ebicha",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"From Fiethsing's stories and adventures, I learned to master the wind and to stop the impossible. This spell, I do in her honor.\" -Brad",
+                                "fowID": "",
+                                "id": "MP03-089",
+                                "name": "The Mysteries of Fiethsing",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -200614,6 +200810,286 @@
                                 "rarity": "N",
                                 "type": [
                                     "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "{Rest}: Produce {G}.",
+                                    "[Seal] (3)\n- {Rest}: Produce one will of any attribute."
+                                ],
+                                "artist": "yuhki lily",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "Brad now stores over a thousand years worth of knowledge in ths magic stone.",
+                                "fowID": "",
+                                "id": "MP03-091",
+                                "name": "Magic Stone of Knowledge",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Special Magic Stone"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Flying]",
+                                    "[Vileborn] (2)",
+                                    "If this card would deal damage, it deals double that much instead.",
+                                    "[Reunited] \"Wolfgang, Guide of the Demonic World\"\n- {Rest}: Produce {B}{B}. Spend this will only to play activate abilities of Demonic rulers of Demonic entities you control.",
+                                    "Whenever you banish an addition >>> Put a [+100/+100] counter on this card.",
+                                    "<Amadeus' Purity> {X}, banish an addition: Search your deck for a Demonic World addition card with total cost X and put it into the field, then shuffle your deck. Play only two <Amadeus' Purity> abilities per turn."
+                                ],
+                                "artist": "Yuko Nagasaki",
+                                "ATK": "400",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "Amadeus' purifying power temporarily transferred Asmodeus's power to Wolfgang.",
+                                "fowID": "",
+                                "id": "MP03-092",
+                                "name": "Wolfgang, Lustful Demonic Prince",
+                                "race": [
+                                    "Demonic",
+                                    "Demonic World",
+                                    "Prince"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Reunited] \"Wolfgang, Guide of the Demonic World\"\n- As this card enters the field, you may choose a Demonic World addition not named \"Sea of Blood\". If you do, this card becomes a copy of the chosen addition and gains all abilities of this card until end of game.",
+                                    "J/resonators without [Flying] cannot attack."
+                                ],
+                                "artist": "mita kura",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Nothing crosses the Sea of Blood. The only passage from Kathora to Axbryn lies through the Gate at the center of Yomidgard, but once you cross, there is no return. Let's move on. The city of Amadeus is still far away.\" -Wolfgang",
+                                "fowID": "",
+                                "id": "MP03-093",
+                                "name": "Sea of Blood",
+                                "race": [
+                                    "Demonic World"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Wolfgang, Guide of the Demonic World\"\n- [Enter] >>> Search your deck for a Demonic World addition card and put it into the field, then shuffle your deck.",
+                                    "[Enter] >>> Target a card in your graveyard with total cost X or less, where X is the number of Demonic World entities you control with different names. If the chosen target is a Demon, a Demonic World, or a Fallen Angel card, put it into the field. Otherwise, shuffle it into your deck.",
+                                    "{Rest}, {B}{B}: Trigger one of this card's [Enter] abilities."
+                                ],
+                                "artist": "mita kura",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Amadeus is the most important city in all of Kathora, and the capital of its only kingdom. Here it all began. Here it all will end.\" -Wolfgang",
+                                "fowID": "",
+                                "id": "MP03-094",
+                                "name": "Unholy Cathedral of Amadeus",
+                                "race": [
+                                    "Demonic World"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "You pay {B} less to play this card for each Demonic World entity you control.",
+                                    "Remove target resonator from the game. Draw a card."
+                                ],
+                                "artist": "jugemt",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Ah, such a nice, gentle breeze.\" -Wolfgang",
+                                "fowID": "",
+                                "id": "MP03-095",
+                                "name": "Wind of the Demonic World",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "{Rest}: Produce {B}.",
+                                    "{Rest}: Produce one will of any attribute. Spend this will only to play Demonic World spells."
+                                ],
+                                "artist": "jitari",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "Keeps the memory of the kingdom alive.",
+                                "fowID": "",
+                                "id": "MP03-096",
+                                "name": "Magic Stone of the Kingdom",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Special Magic Stone"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Extension Rule]",
+                                    "You can start the game with this card in your extension rule area if your starting ruler was released in The Seventh (TST), you start the game with exactly one starting ruler with [Tag] (Fallen Angel), and you have seven multi-attribute cards in your deck. This rules text takes precedence over the [Tag] rules.",
+                                    "Players cannot cancel God's Art abilities of extension rule cards or Fallen Angel J/rulers you control.",
+                                    "When you play the judgment process of a non-starting ruler >>> Destroy target resonator. Draw a card.",
+                                    "God's Art \"Sins of the Father\" {1}: If you control exactly one Fallen Angel J/ruler, reveal two rulers with [Tag] you own from outside the game released in The Seventh (TST) and put them into your ruler area."
+                                ],
+                                "artist": "SO",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "The fallen angels led Satan's forces, but at the last moment, when they needed help, He didn't appear.",
+                                "fowID": "",
+                                "id": "MP03-097",
+                                "name": "Satan's Trifecta",
+                                "race": [
+                                ],
+                                "rarity": "XR",
+                                "type": [
+                                    "Extension Rule"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Barrier] (Chant and God's Art abilities)",
+                                    "If an addition card, a regalia card, or a resonator card other than a High God resonator token would be put into the field without being played by paying its non-reduced printed cost, or paying its non-reduced cost modified by its base ability, its controller removes it from the game instead.",
+                                    "[Solo Mode]",
+                                    "[Untouchable]"
+                                ],
+                                "artist": "Kotakan",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"After the defeat of the Fallen Angels, the Goddess Velmar herself placed a seal on Yomidgard to protect everyone. As a precaution, its location will not be included in these volumes.\" -Chronicles of Yomidgard, vol. XIII",
+                                "fowID": "",
+                                "id": "MP03-098",
+                                "name": "Angelic Seal of Yomidgard",
+                                "race": [
+                                    "Arcane Item"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "{Rest}: Produce {B}.",
+                                    "{Rest}, banish this card: Until end of game, you may play all God's Art abilities of Fallen Angel rulers you control you already played this game an additional time."
+                                ],
+                                "artist": "Wednesday",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "Source of power for the fallen angels.",
+                                "fowID": "",
+                                "id": "MP03-099",
+                                "name": "Erythropia, Blood Stone",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Special Magic Stone"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "{Rest}: Produce {B}.",
+                                    "{Rest}: Produce one will of any attribute. Play this ability only if you control an astral ruler."
+                                ],
+                                "artist": "Nkyoku",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "Satan's shadow demands a sacrifice.",
+                                "fowID": "",
+                                "id": "MP03-100",
+                                "name": "Imaginary Satan, Magic Crystal",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Special Magic Stone"
                                 ],
                                 "willpower": "",
                                 "wind_new": true
