@@ -180173,5 +180173,649 @@
     "set": "mp03",
     "isHorizontal": false,
     "cost": 0
+  },
+  "MP03-101": {
+    "id": "MP03-101",
+    "name": "Dante's Sepulchral Mask",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Dante's Sepulchral Mask",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-101.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-102": {
+    "id": "MP03-102",
+    "name": "Demonic Essence of Sloth",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Demonic Essence of Sloth",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-102.jpg",
+        "ATK": "400",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "600"
+  },
+  "MP03-102^": {
+    "id": "MP03-102^",
+    "name": "Black Rain",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Black Rain",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-102^.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-103": {
+    "id": "MP03-103",
+    "name": "Divine Knowledge",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Divine Knowledge",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-103.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-104": {
+    "id": "MP03-104",
+    "name": "Eisheth, Princess of the Damned",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Eisheth, Princess of the Damned",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-104.jpg",
+        "ATK": "400",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "700"
+  },
+  "MP03-105": {
+    "id": "MP03-105",
+    "name": "Asmodeus' Desire",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Asmodeus' Desire",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-105.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-106": {
+    "id": "MP03-106",
+    "name": "Demonic Essence of Lust",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Demonic Essence of Lust",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-106.jpg",
+        "ATK": "400",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "400"
+  },
+  "MP03-106^": {
+    "id": "MP03-106^",
+    "name": "Abhorrent Revival",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Abhorrent Revival",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-106^.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-108": {
+    "id": "MP03-108",
+    "name": "Angel of False Grace",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Angel of False Grace",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-108.jpg",
+        "ATK": "1000",
+        "DEF": "1000"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "1000",
+    "DEF": "1000"
+  },
+  "MP03-109": {
+    "id": "MP03-109",
+    "name": "Ashes of the Apostates",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Ashes of the Apostates",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-109.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-110": {
+    "id": "MP03-110",
+    "name": "Demonic Essence of Pride",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Demonic Essence of Pride",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-110.jpg",
+        "ATK": "900",
+        "DEF": "900"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "900",
+    "DEF": "900"
+  },
+  "MP03-110^": {
+    "id": "MP03-110^",
+    "name": "Choir of Fallen Angels",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Choir of Fallen Angels",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-110^.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "W"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-112": {
+    "id": "MP03-112",
+    "name": "Orthros, Unholy Loyal Servant",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Orthros, Unholy Loyal Servant",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-112.jpg",
+        "ATK": "1000",
+        "DEF": "800"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "1000",
+    "DEF": "800"
+  },
+  "MP03-113": {
+    "id": "MP03-113",
+    "name": "Demonic Essence of Envy",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Demonic Essence of Envy",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-113.jpg",
+        "ATK": "600",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "500"
+  },
+  "MP03-113^": {
+    "id": "MP03-113^",
+    "name": "Purging Flames",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Purging Flames",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-113^.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-114": {
+    "id": "MP03-114",
+    "name": "Three Dark Psalms",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Three Dark Psalms",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-114.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-116": {
+    "id": "MP03-116",
+    "name": "Nyx, Mother of the Furies",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Nyx, Mother of the Furies",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-116.jpg",
+        "ATK": "500",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "700"
+  },
+  "MP03-117": {
+    "id": "MP03-117",
+    "name": "Demonic Essence of Greed",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Demonic Essence of Greed",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-117.jpg",
+        "ATK": "600",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "500"
+  },
+  "MP03-117^": {
+    "id": "MP03-117^",
+    "name": "A Voice from the Void",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "A Voice from the Void",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-117^.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-118": {
+    "id": "MP03-118",
+    "name": "Void of the Soul",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Void of the Soul",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-118.jpg"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-120": {
+    "id": "MP03-120",
+    "name": "Carlina's Corpsefruit Cultivator",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Carlina's Corpsefruit Cultivator",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-120.jpg",
+        "ATK": "400",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "G",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "400"
+  },
+  "MP03-121": {
+    "id": "MP03-121",
+    "name": "Carlina's Midnight Snack",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Carlina's Midnight Snack",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-121.jpg"
+      }
+    },
+    "Colors": [
+      "G",
+      "B"
+    ],
+    "Card type": "Addition",
+    "Color identity": [
+      "G",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-122": {
+    "id": "MP03-122",
+    "name": "Demonic Essence of Gluttony",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Demonic Essence of Gluttony",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-122.jpg",
+        "ATK": "600",
+        "DEF": "100"
+      }
+    },
+    "Colors": [
+      "G",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "100"
+  },
+  "MP03-122^": {
+    "id": "MP03-122^",
+    "name": "Carlina's Storm",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Carlina's Storm",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-122^.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
   }
 }

@@ -200134,7 +200134,7 @@
                             },
                             {
                                 "abilities": [
-                                    "[Reunited] \"Lich\"\n- This card gains [Remnant] in all zones if you have played a spell named \"Rite of Death and Rebirth\" this game\n- As you play this card, remove any number of cards in your graveyard from the game. You pay {1} less to play this card for each card removed this way.",
+                                    "[Reunited] \"Lich\"\n- This card gains [Remnant] in all zones if you have played a spell named \"Rite of Death and Rebirth\" this game.\n- As you play this card, remove any number of cards in your graveyard from the game. You pay {1} less to play this card for each card removed this way.",
                                     "Your opponent reveals the top X cards of their deck. You may play any number of cards with a combined total cost of X or less from among them without paying their cost. Put all cards from your removed area into your graveyard."
                                 ],
                                 "artist": "Azami datto",
@@ -200670,7 +200670,7 @@
                                     "Chant"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -201010,7 +201010,7 @@
                                     "Extension Rule"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -201040,7 +201040,7 @@
                                     "Addition"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -201066,7 +201066,7 @@
                                     "Special Magic Stone"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -201090,6 +201090,712 @@
                                 "rarity": "R",
                                 "type": [
                                     "Special Magic Stone"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Players cannot chase to this card or its abilities.",
+                                    "Added resonator gains [+400/0], [Terrifying], and \"Whenever this card deals battle damage to a player >>> If you control an astral ruler with \"Dante\" in its name, that player loses the game.\".",
+                                    "[Enter] >>> Destroy target J-ruler or darkness resonator.",
+                                    "Destroy the added resonator: Trigger this card's [Enter] abilities.",
+                                    "[Bestow] {Rest} or rest a J/ruler you control with \"Dante\" in its name."
+                                ],
+                                "artist": "SAGAWA ASUKA",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"As a last resort, Astema summoned Satan, but her plea was not answered. Deceived, she continued fighting alone.\" -Chronicles of Yomidgard, vol. X",
+                                "fowID": "",
+                                "id": "MP03-101",
+                                "name": "Dante's Sepulchral Mask",
+                                "race": [
+                                    "Armor"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Vileborn] (2)",
+                                    "This card enters the field rested.",
+                                    "[Reunited] \"Dante\"\n- At end of turn >>> If you played a spell named \"Black Rain\" this turn, put this card from your graveyard into the field.",
+                                    "At the beginning of each player's main phase >>> Put a [200/200] Demon resonator token into the field rested. You lose 200 life."
+                                ],
+                                "artist": "Kazue Saitou",
+                                "ATK": "400",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-102",
+                                "name": "Demonic Essence of Sloth",
+                                "race": [
+                                    "Demonic"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "As an additional cost to play this card, discard X cards.",
+                                    "Your opponent banishes X resonators."
+                                ],
+                                "artist": "haniwa",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-102^",
+                                "name": "Black Rain",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Name of card. Your opponent reveals their hand and discards all cards that share a name with the named card.",
+                                    "[Reunited] \"Dante\"\n- At end of turn >>> Each player banishes all resonators that share a name with resonator cards discarded this turn.",
+                                    "[Fallen]\n- [Remnant]"
+                                ],
+                                "artist": "Tsukumi",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"The battle between the Assaulters and the Deadly Sins lasted for hours, until the Assaulters awakened the purifying power of Amadeus in the cathedral, stealing the Deadly Sins' powers.\" -Chronicles of Yomidgard, vol. V",
+                                "fowID": "",
+                                "id": "MP03-103",
+                                "name": "Divine Knowledge",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Blood Trail]",
+                                    "Magic stones with dusk counters on them lose all abilities and gain \"{Rest} or pay 300 life: Remove a dusk counter from this card.\" and \"{Rest}: Produce {B}.\".",
+                                    "[Reunited] \"Asmodeus\"\n- You may play this card from your removed area.",
+                                    "Whenever this card attacks >>> Put two dusk counters on target magic stone.",
+                                    "{B}, reveal this card from your hand and keep it revealed until end of turn: Put a dusk counter on up to two target magic stones."
+                                ],
+                                "artist": "j-peg",
+                                "ATK": "400",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"As the Kathorian Princess was killed, the Deadly Sins gathered, raging, in the cathedral.\" -Chronicles of Yomidgard, vol. IV",
+                                "fowID": "",
+                                "id": "MP03-104",
+                                "name": "Eisheth, Princess of the Damned",
+                                "race": [
+                                    "Human",
+                                    "Princess"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Reunited] \"Asmodeus\"\n- You may play this card from your removed area.",
+                                    "<Evilish Desire> Remove the top card of your deck from the game. If it shares a name with another card removed from the game with this card this turn, you lose 600 life. Otherwise, you may put that card from your removed area into your hand. If you do, you lose 300 life. Otherwise, perform the <Evilish Desire> effect of this card."
+                                ],
+                                "artist": "M ganzy",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Desperate, Asmodeus tried to suppress the rebels' desire for victory. But what drove them was not desire, but anger.\" -Chronicles of Yomidgard, vol. VIII",
+                                "fowID": "",
+                                "id": "MP03-105",
+                                "name": "Asmodeus' Desire",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Bane]",
+                                    "[Vileborn] (2)",
+                                    "You pay {B}{B} less to play spells named \"Abhorrent Revival\".",
+                                    "[Reunited] \"Asmodeus\"\n- At end of turn >>> If you played a spell named \"Abhorrent Revival\" this turn, put this card from your graveyard into the field.",
+                                    "[Enter] >>> Put up to two target alternative cards from your removed area into your hand."
+                                ],
+                                "artist": "Kusanagi Tyouen",
+                                "ATK": "400",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-106",
+                                "name": "Demonic Essence of Lust",
+                                "race": [
+                                    "Demonic"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Put any number of resonator cards with a combined total cost of 4 or less from your graveyard into the field."
+                                ],
+                                "artist": "gekko",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-106^",
+                                "name": "Abhorrent Revival",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Flying]",
+                                    "[Reunited] \"Belial\"\n- [Untouchable]\n- You cannot lose life by effects or abilities you don't control.",
+                                    "<Lost Grace> [Enter] >>> You gain \"If damage would reduce your life to less than 100, it reduces your life to 100 instead.\" until the end of your next turn. Each game, only two <Lost Grace> abilities trigger per player.",
+                                    "Whenever this card attacks >>> You may pay {B}. If you do, put a resonator card with total cost 3 or less from a graveyard into the field under your control."
+                                ],
+                                "artist": "Nolly Tokiwa",
+                                "ATK": "1000",
+                                "colour": [
+                                    "W",
+                                    "B"
+                                ],
+                                "cost": "{W}{B}{1}",
+                                "DEF": "1000",
+                                "divinity": "",
+                                "flavour": "\"The fallen angels tried to pacify the masses. That increased the ferocity of the rebels.\" -Chronicles of Yomidgard, vol. III",
+                                "fowID": "",
+                                "id": "MP03-108",
+                                "name": "Angel of False Grace",
+                                "race": [
+                                    "Fallen Angel"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Remnant]",
+                                    "[Reunited] \"Belial\"\n- You pay {W} less to play this card from a graveyard.\n- Whenever this spell is targeted by a spell or ability you don't control >>> Put two [400/400] light Fallen Angel resonator tokens with [Defiant] (2), [Flying], and [Drain] into the field.",
+                                    "Remove target mono-attribute non-magic stone, non-J-ruler entity from the game. If your life is 2000 or less, put a [400/400] dual attribute light/darkness Fallen Angel resonator tokens with [Flying] into the field."
+                                ],
+                                "artist": "Yuko Nagasaki",
+                                "ATK": "",
+                                "colour": [
+                                    "W",
+                                    "B"
+                                ],
+                                "cost": "{W}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Belial punished all who renounced the worship of Satan. He was the first to be persecuted when he lost his powers.\" -Chronicles of Yomidgard, vol. VI",
+                                "fowID": "",
+                                "id": "MP03-109",
+                                "name": "Ashes of the Apostates",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Bane]",
+                                    "[Barrier] (Total cost 1 or less)",
+                                    "[Reunited] \"Belial\"\n- At end of turn >>> If you played a spell named \"Choir of Fallen Angels\" this turn, put this card from your graveyard into the field.",
+                                    "[Enter] >>> Each player banishes a non-Demon resonator.",
+                                    "Whenever a resonator you don't control attacks >>> If you are the attacked object, produce {W}, you gain 300 life, and draw a card."
+                                ],
+                                "artist": "Nagi-nyan",
+                                "ATK": "900",
+                                "colour": [
+                                    "W",
+                                    "B"
+                                ],
+                                "cost": "{W}{W}{B}",
+                                "DEF": "900",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-110",
+                                "name": "Demonic Essence of Pride",
+                                "race": [
+                                    "Demonic"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Remnant]",
+                                    "You pay {B} more to play this card from a graveyard.",
+                                    "Put a [400/400] dual-attribute light/darkness Fallen Angel resonator token with [Flying] into the field. If this card was played from a graveyard, put two into the field instead."
+                                ],
+                                "artist": "noki",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-110^",
+                                "name": "Choir of Fallen Angels",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Blood Trail]",
+                                    "[Terrifying]",
+                                    "Resonators you don't control with total cost 4 or less gain [0/-400].",
+                                    "[Reunited] \"Astema\"\n- This card has \"Inferno\" in addition to its other names.\n- If you have achieved [Fallen] this turn, this card gains [Quickcast] in all areas and you pay {R}{B} rather than pay this card's cost.",
+                                    "[Enter] >>> If a player controls more non-magic stone entities than you, each player banishes all additions, regalia, and resonators other than this card."
+                                ],
+                                "artist": "touge369",
+                                "ATK": "1000",
+                                "colour": [
+                                    "R",
+                                    "B"
+                                ],
+                                "cost": "{R}{R}{B}{B}",
+                                "DEF": "800",
+                                "divinity": "",
+                                "flavour": "\"The cathedral was defended, but the rebels captured it anyway, at a high cost in blood.\" -Chronicles of Yomidgard, vol. II",
+                                "fowID": "",
+                                "id": "MP03-112",
+                                "name": "Orthros, Unholy Loyal Servant",
+                                "race": [
+                                    "Beast",
+                                    "Demon"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Bloodlust]",
+                                    "[Terrifying]",
+                                    "Resonators you don't control gain [-400/0] and [Bloodlust].",
+                                    "[Reunited] \"Astema\"\n- At end of turn >>> If you played a spell named \"Purging Flames\" this turn, put this card from your graveyard into the field.",
+                                    "[Enter] >>> Target player's life becomes 3000."
+                                ],
+                                "artist": "Matsumoto Atsuya",
+                                "ATK": "600",
+                                "colour": [
+                                    "R",
+                                    "B"
+                                ],
+                                "cost": "{R}{B}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-113",
+                                "name": "Demonic Essence of Envy",
+                                "race": [
+                                    "Demonic"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "You pay {0} rather than pay this card's cost if a resonator you controlled was put into a graveyard this turn.",
+                                    "Destroy target J/resonator that dealt damage to you or to a J/resonator you controlled this turn."
+                                ],
+                                "artist": "Nagi-nyan",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{2}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-113^",
+                                "name": "Purging Flames",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Incarnation] {B}, {W} or {B}",
+                                    "[Reunited] \"Astema\"\n- This card has \"Inferno\" in addition to its other names.\n- If you have achieved [Fallen] this turn, this card gains [Quickcast] in all areas and you pay {1} less to pay this card.",
+                                    "If your opponent has more cards in their hand than you, they discard three cards and lose 300 life. You draw up to three cards."
+                                ],
+                                "artist": "yua",
+                                "ATK": "1000",
+                                "colour": [
+                                    "R",
+                                    "B"
+                                ],
+                                "cost": "{R}{B}{1}",
+                                "DEF": "800",
+                                "divinity": "",
+                                "flavour": "\"Three Assaulters were killed before Faria landed the final blow on Astema, receiving herself also a fatal wound.\" -Chronicles of Yomidgard, vol. XI",
+                                "fowID": "",
+                                "id": "MP03-114",
+                                "name": "Three Dark Psalms",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "If you would draw a card from an empty deck, you win the game instead.",
+                                    "If another player would draw any number of cards in a phase other than their draw phase, they don't draw them instead. If this is the first time you apply this effect this turn, you draw that many cards instead.",
+                                    "[Reunited] \"Beatrice\"\n- {Rest} or {U}{U}: Search your deck for a card named \"Alecto, Unstoppable Fury\" or \"Nyx, Mother of the Furies\" and put it into the field, then shuffle your deck."
+                                ],
+                                "artist": "Moopic",
+                                "ATK": "500",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{B}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"The remaining angels surrendered. And so, Lucifer became Kathora's new leader.\" -Chronicles of Yomidgard, vol. XII",
+                                "fowID": "",
+                                "id": "MP03-116",
+                                "name": "Nyx, Mother of the Furies",
+                                "race": [
+                                    "Cthulhu"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Precision]",
+                                    "[Bane]",
+                                    "[Reunited] \"Beatrice\"\n- At end of turn >>> If you played a spell named \"A Voice from the Void\" this turn, put this card from your graveyard into the field.",
+                                    "Discard a card: Switch the ATK and DEF of this card until end of turn.",
+                                    "At end of turn >>> You lose X00 life and you draw X cards, where X is the number of cards you discarded this turn."
+                                ],
+                                "artist": "Hugos",
+                                "ATK": "600",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{B}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-117",
+                                "name": "Demonic Essence of Greed",
+                                "race": [
+                                    "Cthulhu",
+                                    "Demonic"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Remnant]",
+                                    "Draw a card.",
+                                    "[Null]\n- Play this card without paying its cost."
+                                ],
+                                "artist": "Haruichi Kido",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-117^",
+                                "name": "A Voice from the Void",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Reunited] \"Beatrice\"\n- You pay {B}{1} less to play this card.",
+                                    "<Brokenhearted> Play a card from another player's graveyard without paying its cost. If you do, discard a card. Search your deck for a card named \"Alecto, Unstoppable Fury\" and put it into the field, then shuffle your deck.",
+                                    "[Null]\n- Perform the <Brokenhearted> effect of this card one additional time."
+                                ],
+                                "artist": "RYUEMON",
+                                "ATK": "",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{B}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Dante's death stirred the dormant Beatrice's heart. Although she decided to abandon the fight, her life wasn't spared.\" -Chronicles of Yomidgard, vol. IX",
+                                "fowID": "",
+                                "id": "MP03-118",
+                                "name": "Void of the Soul",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Overgrowth]",
+                                    "[Terrifying]",
+                                    "[Eternal]",
+                                    "You play {2} less to play spells with total cost 3 or more.",
+                                    "[Reunited] \"Carlina\"",
+                                    " - <Time for a Picnic!> At end of turn >>> If you don't control an entity that shares a name with this card, put this card from your hand into the field. Each turn, only one <Time for a Picnic!> ability triggers per player.",
+                                    "[Enter] >>> Put X [100/100] wind Bug resonator tokens with [Overgrowth] into the field, where X is the number of entities that left the field this turn."
+                                ],
+                                "artist": "yuhki lily",
+                                "ATK": "400",
+                                "colour": [
+                                    "G",
+                                    "B"
+                                ],
+                                "cost": "{G}{B}{1}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "\"The rebellion wasn't a sudden act. The Assaulters were just who triggered the hostilities.\" -Chronicles of Yomidgard, vol. I",
+                                "fowID": "",
+                                "id": "MP03-120",
+                                "name": "Carlina's Corpsefruit Cultivator",
+                                "race": [
+                                    "Demon"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Carlina\"\n- You can play a total of two additional spells or non-will activate abilities per turn.",
+                                    " - <Time for a Picnic!> At end of turn >>> If you don't control an entity that shares a name with this card, put this card from your hand into the field. Each turn, only one <Time for a Picnic!> ability triggers per player.",
+                                    "[Enter] >>> Each player banishes a regalia with a named ability or a resonator.",
+                                    "At the end of your turn >>> Draw X+1 cards. You gain 300 life."
+                                ],
+                                "artist": "Takumi Sugikawa",
+                                "ATK": "",
+                                "colour": [
+                                    "G",
+                                    "B"
+                                ],
+                                "cost": "{G}{G}{B}{X}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Carlina devoured one person at noon, twice a week. What was done to her in revenge cannot be described with words.\" -Chronicles of Yomidgard, vol. VII",
+                                "fowID": "",
+                                "id": "MP03-121",
+                                "name": "Carlina's Midnight Snack",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Terrifying]",
+                                    "[Vileborn] (3)",
+                                    "The DEF of each other resonator becomes 100.",
+                                    "[Reunited] \"Carlina\"\n- At end of turn >>> If you played a spell named \"Carlina's Storm\" this turn, put this card from your graveyard into the field.\n- [Inheritance] {0}: Put two [-100/-100] counters on target resonator."
+                                ],
+                                "artist": "SAGAWA ASUKA",
+                                "ATK": "600",
+                                "colour": [
+                                    "G",
+                                    "B"
+                                ],
+                                "cost": "{G}{B}",
+                                "DEF": "100",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-122",
+                                "name": "Demonic Essence of Gluttony",
+                                "race": [
+                                    "Demonic",
+                                    "Fungus"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "Cancel target spell.",
+                                    "[Fallen]\n- Remove all spells and abilities your opponent controls from the game and draw a card for each spell or ability removed this way."
+                                ],
+                                "artist": "muranako",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}{G}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "MP03-122^",
+                                "name": "Carlina's Storm",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant"
                                 ],
                                 "willpower": "",
                                 "wind_new": true
