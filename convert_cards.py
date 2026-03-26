@@ -10,6 +10,7 @@ TOKENS_FILE = "tokens/tokens.json"
 S3_BASE_URL = "https://fowsim.s3.amazonaws.com/media/cards/"
 FALLBACK_BASE_URL = "https://www.forceofwind.online/card/"
 PLACEHOLDER_IMAGE = "https://fowsim.s3.amazonaws.com/static/img/none.000fb66afe5c.png"
+SKIP_PREFIXES = ("ABC-BG", "ABC-RD", "ABC-RG", "ABC-WD", "ABC-WB")
 
 def load_custom_cards(custom_file):
     """Load custom cards from file to prepend to output"""
@@ -61,11 +62,29 @@ def find_uncached_cards(input_file, cache_file=CACHE_FILE):
 
     return uncached
 
-def get_image_url(card_id, cache):
+def load_missing_images(missing_file="missing_images.txt"):
+    """Load set of card IDs known to have no image"""
+    if os.path.exists(missing_file):
+        try:
+            with open(missing_file, 'r', encoding='utf-8') as f:
+                return set(line.strip() for line in f if line.strip())
+        except IOError:
+            return set()
+    return set()
+
+def get_image_url(card_id, cache, missing):
     """
     Check if image exists at S3, if not scrape from forceofwind.online.
     Returns the valid image URL and updates cache.
     """
+    # Skip cards with known missing prefixes
+    if card_id.startswith(SKIP_PREFIXES):
+        return ""
+
+    # Skip cards already known to be missing
+    if card_id in missing:
+        return ""
+
     # Check cache first
     if card_id in cache:
         return cache[card_id]
@@ -92,12 +111,14 @@ def get_image_url(card_id, cache):
             match = re.search(r'<img[^>]*class="card-img"[^>]*src="([^"]+)"', response.text)
             if match:
                 image_url = match.group(1)
+                if image_url == PLACEHOLDER_IMAGE:
+                    return ""
                 cache[card_id] = image_url
                 return image_url
     except requests.RequestException:
         pass
 
-    # Not found anywhere - cache empty string
+    # Not found anywhere
     return ""
 
 def parse_cost(cost_str):
@@ -159,8 +180,9 @@ def convert_cards(input_file, output_file, check_images=True):
 
     missing_images = []  # Track cards without images
 
-    # Load image cache
+    # Load image cache and missing images list
     image_cache = load_image_cache(CACHE_FILE) if check_images else {}
+    known_missing = load_missing_images() if check_images else set()
     card_count = 0
     total_cards = 0
 
@@ -205,7 +227,7 @@ def convert_cards(input_file, output_file, check_images=True):
 
                     # Get image URL (with caching)
                     if check_images:
-                        image_url = get_image_url(card_id, image_cache)
+                        image_url = get_image_url(card_id, image_cache, known_missing)
                         if not image_url or image_url == PLACEHOLDER_IMAGE:
                             missing_images.append(card_id)
                             continue  # Skip cards without images or with placeholder
