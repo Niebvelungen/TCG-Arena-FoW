@@ -179621,11 +179621,11 @@
       }
     },
     "Colors": [
-      "G"
+      "B"
     ],
     "Card type": "Chant - Rune",
     "Color identity": [
-      "G"
+      "B"
     ],
     "set": "mp03",
     "isHorizontal": false,
@@ -180587,6 +180587,34 @@
     "isHorizontal": false,
     "cost": 0
   },
+  "MP03-107": {
+    "id": "MP03-107",
+    "name": "Asmodeus' Demon",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Asmodeus' Demon",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-107.jpg",
+        "ATK": "200",
+        "DEF": "200"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "200",
+    "DEF": "200"
+  },
   "MP03-108": {
     "id": "MP03-108",
     "name": "Angel of False Grace",
@@ -180697,6 +180725,32 @@
     "isHorizontal": false,
     "cost": 0
   },
+  "MP03-111": {
+    "id": "MP03-111",
+    "name": "Belial's Rule",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Belial's Rule",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-111.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "MP03-112": {
     "id": "MP03-112",
     "name": "Orthros, Unholy Loyal Servant",
@@ -180792,6 +180846,32 @@
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-114.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03-115": {
+    "id": "MP03-115",
+    "name": "Astema's Fury",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Astema's Fury",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-115.jpg"
       }
     },
     "Colors": [
@@ -180917,6 +180997,32 @@
     "isHorizontal": false,
     "cost": 0
   },
+  "MP03-119": {
+    "id": "MP03-119",
+    "name": "Beatrice's Imagination",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Beatrice's Imagination",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-119.jpg"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "MP03-120": {
     "id": "MP03-120",
     "name": "Carlina's Corpsefruit Cultivator",
@@ -181003,6 +181109,32 @@
     "ATK": "600",
     "DEF": "100"
   },
+  "MP03-123": {
+    "id": "MP03-123",
+    "name": "Carlina's Hunting",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Carlina's Hunting",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03-123.jpg"
+      }
+    },
+    "Colors": [
+      "G",
+      "B"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "G",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "MP03-122^": {
     "id": "MP03-122^",
     "name": "Carlina's Storm",
@@ -181022,6 +181154,264 @@
     "Card type": "Chant",
     "Color identity": [
       "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 01": {
+    "id": "MP03 Buy a Box 01",
+    "name": "Ascendant Full Moon",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Ascendant Full Moon",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 01.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "R"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "W",
+      "R"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 02": {
+    "id": "MP03 Buy a Box 02",
+    "name": "Keraunos, the First Lightning",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Keraunos, the First Lightning",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 02.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "U"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "W",
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 03": {
+    "id": "MP03 Buy a Box 03",
+    "name": "Hanzo's Time's Haiku",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Hanzo's Time's Haiku",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 03.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "G"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "W",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 04": {
+    "id": "MP03 Buy a Box 04",
+    "name": "Radiant Blast of the Bifröst",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Radiant Blast of the Bifröst",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 04.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 05": {
+    "id": "MP03 Buy a Box 05",
+    "name": "Secret Eight Trigrams of the Kunlun",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Secret Eight Trigrams of the Kunlun",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 05.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "U"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "R",
+      "U"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 06": {
+    "id": "MP03 Buy a Box 06",
+    "name": "Festival of Summer's Flame",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Festival of Summer's Flame",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 06.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "G"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "R",
+      "G"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 07": {
+    "id": "MP03 Buy a Box 07",
+    "name": "The Eleventh Commandment",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "The Eleventh Commandment",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 07.jpg"
+      }
+    },
+    "Colors": [
+      "R",
+      "B"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "R",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 08": {
+    "id": "MP03 Buy a Box 08",
+    "name": "Solaris' Infestation",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Solaris' Infestation",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 08.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "V"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 09": {
+    "id": "MP03 Buy a Box 09",
+    "name": "Perpetual Frost of Hnitbjörg",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Perpetual Frost of Hnitbjörg",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 09.jpg"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "mp03",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "MP03 Buy a Box 10": {
+    "id": "MP03 Buy a Box 10",
+    "name": "Eerie Death Rattle",
+    "type": "Master_Rune",
+    "face": {
+      "front": {
+        "name": "Eerie Death Rattle",
+        "type": "Master_Rune",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/MP03 Buy a Box 10.jpg"
+      }
+    },
+    "Colors": [
+      "G",
+      "B"
+    ],
+    "Card type": "Master Rune",
+    "Color identity": [
+      "G",
+      "B"
     ],
     "set": "mp03",
     "isHorizontal": false,

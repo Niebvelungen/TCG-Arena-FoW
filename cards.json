@@ -199260,7 +199260,7 @@
                             {
                                 "abilities": [
                                     "[Reunited] \"Loki\"\n- When this card is put into your graveyard from your deck >>> Search your deck for a card with \"Loki\" in its name, reveal it and put it into your hand, then shuffle your deck.",
-                                    "<Thin Ice> At end of turn >>> If a resonator entered the field from a graveyard this turn. put this card from your graveyard into the field with two [-100/-100] counters on it. Each turn, only one <Thin Ice> ability triggers per player.",
+                                    "<Thin Ice> At end of turn >>> If a resonator entered the field from a graveyard this turn, put this card from your graveyard into the field with two [-100/-100] counters on it. Each turn, only one <Thin Ice> ability triggers per player.",
                                     "{Rest} or {U}{B}: You may play target card from your graveyard."
                                 ],
                                 "artist": "gozz",
@@ -200223,7 +200223,7 @@
                                 "artist": "IWAO",
                                 "ATK": "",
                                 "colour": [
-                                    "G"
+                                    "B"
                                 ],
                                 "cost": "{B}{1}",
                                 "DEF": "",
@@ -200245,10 +200245,10 @@
                             {
                                 "abilities": [
                                     "[Extension Rule]",
-                                    "You can start the game with this card in your extension rule area if your starting ruler was released in Assault in Assault of the Demonic World (ADW), and you have five cards with an <Amadeus' Purity> ability in your deck, and three among them share an attribute with your starting ruler.",
+                                    "You can start the game with this card in your extension rule area if your starting ruler was released in Assault into the Demonic World (ADW), and you have five cards with an <Amadeus' Purity> ability in your deck, and three among them share an attribute with your starting ruler.",
                                     "If your opponent doesn't control a card named \"Those Who Assaulted Yomidgard\" in their extension rule area, and players would choose who plays first, you choose that player instead.",
                                     "After you mulligan, expel up to two cards from your hand and draw that many cards.",
-                                    "{4}: Put a ruler you own released in Assault of the Demonic World (ADW) from outside the game into your ruler area and perform its judgment process. You pay {X} less to play this ability, where X is the number of magic stones you control. Players cannot chase to this ability. Play this ability only twice per game."
+                                    "{4}: Put a ruler you own released in Assault into the Demonic World (ADW) from outside the game into your ruler area and perform its judgment process. You pay {X} less to play this ability, where X is the number of magic stones you control. Players cannot chase to this ability. Play this ability only twice per game."
                                 ],
                                 "artist": "OJONPA",
                                 "ATK": "",
@@ -201324,6 +201324,33 @@
                             },
                             {
                                 "abilities": [
+                                    "[Enter] >>> Remove the top two cards of your deck from the game. Put two [+100/+100] counters on this card for each resonator card removed this way.",
+                                    "Remove a [+100/+100] counter from this card: Your opponent loses 100 life and you gain 100 life."
+                                ],
+                                "artist": "touge369",
+                                "ATK": "200",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}",
+                                "DEF": "200",
+                                "divinity": "",
+                                "flavour": "Knowledge is build upon the corruption of the mind.",
+                                "fowID": "",
+                                "id": "MP03-107",
+                                "name": "Asmodeus' Demon",
+                                "race": [
+                                    "Demon"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
                                     "[Flying]",
                                     "[Reunited] \"Belial\"\n- [Untouchable]\n- You cannot lose life by effects or abilities you don't control.",
                                     "<Lost Grace> [Enter] >>> You gain \"If damage would reduce your life to less than 100, it reduces your life to 100 instead.\" until the end of your next turn. Each game, only two <Lost Grace> abilities trigger per player.",
@@ -201440,6 +201467,33 @@
                                 ],
                                 "willpower": "",
                                 "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You pay {2} less to play this card if your life is 2000 or less.",
+                                    "Remove all non-token resonators from the game. Remove this card from the game as it resolves. This card gains \"Players cannot chase to God's Art abilities you control.\" as long as it is in your removed area."
+                                ],
+                                "artist": "Yosuke Adachi + Studio Encount KK",
+                                "ATK": "",
+                                "colour": [
+                                    "W",
+                                    "B"
+                                ],
+                                "cost": "{W}{B}{2}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Ruling is meaningless, if it's not forever.\" -Belial",
+                                "fowID": "",
+                                "id": "MP03-111",
+                                "name": "Belial's Rule",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
                             },
                             {
                                 "abilities": [
@@ -201562,6 +201616,33 @@
                             },
                             {
                                 "abilities": [
+                                    "Your opponent discards two cards.",
+                                    "[Fallen]\n- Put all resonator cards discarded this way from all graveyards into the field under your control. They gain [Swiftness] as they enter the field until end of turn. At the next end of turn >>> Their controller removes them from the game."
+                                ],
+                                "artist": "Yosuke Adachi + Studio Encount KK",
+                                "ATK": "",
+                                "colour": [
+                                    "R",
+                                    "B"
+                                ],
+                                "cost": "{R}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"My two eyes bring madness.\" -Astema",
+                                "fowID": "",
+                                "id": "MP03-115",
+                                "name": "Astema's Fury",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
                                     "If you would draw a card from an empty deck, you win the game instead.",
                                     "If another player would draw any number of cards in a phase other than their draw phase, they don't draw them instead. If this is the first time you apply this effect this turn, you draw that many cards instead.",
                                     "[Reunited] \"Beatrice\"\n- {Rest} or {U}{U}: Search your deck for a card named \"Alecto, Unstoppable Fury\" or \"Nyx, Mother of the Furies\" and put it into the field, then shuffle your deck."
@@ -201681,6 +201762,33 @@
                             },
                             {
                                 "abilities": [
+                                    "You gain \"You may play cards from your graveyard.\" and \"If a card would be put into your graveyard from anywhere, remove ir from the game instead.\" until end of turn.",
+                                    "[Null]\n- Produce {U}{B}."
+                                ],
+                                "artist": "Yosuke Adachi + Studio Encount KK",
+                                "ATK": "",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Fiction soon becomes reality. Now who's to blame for that?\" -Beatrice",
+                                "fowID": "",
+                                "id": "MP03-119",
+                                "name": "Beatrice's Imagination",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
                                     "[Overgrowth]",
                                     "[Terrifying]",
                                     "[Eternal]",
@@ -201710,7 +201818,7 @@
                                     "Resonator"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -201739,7 +201847,7 @@
                                     "Addition"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -201771,6 +201879,33 @@
                                     "Resonator"
                                 ],
                                 "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You may play this card as though it had [Quickcast] if you rest a recovered J/ruler you control as an additional cost to play this card.",
+                                    "Destroy all J-rulers you don't control and all resonators. Recover a J/ruler you control. If this card was awakened, destroy all additions."
+                                ],
+                                "artist": "Yosuke Adachi + Studio Encount KK",
+                                "ATK": "",
+                                "colour": [
+                                    "G",
+                                    "B"
+                                ],
+                                "cost": "{G}{G}{B}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"I'll eat everything!\" -Carlina",
+                                "fowID": "",
+                                "id": "MP03-123",
+                                "name": "Carlina's Hunting",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
                                 "wind_new": true
                             },
                             {
@@ -201798,7 +201933,7 @@
                                     "Chant"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
