@@ -198127,7 +198127,2990 @@
 								"wind_new": false
 							}
 						]
-					}
+					},
+					{
+                        "cards": [
+                            {
+                                "abilities": [
+                                    "[Untouchable]",
+                                    "[Harmony]",
+                                    "[Barrier] {B}",
+                                    "If a chant spell that was played without paying its non-reduced printed cost or non-reduced cost modified by a base ability would resolve, remove it from the game instead.",
+                                    "If a resonator or token you don't control would enter the field during your turn, remove it from the game instead.",
+                                    "Whenever a Knight resonator enters the field >>> You gain 300 life."
+                                ],
+                                "artist": "Rumie",
+                                "ATK": "300",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "\"He always smiles at me when we meet, even when he's very busy. I may like him... in a... romantic... way.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-001",
+                                "name": "Abel, Velmardian Herald",
+                                "race": [
+                                    "Knight"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Harmony] (Whenever a player plays a light spell, a water spell, or a wind spell >>> Put a [+100/+100] counter on this card.)",
+                                    "[Defiant] (1)",
+                                    "[Flying]",
+                                    "Other light resonators you control gain [+400/+400].",
+                                    "Fire, or wind, or darkness resonators gain [-400/-400].",
+                                    "Rest a J/ruler you control: Change the target of target spell or ability with a single target targeting this card."
+                                ],
+                                "artist": "Haruichi Kido",
+                                "ATK": "800",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}{W}",
+                                "DEF": "900",
+                                "divinity": "",
+                                "flavour": "\"I've read the Chronicles of Yomidgard. I hope that history, the rebellion... never repeats itself. Otherwise...\" -Lionel",
+                                "fowID": "",
+                                "id": "AVL-002",
+                                "name": "Angel of Wisdom, Cherudim",
+                                "race": [
+                                    "Angel",
+                                    "Saint",
+                                    "Valkyrie"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Added resonator gains [0/+800] and \"If damage would be dealt to you, it is dealt to this card instead.\"",
+                                    "Added resonator gains [Eternal] as long as there are two cards named \"Angelic Twin Shields\" added to added resonator.",
+                                    "[Enter] >>> Put a [200/200] light Knight resonator token into the field, then add this card to a resonator you control.",
+                                    "[Bestow] {Rest}, you gain 200 life."
+                                ],
+                                "artist": "yuuiguchi",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{2}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"The archangel Rogziel has never created other shields, and will never create more, for these are meant to be unbreakable.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-003",
+                                "name": "Angelic Twin Shields",
+                                "race": [
+                                    "Armor"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Rise] (Whenever this card attacks >>> Foresee 1. Reveal the top card of your deck. If it is a light card, or if it has [Rise], put two [+100/+100] counters on this card.)",
+                                    "[Flying]",
+                                    "[Enter] >>> Remove up to three non-Angel resonators you control from the game. At the next end of turn >>> Put all resonators removed from the game this way from all removed areas into the field under their owner's control."
+                                ],
+                                "artist": "uekino aroe",
+                                "ATK": "900",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}{1}",
+                                "DEF": "900",
+                                "divinity": "",
+                                "flavour": "\"Knowledge is the source of all power. But it's good to have angels on our side, to add... a little more power.\" -Lionel",
+                                "fowID": "",
+                                "id": "AVL-004",
+                                "name": "Aratron, Angel of Knowledge",
+                                "race": [
+                                    "Angel",
+                                    "Saint",
+                                    "Valkyrie"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "You pay {W}{W} less to play this card if you control a J-ruler.",
+                                    "Choose one;\n- Prevent all damage that would be dealt to resonators you control until end of turn.\n- Destroy target rested resonator."
+                                ],
+                                "artist": "Yuko Nagasaki",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Have you been holding out for a hero?\" -Lionel",
+                                "fowID": "",
+                                "id": "AVL-005",
+                                "name": "Arrival of the Hero",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Harmony]",
+                                    "[Barrier] {R}{B}",
+                                    "Prevent all non-battle damage that would be dealt to this card.",
+                                    "[Reunited] \"Saint Iris\"\n- You cannot lose the game. Your opponent cannot win the game.",
+                                    "[Solo Mode]",
+                                    "[Enter] or whenever you gain life >>> Choose one. This ability triggers only once per turn;\n- Gain a light will coin token.\n- Draw a card."
+                                ],
+                                "artist": "Tsukumi",
+                                "ATK": "800",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}{W}{1}",
+                                "DEF": "1000",
+                                "divinity": "",
+                                "flavour": "\"Emotions, like hatred, are useless.\"",
+                                "fowID": "",
+                                "id": "AVL-006",
+                                "name": "Astema, the Queen's Taster",
+                                "race": [
+                                    "Human",
+                                    "Priest"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "If you control a Priest resonator and damage would reduce your life to less than 100, it reduces your life to 100 instead.",
+                                    "Rest a J/ruler you control: Priest resonators you control gain [Eternal] until end of turn.",
+                                    "God's Art \"They Ended on the Seventh Day\" {W}{W}{4}: Your life becomes 4000. Players cannot chase to this ability."
+                                ],
+                                "artist": "sasaki kounosuke",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"It is the oldest book, of which only a few pages survive. But it tells the creation of Yomidgard at the hands of a God other than the Goddess Velmar. Although apocryphal, it is sacred.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-007",
+                                "name": "Book of Genesis",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Resonators you don't control enter the field rested.",
+                                    "Whenever you gain life >>> Put a [+100/+100] counter on each light resonator you control.",
+                                    "Rest a J/ruler you control: You gain X00 life, where X is the number of cards in your graveyard."
+                                ],
+                                "artist": "Haruki Komai",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"It is a sacred place, where even Her Majesty comes to pray. This is where the angels of the Goddess Velmar make contact with us.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-008",
+                                "name": "Cathedral of the Holy See",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Priest resonators you control gain [Protect] and [Drain].",
+                                    "[Resonance] Light Magic Stone >>> Put a [100/400] light Priest resonator token with \"This card cannot attack.\" into the field.",
+                                    "Whenever you gain life >>> Prevent the next damage that would be dealt to you this turn. This ability triggers only twice per turn.",
+                                    "{Rest}: Put two [+100/+100] counters on target resonator.",
+                                    "[Judgment] {W}{W}{1}"
+                                ],
+                                "artist": "Matsurika Yoko",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"My sister, Siphone, is the best! The infiltration at the Raven's Order's Academy worked because she was leading us! I am too clumsy to lead!\"",
+                                "fowID": "",
+                                "id": "AVL-009",
+                                "name": "Clumsy Devotee, Saint Iris",
+                                "race": [
+                                    "Priest",
+                                    "Saint"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Harmony]",
+                                    "[Defiant] (1)",
+                                    "[Protect]",
+                                    "Priest resonators you control gain [Protect] and [Drain].",
+                                    "{Rest} or {W}{W}: Put two [+100/+100] counters on each resonator you control.",
+                                    "[Solo Mode]",
+                                    "[Resonance] Light Magic Stone >>> Put two [400/400] light Priest, Spirit resonator tokens into the field.",
+                                    "Whenever you gain life >>> Prevent the next damage that would be dealt to you this turn."
+                                ],
+                                "artist": "Matsurika Yoko",
+                                "ATK": "600",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "",
+                                "DEF": "1200",
+                                "divinity": "",
+                                "flavour": "\"I'll do my best!\"",
+                                "fowID": "",
+                                "id": "AVL-009J",
+                                "name": "Saint Iris, Battle Cleric",
+                                "race": [
+                                    "Angel",
+                                    "Punisher",
+                                    "Saint"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "J-Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Untouchable]",
+                                    "You pay {1} more to play this card for each card named \"Crystallization\" you already played this game.",
+                                    "Choose a non-Angel resonator with [Barrier] or a Demon resonator and remove it from the game."
+                                ],
+                                "artist": "jitari",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"May the holy power of Goddess Velmar purify your corrupted soul and guide it to her side. May your sins be forgiven and sealed forever within the crystal that is now your body.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-010",
+                                "name": "Crystallization",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "+3: Resonators you don't control gain \"If this card attacks, choose a warden with \"Sol\" in its name as the attacked object if able.\" until the beginning of your next turn.",
+                                    "-2: Search your deck for a non-fire, non-darkness Knight or Saint resonator card with total cost 3 or less and play it without paying its cost, then shuffle your deck.",
+                                    "[Judgment] {W}{1}. Play this judgment process only if this card has seven willpower counters on it."
+                                ],
+                                "artist": "j-peg",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "AVL-011",
+                                "name": "Divine Custodian, Sol",
+                                "race": [
+                                    "Knight",
+                                    "Saint"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Warden"
+                                ],
+                                "willpower": 3,
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "-8: You gain \"If you would produce will with a magic stone, you produce that will plus {W} instead.\" and \"Resonators you don't control must attack J-rulers if able.",
+                                    "-8: Choose an attribute. Other players cannot play spells with the chosen attribute until end of game as long as you control a light J-ruler with \"Sol\" in its name.",
+                                    "[Harmony]",
+                                    "[Barrier] {R}{B}{V}"
+                                ],
+                                "artist": "j-peg",
+                                "ATK": "1100",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "",
+                                "DEF": "1100",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "AVL-011J",
+                                "name": "Sol, Angel of Divine Virtue",
+                                "race": [
+                                    "Angel",
+                                    "Saint",
+                                    "Valkyrie"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "J-Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Rise]",
+                                    "[Flying]",
+                                    "[Barrier] {B}",
+                                    "Your opponent cannot play spells from a non-hand area, or put addition cards, regalia cards, or resonator cards into the field from a non-hand area.",
+                                    "Non-Angel resonators you don't control cannot be recovered."
+                                ],
+                                "artist": "ishishou",
+                                "ATK": "500",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{1}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "AVL-012",
+                                "name": "Guardian Angel, Raphael",
+                                "race": [
+                                    "Angel",
+                                    "Saint",
+                                    "Valkyrie"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Players cannot chase to this card.",
+                                    "Nightmare resonators entering the field don't cause their own [Enter] abilities to trigger, and enter the field rested.",
+                                    "Added J/resonator gains [+X00/+X00] and [Drain], where X is the number of regalia in the field.",
+                                    "[Bestow] {Rest}. This ability can target J-rulers with \"Hutriel\" in their name."
+                                ],
+                                "artist": "SO",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Now that Sol is here, it's time to overthrow the imposter posing as the Goddess Velmar.\" -Hutriel",
+                                "fowID": "",
+                                "id": "AVL-013",
+                                "name": "Hutriel's Chainmail Gloves",
+                                "race": [
+                                    "Armor"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Saint Iris\"\n- Resonators you don't control cannot attack unless their controller pays {X}, where X is the number of Priest resonators you control. (Each attack costs {X}.)",
+                                    "[Enter], or whenever you gain life, or at end of turn >>> Put two scale counters on this card.",
+                                    "Remove four scale counters from this card: Put a [600/600] light Bug token with [Flying] and [Drain] into the field."
+                                ],
+                                "artist": "SO",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Each scaladiant contains a swarm of butterflies, which are not confined. The brighter they are, the more and larger butterflies they attract.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-014",
+                                "name": "Luminous Scaladiant",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Quickcast]",
+                                    "[Harmony]",
+                                    "Your opponent cannot play spells that cannot be chased or spells with the \"Master\" general type.",
+                                    "Prevent all damage that would be dealt by Demon or Devil resonators as long as this card is rested.",
+                                    "[Enter] >>> You gain life equal to the total ATK of resonators that attacked this turn. If your life is 2000 or less, draw a card."
+                                ],
+                                "artist": "Kotakan",
+                                "ATK": "700",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"Queen Matelda always fights in front. The Goddess Velmar guides her hand, her armies, and us, her faithful.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-015",
+                                "name": "Matelda, Queen of the Three Plateaus",
+                                "race": [
+                                    "Human",
+                                    "Priest",
+                                    "Queen",
+                                    "Saint"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Banish this card: Choose one. You may choose an additional one for each recovered J/ruler or warden you control;\n- You gain 1000 life.\n- Remove up to five target cards in a graveyard from the game.\n- Remove target resonator you control from the game, then put it from a removed area into the field under its owner's control."
+                                ],
+                                "artist": "yua",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{1}",
+                                "DEF": "",
+                                "divinity": 6,
+                                "flavour": "\"The Goddess Velmar has shown me the goodness in people's hearts. I know what I must do. I can heal so people can live, but healing their soul is what will truly make them alive.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-016",
+                                "name": "Omen of the Cleric",
+                                "race": [
+                                    "Glyph"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Remnant]",
+                                    "Put all light resonator cards with total cost X or less from your graveyard into the field, and all light warden cards with total cost X or less from your graveyard into your ruler area.",
+                                    "[Solo Mode]",
+                                    "[Reunited] \"Saint Iris\"\n- Whenever this spell is targeted by a spell or ability you don't control >>> Draw two cards. Gain two light will coin tokens."
+                                ],
+                                "artist": "OJONPA",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}{X}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"Save us, Goddess Velmar!\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-017",
+                                "name": "Plea for Salvation",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant",
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Added resonator gains and cannot lose [Flying], [Barrier], and \"Resonators cannot attack this card.\" as long as you control it, and \"This card cannot attack and loses all other abilities.\" as long as you don't control it.",
+                                    "[Enter] >>> Add this card to target resonator. Put a willpower counter on each Saint warden you control.",
+                                    "[Bestow] {Rest}, {W}{W}"
+                                ],
+                                "artist": "kurisu",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"The Goddess Velmar provides for those who listen.\" -Hutriel",
+                                "fowID": "",
+                                "id": "AVL-018",
+                                "name": "Protection of the Seraph",
+                                "race": [
+                                    "Armor"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Harmony] (Whenever a player plays a light spell, a water spell, or a wind spell >>> Put a [+100/+100] counter on this card.)",
+                                    "[Enter] >>> Search your deck for a Knight card with total cost 1 or for an addition card named \"Cathedral of the Holy See\" and put it into the field, then shuffle your deck.",
+                                    "Whenever one or more [+100/+100] counters are put on this card >>> You gain 200 life. This ability triggers only thrice per turn."
+                                ],
+                                "artist": "Hachi Takashi",
+                                "ATK": "700",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{1}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"The general at the east gate is the most relentless of all, as she is the one protecting the Holy See.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-019",
+                                "name": "Sacred Knight of the East",
+                                "race": [
+                                    "General",
+                                    "Knight",
+                                    "Priest"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enraging] (Whenever this card attacks >>> Target J/resonator must block this turn if able and it gains \"This card can block while rested.\" until end of turn.)",
+                                    "[First Strike]",
+                                    "Whenever you gain life >>> Recover this card. This ability triggers only once per turn.",
+                                    "<Peaceful Prayer> [Enter] >>> Target player cannot play spells until the next end of their turn. Each game, only two <Peaceful Prayer> abilities triggers per player."
+                                ],
+                                "artist": "fumi takamura",
+                                "ATK": "900",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{2}",
+                                "DEF": "900",
+                                "divinity": "",
+                                "flavour": "\"There is a general guarding each entrance to Velmardia's upper platform. They are excellent and deadly.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-020",
+                                "name": "Sacred Knight of the North",
+                                "race": [
+                                    "General",
+                                    "Knight",
+                                    "Priest"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Harmony] (Whenever a player plays a light spell, a water spell, or a wind spell >>> Put a [+100/+100] counter on this card.)",
+                                    "[Drain]",
+                                    "Whenever one or more [+100/+100] counters are put on this card >>> Put a [200/200] light Knight resonator token into the field. This ability triggers only during your turn.",
+                                    "At end of turn >>> If you gained 500 or more life this turn, recover target resonator."
+                                ],
+                                "artist": "fumi takamura",
+                                "ATK": "600",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"All the generals of Velmardia have different ways of defending the kingdom, but their purpose unites them.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-021",
+                                "name": "Sacred Knight of the South",
+                                "race": [
+                                    "General",
+                                    "Knight",
+                                    "Priest"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Blood Trail]",
+                                    "[Rise] (Whenever this card attacks >>> Foresee 1. Reveal the top card of your deck. If it is a light card or if it has [Rise], put two [+100/+100] counters on this card.)",
+                                    "Whenever one or more [+100/+100] counters are put on this card >>> Rest target resonator. If it is a Demon resonator, remove it from the game.",
+                                    "{Rest} or {W}{W}: Target a Demon resonator. Its controller expels it."
+                                ],
+                                "artist": "Hachi Takashi",
+                                "ATK": "500",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "\"The west gate is the most secure of all, for its general has trained her troop to exercise demons.\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-022",
+                                "name": "Sacred Knight of the West",
+                                "race": [
+                                    "General",
+                                    "Knight",
+                                    "Priest"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enraging] (Whenever this card attacks >>> Target J/resonator must block this turn if able and it gains \"This card can block while rested.\" until end of turn.)",
+                                    "[First Strike]",
+                                    "Resonators cannot attack J/rulers or wardens you control.",
+                                    "[Enter] >>> Destroy target non-light resonator with total cost X or less, where X is the number of entities you control with the light magic stone type."
+                                ],
+                                "artist": "Muraichi Suzume",
+                                "ATK": "400",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}",
+                                "DEF": "800",
+                                "divinity": "",
+                                "flavour": "\"Goddess Velmar sent them to me, to live inside my sword. They are the bringer of its pure, sacred light.\" -Sol",
+                                "fowID": "",
+                                "id": "AVL-023",
+                                "name": "Shekhinah, Envoy of Light",
+                                "race": [
+                                    "Elemental",
+                                    "Spirit"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You pay {1} less to play this card for each light warden, Priest resonator, or light J-ruler you control.",
+                                    "[Enter] >>> Remove target warden, Glyph addition, or resonator you don't control from the game.",
+                                    "[Demise] (When this card is put into a graveyard from the field.) >>> Put a card from a removed area that was removed by this card into its owner's hand."
+                                ],
+                                "artist": "yuko",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{2}",
+                                "DEF": "",
+                                "divinity": 5,
+                                "flavour": "\"Light doesn't just illuminate the path. It might become what one needs.\" -Sol",
+                                "fowID": "",
+                                "id": "AVL-024",
+                                "name": "Sol's Glyph of Solid Light",
+                                "race": [
+                                    "Glyph"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Added J/resonator gains [+800/+400] and [First Strike].",
+                                    "[Enter] >>> If you control a warden or light J-ruler with \"Sol in its name, put the top card of your magic stone deck into the field. Search your deck for a resonator card named \"Shekhinah, Envoy of Light\" and put it into the field, then shuffle your deck. If you do, add this card to that resonator.",
+                                    "[Bestow] {Rest}, {W}. This ability can target J-rulers with \"Sol\" in their name."
+                                ],
+                                "artist": "sasaki kounosuke",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{W}{W}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Its first slash echoes twice: once in flesh, once in soul.\" -Sol",
+                                "fowID": "",
+                                "id": "AVL-025",
+                                "name": "Sunbringer, Sol's Blade",
+                                "race": [
+                                    "Weapon"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Reunited] \"Saint Iris\"\n- This card cannot be canceled.",
+                                    "Remove target resonator that is attacking you from the game. If you do, you gain life equal to its DEF. If your life is 1500 or less, put this card into its owner's hand as it resolves."
+                                ],
+                                "artist": "Nagi-nyan",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": 2,
+                                "flavour": "\"I'm not afraid of the monsters I can see!\" -Saint Iris",
+                                "fowID": "",
+                                "id": "AVL-026",
+                                "name": "Velmardian Riposte",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "For effects of extension rule cards, this card has \"Hutriel\", \"Lionel\", and \"Sol\" in addition to its other names during deck construction and setup.",
+                                    "Search your deck for a light card with Arrival or Smile in its name, reveal it and put it into your hand, then shuffle your deck.",
+                                    "If you control a warden of light J-ruler with \"Hutriel\", \"Lionel\", and \"Sol\" in its name, choose one if its willpower abilities with a willpower cost other than -8, and perform its effect."
+                                ],
+                                "artist": "Kazue Saitou",
+                                "ATK": "",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": 4,
+                                "flavour": "\"Ready for a good fight?\" \"That's what heroes are for!\" \"Speak for yourself.\" \"For Velmardia!\" -Hutriel, Lionel, and Sol",
+                                "fowID": "",
+                                "id": "AVL-027",
+                                "name": "Velmardian Trinity Formation",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Fire resonator spells you control with [Flying] cannot be canceled.",
+                                    "[Resonance] Fire Magic Stone >>> Put a [100/100] fire Bird resonator token with [Flying] into the field.",
+                                    "Whenever a Bird resonator attacks >>> It deals 100 damage to each other player. This ability triggers only twice per turn.",
+                                    "{Rest}: Look at the top card of your deck. You may put it into your graveyard.",
+                                    "[Judgment] {R}{R}{1}"
+                                ],
+                                "artist": "noki",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"The Rukh are part of my family, just as I am part of theirs. They are graceful and majestic, but they are also territorial, and very vengeful.\"",
+                                "fowID": "",
+                                "id": "AVL-028",
+                                "name": "Aviary Keeper, Saint Heiko",
+                                "race": [
+                                    "Knight",
+                                    "Saint"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Blood Trail]",
+                                    "[Imperishable]",
+                                    "Fire resonator spells you control with [Flying] cannot be canceled.",
+                                    "{Rest}: Look at the top card of your deck. You may put it into your graveyard. This card deals 200 damage to each other player.",
+                                    "[Solo Mode]",
+                                    "[Resonance] Fire Magic Stone >>> Put two [100/100] fire Bird resonator token with [Flying] into the field.",
+                                    "Whenever a Bird resonator attacks >>> If you have achieved [Anathema], recover this card."
+                                ],
+                                "artist": "noki",
+                                "ATK": "1100",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "",
+                                "DEF": "1100",
+                                "divinity": "",
+                                "flavour": "\"The reinforcements have arrived.\"",
+                                "fowID": "",
+                                "id": "AVL-028J",
+                                "name": "Saint Heiko, Master Rukh-Tamer",
+                                "race": [
+                                    "Angel",
+                                    "Punisher",
+                                    "Saint"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "J-Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Blood Trail]",
+                                    "[Enraging] (Whenever this card attacks >>> Target J/resonator must block this turn if able and it gains \"This card can block while rested.\" until end of turn.)",
+                                    "[Flying]",
+                                    "Your produced {R} will don't cease to exist at will clearance.",
+                                    "<Fury> Whenever a Bird resonator deals battle damage >>> This card deals 200 damage to target player. Produce {R}. Each turn, only two <Fury> abilities triggers per player."
+                                ],
+                                "artist": "NEGI",
+                                "ATK": "800",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{R}{1}",
+                                "DEF": "800",
+                                "divinity": "",
+                                "flavour": "\"There is nothing more dangerous than a mother's fury. And, in birds, it is even more intense.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-029",
+                                "name": "Cyrux, Mother Rukh",
+                                "race": [
+                                    "Beast",
+                                    "Bird"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "As you play this card, copy it X times, where X is the number of Bird resonators you control.",
+                                    "Banish a Bird resonator. This card deals 400 damage to target player or J/resonator.",
+                                    "[Solo Mode]",
+                                    "[Reunited] \"Saint Heiko\"\n- As you play this card, rest any number of Bird entities you control. You pay {R} less to play this card for each entity rested this way."
+                                ],
+                                "artist": "ise ebicha",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{R}{R}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"Starts with a flapping.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-030",
+                                "name": "Deafening Featherstorm",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant",
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Swiftness]",
+                                    "Whenever this card attacks >>> At the beginning of the next turn >>> Each other player draws two cards.",
+                                    "Rest a J/ruler you control: Discard a card. If you do, draw a card.",
+                                    "[Solo Mode]",
+                                    "[Anathema]\n- Resonators your opponent controls cannot block this card."
+                                ],
+                                "artist": "Nakaba Higurashi",
+                                "ATK": "700",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "\"To catch wild birds, you need to be fast, and offer something they want to take, shiny, if possible.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-031",
+                                "name": "Miyu, Velmardian Bird-Catcher",
+                                "race": [
+                                    "Hero",
+                                    "Little Girl"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Banish this card: Choose one. You may choose an additional one for each recovered J/ruler or warden you control;\n- Remove target regalia from the game.\n- This card deals 700 damage to target player.\n- Put three [100/100] fire Bird resonator tokens with [Flying] into the field."
+                                ],
+                                "artist": "ise ebicha",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{1}",
+                                "DEF": "",
+                                "divinity": 6,
+                                "flavour": "\"The Goddess Velmar has shown me infinite skies, a destiny, a new purpose! Fly with me! Let's fly so high that we can touch the sky, with the wind and the light filling our wings!\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-032",
+                                "name": "Omen of the Rukh-Tamer",
+                                "race": [
+                                    "Glyph"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "Remove all regalia with [Bestow] from the game.",
+                                    "[Anathema] (This card has the following text in all zones as long as you control cards in your graveyard with four different card types.)\n- Remove exactly eight counters from up to one target J/ruler."
+                                ],
+                                "artist": "sasaki kounosuke",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Nature is circular. We are born aware of our mortality, but that is what makes the path beautiful.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-033",
+                                "name": "Rapid Decay",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Magic Stones with the \"Special\" general type enter the field rested.",
+                                    "[Reunited] \"Saint Heiko\"\n- Bird resonators you control gain [Blood Trail].",
+                                    "Whenever a resonator enters the field >>> This card deals X00 damage to each other player, where X is the number of resonators that entered the field this turn."
+                                ],
+                                "artist": "mita kura",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{R}{R}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"It's beautiful to see the birds fluttering in the aviary. But it's still a cage. And, as such, what it shows is nothing more than a mere illusion of what freedom is, a false recreation of reality.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-034",
+                                "name": "Royal Rukh Aviary",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enraging] (Whenever this card attacks >>> Target J/resonator must block this turn if able and it gains \"This card can block while rested.\" until end of turn.)",
+                                    "[Flying]",
+                                    "[Enter] >>> You may banish a Bird resonator. If you do, search your deck for a card with \"Rukh\" in its name and with total cost 2 or less and put it into the field, then shuffle your deck.",
+                                    "Rest a J/ruler you control: Bird resonators you control gain [+200/0] until end of turn."
+                                ],
+                                "artist": "U9",
+                                "ATK": "600",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{R}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"A Rukh never hunts alone. They are birds of prey, and they enjoy making their prey suffer.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-035",
+                                "name": "Rukh",
+                                "race": [
+                                    "Beast",
+                                    "Bird"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "This card cannot attack.",
+                                    "[Demise] (When this card is put into a graveyard from the field.) >>> Put [100/100] fire Bird resonator token with [Flying] into the field. If you control three Bird entities, put a Beast card with \"Rukh\" in its name from your hand into the field.",
+                                    "Banish this card: Recover target Bird resonator."
+                                ],
+                                "artist": "Shirono Muku",
+                                "ATK": "0",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{1}",
+                                "DEF": "200",
+                                "divinity": "",
+                                "flavour": "\"Some say they're a delicacy. But the few fools who try to take eggs from the nests end up as food for the rukh chicks that hatch from those eggs. It's ironic, but poetic.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-036",
+                                "name": "Rukh Egg",
+                                "race": [
+                                    "Bird",
+                                    "Egg"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You pay {1} less to play fire resonator spells with [Flying].",
+                                    "Added J/resonator gains [+200/0], [Flying] and \"Whenever a Bird resonator enters the field >>> Put a [+100/+100] counter on this card.\".",
+                                    "[Enter] >>> Put a [200/200] fire Knight resonator token into the field, then add this card to a resonator you control.",
+                                    "[Bestow] {Rest}, {R}"
+                                ],
+                                "artist": "muranako",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{R}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Thanks to the power of its wings, a Rukh can effortlessly carry ten times its weight. Imagine what you could do with wings like these.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-037",
+                                "name": "Rukh-Feather Wings",
+                                "race": [
+                                    "Armor"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Whenever a Bird resonator leaves the field >>> Put an egg counter on this card. You may banish this card.",
+                                    "[Demise] (When this card is put into a graveyard from the field.) >>> Put X [100/100] fire Bird resonator tokens with [Flying] into the field, where X is the number of egg counters on this card.",
+                                    "Rest a J/ruler you control: Put a card named \"Rukh Egg\" from your hand into the field. Put an egg counter on this card."
+                                ],
+                                "artist": "SAGAWA ASUKA",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"All the cathedrals and churches in Velmardia have Rukh nests on them. We protect their way of life, and they watch over our skies.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-038",
+                                "name": "Rukh's Nest",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Players cannot chase to this card.",
+                                    "[Reunited] \"Saint Heiko\"\n- Perform the following effect of this card two times.",
+                                    "This card deals 2000 damage to a light, or water, or Demon J/resonator that has or shares the highest DEF from among all J/resonators you don't control. If another player controls at least two more magic stones than you, destroy two magic stones."
+                                ],
+                                "artist": "Rumie",
+                                "ATK": "",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{1}",
+                                "DEF": "",
+                                "divinity": 2,
+                                "flavour": "\"This fire does not burn the flesh of any Velmardian. It is warm and holy, like the embrace of a mother.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-039",
+                                "name": "Sacred Flame of Truth",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Blood Trail]",
+                                    "[Flying]",
+                                    "Whenever you play a non-resonator spell during another player's turn or a rune spell >>> Discard a card, then draw a card.",
+                                    "Whenever this card attacks >>> Produce {R} for each other resonator that has attacked this turn.",
+                                    "{R}{R}: This card gains [+800/0] until end of turn.",
+                                    "[Anathema]\n- {R}{R}{R}{R}: This card deals 2000 damage to target player."
+                                ],
+                                "artist": "Nekobayashi",
+                                "ATK": "600",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{R}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"They watch over the skies day and night, illuminating the darkness with their flames.\" -Saint Heiko",
+                                "fowID": "",
+                                "id": "AVL-040",
+                                "name": "Shinka, Rukh Flamewatcher",
+                                "race": [
+                                    "Bird",
+                                    "Knight"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "Players cannot chase to this card or its abilities.",
+                                    "[Enter] >>> Target player banishes all resonators they control with counters on them, and all resonator tokens. Discard a card, then draw a card.",
+                                    "[Anathema] (This card has the following text in all zones as long as you control cards in your graveyard with four different card types.)\n- Whenever this card attacks >>> Put a detention counter and/or a merit counter on target J/ruler."
+                                ],
+                                "artist": "Muraichi Suzume",
+                                "ATK": "600",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{1}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"While infiltrated, I have discovered that Sylthmir is three meals away from revolution. Send me back. I'll finish the job.\"",
+                                "fowID": "",
+                                "id": "AVL-041",
+                                "name": "Siphone, Velmardia's Prodigy Spy",
+                                "race": [
+                                    "Human",
+                                    "Student",
+                                    "Warlock"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Saint Heiko\"\n- You pay {1} less to play this card.",
+                                    "[Enter] >>> Put the top card of your deck into your graveyard.",
+                                    "Rest a Bird entity you control: Change the target of target spell or ability with a single target targeting a Bird entity you control.",
+                                    "[Anathema]\n- [Blood Trail] [Flying] [Multi Strike]\n- Bird resonators you control gain [+400/0]."
+                                ],
+                                "artist": "NEGI",
+                                "ATK": "500",
+                                "colour": [
+                                    "R"
+                                ],
+                                "cost": "{R}{1}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "\"Yuichi! Go to that demon's right flank! Lead the rukhs there!\" \"Ok! Cyrux! Make a dive!\" -Saint Heiko and Yuichi",
+                                "fowID": "",
+                                "id": "AVL-042",
+                                "name": "Yuichi, Aviary Enthusiast",
+                                "race": [
+                                    "Bird",
+                                    "Knight"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Untouchable]",
+                                    "Look at target player's hand and choose X+2 cards from among them, where X is the number of Augur resonators you control. That player puts them on top of its owner's deck in any order.",
+                                    "[Solo Mode]",
+                                    "[Reunited] \"Saint Eisha\"\n- Foresee 2. Heal all astral rulers you control. Recover a ruler you control, then perform its judgment process."
+                                ],
+                                "artist": "K2 Shoukai",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{U}{1}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"Just because I don't like divination doesn't mean I'm not a master at it.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-043",
+                                "name": "Auspicious Divination",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant",
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Automatic abilities of Augur resonators you control trigger an additional time each time they originally trigger.",
+                                    "Added resonator gains [+300/+500], \"This card can block while rested.\", and \"Resonators cannot block this card.\".",
+                                    "[Enter] >>> Put a [200/200] water Knight resonator token into the field, then add this card to a resonator you control.",
+                                    "[Bestow] {Rest}, {U}"
+                                ],
+                                "artist": "sasaki kounosuke",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{U}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"In Velmardia we live in the light of Goddess Velmar, but sometimes, rarely, we need a bit of darkness.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-044",
+                                "name": "Cloak of True Shadows",
+                                "race": [
+                                    "Armor"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Remnant]",
+                                    "[Reunited] \"Saint Eisha\"\n- Search your deck for a card named \"The Archway, Library Wall\" and put it into the field, then shuffle your deck.",
+                                    "Choose one;\n- Shuffle target regalia with [Bestow] into its owner's deck.\n- Each player expels all resonator tokens, and all resonators with printed ATK 300 or less."
+                                ],
+                                "artist": "Yuko Nagasaki",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}",
+                                "DEF": "",
+                                "divinity": 2,
+                                "flavour": "\"History is there to teach not to repeat it. But humans never learn, no matter how much they are educated.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-045",
+                                "name": "Historian's Wisdom",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Untouchable]",
+                                    "[Rise]",
+                                    "Players with a remaining divinity of 2 or less cannot play rune cards.",
+                                    "[Reunited] \"Saint Eisha\"\n- [Enter] >>> Draw three cards. If you do, put two cards from your hand on top of your deck in any order.",
+                                    "At end of turn >>> If you played a [Rise] ability this turn, draw a card."
+                                ],
+                                "artist": "JURI",
+                                "ATK": "300",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "\"She can see what no one else sees. And yes, she can see inside your soul.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-046",
+                                "name": "Kallithea, She Who Witnesses",
+                                "race": [
+                                    "Augur",
+                                    "Human",
+                                    "Knight"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You maximum hand size is increased by three.",
+                                    "[Reunited] \"Saint Eisha\"\n- If you would perform Foresee X, draw X cards instead.",
+                                    "[Demise] (When this card is put into a graveyard from the field.) >>> Put a card from a graveyard into the field under its owner's control.",
+                                    "{Rest} or {U}{U}: Foresee 1."
+                                ],
+                                "artist": "Matsurika Yoko",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{2}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Predict the future? With a crystal ball? That's impossible. Then how, you ask? Hmmm. You can... with mathematics and glyphology.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-047",
+                                "name": "Kathorian Crystal Ball",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Rise] (Whenever this card attacks >>> Foresee 1. Reveal the top card of your deck. If it is a water card or if it has [Rise], put two [+100/+100] counters on this card.)",
+                                    "[Enter] >>> Cancel target spell with total cost 2 or less. If you do and it would be put into a graveyard, put it into its owner's hand instead.",
+                                    "Remove two [+100/+100] counters from this card: Look at the top card of your deck. You may play it."
+                                ],
+                                "artist": "Nolly Tokiwa",
+                                "ATK": "500",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{1}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"Follow me! I will cast a glyph!\" \"Woof?\" \"Oh! Will you protect us?\" \"Woof!\" \"Ok! Lead the way!\" -Nero and Alastor",
+                                "fowID": "",
+                                "id": "AVL-048",
+                                "name": "Nero and Alastor, Back to Back",
+                                "race": [
+                                    "Devil",
+                                    "Wanderer",
+                                    "Wolf"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Rise]",
+                                    "[Aegis]",
+                                    "You play with the top card of your deck revealed.",
+                                    "You can play non-regalia cards from the top of your deck.",
+                                    "Whenever a player plays a spell from a non-hand area >>> Put a [+100/+100] counter on this card.",
+                                    "{U}, remove a [+100/+100] counter from this card: Draw a card.",
+                                    "Remove two [+100/+100] counters from this card: Rest target entity. Play this ability only twice per turn."
+                                ],
+                                "artist": "Yuko Nagasaki",
+                                "ATK": "400",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{U}",
+                                "DEF": "800",
+                                "divinity": "",
+                                "flavour": "\"If I had to, I would choose her to tell me my fortune. But do we really want to know the future? Do we?\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-049",
+                                "name": "Nue, Windreader Fortune Teller",
+                                "race": [
+                                    "Augur",
+                                    "Human"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Banish this card: Choose one. You may choose an additional one for each recovered J/ruler or warden you control;\n- Foresee 2, then draw a card.\n- Put three willpower counters on target warden or J-ruler.\n- Up to two target Augur resonators gain \"J/resonators your opponent controls cannot block this card.\" until end of turn."
+                                ],
+                                "artist": "ainoosaru",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{1}",
+                                "DEF": "",
+                                "divinity": 6,
+                                "flavour": "\"The Goddess Velmar has shown me the truth. You are not like others, Nero. You are worthy of my time. Your destiny lies on the other side of the archway. And I will help you reach it.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-050",
+                                "name": "Omen of the Custodian",
+                                "race": [
+                                    "Glyph"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Harmony] (Whenever a player plays a light spell, a water spell, or a wind spell >>> Put a [+100/+100] counter on this card.)",
+                                    "[Flying]",
+                                    "{Rest} or {U}: Target non-magic stone entity. If it has \u00abMythic\u00bb, it loses \u00abMythic\u00bb until end of turn. Otherwise, it gains \u00abMythic\u00bb until end of turn. Play this ability only twice per turn.",
+                                    "Remove X [+100/+100] counters from this card. X cannot be 0 or 1: Search your deck for a mono-attribute water addition card with total cost X and put it into the field, then shuffle your deck."
+                                ],
+                                "artist": "gozz",
+                                "ATK": "800",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{U}{1}",
+                                "DEF": "900",
+                                "divinity": "",
+                                "flavour": "\"These animals are forbidden by the Holy See, for their omens are always sinister. And yet...\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-051",
+                                "name": "Raven of Ill Omens",
+                                "race": [
+                                    "Augur",
+                                    "Beast",
+                                    "Raven"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Augur cards you control with gain [Quickcast] in all areas.",
+                                    "[Resonance] Water Magic Stone >>> Switch the ATK and DEF of target resonator until its controller's next end of turn.",
+                                    "Whenever an Augur resonator deals battle damage to a player >>> Draw a card. This ability triggers only twice per turn.",
+                                    "{Rest}: Look at the top three cards of your deck and put them back in any order. You may shuffle your deck.",
+                                    "[Judgment] {U}{U}{1}"
+                                ],
+                                "artist": "fzwrAym",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Here, I study the phenomenon that forces things to change, its causes and its consequences. It has a fancy name, but I prefer to call it \"stupidity\".\"",
+                                "fowID": "",
+                                "id": "AVL-052",
+                                "name": "Royal Historian, Saint Eisha",
+                                "race": [
+                                    "Knight",
+                                    "Saint"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Precision]",
+                                    "[Rise]",
+                                    "[Imperishable]",
+                                    "Augur cards you control with gain [Quickcast] in all areas.",
+                                    "{Rest}: Look at the top five cards of your deck and put them back in any order. Draw a card.",
+                                    "[Solo Mode]",
+                                    "[Resonance] Water Magic Stone >>> Switch the ATK and DEF of target resonator until end of turn. You may rest it.",
+                                    "Whenever an Augur resonator deals battle damage >>> Gain two water will coin tokens."
+                                ],
+                                "artist": "fzwrAym",
+                                "ATK": "1100",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "",
+                                "DEF": "1200",
+                                "divinity": "",
+                                "flavour": "\"The archway? Ha! I wish I had its keys...\"",
+                                "fowID": "",
+                                "id": "AVL-052J",
+                                "name": "Saint Eisha, Custodian of the Archway",
+                                "race": [
+                                    "Angel",
+                                    "Punisher",
+                                    "Saint"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "J-Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Reveal up to two resonator cards from your hand and put them on top of your deck in any order. Search your deck for X resonator cards, where X is the number of cards moved this way, reveal them and put them into your hand, then shuffle your deck. If you moved an Augur card this way, gain a water will coin token."
+                                ],
+                                "artist": "Nagi-nyan",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"The universe is vast, but it has no power to turn events. That power belongs to people... but not to all of them.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-053",
+                                "name": "Shooting Star",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Rise] (Whenever this card attacks >>> Foresee 1. Reveal the top card of your deck. If it is a water card or if it has [Rise], put two [+100/+100] counters on this card.)",
+                                    "{Rest}, {U}: Put target non-J-ruler entity with total cost 1 on top or bottom of their owner's deck. If this card was played from a deck, recover a ruler you control.",
+                                    "Rest a J/ruler you control: Look at the top card of target player's deck. Put it on top or bottom of that deck."
+                                ],
+                                "artist": "Haruichi Kido",
+                                "ATK": "500",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{U}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"Reading the future in cards? Easy. But the glyphs of the archway, that's where the real answers lie.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-054",
+                                "name": "Stargazing Fortune Teller",
+                                "race": [
+                                    "Augur",
+                                    "Human"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Rise] (Whenever this card attacks >>> Foresee 1. Reveal the top card of your deck. If it is a water card or if it has [Rise], put two [+100/+100] counters on this card.)",
+                                    "If less than X damage would be dealt to a resonator you control, prevent it, where X is the DEF of that resonator.",
+                                    "[Enter] >>> Search your deck for a card that shares a name with target spell, reveal it and put it into your hand, then shuffle."
+                                ],
+                                "artist": "uekino aroe",
+                                "ATK": "500",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{U}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"She makes sure that folklore is passed on to the new generations, although every time she tells a story, she adds new details. She's very imprecise... but practical.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-055",
+                                "name": "Storytelling Bard",
+                                "race": [
+                                    "Augur",
+                                    "Hero"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "Rest a J/ruler you control: Reveal the top card of your deck and keep it revealed until end of turn. You can play that card from the top of your deck as long as it is revealed.",
+                                    "[Demise] (When this card is put into a graveyard from the field.) >>> Shuffle this card from a graveyard into it's owner's deck."
+                                ],
+                                "artist": "SO",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{U}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"The archway has seven locks. On for each key created by the Goddess Velmar. The texts are quite clear: passing through it allows travel to another place.\" \"To another dimension?\" \"Hmm... maybe.\" -Saint Eisha and Nero",
+                                "fowID": "",
+                                "id": "AVL-056",
+                                "name": "The Archway, Library Wall",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Defiant] (1)",
+                                    "[Rise]",
+                                    "Players gain \"You cannot play spells with a total cost equal to the total cost of the spell you played this turn.\".",
+                                    "Rest a J/ruler you control: Rest target resonator.",
+                                    "[Solo Mode]\n- {U}, remove X [+100/+100] counters from this card: If this card was played from a deck, gain control of target resonator with total cost X-1."
+                                ],
+                                "artist": "ShiroYayoi",
+                                "ATK": "500",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}{1}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"Hypnotism? That is no magic. Spells are mathematics, psychology, history, chemistry... that is science.\" -Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-057",
+                                "name": "Yalidine, Velmardian Hypnotist",
+                                "race": [
+                                    "Augur",
+                                    "Human",
+                                    "Knight"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Added J/resonator gains [+200/+200] for each addition or Treasury Item entity you control, and [Enraging] (Whenever this card attacks >>> Target J/resonator must block this turn if able and it gains \"This card can block while rested.\" until end of turn.).",
+                                    "[Enter] >>> Put a [200/200] wind Knight resonator token into the field, then add this card to a resonator you control.",
+                                    "{Rest}, {G}: Added J/resonator destroys target Dragon resonator.",
+                                    "[Bestow] {Rest}. This ability can target J-rulers."
+                                ],
+                                "artist": "C\u03bbT",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Originally, this sword was made for one day's fight. But the grace of the Goddess Velmar has made it last for a thousand battles.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-058",
+                                "name": "Dragonslayer",
+                                "race": [
+                                    "Treasury Item",
+                                    "Weapon"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Harmony] (Whenever a player plays a light spell, a water spell, or a wind spell >>> Put a [+100/+100] counter on this card.)",
+                                    "[Aegis]",
+                                    "You gain \"Players cannot pay any costs that include paying life other than costs of abilities on magic stone cards.\" as long as this card is in a non-removed public area.",
+                                    "God's Art \"Protect Tower!\" Discard this card: Search your deck for a Treasury Item card, reveal it and put it into your hand, then shuffle your deck."
+                                ],
+                                "artist": "mita kosuke",
+                                "ATK": "400",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "\"Protecting Tower is not an obligation, but a privilege. It is a place of worship and adoration for the faithful.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-059",
+                                "name": "Guardian of Tower",
+                                "race": [
+                                    "Knight"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You may pay {V} rather than pay this card's cost.",
+                                    "At the end of your turn >>> Put the top card of your deck into your graveyard. If it is a Treasury Item card, you may put it from your graveyard into your hand.",
+                                    "[Anathema] (This card has the following text in all zones as long as you control cards in your graveyard with four different card types.)\n- Rested resonators you control gain [+200/+200] and [Eternal]."
+                                ],
+                                "artist": "Kusanagi Tyouen",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"I sense an unsettling presence in this place.\" \"...grrr...\" \"Do you sense it too, Alastor?\" \"Woof!\" \"We need to leave this place.\" -Nero and Alastor",
+                                "fowID": "",
+                                "id": "AVL-060",
+                                "name": "Hidden Jadesteel Pond",
+                                "race": [
+                                    "Treasury Item"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Reunited] \"Saint Reena\"\n- [Quickcast] [Remnant]\n- Rested resonators you control gain [+X00/+X00] until end of turn, where X is the number of resonators you don't control.",
+                                    "Perform the following effect X times - Put a [200/200] wind Knight resonator token into the field rested. It deals damage equal to its ATK to target resonator you don't control."
+                                ],
+                                "artist": "Nagi-nyan",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}{1}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"The sin of the powerful is believing that no one will hunt them down. But the higher they fly... you know.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-061",
+                                "name": "Hunt the Mighty",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enraging] (Whenever this card attacks >>> Target J/resonator must block this turn if able and it gains \"This card can block while rested.\" until end of turn.)",
+                                    "[Enter] or whenever this card attacks >>> Remove all resonator tokens and up to one target Demon or Dragon resonator from the game.",
+                                    "{G}{V}: Put this card from your graveyard into the field. Play this ability only if this card is in your graveyard."
+                                ],
+                                "artist": "muranako",
+                                "ATK": "800",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{1}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"The jadesteel permeated their body, and ever since they recover from fatal wounds smiling.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-062",
+                                "name": "Jadesteel Dragonslayers",
+                                "race": [
+                                    "Knight",
+                                    "Treasury Item"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Resonators you control gain and cannot lose [Eternal] as long as you control four Treasury Item entities.",
+                                    "[Reunited] \"Saint Reena\"\n- {V}: Resonators you control gain [+200/0] until end of turn.",
+                                    "[Enter] >>> If you control a wind J/ruler, search your magic stone deck for a card with the wind magic stone type and put it into the field, then shuffle your magic stone deck. Otherwise, gain a wind will coin token."
+                                ],
+                                "artist": "M ganzy",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Yomidgard may be an arid place, but Velmardia is like this vine: it entwines around us, making us strong.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-063",
+                                "name": "Jadesteel Vine Spiral",
+                                "race": [
+                                    "Treasury Item",
+                                    "Vegetation"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "This card has \"Carlina's Midnight Snack\" in addition to its other names.",
+                                    "Perform the following effect one time. If this card was awakened, perform it two times instead - Remove an addition, a resonator with [Defiant], or a resonator with [Flying] from the game."
+                                ],
+                                "artist": "BANAMONS*",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}",
+                                "DEF": "",
+                                "divinity": 2,
+                                "flavour": "\"Have you named one of your spells?\" \"Yes!\" \"That's really cool!\" \"You should name yours too!\" -Nero and Larinca",
+                                "fowID": "",
+                                "id": "AVL-064",
+                                "name": "Larinca's Mega Apple Pie Blast!",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Banish this card: Choose one. You may choose an additional one for each recovered J/ruler or warden you control;\n- Destroy target addition.\n- Destroy all J/resonators with [Flying] and/or [Terrifying].\n- Shuffle all magic stone cards from your graveyard into your magic stone deck, then shuffle your graveyard into your deck."
+                                ],
+                                "artist": "Azami datto",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{1}",
+                                "DEF": "",
+                                "divinity": 6,
+                                "flavour": "\"The Goddess Velmar has shown me our end. And now, we are no longer afraid. Now that we know against what we fall, no other enemy is a threat. Until then, we are invincible!\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-065",
+                                "name": "Omen of the Dragonslayer",
+                                "race": [
+                                    "Glyph"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Remnant]",
+                                    "You pay {G} less to play this card from a graveyard.",
+                                    "You gain 600 life. Put three [+100/+100] counters on up to two target resonators. They gain [Eternal] until end of turn.",
+                                    "[Anathema] (This card has the following text in all zones as long as you control cards in your graveyard with four different card types.)\n- Put the top card of your magic stone deck into the field rested."
+                                ],
+                                "artist": "gozz",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"The dragon is very powerful, but the kingdom will not fall on our watch! Fight! Fight with pride to protect Velmardia!\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-066",
+                                "name": "Pride of Knights",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Paradoxical",
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Overgrowth]",
+                                    "[Harmony]",
+                                    "[Flying]",
+                                    "J/resonators each other player controls with less ATK than this card cannot block J/resonators you control.",
+                                    "[Reunited] \"Saint Reena\"\n- [Enter] >>> Draw a card.",
+                                    "Rest a J/ruler you control: Put two [+100/+100] counters on this card. Entities you control gain [Eternal] until end of turn."
+                                ],
+                                "artist": "Nanami Lusia",
+                                "ATK": "200",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}",
+                                "DEF": "200",
+                                "divinity": "",
+                                "flavour": "\"It is said that dragons never truly die, but the Goddess Velmar knows that this is false. They're also said to be arrogant and savage beasts, but this one... this one is different.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-067",
+                                "name": "Quassarant, the Emerald Dragon",
+                                "race": [
+                                    "Dragon"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "You pay {G} less to play this card for each spell your opponent has played this turn.",
+                                    "Cancel target spell unless its controller pays {2}.",
+                                    "[Solo Mode]",
+                                    "[Reunited] \"Saint Reena\"\n- Recover up to one target Treasury Item entity you control."
+                                ],
+                                "artist": "touge369",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}{G}",
+                                "DEF": "",
+                                "divinity": 3,
+                                "flavour": "\"You ok?\" \"Yes! But, the dragon...!\" \"Leave it to me! Hey! Pick on someone your own size!\" -Saint Reena and Nero",
+                                "fowID": "",
+                                "id": "AVL-068",
+                                "name": "Raging Winds",
+                                "race": [
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Chant",
+                                    "Master Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Treasury Item cards you control with gain [Quickcast] in all areas.",
+                                    "[Resonance] Wind Magic Stone >>> Search your deck for a wind Treasury Item card, reveal it and put it into your hand, then shuffle your deck.",
+                                    "Whenever you play a Treasury Item spell >>> Produce {G}. This ability triggers only once per turn.",
+                                    "{Rest}: Shuffle target Treasury Item card from your graveyard into your deck.",
+                                    "[Judgment] {G}{G}{1}"
+                                ],
+                                "artist": "Wednesday",
+                                "ATK": "",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Facing a dragon requires something not every Velmardian possesses. Some might call it madness, but I prefer fervor. And I am the most fervent.\"",
+                                "fowID": "",
+                                "id": "AVL-069",
+                                "name": "Twilight Hunter, Saint Reena",
+                                "race": [
+                                    "Knight",
+                                    "Saint"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enraging]",
+                                    "[Pierce]",
+                                    "[Imperishable]",
+                                    "Treasury Item cards you control with gain [Quickcast] in all areas.",
+                                    "{Rest}: Put target Treasury Item card from your graveyard into your hand.",
+                                    "[Solo Mode]",
+                                    "[Resonance] Wind Magic Stone >>> You may play a Treasury Item card from your hand without paying its cost.",
+                                    "Whenever you play a Treasury Item spell >>> Recover a magic stone. This ability triggers only twice per turn."
+                                ],
+                                "artist": "Wednesday",
+                                "ATK": "1200",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "",
+                                "DEF": "1200",
+                                "divinity": "",
+                                "flavour": "\"A demon here, in Velmardia? Perfect.\"",
+                                "fowID": "",
+                                "id": "AVL-069J",
+                                "name": "Saint Reena, Reckless Dragonslayer",
+                                "race": [
+                                    "Angel",
+                                    "Punisher",
+                                    "Saint"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "J-Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Enraging] (Whenever this card attacks >>> Target J/resonator must block this turn if able and it gains \"This card can block while rested.\" until end of turn.)",
+                                    "If a resonator with a card named \"Dragonslayer\" added to it would be destroyed, you may destroy this card instead.",
+                                    "[Enter] >>> Search your deck for a Dragonoid or Knight card, reveal it and put it into your hand, then shuffle your deck."
+                                ],
+                                "artist": "KONNO Takashi",
+                                "ATK": "600",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{1}",
+                                "DEF": "600",
+                                "divinity": "",
+                                "flavour": "\"Those kids fight with too much conviction, and they die too quickly. When we are around twenty, we all think we are indestructible, but we are not. Keep a close eye on them.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-070",
+                                "name": "Velmardian Squire",
+                                "race": [
+                                    "Knight",
+                                    "Treasury Item"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Enraging]",
+                                    "[Aegis]",
+                                    "[Enter] >>> If you control five entities, cancel target activate or automatic ability you don't control whose source is not a warden.",
+                                    "Rest a J/ruler you control: Cancel target Demon or Dragon spell.",
+                                    "[Solo Mode]",
+                                    "Non-Key regalia with [Bestow] or with total cost 3 or more lose all automatic and activated abilities."
+                                ],
+                                "artist": "IWAO",
+                                "ATK": "400",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}",
+                                "DEF": "400",
+                                "divinity": "",
+                                "flavour": "\"She's our best warrior. But her blood makes her hate her own kind, as she cannot forget that they have done horrible things.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-071",
+                                "name": "Ylfi Liaskr, the Golden Claw",
+                                "race": [
+                                    "Dragonoid",
+                                    "Hero"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Enraging]",
+                                    "[Pierce]",
+                                    "[Aegis]",
+                                    "Resonators you control gain [+100/+100] for each Treasury Item entity you control.",
+                                    "Whenever you play a Treasury Item spell >>> Draw a card. If this is the second time this ability triggers this turn, search your deck for a card named \"Dragonslayer\" and put it into the field, then shuffle your deck. If this is the third time this ability triggers this turn, recover this card."
+                                ],
+                                "artist": "Mayo",
+                                "ATK": "700",
+                                "colour": [
+                                    "G"
+                                ],
+                                "cost": "{G}{G}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"She is the most skilled knight I know, almost better than me. She is a miracle incarnate.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-072",
+                                "name": "Zeru, Dragonslayer Commander",
+                                "race": [
+                                    "Knight",
+                                    "Treasury Item"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Look at target player's hand and choose a non-resonator card from among them. They discard the chosen card. You lose 200 life.",
+                                    "Whenever this spell is targeted by a spell or ability you don't control >>> Recover a magic stone you control."
+                                ],
+                                "artist": "Nakaba Higurashi",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"That demon whispers prophecies of the future?!\" \"They are the whisperer of ruin, boy.\" \"Yes, but...\" \"Ruin, I've said!\" -Nero and Varkuzhal",
+                                "fowID": "",
+                                "id": "AVL-073",
+                                "name": "Devil's Advocate",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Chant"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Rise]",
+                                    "[First Strike]",
+                                    "[Enter] >>> Light or water resonators entering the field don't cause their own [Enter] abilities to trigger until end of turn.",
+                                    "Rest a J/ruler you control: Target player loses 300 life.",
+                                    "[Rune] (2)\n- {B}: Trigger this card's [Enter] abilities."
+                                ],
+                                "artist": "Hugos",
+                                "ATK": "300",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}",
+                                "DEF": "300",
+                                "divinity": "",
+                                "flavour": "\"No prude escapes from him!\" -Nidhogg",
+                                "fowID": "",
+                                "id": "AVL-074",
+                                "name": "Elite Swordsmna of Sylthmir",
+                                "race": [
+                                    "Demon",
+                                    "Knight",
+                                    "Student"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "[Blood Trail]",
+                                    "Whenever battle damage is dealt to this card >>> Each other player loses that much life.",
+                                    "[Demise] >>> You lose 400 life.",
+                                    "Expel this card from your graveyard: Produce {B}{B}. Spend this will only to play cards named \"Nidhogg, Flaretail Deathbringer\"."
+                                ],
+                                "artist": "NAKAGAWA",
+                                "ATK": "500",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "\"Their hellfire will purge you!\" -Nidhogg",
+                                "fowID": "",
+                                "id": "AVL-076",
+                                "name": "Flaretail Hellfire Hatchling",
+                                "race": [
+                                    "Demon",
+                                    "Dragon"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Your opponent cannot search their deck or magic stone deck.",
+                                    "[Anathema] (This card has the following text in all zones as long as you control cards in your graveyard with four different card types.)\n- At the beginning of each other player's main phase >>> The turn player may banish a resonator. If they do, each player draws a card. Otherwise, draw two cards and they lose 1000 life."
+                                ],
+                                "artist": "Nakaba Higurashi",
+                                "ATK": "700",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{1}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "\"My favorite demon. A plotter, a lurker in the shadows of Yomidgard. Make a pact with them. Dare to.\" -Nidhogg",
+                                "fowID": "",
+                                "id": "AVL-077",
+                                "name": "Kaim, Demon of Vice",
+                                "race": [
+                                    "Demon"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": true
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Quickcast]",
+                                    "[Vileborn] (4)",
+                                    "You pay {X} less to play this card, where X is the number of spells each other player played this turn. If X is three or more, this card gains [Untouchable] as long as it is in the chase area.",
+                                    "[Enter] >>> Resonators you don't control gain [-1100/-1100] until end of turn.",
+                                    "Whenever your opponent draws a card >>> They lose 400 life.",
+                                    "At end of turn >>> Each player draws a card."
+                                ],
+                                "artist": "Wednesday",
+                                "ATK": "800",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{3}",
+                                "DEF": "900",
+                                "divinity": "",
+                                "flavour": "\"Who watches the watcher? Who punishes the punisher? As we have that purpose, Velmardia will fall.\" -Nidhogg",
+                                "fowID": "",
+                                "id": "AVL-078",
+                                "name": "Mephistopheles, the Abyssal Tyrant",
+                                "race": [
+                                    "Demon"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Blood Trail]",
+                                    "[Flying]",
+                                    "You pay {B}{B} less to play this card if your life is 2500 or less.",
+                                    "Your opponent cannot play spells with an odd total cost.",
+                                    "[Enter] >>> Search your deck for a card with \"Hellfire\" in its name, and play it without paying its cost, then shuffle your deck.",
+                                    "Rest a J/ruler you control: Trigger this card's [Enter] abilities.",
+                                    "God's Art \"Darkness Hellfire\" {0}, pay 400 life: The controller of target non-Dragon, non-J-ruler entity banishes it."
+                                ],
+                                "artist": "douzen",
+                                "ATK": "1400",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}{B}{B}{1}",
+                                "DEF": "1400",
+                                "divinity": "",
+                                "flavour": "\"I have long awaited my vengeance against Goddess Velmar and her people! Velmardia, I am your death! This is the end!\"",
+                                "fowID": "",
+                                "id": "AVL-080",
+                                "name": "Nidhogg, Flaretail Deathbringer",
+                                "race": [
+                                    "Demon",
+                                    "Dragon",
+                                    "Nightmare"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Banish this card: Choose one. You may choose an additional one for each recovered J/ruler or warden you control;\n- Target player banishes an Angel resonator.\n- Put target card from your graveyard into your hand.\n- Destroy target non-Dragon J/resonator. Search your deck for a Dragon card, reveal it and put it into your hand. You lose 500 life."
+                                ],
+                                "artist": "Kelvin",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"The Goddess Velmar can show you nothing. Her voice is false, her promises empty. Velmardia is nothing but another deception; there is no safe place in Yomidgard. I will show you!\" -Nidhogg",
+                                "fowID": "",
+                                "id": "AVL-081",
+                                "name": "Omen of the Deathbringer",
+                                "race": [
+                                    "Glyph"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "+1: Choose up to two J/resonators. Rest the chosen J/resonators. Entities rested this way don't recover during their controller's next recovery phase.",
+                                    "-1: Wardens you control gain \"Whenever you play a willpower ability >>> Ech other player loses 200 life.\" until end of game.",
+                                    "[Judgment] {U} or {B}. Play this judgment process only if this card has six willpower counters on it."
+                                ],
+                                "artist": "jitari",
+                                "ATK": "",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "AVL-085",
+                                "name": "All-Seeing One Professor, P'Zain",
+                                "race": [
+                                    "Human",
+                                    "Warlock"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Warden"
+                                ],
+                                "willpower": 3,
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "+2: Draw a card, then reveal a card with total cost 3 or less from your hand. If you do, play it without paying its cost.",
+                                    "-8: Target player draws seven cards, and reveals their hand. Put all resonator cards from among them into the field under your control. That player discards seven cards.",
+                                    "You can play an additional willpower ability of wardens you control each turn as though none of its willpower abilities have been played this turn."
+                                ],
+                                "artist": "jitari",
+                                "ATK": "600",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "",
+                                "DEF": "1000",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "AVL-085J",
+                                "name": "P'Zain, Bearer of the Mind Key",
+                                "race": [
+                                    "Demonic",
+                                    "Warlock"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "J-Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Resonators you don't control cannot attack unless their controller plays 100 life. (Each attack costs 100 life.)",
+                                    "Whenever your opponent draws a card >>> They lose 300 life.",
+                                    "[Solo Mode]",
+                                    "Remove four elite counters from a J/ruler you control: Any number of target players draw a card."
+                                ],
+                                "artist": "Seichi Naruse",
+                                "ATK": "",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{B}",
+                                "DEF": "",
+                                "divinity": 6,
+                                "flavour": "\"My music isn't for everyone, but anyone can despise my music. Do you like the rhythm, Professor?\" -Noihs",
+                                "fowID": "",
+                                "id": "AVL-086",
+                                "name": "Altar of the Discordant Song",
+                                "race": [
+                                    "Glyph"
+                                ],
+                                "rarity": "MR",
+                                "type": [
+                                    "Addition",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "Whenever this card attacks or at end of turn >>> Put two [-100/-100] counters on another resonator. If you are the turn player, put two [-100/-100] counters on another resonator.",
+                                    "[Rune] {U}{B}\n- [Demise] (When this card is put into a graveyard from the field.) >>> Remove X elite counters from a J/ruler you control. Destroy a resonator with DEF X00."
+                                ],
+                                "artist": "gekko",
+                                "ATK": "800",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{B}{1}",
+                                "DEF": "900",
+                                "divinity": "",
+                                "flavour": "\"The Velmardian defenses cannot be overcome by demons. But what about humans? Did you hear my music?\" -Noihs",
+                                "fowID": "",
+                                "id": "AVL-087",
+                                "name": "Hydromonica-Bound Assassin",
+                                "race": [
+                                    "Human"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Remnant]",
+                                    "Choose one. If this card was awakened, choose both instead;\n- Search your deck for a Warlock warden card and put it into your ruler area, then shuffle your deck.\n- Put a card with \"Hydromonica\" in its name from your hand or graveyard into the field. Gain a water/darkness will coin token.",
+                                    "[Awakening] Remove an elite counter from a J/ruler you control"
+                                ],
+                                "artist": "RYUEMON",
+                                "ATK": "",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{U}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"The Velmardian streets are going to be filled with songs of praise for their new masters.\" -Noihs",
+                                "fowID": "",
+                                "id": "AVL-088",
+                                "name": "Noihs' Hymn",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Chant",
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Rise]",
+                                    "[Terrifying]",
+                                    "At the beginning of your main phase >>> Rest this card unless you pay 300 life.",
+                                    "[Demise] >>> Each other player loses 700 life.",
+                                    "[Solo Mode]",
+                                    "As an additional cost to play this card, you may remove two elite counters from a J/ruler you control. If you do, you pay {U} less to play this card."
+                                ],
+                                "artist": "SIGMAN",
+                                "ATK": "700",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{B}",
+                                "DEF": "800",
+                                "divinity": "",
+                                "flavour": "\"I adore my new pet.\" -Noihs",
+                                "fowID": "",
+                                "id": "AVL-089",
+                                "name": "Ophthalzar, Reclaimed Malevolent Eye",
+                                "race": [
+                                    "Demon",
+                                    "Servant"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Reunited] \"Noihs\"\n- Remove three elite counters from a J/ruler you control: Trigger an [Enter] or [Demise] ability of target water or darkness entity.\n- Discard a card with \"Hydromonica\" in its name: Produce {U}.",
+                                    "[Demise] >>> Search target player's deck for a card. That player shuffles the rest of their deck and puts that card on top of it."
+                                ],
+                                "artist": "SAGAWA ASUKA",
+                                "ATK": "",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "{U}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"My melodies should soothe the troops. No hard feelings, okay?\" -Noihs",
+                                "fowID": "",
+                                "id": "AVL-090",
+                                "name": "Oppressive Instrument, Hydromonica",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Divinity] (1)",
+                                    "If this card is your starting ruler, ignore all starting ruler name restrictions of extension rule cards with \"Barust\", or \"Hutriel\", or \"Moloch\" in their name during deck construction and setup.",
+                                    "At end of turn >>> Put two elite counters on this card.",
+                                    "{U}{B}, remove X elite counters from this card. X cannot be 0: Gain control of target resonator with total cost X-3.",
+                                    "[Judgment] {U}{B}{2}. Play this judgment process only if you control a card with \"Pact\" in its name in your extension rule area."
+                                ],
+                                "artist": "Kamijo Roro",
+                                "ATK": "",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"It's fun to know things that others don't.\"",
+                                "fowID": "",
+                                "id": "AVL-091",
+                                "name": "Sylthmir's Mastermind, Noihs",
+                                "race": [
+                                    "Human",
+                                    "Songstress",
+                                    "Warlock"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Divinity] (3)",
+                                    "[Untouchable]",
+                                    "[Imperishable]",
+                                    "[Enter] >>> Perform the following effect three times - Your opponent reveals the top card of their deck. You may play it without paying its cost. Otherwise, they expel it.",
+                                    "God's Art \"Final Requiem\" {U}{B}, remove X elite counters from this card: This card gains [+X00/+X00] until end of turn. It deals damage equal to its ATK to target resonator."
+                                ],
+                                "artist": "Kamijo Roro",
+                                "ATK": "900",
+                                "colour": [
+                                    "U",
+                                    "B"
+                                ],
+                                "cost": "",
+                                "DEF": "1000",
+                                "divinity": "",
+                                "flavour": "\"Until today, I fought out of obligation. But, with you all here, oppressing Velmardia is going to be really fun!\"",
+                                "fowID": "",
+                                "id": "AVL-091J",
+                                "name": "Noihs, Oppressing Demonic Songstress",
+                                "race": [
+                                    "Demonic",
+                                    "Songstress",
+                                    "Warlock"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "J-Ruler"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Extension Rule]",
+                                    "You can start the game with this card in your extension rule area if your starting ruler was released in Attack on Velmardia (AVL), and has \"Eisha\", \"Heiko\", \"Iris\", or \"Reena\" in its name.",
+                                    "Mono-attribute Saint rulers you own released in Attack on Velmardia (AVL) or in The Quest of the Seven Keys (QSK) have \"[Tag] (Saint)\" and [Divinity] (3) in all zones.",
+                                    "Saint J-rulers you control have [Divinity] (6).",
+                                    "You can play the judgment process of rulers you control any time you could play a card with [Quickcast].",
+                                    "Whenever a resonator you control is destroyed >>> Put it from a graveyard into its owner's hand."
+                                ],
+                                "artist": "Takumi Sugikawa",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"We are the Saint protectors of the middle plateau. We will protect Velmardia using all our Force of Will.\"",
+                                "fowID": "",
+                                "id": "AVL-095",
+                                "name": "Pact of Saints of the Middle Plateau",
+                                "race": [
+                                ],
+                                "rarity": "XR",
+                                "type": [
+                                    "Extension Rule"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Extension Rule]",
+                                    "You can start the game with this card in your extension rule area if your starting ruler has \"Eclair\", \"Heiko\", \"Siphone\" in its name, you have seven cards with \"Hutriel\" in their name in your deck, at least three among them having the warden type, and you don't have cards with attributes other than light, fire, or darkness in your deck or rune deck.",
+                                    "J/rulers you control have [Divinity] (9).",
+                                    "J-rulers you control gain \"[Enter] >>> Put the top card of your magic stone deck into the field.\".",
+                                    "At the end of your turn >>> If an entity with [Bestow] entered the field this turn, recover two magic stones."
+                                ],
+                                "artist": "Moopic",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"There are always places to bring the light of Goddess Velmar, even within our own hearts.\" -Hutriel",
+                                "fowID": "",
+                                "id": "AVL-096",
+                                "name": "Velmardian Training: Archangel's Pact",
+                                "race": [
+                                ],
+                                "rarity": "XR",
+                                "type": [
+                                    "Extension Rule"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Extension Rule]",
+                                    "You can start the game with this card in your extension rule area if your starting ruler has \"Iris\", \"Heiko\", \"Reena\", or \"Larinca\" in its name, you have seven cards with \"Lionel\" in their name in your deck, at least three among them having the warden type, and you don't have cards with attributes other than light, fire, or wind in your deck or rune deck.",
+                                    "J/rulers you control have [Divinity] (8).",
+                                    "As the game starts, look at the top four cards of your magic stone deck and put them back in any order.",
+                                    "Whenever you play an ability of a J-ruler or Warden with \"Lionel\" in its name >>> Copy it."
+                                ],
+                                "artist": "RYUEMON",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Value and cherish what matters to you, before it becomes just a memory.\" -Lionel",
+                                "fowID": "",
+                                "id": "AVL-097",
+                                "name": "Velmardian Training: Knight's Pact",
+                                "race": [
+                                ],
+                                "rarity": "XR",
+                                "type": [
+                                    "Extension Rule"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Extension Rule]",
+                                    "You can start the game with this card in your extension rule area if your starting ruler has \"Iris\", \"Eisha\", \"Reena\", or \"Nero\" in its name, you have seven cards with \"Sol\" in their name in your deck, at least three among them having the warden type, and you don't have cards with attributes other than light, water, or wind in your deck or rune deck.",
+                                    "J/rulers you control have [Divinity] (9).",
+                                    "You pay {1} less to plat the judgment process of rulers or wardens you control.",
+                                    "Whenever you play a spell from your deck, graveyard, or removed area >>> Put a non-chant card with total cost equal than or less than the total cost of that spell from your hand into the field."
+                                ],
+                                "artist": "Hugos",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"It's hard to discern the truth amidst so many demonic lies. Luckily, I am here now.\" -Sol",
+                                "fowID": "",
+                                "id": "AVL-098",
+                                "name": "Velmardian Training: Swordsman's Pact",
+                                "race": [
+                                ],
+                                "rarity": "XR",
+                                "type": [
+                                    "Extension Rule"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "\u00abMythic\u00bb",
+                                    "[Untouchable]",
+                                    "Your opponent plays with the top card of their deck revealed.",
+                                    "Whenever a resonator you control deals 500 battle damage to a player >>> If this card is rested, you may play the top card of that player's deck without paying its cost. Recover this card.",
+                                    "Whenever a resonator is destroyed >>> Recover this card.",
+                                    "{Rest}: Target player expels the top card of their deck. Play this ability only once per turn."
+                                ],
+                                "artist": "jitari",
+                                "ATK": "",
+                                "colour": [
+                                    "U"
+                                ],
+                                "cost": "{U}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"It is one of the seven keys of the archway. It opens the mind in ways never imagined.\" \"Can we use it?\" \"For Velmar's sake, no!\" -Nero and Siphone",
+                                "fowID": "",
+                                "id": "AVL Buy a Box",
+                                "name": "The Mind Key",
+                                "race": [
+                                    "Arcane Item",
+                                    "Key"
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Rise]",
+                                    "[Flying]",
+                                    "[Barrier] {B}",
+                                    "Your opponent cannot play spells from a non-hand area, or put addition cards, regalia cards, or resonator cards into the field from a non-hand area.",
+                                    "Non-Angel resonators you don't control cannot be recovered."
+                                ],
+                                "artist": "ishishou",
+                                "ATK": "500",
+                                "colour": [
+                                    "W"
+                                ],
+                                "cost": "{W}{1}",
+                                "DEF": "700",
+                                "divinity": "",
+                                "flavour": "",
+                                "fowID": "",
+                                "id": "AVL Prerelease Party",
+                                "name": "Guardian Angel, Raphael",
+                                "race": [
+                                    "Angel",
+                                    "Saint",
+                                    "Valkyrie"
+                                ],
+                                "rarity": "",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            }
+                        ],
+                        "code": "AVL",
+                        "name": "Attack on Velmardia"
+                    }
 				]
 			},
 			 {

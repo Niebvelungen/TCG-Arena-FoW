@@ -177727,6 +177727,2038 @@
     "isHorizontal": false,
     "cost": 0
   },
+  "AVL-001": {
+    "id": "AVL-001",
+    "name": "Abel, Velmardian Herald",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Abel, Velmardian Herald",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-001.jpg",
+        "ATK": "300",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "300",
+    "DEF": "500"
+  },
+  "AVL-002": {
+    "id": "AVL-002",
+    "name": "Angel of Wisdom, Cherudim",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Angel of Wisdom, Cherudim",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-002.jpg",
+        "ATK": "800",
+        "DEF": "900"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "800",
+    "DEF": "900"
+  },
+  "AVL-003": {
+    "id": "AVL-003",
+    "name": "Angelic Twin Shields",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Angelic Twin Shields",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-003.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-004": {
+    "id": "AVL-004",
+    "name": "Aratron, Angel of Knowledge",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Aratron, Angel of Knowledge",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-004.jpg",
+        "ATK": "900",
+        "DEF": "900"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "900",
+    "DEF": "900"
+  },
+  "AVL-005": {
+    "id": "AVL-005",
+    "name": "Arrival of the Hero",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Arrival of the Hero",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-005.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Chant",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-006": {
+    "id": "AVL-006",
+    "name": "Astema, the Queen's Taster",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Astema, the Queen's Taster",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-006.jpg",
+        "ATK": "800",
+        "DEF": "1000"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "800",
+    "DEF": "1000"
+  },
+  "AVL-007": {
+    "id": "AVL-007",
+    "name": "Book of Genesis",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Book of Genesis",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-007.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Paradoxical - Addition",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-008": {
+    "id": "AVL-008",
+    "name": "Cathedral of the Holy See",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Cathedral of the Holy See",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-008.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Addition",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-009": {
+    "id": "AVL-009",
+    "name": "Clumsy Devotee, Saint Iris",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Clumsy Devotee, Saint Iris",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-009.jpg"
+      },
+      "back": {
+        "name": "Saint Iris, Battle Cleric",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-009J.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-010": {
+    "id": "AVL-010",
+    "name": "Crystallization",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Crystallization",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-010.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Paradoxical - Chant",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-011": {
+    "id": "AVL-011",
+    "name": "Divine Custodian, Sol",
+    "type": "Warden",
+    "face": {
+      "front": {
+        "name": "Divine Custodian, Sol",
+        "type": "Warden",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-011.jpg"
+      },
+      "back": {
+        "name": "Sol, Angel of Divine Virtue",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-011J.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Warden",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-012": {
+    "id": "AVL-012",
+    "name": "Guardian Angel, Raphael",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Guardian Angel, Raphael",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-012.jpg",
+        "ATK": "500",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "700"
+  },
+  "AVL-013": {
+    "id": "AVL-013",
+    "name": "Hutriel's Chainmail Gloves",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Hutriel's Chainmail Gloves",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-013.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-014": {
+    "id": "AVL-014",
+    "name": "Luminous Scaladiant",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Luminous Scaladiant",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-014.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-015": {
+    "id": "AVL-015",
+    "name": "Matelda, Queen of the Three Plateaus",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Matelda, Queen of the Three Plateaus",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-015.jpg",
+        "ATK": "700",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "700",
+    "DEF": "700"
+  },
+  "AVL-016": {
+    "id": "AVL-016",
+    "name": "Omen of the Cleric",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Omen of the Cleric",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-016.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Addition - Rune",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-017": {
+    "id": "AVL-017",
+    "name": "Plea for Salvation",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Plea for Salvation",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-017.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-018": {
+    "id": "AVL-018",
+    "name": "Protection of the Seraph",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Protection of the Seraph",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-018.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Paradoxical - Regalia",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-019": {
+    "id": "AVL-019",
+    "name": "Sacred Knight of the East",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Sacred Knight of the East",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-019.jpg",
+        "ATK": "700",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "700",
+    "DEF": "700"
+  },
+  "AVL-021": {
+    "id": "AVL-021",
+    "name": "Sacred Knight of the South",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Sacred Knight of the South",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-021.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
+  "AVL-023": {
+    "id": "AVL-023",
+    "name": "Shekhinah, Envoy of Light",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Shekhinah, Envoy of Light",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-023.jpg",
+        "ATK": "400",
+        "DEF": "800"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "800"
+  },
+  "AVL-024": {
+    "id": "AVL-024",
+    "name": "Sol's Glyph of Solid Light",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Sol's Glyph of Solid Light",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-024.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Addition - Rune",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-025": {
+    "id": "AVL-025",
+    "name": "Sunbringer, Sol's Blade",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Sunbringer, Sol's Blade",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-025.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-026": {
+    "id": "AVL-026",
+    "name": "Velmardian Riposte",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Velmardian Riposte",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-026.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-027": {
+    "id": "AVL-027",
+    "name": "Velmardian Trinity Formation",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Velmardian Trinity Formation",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-027.jpg"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-028": {
+    "id": "AVL-028",
+    "name": "Aviary Keeper, Saint Heiko",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Aviary Keeper, Saint Heiko",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-028.jpg"
+      },
+      "back": {
+        "name": "Saint Heiko, Master Rukh-Tamer",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-028J.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-029": {
+    "id": "AVL-029",
+    "name": "Cyrux, Mother Rukh",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Cyrux, Mother Rukh",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-029.jpg",
+        "ATK": "800",
+        "DEF": "800"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "800",
+    "DEF": "800"
+  },
+  "AVL-030": {
+    "id": "AVL-030",
+    "name": "Deafening Featherstorm",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Deafening Featherstorm",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-030.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-031": {
+    "id": "AVL-031",
+    "name": "Miyu, Velmardian Bird-Catcher",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Miyu, Velmardian Bird-Catcher",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-031.jpg",
+        "ATK": "700",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "700",
+    "DEF": "400"
+  },
+  "AVL-032": {
+    "id": "AVL-032",
+    "name": "Omen of the Rukh-Tamer",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Omen of the Rukh-Tamer",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-032.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Addition - Rune",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-033": {
+    "id": "AVL-033",
+    "name": "Rapid Decay",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Rapid Decay",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-033.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Paradoxical - Chant",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-034": {
+    "id": "AVL-034",
+    "name": "Royal Rukh Aviary",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Royal Rukh Aviary",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-034.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-035": {
+    "id": "AVL-035",
+    "name": "Rukh",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Rukh",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-035.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
+  "AVL-036": {
+    "id": "AVL-036",
+    "name": "Rukh Egg",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Rukh Egg",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-036.jpg",
+        "ATK": "0",
+        "DEF": "200"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "0",
+    "DEF": "200"
+  },
+  "AVL-037": {
+    "id": "AVL-037",
+    "name": "Rukh-Feather Wings",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Rukh-Feather Wings",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-037.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-042": {
+    "id": "AVL-042",
+    "name": "Yuichi, Aviary Enthusiast",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Yuichi, Aviary Enthusiast",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-042.jpg",
+        "ATK": "500",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "400"
+  },
+  "AVL-043": {
+    "id": "AVL-043",
+    "name": "Auspicious Divination",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Auspicious Divination",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-043.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-044": {
+    "id": "AVL-044",
+    "name": "Cloak of True Shadows",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Cloak of True Shadows",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-044.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-045": {
+    "id": "AVL-045",
+    "name": "Historian's Wisdom",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Historian's Wisdom",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-045.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-046": {
+    "id": "AVL-046",
+    "name": "Kallithea, She Who Witnesses",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Kallithea, She Who Witnesses",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-046.jpg",
+        "ATK": "300",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "300",
+    "DEF": "500"
+  },
+  "AVL-047": {
+    "id": "AVL-047",
+    "name": "Kathorian Crystal Ball",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Kathorian Crystal Ball",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-047.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-048": {
+    "id": "AVL-048",
+    "name": "Nero and Alastor, Back to Back",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Nero and Alastor, Back to Back",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-048.jpg",
+        "ATK": "500",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "700"
+  },
+  "AVL-049": {
+    "id": "AVL-049",
+    "name": "Nue, Windreader Fortune Teller",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Nue, Windreader Fortune Teller",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-049.jpg",
+        "ATK": "400",
+        "DEF": "800"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "800"
+  },
+  "AVL-050": {
+    "id": "AVL-050",
+    "name": "Omen of the Custodian",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Omen of the Custodian",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-050.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Addition - Rune",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-051": {
+    "id": "AVL-051",
+    "name": "Raven of Ill Omens",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Raven of Ill Omens",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-051.jpg",
+        "ATK": "800",
+        "DEF": "900"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "800",
+    "DEF": "900"
+  },
+  "AVL-052": {
+    "id": "AVL-052",
+    "name": "Royal Historian, Saint Eisha",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Royal Historian, Saint Eisha",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-052.jpg"
+      },
+      "back": {
+        "name": "Saint Eisha, Custodian of the Archway",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-052J.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-053": {
+    "id": "AVL-053",
+    "name": "Shooting Star",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Shooting Star",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-053.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Paradoxical - Chant",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-054": {
+    "id": "AVL-054",
+    "name": "Stargazing Fortune Teller",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Stargazing Fortune Teller",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-054.jpg",
+        "ATK": "500",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "700"
+  },
+  "AVL-055": {
+    "id": "AVL-055",
+    "name": "Storytelling Bard",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Storytelling Bard",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-055.jpg",
+        "ATK": "500",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "700"
+  },
+  "AVL-056": {
+    "id": "AVL-056",
+    "name": "The Archway, Library Wall",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "The Archway, Library Wall",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-056.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Addition",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-057": {
+    "id": "AVL-057",
+    "name": "Yalidine, Velmardian Hypnotist",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Yalidine, Velmardian Hypnotist",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-057.jpg",
+        "ATK": "500",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "700"
+  },
+  "AVL-058": {
+    "id": "AVL-058",
+    "name": "Dragonslayer",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Dragonslayer",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-058.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Paradoxical - Regalia",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-059": {
+    "id": "AVL-059",
+    "name": "Guardian of Tower",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Guardian of Tower",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-059.jpg",
+        "ATK": "400",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "400"
+  },
+  "AVL-060": {
+    "id": "AVL-060",
+    "name": "Hidden Jadesteel Pond",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Hidden Jadesteel Pond",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-060.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Addition",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-061": {
+    "id": "AVL-061",
+    "name": "Hunt the Mighty",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Hunt the Mighty",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-061.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-062": {
+    "id": "AVL-062",
+    "name": "Jadesteel Dragonslayers",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Jadesteel Dragonslayers",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-062.jpg",
+        "ATK": "800",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "800",
+    "DEF": "700"
+  },
+  "AVL-063": {
+    "id": "AVL-063",
+    "name": "Jadesteel Vine Spiral",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Jadesteel Vine Spiral",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-063.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-064": {
+    "id": "AVL-064",
+    "name": "Larinca's Mega Apple Pie Blast!",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Larinca's Mega Apple Pie Blast!",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-064.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-065": {
+    "id": "AVL-065",
+    "name": "Omen of the Dragonslayer",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Omen of the Dragonslayer",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-065.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Addition - Rune",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-066": {
+    "id": "AVL-066",
+    "name": "Pride of Knights",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Pride of Knights",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-066.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Paradoxical - Chant",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-067": {
+    "id": "AVL-067",
+    "name": "Quassarant, the Emerald Dragon",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Quassarant, the Emerald Dragon",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-067.jpg",
+        "ATK": "200",
+        "DEF": "200"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "200",
+    "DEF": "200"
+  },
+  "AVL-068": {
+    "id": "AVL-068",
+    "name": "Raging Winds",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Raging Winds",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-068.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Chant - Master Rune",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-069": {
+    "id": "AVL-069",
+    "name": "Twilight Hunter, Saint Reena",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Twilight Hunter, Saint Reena",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-069.jpg"
+      },
+      "back": {
+        "name": "Saint Reena, Reckless Dragonslayer",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-069J.jpg"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-070": {
+    "id": "AVL-070",
+    "name": "Velmardian Squire",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Velmardian Squire",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-070.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
+  "AVL-071": {
+    "id": "AVL-071",
+    "name": "Ylfi Liaskr, the Golden Claw",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Ylfi Liaskr, the Golden Claw",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-071.jpg",
+        "ATK": "400",
+        "DEF": "400"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "400",
+    "DEF": "400"
+  },
+  "AVL-072": {
+    "id": "AVL-072",
+    "name": "Zeru, Dragonslayer Commander",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Zeru, Dragonslayer Commander",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-072.jpg",
+        "ATK": "700",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "G"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "G"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "700",
+    "DEF": "700"
+  },
+  "AVL-073": {
+    "id": "AVL-073",
+    "name": "Devil's Advocate",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Devil's Advocate",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-073.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Paradoxical - Chant",
+    "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-074": {
+    "id": "AVL-074",
+    "name": "Elite Swordsmna of Sylthmir",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Elite Swordsmna of Sylthmir",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-074.jpg",
+        "ATK": "300",
+        "DEF": "300"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "300",
+    "DEF": "300"
+  },
+  "AVL-076": {
+    "id": "AVL-076",
+    "name": "Flaretail Hellfire Hatchling",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Flaretail Hellfire Hatchling",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-076.jpg",
+        "ATK": "500",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "500"
+  },
+  "AVL-077": {
+    "id": "AVL-077",
+    "name": "Kaim, Demon of Vice",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Kaim, Demon of Vice",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-077.jpg",
+        "ATK": "700",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "700",
+    "DEF": "700"
+  },
+  "AVL-080": {
+    "id": "AVL-080",
+    "name": "Nidhogg, Flaretail Deathbringer",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Nidhogg, Flaretail Deathbringer",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-080.jpg",
+        "ATK": "1400",
+        "DEF": "1400"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "1400",
+    "DEF": "1400"
+  },
+  "AVL-081": {
+    "id": "AVL-081",
+    "name": "Omen of the Deathbringer",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Omen of the Deathbringer",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-081.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Addition - Rune",
+    "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-087": {
+    "id": "AVL-087",
+    "name": "Hydromonica-Bound Assassin",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Hydromonica-Bound Assassin",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-087.jpg",
+        "ATK": "800",
+        "DEF": "900"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "800",
+    "DEF": "900"
+  },
+  "AVL-088": {
+    "id": "AVL-088",
+    "name": "Noihs' Hymn",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Noihs' Hymn",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-088.jpg"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Chant - Regalia",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-089": {
+    "id": "AVL-089",
+    "name": "Ophthalzar, Reclaimed Malevolent Eye",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Ophthalzar, Reclaimed Malevolent Eye",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-089.jpg",
+        "ATK": "700",
+        "DEF": "800"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "700",
+    "DEF": "800"
+  },
+  "AVL-090": {
+    "id": "AVL-090",
+    "name": "Oppressive Instrument, Hydromonica",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Oppressive Instrument, Hydromonica",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-090.jpg"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-091": {
+    "id": "AVL-091",
+    "name": "Sylthmir's Mastermind, Noihs",
+    "type": "Ruler",
+    "face": {
+      "front": {
+        "name": "Sylthmir's Mastermind, Noihs",
+        "type": "Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-091.jpg"
+      },
+      "back": {
+        "name": "Noihs, Oppressing Demonic Songstress",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-091J.jpg"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Ruler",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "MP03-001": {
     "id": "MP03-001",
     "name": "Hermes, Messenger of the Gods",
