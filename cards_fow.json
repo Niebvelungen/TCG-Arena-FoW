@@ -178640,6 +178640,82 @@
     "isHorizontal": false,
     "cost": 0
   },
+  "AVL-038": {
+    "id": "AVL-038",
+    "name": "Rukh's Nest",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Rukh's Nest",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-038.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Addition",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-039": {
+    "id": "AVL-039",
+    "name": "Sacred Flame of Truth",
+    "type": "Chant",
+    "face": {
+      "front": {
+        "name": "Sacred Flame of Truth",
+        "type": "Chant",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-039.jpg"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Chant - Rune",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-040": {
+    "id": "AVL-040",
+    "name": "Shinka, Rukh Flamewatcher",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Shinka, Rukh Flamewatcher",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-040.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
   "AVL-042": {
     "id": "AVL-042",
     "name": "Yuichi, Aviary Enthusiast",
@@ -179480,11 +179556,11 @@
   },
   "AVL-074": {
     "id": "AVL-074",
-    "name": "Elite Swordsmna of Sylthmir",
+    "name": "Elite Swordsman of Sylthmir",
     "type": "Resonator",
     "face": {
       "front": {
-        "name": "Elite Swordsmna of Sylthmir",
+        "name": "Elite Swordsman of Sylthmir",
         "type": "Resonator",
         "cost": 0,
         "isHorizontal": false,
@@ -179505,6 +179581,30 @@
     "cost": 0,
     "ATK": "300",
     "DEF": "300"
+  },
+  "AVL-075": {
+    "id": "AVL-075",
+    "name": "Engraved Rune of Spreading Disease",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Engraved Rune of Spreading Disease",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-075.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Addition - Rune",
+    "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
   },
   "AVL-076": {
     "id": "AVL-076",
@@ -179562,6 +179662,30 @@
     "ATK": "700",
     "DEF": "700"
   },
+  "AVL-079": {
+    "id": "AVL-079",
+    "name": "Morgana's Doll",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Morgana's Doll",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-079.jpg"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
   "AVL-080": {
     "id": "AVL-080",
     "name": "Nidhogg, Flaretail Deathbringer",
@@ -179608,6 +179732,151 @@
     ],
     "Card type": "Addition - Rune",
     "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-082": {
+    "id": "AVL-082",
+    "name": "Meeting of Larinca and Orpheus",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Meeting of Larinca and Orpheus",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-082.jpg"
+      }
+    },
+    "Colors": [
+      "W",
+      "R"
+    ],
+    "Card type": "Addition",
+    "Color identity": [
+      "W",
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-083": {
+    "id": "AVL-083",
+    "name": "Ecila, Gloomplush Collector",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Ecila, Gloomplush Collector",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-083.jpg",
+        "ATK": "500",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "500"
+  },
+  "AVL-084": {
+    "id": "AVL-084",
+    "name": "Nob, Vexing Saboteur",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Nob, Vexing Saboteur",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-084.jpg",
+        "ATK": "500",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "W",
+      "B"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W",
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "500"
+  },
+  "AVL-085": {
+    "id": "AVL-085",
+    "name": "All-Seeing One Professor, P'Zain",
+    "type": "Warden",
+    "face": {
+      "front": {
+        "name": "All-Seeing One Professor, P'Zain",
+        "type": "Warden",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-085.jpg"
+      },
+      "back": {
+        "name": "P'Zain, Bearer of the Mind Key",
+        "type": "J-Ruler",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-085J.jpg"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Warden",
+    "Color identity": [
+      "U",
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-086": {
+    "id": "AVL-086",
+    "name": "Altar of the Discordant Song",
+    "type": "Addition",
+    "face": {
+      "front": {
+        "name": "Altar of the Discordant Song",
+        "type": "Addition",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-086.jpg"
+      }
+    },
+    "Colors": [
+      "U",
+      "B"
+    ],
+    "Card type": "Addition - Rune",
+    "Color identity": [
+      "U",
       "B"
     ],
     "set": "avl",
@@ -179754,6 +180023,226 @@
     "Color identity": [
       "U",
       "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-092": {
+    "id": "AVL-092",
+    "name": "Crystal Heart Amulet",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Crystal Heart Amulet",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-092.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "V"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-093": {
+    "id": "AVL-093",
+    "name": "Deployable Defense Device",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Deployable Defense Device",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-093.jpg",
+        "ATK": "800",
+        "DEF": "800"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "V"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "800",
+    "DEF": "800"
+  },
+  "AVL-094": {
+    "id": "AVL-094",
+    "name": "Middle Plateau Sundial",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "Middle Plateau Sundial",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-094.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "V"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-095": {
+    "id": "AVL-095",
+    "name": "Pact of Saints of the Middle Plateau",
+    "type": "Extension_Rule",
+    "face": {
+      "front": {
+        "name": "Pact of Saints of the Middle Plateau",
+        "type": "Extension_Rule",
+        "cost": 0,
+        "isHorizontal": true,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-095.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Extension Rule",
+    "Color identity": [
+      "V"
+    ],
+    "set": "avl",
+    "isHorizontal": true,
+    "cost": 0
+  },
+  "AVL-096": {
+    "id": "AVL-096",
+    "name": "Velmardian Training: Archangel's Pact",
+    "type": "Extension_Rule",
+    "face": {
+      "front": {
+        "name": "Velmardian Training: Archangel's Pact",
+        "type": "Extension_Rule",
+        "cost": 0,
+        "isHorizontal": true,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-096.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Extension Rule",
+    "Color identity": [
+      "V"
+    ],
+    "set": "avl",
+    "isHorizontal": true,
+    "cost": 0
+  },
+  "AVL-097": {
+    "id": "AVL-097",
+    "name": "Velmardian Training: Knight's Pact",
+    "type": "Extension_Rule",
+    "face": {
+      "front": {
+        "name": "Velmardian Training: Knight's Pact",
+        "type": "Extension_Rule",
+        "cost": 0,
+        "isHorizontal": true,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-097.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Extension Rule",
+    "Color identity": [
+      "V"
+    ],
+    "set": "avl",
+    "isHorizontal": true,
+    "cost": 0
+  },
+  "AVL-098": {
+    "id": "AVL-098",
+    "name": "Velmardian Training: Swordsman's Pact",
+    "type": "Extension_Rule",
+    "face": {
+      "front": {
+        "name": "Velmardian Training: Swordsman's Pact",
+        "type": "Extension_Rule",
+        "cost": 0,
+        "isHorizontal": true,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-098.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Extension Rule",
+    "Color identity": [
+      "V"
+    ],
+    "set": "avl",
+    "isHorizontal": true,
+    "cost": 0
+  },
+  "AVL-099": {
+    "id": "AVL-099",
+    "name": "Tower, Jadesteel Tree",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Tower, Jadesteel Tree",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-099.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL-100": {
+    "id": "AVL-100",
+    "name": "Smugglers' Forsaken Passage",
+    "type": "Magic_Stones",
+    "face": {
+      "front": {
+        "name": "Smugglers' Forsaken Passage",
+        "type": "Magic_Stones",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-100.jpg"
+      }
+    },
+    "Colors": [
+      "V"
+    ],
+    "Card type": "Special Magic Stone",
+    "Color identity": [
+      "V"
     ],
     "set": "avl",
     "isHorizontal": false,

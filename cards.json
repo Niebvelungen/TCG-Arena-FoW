@@ -199215,7 +199215,7 @@
                             {
                                 "abilities": [
                                     "Magic Stones with the \"Special\" general type enter the field rested.",
-                                    "[Reunited] \"Saint Heiko\"\n- Bird resonators you control gain [Blood Trail].",
+                                    "[Reunited] \"Saint Heiko\"\n- Bird resonators you control gain [Blood Trail] in all zones.",
                                     "Whenever a resonator enters the field >>> This card deals X00 damage to each other player, where X is the number of resonators that entered the field this turn."
                                 ],
                                 "artist": "mita kura",
@@ -199601,7 +199601,7 @@
                                 "abilities": [
                                     "You maximum hand size is increased by three.",
                                     "[Reunited] \"Saint Eisha\"\n- If you would perform Foresee X, draw X cards instead.",
-                                    "[Demise] (When this card is put into a graveyard from the field.) >>> Put a card from a graveyard into the field under its owner's control.",
+                                    "[Demise] (When this card is put into a graveyard from the field.) >>> Put this card from a graveyard into the field under its owner's control.",
                                     "{Rest} or {U}{U}: Foresee 1."
                                 ],
                                 "artist": "Matsurika Yoko",
@@ -200109,7 +200109,7 @@
                                 "abilities": [
                                     "Resonators you control gain and cannot lose [Eternal] as long as you control four Treasury Item entities.",
                                     "[Reunited] \"Saint Reena\"\n- {V}: Resonators you control gain [+200/0] until end of turn.",
-                                    "[Enter] >>> If you control a wind J/ruler, search your magic stone deck for a card with the wind magic stone type and put it into the field, then shuffle your magic stone deck. Otherwise, gain a wind will coin token."
+                                    "[Enter] >>> If you control a wind J/ruler, search your magic stone deck for a card with the wind magic stone type and put it into the field rested, then shuffle your magic stone deck. Otherwise, gain a wind will coin token."
                                 ],
                                 "artist": "M ganzy",
                                 "ATK": "",
@@ -200463,7 +200463,7 @@
                                     "Chant"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -200485,7 +200485,7 @@
                                 "flavour": "\"No prude escapes from him!\" -Nidhogg",
                                 "fowID": "",
                                 "id": "AVL-074",
-                                "name": "Elite Swordsmna of Sylthmir",
+                                "name": "Elite Swordsman of Sylthmir",
                                 "race": [
                                     "Demon",
                                     "Knight",
@@ -200496,7 +200496,35 @@
                                     "Resonator"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You may play this card from your graveyard.",
+                                    "[Enter] >>> Choose an attribute. Non-darkness resonators you don't control with the chosen attribute gain [-900/-900] and \"[Demise] >>> Your opponent puts a [100/100] darkness Cryptid, Insect resonator token with [Flying] and [Bane] into the field.\" as long as this card is in the field."
+                                ],
+                                "artist": "Matsumoto Atsuya",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}{B}{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"It's the mark of Beelzebub! It's corrupting the fields! Sound the alarm and burn the crops, there's demons inside the walls! But... we are in the middle plateau! I know!\" -Lionel and Larinca",
+                                "fowID": "",
+                                "id": "AVL-075",
+                                "name": "Engraved Rune of Spreading Disease",
+                                "race": [
+                                    "Glyph"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition",
+                                    "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -200554,7 +200582,7 @@
                                     "Resonator"
                                 ],
                                 "willpower": "",
-                                "wind_new": true
+                                "wind_new": false
                             },
                             {
                                 "abilities": [
@@ -200585,6 +200613,32 @@
                                 "type": [
                                     "Paradoxical",
                                     "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Anathema] (This card has the following text in all zones as long as you control cards in your graveyard with four different card types.)\n- <Possession> {0}: Search your deck, graveyard, or hand for a Doll card or a card with \"Morgana\" in its name, and put it into your ruler area or into the field, then shuffle this card into your deck. Play only one <Possession> ability per turn."
+                                ],
+                                "artist": "ComamitsuZaki",
+                                "ATK": "",
+                                "colour": [
+                                    "B"
+                                ],
+                                "cost": "{B}{B}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Professor? Hello?\" \"Do you think she can hear us?\" \"I think she is much more than we know.\" \"That cannot be good.\" -Larinca, Nero, and Siphone",
+                                "fowID": "",
+                                "id": "AVL-079",
+                                "name": "Morgana's Doll",
+                                "race": [
+                                    "Doll"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
                                 ],
                                 "willpower": "",
                                 "wind_new": false
@@ -200646,6 +200700,98 @@
                                 "type": [
                                     "Addition",
                                     "Rune"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You pay {W}{R} less to play this card for each J/ruler you control with \"Larinca\" or \"Orpheus\" in its name.",
+                                    "[Enter] or at the beginning of your main phase >>> Choose one;",
+                                    "Put a fruit counter on a J/ruler. Target light of fire J/resonator you control gains [Defiant] (1) until end of turn.\n- Target light or fire J/resonator you control deals damage equal to its ATK to target J/resonator."
+                                ],
+                                "artist": "hatarisu",
+                                "ATK": "",
+                                "colour": [
+                                    "W",
+                                    "R"
+                                ],
+                                "cost": "{W}{W}{R}{R}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"No Velmardian should see through my spell!\" \"I am not from here.\" \"Then, you are not a good person.\" \"Well... but... no, I am not.\" \"Fine. No good person defines themselves as such.\" -Orpheus and Larinca",
+                                "fowID": "",
+                                "id": "AVL-082",
+                                "name": "Meeting of Larinca and Orpheus",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Addition"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Quickcast]",
+                                    "[Rise]",
+                                    "Resonators you control gain \"[Demise] >>> Put this card from a graveyard into its owner's hand unless a player pays 400 life.\".",
+                                    "{Rest} or {W} or {B}: Draw a card, then discard a card or banish this card. Put a detention or merit counter on target J/ruler.",
+                                    "{W}{B}, remove X detention and/or merit counters from a J/ruler you control, banish this card: Remove all non-Student resonators with total cost X from the game. This ability cannot be canceled."
+                                ],
+                                "artist": "311taro",
+                                "ATK": "500",
+                                "colour": [
+                                    "W",
+                                    "B"
+                                ],
+                                "cost": "{W}{B}{1}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "\"She was always in a corner of the class, admiring her sinister collection of stuffed rabbits. What a creep.\" -Siphone",
+                                "fowID": "",
+                                "id": "AVL-083",
+                                "name": "Ecila, Gloomplush Collector",
+                                "race": [
+                                    "Human",
+                                    "Student",
+                                    "Warlock"
+                                ],
+                                "rarity": "SR",
+                                "type": [
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "[Rise] (Whenever this card attacks >>> Foresee 1. Reveal the top card of your deck. If it is a light card, a darkness card, or if it has [Rise], put two [+100/+100] counters on this card.)",
+                                    "[Barrier]",
+                                    "If a spell or ability would make another player pay or lose life, they pay or lose that much life plus an additional 100 life instead.",
+                                    "[Enter] >>> You may remove a detention or merit counter from a J/ruler you control. If you do, destroy target addition or resonator."
+                                ],
+                                "artist": "MARUYAMA RUI",
+                                "ATK": "500",
+                                "colour": [
+                                    "W",
+                                    "B"
+                                ],
+                                "cost": "{W}{B}",
+                                "DEF": "500",
+                                "divinity": "",
+                                "flavour": "\"Why are they here?\" \"Were captured bringing me back.\" \"Even a teacher? That sounds like a setup.\" -Siphone and Iris",
+                                "fowID": "",
+                                "id": "AVL-084",
+                                "name": "Nob, Vexing Saboteur",
+                                "race": [
+                                    "Human",
+                                    "Student"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Resonator"
                                 ],
                                 "willpower": "",
                                 "wind_new": false
@@ -200927,6 +201073,90 @@
                             },
                             {
                                 "abilities": [
+                                    "[Aegis]",
+                                    "If a fire source would deal damage, prevent 600 of it.",
+                                    "This card cannot lose its abilities.",
+                                    "{Rest}, banish a regalia: Resonators you don't control lose all [Rune] abilities until end of turn. Shuffle all magic stone cards from your graveyard into your magic stone deck, then shuffle your graveyard into your deck. You may pay {1}. If you do, draw a card."
+                                ],
+                                "artist": "BANAMONS*",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "{0}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"It's the heart of a slime from Eternal Infestation! How?\" \"We trapped it in its own heart.\" \"Eww.\" \"Thanks. Don't break it.\" -Nero and Saint Eisha",
+                                "fowID": "",
+                                "id": "AVL-092",
+                                "name": "Crystal Heart Amulet",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "You pay {1} less to play this card for each spell with actual cost 1 or more you played this turn. You cannot pay less than {1} this way.",
+                                    "This card gains [+500/+500] for each other resonator named \"Deployable Defense Device\".",
+                                    "[Demise] >>> Destroy target resonator you control that shares a name with this card unless you pay {2}."
+                                ],
+                                "artist": "Kusanagi Tyouen",
+                                "ATK": "800",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "{5}",
+                                "DEF": "800",
+                                "divinity": "",
+                                "flavour": "\"The wall defends the borders of Velmardia, in a literal sense.\" -Lionel",
+                                "fowID": "",
+                                "id": "AVL-093",
+                                "name": "Deployable Defense Device",
+                                "race": [
+                                    "Machine",
+                                    "Wall"
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Paradoxical",
+                                    "Resonator"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "At end of turn >>> Put a sun counter on this card. You gain X00 life, where X is the number of sun counters on this card. If X is 6 or 12, draw three cards.",
+                                    "At the end of your turn >>> Remove target rested resonator from the game, then put it into the field under its owner's control."
+                                ],
+                                "artist": "haniwa",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "{1}",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"We were good people when we departed from Velmardia.\" \"We are different now, sis.\" \"I don't know how you were before, but I'm glad to meet both of you.\" \"I... me...\" \"Oh! My sister, speechless?\" -Siphone, Iris and Nero",
+                                "fowID": "",
+                                "id": "AVL-094",
+                                "name": "Middle Plateau Sundial",
+                                "race": [
+                                ],
+                                "rarity": "N",
+                                "type": [
+                                    "Regalia"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
                                     "[Extension Rule]",
                                     "You can start the game with this card in your extension rule area if your starting ruler was released in Attack on Velmardia (AVL), and has \"Eisha\", \"Heiko\", \"Iris\", or \"Reena\" in its name.",
                                     "Mono-attribute Saint rulers you own released in Attack on Velmardia (AVL) or in The Quest of the Seven Keys (QSK) have \"[Tag] (Saint)\" and [Divinity] (3) in all zones.",
@@ -201018,7 +201248,7 @@
                                     "[Extension Rule]",
                                     "You can start the game with this card in your extension rule area if your starting ruler has \"Iris\", \"Eisha\", \"Reena\", or \"Nero\" in its name, you have seven cards with \"Sol\" in their name in your deck, at least three among them having the warden type, and you don't have cards with attributes other than light, water, or wind in your deck or rune deck.",
                                     "J/rulers you control have [Divinity] (9).",
-                                    "You pay {1} less to plat the judgment process of rulers or wardens you control.",
+                                    "You pay {1} less to play the judgment process of rulers or wardens you control.",
                                     "Whenever you play a spell from your deck, graveyard, or removed area >>> Put a non-chant card with total cost equal than or less than the total cost of that spell from your hand into the field."
                                 ],
                                 "artist": "Hugos",
@@ -201038,6 +201268,63 @@
                                 "rarity": "XR",
                                 "type": [
                                     "Extension Rule"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "If you already control two or more magic stones that share a name with this card, this card enters the field rested.",
+                                    "This card has the wind magic stone type.",
+                                    "Magic stones gain the wind magic stone type.",
+                                    "Magic stones you control gain \"{Rest}: Produce {G}, {M}, or {V}.\"."
+                                ],
+                                "artist": "mita kura",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"Its jadesteel trunk and roots have grown around the tower, and the city has grown around it, making this place unique and sacred.\" -Saint Reena",
+                                "fowID": "",
+                                "id": "AVL-099",
+                                "name": "Tower, Jadesteel Tree",
+                                "race": [
+                                    "Treasury Item"
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Special Magic Stone"
+                                ],
+                                "willpower": "",
+                                "wind_new": false
+                            },
+                            {
+                                "abilities": [
+                                    "If you don't control two magic stones with the water or darkness magic stone type, this card enters the field rested unless you pay 300 life.",
+                                    "This card has the darkness magic stone type.",
+                                    "{U} or {B}: This card becomes a [600/800] dual-attribute water/darkness Human resonator with [Rise], [Terrifying], and \"Whenever this card attacks or blocks >>> Draw a card.\" until end of turn. It is still a magic stone.",
+                                    "{Rest}, pay 100 life: Produce {U} or {B}."
+                                ],
+                                "artist": "mita kura",
+                                "ATK": "",
+                                "colour": [
+                                    "V"
+                                ],
+                                "cost": "",
+                                "DEF": "",
+                                "divinity": "",
+                                "flavour": "\"There are places in Velmardia that even I didn't know existed.\" -Siphone",
+                                "fowID": "",
+                                "id": "AVL-100",
+                                "name": "Smugglers' Forsaken Passage",
+                                "race": [
+                                ],
+                                "rarity": "R",
+                                "type": [
+                                    "Special Magic Stone"
                                 ],
                                 "willpower": "",
                                 "wind_new": false
