@@ -178225,6 +178225,34 @@
     "ATK": "700",
     "DEF": "700"
   },
+  "AVL-020": {
+    "id": "AVL-020",
+    "name": "Sacred Knight of the North",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Sacred Knight of the North",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-020.jpg",
+        "ATK": "900",
+        "DEF": "900"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "900",
+    "DEF": "900"
+  },
   "AVL-021": {
     "id": "AVL-021",
     "name": "Sacred Knight of the South",
@@ -178252,6 +178280,34 @@
     "cost": 0,
     "ATK": "600",
     "DEF": "600"
+  },
+  "AVL-022": {
+    "id": "AVL-022",
+    "name": "Sacred Knight of the West",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Sacred Knight of the West",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-022.jpg",
+        "ATK": "500",
+        "DEF": "500"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "500"
   },
   "AVL-023": {
     "id": "AVL-023",
@@ -178699,6 +178755,34 @@
         "cost": 0,
         "isHorizontal": false,
         "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-040.jpg",
+        "ATK": "600",
+        "DEF": "600"
+      }
+    },
+    "Colors": [
+      "R"
+    ],
+    "Card type": "Resonator",
+    "Color identity": [
+      "R"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "600",
+    "DEF": "600"
+  },
+  "AVL-041": {
+    "id": "AVL-041",
+    "name": "Siphone, Velmardia's Prodigy Spy",
+    "type": "Resonator",
+    "face": {
+      "front": {
+        "name": "Siphone, Velmardia's Prodigy Spy",
+        "type": "Resonator",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-041.jpg",
         "ATK": "600",
         "DEF": "600"
       }
@@ -179661,6 +179745,34 @@
     "cost": 0,
     "ATK": "700",
     "DEF": "700"
+  },
+  "AVL-078": {
+    "id": "AVL-078",
+    "name": "Mephistopheles, the Abyssal Tyrant",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Mephistopheles, the Abyssal Tyrant",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL-078.jpg",
+        "ATK": "800",
+        "DEF": "900"
+      }
+    },
+    "Colors": [
+      "B"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "B"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "800",
+    "DEF": "900"
   },
   "AVL-079": {
     "id": "AVL-079",
