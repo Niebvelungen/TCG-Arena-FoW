@@ -387,5 +387,3 @@ ABC-BG-065
 ABC-BG-066
 ABC-BG-067
 ABC-BG-068
-AVL Buy a Box
-AVL Prerelease Party

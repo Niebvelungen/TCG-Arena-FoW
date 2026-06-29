@@ -180360,6 +180360,58 @@
     "isHorizontal": false,
     "cost": 0
   },
+  "AVL Buy a Box": {
+    "id": "AVL Buy a Box",
+    "name": "The Mind Key",
+    "type": "Regalia",
+    "face": {
+      "front": {
+        "name": "The Mind Key",
+        "type": "Regalia",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL Buy a Box.jpg"
+      }
+    },
+    "Colors": [
+      "U"
+    ],
+    "Card type": "Regalia",
+    "Color identity": [
+      "U"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0
+  },
+  "AVL Prerelease Party": {
+    "id": "AVL Prerelease Party",
+    "name": "Guardian Angel, Raphael",
+    "type": "Paradoxical",
+    "face": {
+      "front": {
+        "name": "Guardian Angel, Raphael",
+        "type": "Paradoxical",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://fowsim.s3.amazonaws.com/media/cards/AVL Prerelease Party.jpg",
+        "ATK": "500",
+        "DEF": "700"
+      }
+    },
+    "Colors": [
+      "W"
+    ],
+    "Card type": "Paradoxical - Resonator",
+    "Color identity": [
+      "W"
+    ],
+    "set": "avl",
+    "isHorizontal": false,
+    "cost": 0,
+    "ATK": "500",
+    "DEF": "700"
+  },
   "MP03-001": {
     "id": "MP03-001",
     "name": "Hermes, Messenger of the Gods",
