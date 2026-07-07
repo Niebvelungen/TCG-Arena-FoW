@@ -46,9 +46,20 @@
   "gameplay": {
     "Wanderer": {
       "mulligan": {
-        "info": "Draw 5 cards then put any of those cards on bottom. Once satisfied, shuffle and draw back up to 5 (click those cards).",
         "startingHandSize": 5,
-        "putSelectionAtBottom": true
+        "mulliganCycle": {
+          "info": "Draw 5 cards then put any of those cards on bottom. Once satisfied up to 5 (click those cards).",
+          "steps":[
+            "toBottom",
+            "shuffle",
+            "draw"
+          ],
+          "selectionRange": {
+              "min": 0,
+              "max": 0
+          },
+          "keepCardOrder": false
+        }
       },
       "newTurn": {
         "drawOnStart": false,
