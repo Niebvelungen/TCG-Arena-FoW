@@ -48,7 +48,7 @@
       "mulligan": {
         "startingHandSize": 5,
         "mulliganCycle": {
-          "info": "Draw 5 cards then put any of those cards on bottom. Once satisfied up to 5 (click those cards).",
+          "info": "Draw 5 cards then mulligan any of those cards away. (Click those cards and press Mulligan)",
           "steps":[
             "toBottom",
             "shuffle",
