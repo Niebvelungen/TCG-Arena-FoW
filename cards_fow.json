@@ -3482,6 +3482,120 @@
     "cost": 0,
     "isToken": true
   },
+  "Fire-Brid-100-100": {
+    "id": "Fire-Brid-100-100",
+    "name": "Fire Brid 100 100",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Fire Brid 100 100",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Fire_Brid_100_100.png"
+      }
+    },
+    "Card type": "Token",
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  },
+  "Fire-Knight-200-200": {
+    "id": "Fire-Knight-200-200",
+    "name": "Fire Knight 200 200",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Fire Knight 200 200",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Fire_Knight_200_200.png"
+      }
+    },
+    "Card type": "Token",
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  },
+  "Light-Priest-100-400-Cannot-Attack": {
+    "id": "Light-Priest-100-400-Cannot-Attack",
+    "name": "Light Priest 100 400 Cannot Attack",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Light Priest 100 400 Cannot Attack",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Light_Priest_100_400_Cannot_Attack.png"
+      }
+    },
+    "Card type": "Token",
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  },
+  "Light-Priest-Spirit-400-400": {
+    "id": "Light-Priest-Spirit-400-400",
+    "name": "Light Priest Spirit 400 400",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Light Priest Spirit 400 400",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Light_Priest_Spirit_400_400.png"
+      }
+    },
+    "Card type": "Token",
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  },
+  "Water-Knight-200-200": {
+    "id": "Water-Knight-200-200",
+    "name": "Water Knight 200 200",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Water Knight 200 200",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Water_Knight_200_200.png"
+      }
+    },
+    "Card type": "Token",
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  },
+  "Wind-Knight-200-200": {
+    "id": "Wind-Knight-200-200",
+    "name": "Wind Knight 200 200",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Wind Knight 200 200",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Wind_Knight_200_200.png"
+      }
+    },
+    "Card type": "Token",
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  },
   "CMF-001": {
     "id": "CMF-001",
     "name": "Aesop, the Prince's Tutor",
