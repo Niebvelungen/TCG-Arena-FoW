@@ -917,17 +917,17 @@
     "cost": 0,
     "isToken": true
   },
-  "Fire-Birs-Gears-500-500": {
-    "id": "Fire-Birs-Gears-500-500",
-    "name": "Fire Birs Gears 500 500",
+  "Fire-Bird-Gears-500-300": {
+    "id": "Fire-Bird-Gears-500-300",
+    "name": "Fire Bird Gears 500 300",
     "type": "Token",
     "face": {
       "front": {
-        "name": "Fire Birs Gears 500 500",
+        "name": "Fire Bird Gears 500 300",
         "type": "Token",
         "cost": 0,
         "isHorizontal": false,
-        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Fire_Birs_Gears_500_500.png"
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Fire_Bird_Gears_500_300.png"
       }
     },
     "Card type": "Token",
@@ -1354,6 +1354,25 @@
     "cost": 0,
     "isToken": true
   },
+  "Fire-Sand-Moon": {
+    "id": "Fire-Sand-Moon",
+    "name": "Fire Sand Moon",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Fire Sand Moon",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Fire_Sand_Moon.png"
+      }
+    },
+    "Card type": "Token",
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  },
   "Fire-Sand-Scorpion-400-100": {
     "id": "Fire-Sand-Scorpion-400-100",
     "name": "Fire Sand Scorpion 400 100",
@@ -1631,6 +1650,25 @@
         "cost": 0,
         "isHorizontal": false,
         "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Light_Angel_700_700.png"
+      }
+    },
+    "Card type": "Token",
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  },
+  "Light-Bug-600-600-Flying-Drain": {
+    "id": "Light-Bug-600-600-Flying-Drain",
+    "name": "Light Bug 600 600 Flying Drain",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Light Bug 600 600 Flying Drain",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Light_Bug_600_600_Flying_Drain.png"
       }
     },
     "Card type": "Token",
@@ -3444,6 +3482,25 @@
     "cost": 0,
     "isToken": true
   },
+  "Wind-Weapon-Regalia": {
+    "id": "Wind-Weapon-Regalia",
+    "name": "Wind Weapon Regalia",
+    "type": "Token",
+    "face": {
+      "front": {
+        "name": "Wind Weapon Regalia",
+        "type": "Token",
+        "cost": 0,
+        "isHorizontal": false,
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Wind_Weapon_Regalia.png"
+      }
+    },
+    "Card type": "Token",
+    "set": "token",
+    "isHorizontal": false,
+    "cost": 0,
+    "isToken": true
+  },
   "Wind-Woodfolk-200-200": {
     "id": "Wind-Woodfolk-200-200",
     "name": "Wind Woodfolk 200 200",
@@ -3482,17 +3539,17 @@
     "cost": 0,
     "isToken": true
   },
-  "Fire-Brid-100-100": {
-    "id": "Fire-Brid-100-100",
-    "name": "Fire Brid 100 100",
+  "Fire-Bird-100-100": {
+    "id": "Fire-Bird-100-100",
+    "name": "Fire Bird 100 100",
     "type": "Token",
     "face": {
       "front": {
-        "name": "Fire Brid 100 100",
+        "name": "Fire Bird 100 100",
         "type": "Token",
         "cost": 0,
         "isHorizontal": false,
-        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Fire_Brid_100_100.png"
+        "image": "https://niebvelungen.github.io/TCG-Arena-FoW/Images/Tokens/Fire_Bird_100_100.png"
       }
     },
     "Card type": "Token",
